@@ -1,0 +1,670 @@
+A Special Topic Class in Chemistry on Feminism and Science as a
+Tool to Disrupt the Dysconcious Racism in STEM
+Michelle Anne C. Reyes,* Jonathan Hall, Yasmene H. Odeh, Aied Garcia, Amy Benton, Anna Moffett,
+Dennis McCunney, Diya Bose, and Sambuddha Banerjee*
+Cite This: J. Chem. Educ. 2023, 100, 112−117
+Read Online
+ACCESS
+Metrics & More
+Article Recommendations
+*
+sı
+Supporting Information
+ABSTRACT: This article presents an argument on the importance of teaching
+science with a feminist framework and defines it by acknowledging that all
+knowledge is historically situated and is influenced by social power and politics.
+This article presents a pedagogical model for implementing a special topic class
+on science and feminism for chemistry students at East Carolina University, a
+rural serving university in North Carolina. We provide the context of developing
+this class, a curricular model that is presently used (including reading lists,
+assignments, and student learning outcomes), and qualitative data analysis from
+online student surveys. The student survey data analysis shows curiosity about
+the applicability of feminism in science and the development of critical race and
+gender consciousness and their interaction with science. We present this work as
+an example of a transformative pedagogical model to dismantle White
+supremacy in Chemistry.
+KEYWORDS: STEM Curriculum, Feminist Science and Technology Studies, Dysconcious Racism, DEI in STEM
+■ INTRODUCTION
+We begin this article with a quote from the student opinion on
+instruction (SOIS) received by one of the coauthors (SB) from
+their biochemistry lecture class:
+“I also feel that in such a scientific class that has nothing to do
+with gender or the LGBTQ community, the Professor’s personal
+beliefs should have been kept to himself or discussed outside of class
+rather than in front of everyone in the middle of class. A student
+answered a question about a disease that affects more XY (males)
+than XX (females) by stating “male” and “female” in her answer.
+This is a concept that is WIDELY taught in the BIOLOGY classes
+at THIS SCHOOL. The student should not have been called out
+in class and asked to change their answer because the un-offensive
+words of “male” and “female” were triggering for the professor.
+Especially since there are lots of people out there who genuinely
+believe there are only two genders. Such a belief should not be
+triggering nor offensive and definitely should not be debated in a
+scientific class that has nothing to do with comments about gender
+made by the professor.” Taken from the survey of student
+opinion on instruction for SB’s biochemistry class.
+This response that masks scientific ignorance (such as the
+insistence on the strict sex/gender binary) with appeals to
+scientific purity typifies the kind of criticism and hostility
+instructors face when they try to use inclusive language in
+STEM classes. When scientifically established facts, such as the
+nonbinary nature of both sex and gender1−5 are seen by
+students of science as a belief, one might ask: Are we being true
+to scientific knowledge? We use this student comment as a
+reflection of the subjectivity of how the pedagogical decisions
+are made in teaching “true science” vs what existing scientific
+knowledge tells us. This has resulted in the propagation of
+scientific miseducation for generations.
+Addressing the miseducation of teachers, two decades ago,
+Joyce E. King wrote: “Critical, transformative teachers must
+develop a pedagogy of social action and advocacy that really
+celebrates diversity, not just random holidays, isolated cultural
+artefacts, or ‘festivals and food’”.6 While explaining how
+miseducation of teachers is done, King introduced a new term,
+dysconscious racism, defined as an acceptance of dominant
+White norms and privileges arising from the uncritical habit of
+the mind leading to the maintenance of the status quo. In
+contrast to unconscious bias7 which has been quoted as
+involuntary and used in the academy often, King’s idea of
+dysconcious racism demands a critical analysis of the history of
+systemic discrimination in the institutions and coming up with
+effective interventions.6 Although such critical thinking can be
+inbuilt in the social sciences, even today, future STEM
+educators seldom get any disciplinary training on the
+relationship between history, politics, and science. The
+Received:
+April 14, 2022
+Revised:
+September 24, 2022
+Published: November 14, 2022
+Article
+pubs.acs.org/jchemeduc
+© 2022 American Chemical Society and
+Division of Chemical Education, Inc.
+112
+https://doi.org/10.1021/acs.jchemed.2c00293
+J. Chem. Educ. 2023, 100, 112−117
+Downloaded via DUKE UNIV on February 18, 2024 at 00:16:50 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+importance of inclusion and development of STEM identity for
+students from socially discriminated communities have been
+felt and discussed in Chemistry Literature;8 however, we found
+only one recent work outlining a pedagogical model/
+curriculum developed by STEM departments to disrupt
+dysconcious racism in STEM.9 The effect of this dysconcious
+racism might explain the lower retention of URM and LGBT
+students in STEM, as STEM has very often heavily invested in
+the numerical diversity aspect through hiring of staff/faculty
+and recruitment of students while not focusing on the support
+part.10,11
+In this article we describe the development, implementation,
+and student experience from a special topic course in
+chemistry, Science and Feminism, as a disruptive tool to
+challenge the status quo in Chemistry. Using Critical Race
+Theory and intersectional feminism as the framework,12,13 this
+course aimed at creating an intellectual as well as physical
+space for STEM students at East Carolina University (ECU)
+where they could explore their identities and how these
+intersect with the knowledge base and the pedagogy of science
+by looking at these from historical, political, and feminist lens.
+The other aim was to shine light, through this process, how
+scientific epistemology and culture have strong links with
+capitalism, enslavement, colonization, and exploitation of
+female-bodied folks. We provide the historical context of
+teaching this class in our institution, development of the course
+syllabus, assignments, and evaluations adopted for this course
+over the past two years as a template for future course
+development. In the Discussion and Conclusion section, we
+also provide a short description from qualitative analysis of
+online student surveys to understand what students thought
+about the importance of such a STEM course. Finally, this
+course is intended to produce an affirming space that will allow
+minoritized students to enter a chemistry class without having
+to leave their identities at the metaphorical and physical door
+of STEM classes.
+■ SOCIAL LOCATION OF THE AUTHORS AND THEIR
+RELATION TO THIS COURSE
+M.A.R. participated in the special topic chemistry class in
+Spring 2021 as a biology graduate student. She is a young adult
+Filipino cis woman who was raised in a middle-class rural town
+in North Carolina for most of her childhood by immigrant
+parents.
+D.M. consulted on the design and delivery of the course as
+well as the preparation of this manuscript. He is a middle-aged
+White cis-gendered man who was raised in a suburban
+Philadelphia family with a diverse set of adopted and foster
+siblings. He approaches this work largely trained in a Jesuit
+social ethics tradition and currently serves as a student affairs
+educator responsible for community engagement, leadership,
+and DEI experiential programming.
+S.B. designed and taught this class as a special topic in
+chemistry class in Spring 2021 and then in Spring 2022. They
+are a middle-aged Indian immigrant working in the US higher
+education. They identify as gender nonconfirming and a
+brown-immigrant-queer. They were raised in an upper caste
+and middle-class, college educated family in an urban
+environment in India and experiences and understands this
+world from these complex vantage points. These social
+locations of S.B. also influenced the texts and topics discussed
+in this course which centered around the historical relationship
+of Black and Brown and colonized people with modern STEM
+discipline.
+The instructor S.B. collaborated with a few students who
+had taken the class already (M.R.: She/her, J.H.: He/him, A.B.:
+She/her, A.G.: She/her, and A.M.: She/her). S.B. also
+consulted D.B. (She/her), D.M. (He/him), and Y.O. (She/
+her) during the development of the course with regards to the
+framework and content and then preparation of this manu-
+script.
+■ THE CONTEXT OF INTRODUCTION OF THIS
+COURSE, COURSE OBJECTIVE, AND LEARNING
+OUTCOME
+As one of the main emphases of this course was to understand
+the historical context of knowledge production and its
+relationship with power and politics, it is imperative to
+acknowledge the historical and political context in which this
+course was developed and offered. Following the murder of
+George Floyd there was nationwide galvanization of existing
+and new antiracism groups in the academy. At East Carolina
+University, several task forces were created to assess our roles
+in institutional racism and anti-Blackness as well as to re-
+evaluate academic practices. That same year, the Chemistry
+Department posted an antiracism statement on its Web site,
+which stated: “...That means we, as a department, must
+continually self-reflect and ask hard questions of ourselves. Do
+our pedagogy, assignments, exams, and grading practices help
+everyone to succeed?” (The link to the full statement is in the
+Supporting Information). Although from individual and some
+institutional levels there were efforts to have intentional
+conversations on anti-Blackness and the academy before, the
+collective efforts to make tangible institutional and pedagogical
+changes gained momentum after this murder. To meet the
+promise made in the antiracism statement cited above, this
+special topic class (Chem 5527) was created and offered to all
+undergraduate and graduate students in STEM. The course did
+not require any pre- or corequisite on feminist theorizing,
+making it accessible to STEM students who often do not get
+the opportunity to take these courses. The intention was to
+create a space where students will be introduced to various
+ideas of feminism and then read, evaluate, and make
+recommendations to make STEM more equitable as their
+final assignment. It was offered for the first time in the Spring
+of 2021, and it was cross listed as the capstone course for
+Gender Studies minor students at ECU. Table 1 provides
+information on enrollment in this course the two times it has
+been offered since the spring of 2021. This, however, required
+starting the coursework by developing a feminist framework
+and knowledge about the feminist movements across the world
+and their impact in the knowledge production in STEM (Table
+1). The course required active participation from students with
+Table 1. Enrollment in the Science and Feminism Class
+(2021−2022)
+Term
+Number
+of STEM
+students
+Number of
+gender studies
+minor students
+Number of
+graduate
+students
+Number of
+students who took
+part in the study
+Spring
+2021
+7
+7
+2
+4
+Spring
+2022
+6
+0
+0
+N/Aa
+aThe class was still in progress when this article was written.
+Journal of Chemical Education
+pubs.acs.org/jchemeduc
+Article
+https://doi.org/10.1021/acs.jchemed.2c00293
+J. Chem. Educ. 2023, 100, 112−117
+113
+on- and off-line discussions and reading scientific journal
+articles and book chapters as recommended by the instructor.
+As preparation for the developing of this course, the
+instructor asked the following questions: What institutional
+efforts have been in place to educate and make ALL STEM
+students aware of issues of gender and race? How do we
+facilitate a conversation on race, gender, and sexuality in
+STEM with overlapping identities and backgrounds of both
+educators and students? Are we teaching, as a chemistry
+pedagogical approach, what questions in STEM are considered
+worthy of investigation and what influences this worthiness?
+As an example, the American Chemical Society while
+explaining the structure and aims for standard chemistry
+curriculum as, “(t) o ensure that key skills and knowledge are
+addressed” and “(c) ourses should be taught in a challenging,
+engaging, and inclusive manner that accommodates a variety of
+learning styles”,14 it does not list any disciplinary training on
+DEI.
+As will be described, the special topic in chemistry class
+presented in this article was named Science and Feminism,
+instead of Diversity in science based on the critique of the
+performativeness of diversity work presented by Ahmed in her
+work as well as the definition of feminism given by hooks.15,16
+We must add here that although Feminist science and
+technology studies (FSTS) authors17,18 have long engaged
+with the question whether science can be done as a feminist
+practice by including a critical and transformative curriculum
+breaking away from the binary between science and society,
+chemistry degree accreditation agencies, like ACS, still do not
+recommend a chemistry class on DEI in the list of
+recommended classes.19 The lack of such a disciplinary class
+recommendation on the history and politics of science
+epistemology and DEI might wrongly perpetuate the absolute
+objectivity of science and scientists, where the latter have this
+nearly mystic ability to transcend their embodied biases and
+create disembodied and “pure” knowledge unaffected by the
+society and politics.18 This false perception of purity might
+force students from minoritized communities in STEM to
+choose between the history of their communities’ relation with
+science knowledge production and their experience in science
+class. This ahistorical and apolitical positioning of STEM
+knowledge and practice has been critiqued by FSTS scholars,18
+who argue that any knowledge is historically situated and is
+shaped by the power of politics. Omission of the history and
+politics behind scientific knowledge and culture production
+perpetuates a set of uncritical scientific practices which not
+only contributes to dysconcious racism but also maintains the
+status quo. Such uncritical and apolitical position of science
+leads to claims like Black Americans contracting Covid-19 at a
+higher rate, making it a phenotypic claim in both scientific and
+popular imagination rather than writing about how the
+historical relation of Black Americans with the American
+medical system, their access to the medical service, and the
+socioeconomic conditions has contributed to this epidemio-
+logical data.20 On the other hand, a few works tackled these
+issues by critical engaging with the history and politics of
+American medicine with Black Americans rather than making
+it sound like a phenotypic issue.21−23
+Based on these, the objective of this special topic course was
+to interrogate scientific objectivity, scientific history, scientific
+philosophy, and socializing in science using feminist lens. It is
+very important to add here that this class was not intended to
+create new feminist scholarship but rather shine the light of
+feminism on science as an enterprise. An overarching theme/
+learning objective form feminist science is to recognize that all
+knowledge is historically situated and is influenced by power and
+politics.18 This overarching objective was divided into the
+following learning objectives:
+Table 2. Texts and Unit Questions Used in Science and Feminism Class
+Unit
+Text Used
+Unit Questions
+Learning outcomes
+Unit 1: Not
+Just the Jar-
+gon
+Feminism is for everybody: b. Hooks
+A. Scientific objectivity. Is universal objectivity a
+feminist idea? Objectivity and the Four “Waves” of
+Feminism
+Students will develop a critical
+feminist consciousness. They
+will be able to differentiate
+between different feminist
+ideologies and their relevance
+to STEM
+(Chapters 1, 8, 10) Teaching to transgress. Education as the
+practice of freedom: b. Hooks
+B. Using existing feminist ideologies, devising our own
+Feminist lens to look at the STEM disciplines/
+contents/evaluations
+(Chapters 8, 11, 12) On being included Racism and diversity in
+institutional life: S. Ahmed
+C. What is diversity? What is inclusion? Going from
+the individual to the system, bias to -isms. Biased
+and unbiased in science and society
+(Chapter 2) Ghost Story for Darwin: B. Subramaniam
+(Introduction) Unit debate topic: Science done by a feminist
+and feminist practice in science are the same thing
+Unit 2: Who is
+science for?
+Who is the
+primary
+benefactor
+of science?
+Death of nature. Women, ecology, and scientific revolution: C.
+Merchant
+A. The eugenic project
+Students should be able to
+recognize how scientific
+questions are politically and
+historically motivated and
+apply this understanding to
+current scientific efforts
+(Chapter 6) Medical Apartheid: The dark history of medical
+examination on black Americans from colonial times to the
+present: H. A. Washington
+B. Perfecting C-section
+(Chapters 1, 4, 13) Unit Debate topic: Health care providers
+(Doctors, dentists, nurses, PA, PT, and administrators)
+should be required to learn the history of medical racism,
+sexism, and homo/transphobia and its legacy as part of their
+licensing process and it should be an ongoing training than a
+onetime one.
+C. Social Darwinism: Facts and myths about evolution
+D. Tuskegee airmen case
+E. Whose consent matters in science? The legacy of
+HeLa immortal cells
+F. The story of DNA structure: Rosalind Franklin
+Unit 3: Quan-
+tum futur-
+ism with an
+emphasis on
+Black Quan-
+tum futur-
+ism
+Meeting the universe halfway: K. Barad
+A. The Schrodinger’s Cat paradox: In this section we
+will investigate if science is objective or subjective
+Students should be able to
+identify the interdependence
+of scientific knowledge with
+popular culture and move-
+ments
+(Chapter 1) Unit Debate topic: “The past is never dead, it is not
+even past”
+B. Randomness and its connection to forbidden
+territory: In this section we will try to explore the
+connection between the individual and the
+collective in a biased and unbiased framework and
+then interrogate if we can do the same with our
+society to evaluate its biases.
+Journal of Chemical Education
+pubs.acs.org/jchemeduc
+Article
+https://doi.org/10.1021/acs.jchemed.2c00293
+J. Chem. Educ. 2023, 100, 112−117
+114
+• Recognize the salient characters of different social justice
+movements/feminist movements and how these influ-
+enced the STEM culture
+• Understand the definitions of keywords (like institu-
+tional racism, DEI work etc., different gender expression
+terms) and be able to analyze lived experiences from
+these learnings
+• Compare and critique different ways social structures
+have contributed to the way STEM is taught and
+practiced since the Industrial revolution
+• Plan intersectional intervention to existing methods of
+STEM teaching/research/workplace scenario
+■ BRIEF OUTLINE OF THE MATERIALS COVERED IN
+THIS COURSE
+In this section, we will briefly describe the reading assignments
+for this course which was divided into four sections. We will
+also provide an explanation to why these readings were chosen.
+We encourage readers to visit the class Web site for more
+details and some of the debate recordings published with
+student consent.
+Unit 1 readings (Table 2) focused on introducing students
+to the history of American feminism and its contribution/effect
+as felt in STEM epistemology. This unit also comprised of
+readings that critically looked at the DEI work in the Academy
+and its connection complicatedness dysconcious racism. As
+experiential learning, this unit also invited students to think
+and talk about their individual relationship with the word
+feminism, STEM culture, and their own identities. The end of
+the unit assignments was writing a reflection from all the
+readings and participation in a debate with the topic: Science
+done by a feminist and feminist practice in science are the
+same thing.
+Unit 2 included readings (Table 2) that exposed students to
+the historical context of pathologizing the pregnant womb and
+the construction of gynecology as a White male discipline
+while utilizing Black and Indigenous bodies as experimental
+subjects. We further explored the development of (Black,
+Indigenous, and Brown) races as inferior and pathological
+throughout the development of modern science. As experi-
+ential learning, students participated in discussions on their
+interaction with the medical system as immigrants, women,
+women of color, and LGBTQIA2S+ individuals. The end of
+the unit assignments was writing a reflection from all the
+readings and participation in a debate with the topic: Health
+care providers (doctors, dentists, nurses, PA, PT, and
+administrators) should be required to learn the history of
+medical racism, sexism, and homo/transphobia and their
+legacy as part of their licensing process, and it should be an
+ongoing training than a onetime one. Students were also
+suggested to watch the 2017 movie, The Immortal life of
+Henrietta Lacks.
+Unit 3 explored the development and interrelationship
+between quantum mechanics, Marxist materialism, Afro-
+futurism/pessimism, and postcolonial nationalism. To prob-
+lematize time as a linear social construct, the Copenhagen
+interpretation of the collapse of wave-particle duality was
+utilized. The end of the unit assignments was writing a
+reflection from all the readings and participation in a debate
+with the topic: past is never dead, it is not even past. The
+students also had the option of watching the 2020 movie,
+Antebellum. However, the instructor was flexible on this
+assignment as some of the African American students did not
+want to watch it and be triggered. They wrote a reflection on a
+book on race and gender that they had read.
+Unit 4 consisted of reading articles in STEM that used
+identity (racial/gender/sexuality) as empirical parameters and
+how that can further propagate the absoluteness of these
+categories rather than dismantling these constructed realities.
+The end of the unit assignments was writing a reflection from
+all the readings and participation. There was no debate for this
+unit as this was close to the semester end.
+■ ASSIGNMENTS AND ASSESSMENTS
+Being a course on how to create a nonhierarchical feminism
+learning environment in a STEM classroom, the assignments
+and evaluations for this class consisted of in-class debate,
+discussion, and writing reflection essays at the end of each
+chapter, instead of administering high-stake tests.24 The end of
+the semester final evaluation consisted of writing a
+comprehensive essay where students were asked to write
+intervention plans that can encourage a feminist learning
+environment in ECU STEM departments and the development
+of individual Spark page and/or a Podcast using Adobe
+products that are available for free to all ECU students.
+One important aspect that was kept in mind while designing
+assignments for this class was the complexity and multifaceted
+of the ideas taught. To emphasize this broadness of
+applicability of the ideas, different modes of interaction with
+the content was implemented, for example, reading book
+chapters, watching movies, critiquing STEM DEI artwork, etc.
+Two of their assignments involved watching two movies, The
+Immortal Life of Henrietta Lacks and Antebellum for units 2 and
+3, respectively, followed by class discussions on the relevance
+and learning from these artistic expressions. As the content of
+the movies are extremely triggering, students were given the
+opportunity of not witness visual depiction of racism and
+sexual violence, and in those cases, the instructor and the
+individual student sat down to discuss an alternative, less
+triggering, but related assignment. At the end of each unit
+students also participated in a debate, and the topics for debate
+were agreed upon from the class discussions. The final
+assignment was a full paper with an intervention plan that
+might be implemented in their own institution/department
+which will enable students to create a STEM identity which
+acknowledges and respects their personal identity. For 2021
+and 2022 classes, the intervention topics that students wrote
+about were as follows: the importance of all-gender bathrooms
+in STEM buildings, the importance of teaching how race,
+gender, sexuality, etc. are created and pathologized by STEM
+as a medical college course, how to increase accessibility of
+STEM as a discipline without erasing the lived experiences of
+URM students, and how the American STEM identity can
+incorporate the immigrant student/scholar experience.
+Evaluation of these assignments was challenging for the
+instructor, who has been indoctrinated in the race/gender
+neutral position of STEM assignments. The reconciliation was
+made by emphasizing that science is done and is for human
+experiences, and thus, embodied experiences are scientifically
+valid. To navigate the binary of the instructor as all-knowing
+(sage on the stage) and the students as empty slates, often the
+instructor would do the same assignment as the students and
+their response will be critiqued in class.
+Journal of Chemical Education
+pubs.acs.org/jchemeduc
+Article
+https://doi.org/10.1021/acs.jchemed.2c00293
+J. Chem. Educ. 2023, 100, 112−117
+115
+■ DISCUSSION AND CONCLUSION
+We open our discussion by providing the analysis of the online
+student survey responses. (For the method and excerpts from
+student survey answers, see the Supporting Information. The
+survey questions are included in the Appendix.) The survey
+was administered to two groups of students; the first group had
+already taken this class and were introduced to ideas like
+systemic oppression, hegemony, assimilative feminism, etc.
+The second group of students who took the survey had not
+taken the class at the time of the survey; however, one of the
+students from this group took the class in a future semester.
+Analysis of the survey from students who took this class
+appreciated that the historical situatedness of knowledge and
+knowledge production and could explain the benefits that
+those can provide to one’s professional success as well as the
+society at large. This being the overarching learning objective
+for this class, the authors argue that students gained the ability
+to analyze information presented to them and express those
+using both scientific and feminist language. Although both sets
+of student survey responses showed clear interest and support
+for a class on feminism in STEM, it is noted that students who
+had taken the course had double the response length of those
+who had not taken the course. Students who had taken the
+class already prioritized explaining that there was a need rather
+than just a desire for this type of education in STEM and the
+reaped benefits of understanding feminist theories in relation
+to STEM would progress them not only as students but as
+future professionals outside of their institutions. These
+students indicated that although this class was taught as a
+chemistry special topic course, it would benefit anyone in
+STEM. A student taking classes in the social science
+departments can learn about racial consciousness, DEI, and
+feminism in the context of society, but may have no discussion
+on how these social constructs creates the scientific language
+and the way of doing science. These surveys added that the
+ability to host this discussion within STEM puts science
+knowledge and practice in the context of society, its history,
+and politics. Introspective analysis of the benefits of the course
+for students who had not taken this course but participated in
+the survey came from their own personal desire to understand
+the intersectionality of differing cultures and how that would
+apply this knowledge for future jobs or positions they may
+hold. Among these two groups of students there is an
+agreeance that the benefits of this course in the field of
+academia as well as their proposed professional career support
+its importance in our intuition. The conscious perspective
+students gain from this course helps them propel their
+understanding of the unspoken innerworkings of institutional
+racism, hidden history, and much more, which in turn will
+propel their growth as an adult and a professional. To
+conclude, we return to the student comment which appeared
+at the start this article. Instead of seeing the student comment
+as a single deviation, as STEM practitioners, we must
+understand our contributions in creating such ideas. These
+ideas are products of systemic miseducation that allows the
+weaponization of unscientific facts as true science. This process
+is used by educators and scientists when they choose to use
+gendered and racialized language in their profession. As a
+queer student themselves, S.B. often did not have the tools or
+language to challenge dysconcious racism in class. Through
+this course, we tried to break that circle of violence and
+helpless silence for future STEM practitioners. The authors are
+aware that any one chemistry class taught in one university
+cannot bring (STEM) cultural transformation. Social changes
+are painfully slow even when there is a large number of bodies
+making collective and intentional efforts. Knowing the scope
+was limited, S.B. collaborated with Students’ Affairs at ECU
+(through participation from D.M.) and learning from social
+scientists from William & Mary (through participation from
+D.B.). Prioritizing students as authors’ voices enriched this
+paper writing experience by shining light on faculty’s
+unintentional but ingrained desire to perpetuate a power
+hierarchy, installed in them through their own academic
+upbringing. So, through this process of writing, we experienced
+breaking the circle of violence and silence firsthand. Further,
+we wrote this article to share the pedagogical model and
+curriculum with the entire Chemistry Academic Community,
+should they want to join in the effort of fighting dysconcious
+racism and miseducation. Finally, we hope that chemistry
+socializing and education moves away from the deficit model,
+tieing failing a chemistry class to phenotype.24
+■ APPENDIX: SURVEY QUESTIONS
+1. How/if did this class provided you with a social context of
+science?
+2. Did this course provide you with a better understanding
+of DEI terms in the context of science?
+3. Do you see any merit in having similar courses in other
+universities?
+4. How/if did this course prepare you for being a more
+responsible professional working in a diverse environment?
+■ ASSOCIATED CONTENT
+*
+sı Supporting Information
+The Supporting Information is available at https://pubs.ac-
+s.org/doi/10.1021/acs.jchemed.2c00293.
+Word frequency analysis (XLSX)
+ECU Chemistry Pledge Against Racism full statement,
+survey questions, method for survey analysis, excerpts
+from student survey answers (PDF, DOCX)
+■ AUTHOR INFORMATION
+Corresponding Authors
+Michelle Anne C. Reyes − Department of Biology, East
+Carolina University, Greenville, North Carolina 27834,
+United States; Email: reyesm15@students.ecu.edu
+Sambuddha Banerjee − Department of Chemistry, East
+Carolina University, Greenville, North Carolina 27858,
+United States;
+orcid.org/0000-0002-4810-9561;
+Email: banerjees17@ecu.edu
+Authors
+Jonathan Hall − Department of Chemistry, East Carolina
+University, Greenville, North Carolina 27858, United States
+Yasmene H. Odeh − Brody School of Medicine, East Carolina
+University, Greenville, North Carolina 27834, United States
+Aied Garcia − Department of Biology, East Carolina
+University, Greenville, North Carolina 27834, United States
+Amy Benton − Wayne Community College, Department of
+Science, Goldsboro, North Carolina 27534, United States
+Anna Moffett − East Carolina University, Department of
+Neuroscience, Greenville, North Carolina 27834, United
+States
+Journal of Chemical Education
+pubs.acs.org/jchemeduc
+Article
+https://doi.org/10.1021/acs.jchemed.2c00293
+J. Chem. Educ. 2023, 100, 112−117
+116
+Dennis McCunney − Intercultural Affairs, East Carolina
+University, Greenville, North Carolina 27834, United States
+Diya Bose − William and Mary, Department of Sociology,
+Williamsburg, Virginia 23185, United States
+Complete contact information is available at:
+https://pubs.acs.org/10.1021/acs.jchemed.2c00293
+Notes
+The authors declare no competing financial interest.
+■ ACKNOWLEDGMENTS
+The authors acknowledge that this article was conceived,
+researched, and written on Indigenous land and “We
+acknowledge the Tuscarora people, who are the traditional
+custodians of the land on which we work and live, and
+recognize their continuing connection to the land, water, and
+air that Greenville consumes. We pay respect to the eight state-
+recognized tribes of North Carolina; Coharie, Eastern Band of
+Cherokee, Haliwa-Saponi, Lumbee, Meherrin, Occaneechi
+Band of Saponi, Sappony, and Waccamaw-Siouan, all Nations,
+and their elders past, present, and emerging”. We thank the
+Chemistry Department, East Carolina University for support.
+S.B. is thankful to Dr. Banu Subramanian, Dr. Marsan, and Dr.
+Peralta for their support and constructive criticisms in
+developing this course and this article.
+■ 

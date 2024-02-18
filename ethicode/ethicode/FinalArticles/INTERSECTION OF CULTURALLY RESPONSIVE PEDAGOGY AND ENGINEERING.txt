@@ -1,0 +1,998 @@
+Journal of Pre-College Engineering Education Research (J-PEER) 
+Journal of Pre-College Engineering Education Research (J-PEER) 
+Volume 12
+Issue 2 
+Article 11 
+2022 
+The Intersection of Culturally Responsive Pedagogy and 
+The Intersection of Culturally Responsive Pedagogy and 
+Engineering Design in Secondary STEM 
+Engineering Design in Secondary STEM 
+Mariam Manuel 
+University of Houston, mamanuel@central.uh.edu 
+Jessica Gottlieb 
+Texas Tech University, jessica.gottlieb@ttu.edu 
+Gina Svarovsky 
+University of Notre Dame, gsvarovsky@nd.edu 
+See next page for additional authors 
+Follow this and additional works at: https://docs.lib.purdue.edu/jpeer 
+ Part of the Curriculum and Instruction Commons, Engineering Education Commons, Other Teacher 
+Education and Professional Development Commons, Science and Mathematics Education Commons, 
+Secondary Education Commons, and the Secondary Education and Teaching Commons 
+Recommended Citation 
+Recommended Citation 
+Manuel, M., Gottlieb, J., Svarovsky, G., & Hite, R. (2023). The Intersection of Culturally Responsive 
+Pedagogy and Engineering Design in Secondary STEM. Journal of Pre-College Engineering Education 
+Research (J-PEER), 12(2), Article 11. 
+https://doi.org/10.7771/2157-9288.1380 
+This document has been made available through Purdue e-Pubs, a service of the Purdue University Libraries. 
+Please contact epubs@purdue.edu for additional information. 
+This is an Open Access journal. This means that it uses a funding model that does not charge readers or their 
+institutions for access. Readers may freely read, download, copy, distribute, print, search, or link to the full texts of 
+articles. This journal is covered under the CC BY-NC-ND license. 
+The Intersection of Culturally Responsive Pedagogy and Engineering Design in 
+The Intersection of Culturally Responsive Pedagogy and Engineering Design in 
+Secondary STEM 
+Secondary STEM 
+Abstract 
+Abstract 
+The instructional practices of the engineering design process and culturally responsive pedagogy have 
+each garnered national attention and multiple decades of research. Findings from the respective literature 
+bases call for educators and policymakers to integrate these two pedagogical approaches into K-12 
+classroom instruction. Scholars have argued that this integration would improve student engagement and 
+academic achievement. There is a significant amount of research that supports the positive student 
+outcomes associated with each approach, yet there remains a dearth of literature that addresses the 
+integration of these two practices into the science and mathematics content areas. The movement 
+around educational reform is rooted in teachers serving as learners; however, understanding how 
+teachers learn and respond to reform is largely overlooked. The present research sought to examine the 
+way in which teachers perceive and define integrated pedagogical approaches upon implementation. The 
+authors utilized a comparative case study design to represent experiences of five secondary math and 
+science teachers enrolled in graduate-level coursework and professional development on culturally 
+responsive pedagogy and the engineering design process. Findings suggest that teachers’ self-reported 
+pedagogical beliefs acted synergistically between the two pedagogical approaches. Subsequently, 
+participating teachers expressed a strong preference towards the enactment of an integrated pedagogy 
+of a culturally responsive engineering design process. The present research offers valuable 
+recommendations for teacher educators, professional development providers, policymakers, and 
+researchers who wish to integrate culturally responsive pedagogy and the engineering design process in 
+math or science K-12 classrooms. The significance of this research underscores the importance of 
+empowering teachers with professional development, around implementation of novel pedagogical 
+approaches, to both shape and inform their beliefs and practices. 
+Keywords 
+Keywords 
+engineering design, culturally responsive pedagogy, STEM teachers, case study 
+Document Type 
+Document Type 
+Invited Contributions: Best Papers from ASEE Pre-College Engineering Education 
+Cover Page Footnote 
+Cover Page Footnote 
+This material is based upon work supported by the National Science Foundation under Division of 
+Undergraduate Education 1759454. Any opinions, findings, and conclusions or recommendations 
+expressed in this material are those of the author(s) and do not necessarily reflect the views of the 
+National Science Foundation. This paper is part of a set of papers recognized by the American Society for 
+Engineering Education (ASEE)’s Pre-College Engineering Education Division as one of the division’s best 
+papers from the 2022 conference. J-PEER republishes the ASEE Pre-College Engineering Education 
+Division’s best papers with permission from ASEE and under the ‘‘Invited Contributions: Best Papers from 
+ASEE Pre-College Engineering Education’’ section of the journal. J-PEER acknowledges that ASEE holds 
+the copyright for this paper, the original version of which can be accessed at: Manuel, M. (2022, August). 
+The intersection of culturally responsive pedagogy and engineering design in secondary STEM (Research 
+to Practice). Paper presented at 2022 ASEE Annual Conference & Exposition, Minneapolis, MN. 
+https://peer.asee.org/41186 
+Authors 
+Authors 
+Mariam Manuel, Jessica Gottlieb, Gina Svarovsky, and Rebecca Hite 
+This invited contributions: best papers from asee pre-college engineering education is available in Journal of Pre-
+College Engineering Education Research (J-PEER): https://docs.lib.purdue.edu/jpeer/vol12/iss2/11 
+Available online at http://docs.lib.purdue.edu/jpeer
+Journal of Pre-College Engineering Education Research 12:2 (2022) 207–224
+The Intersection of Culturally Responsive Pedagogy and Engineering
+Design in Secondary STEM
+Mariam Manuel1, Jessica Gottlieb2, Gina Svarovsky3, and Rebecca Hite2
+1College of Natural Sciences and Mathematics, University of Houston
+2College of Education, Texas Tech University
+3Center for STEM Education, University of Notre Dame
+Abstract
+The instructional practices of the engineering design process and culturally responsive pedagogy have each garnered national attention
+and multiple decades of research. Findings from the respective literature bases call for educators and policymakers to integrate these two
+pedagogical approaches into K-12 classroom instruction. Scholars have argued that this integration would improve student engagement
+and academic achievement. There is a significant amount of research that supports the positive student outcomes associated with each
+approach, yet there remains a dearth of literature that addresses the integration of these two practices into the science and mathematics
+content areas. The movement around educational reform is rooted in teachers serving as learners; however, understanding how teachers
+learn and respond to reform is largely overlooked. The present research sought to examine the way in which teachers perceive and define
+integrated pedagogical approaches upon implementation. The authors utilized a comparative case study design to represent experiences of
+five secondary math and science teachers enrolled in graduate-level coursework and professional development on culturally responsive
+pedagogy and the engineering design process. Findings suggest that teachers’ self-reported pedagogical beliefs acted synergistically
+between the two pedagogical approaches. Subsequently, participating teachers expressed a strong preference towards the enactment of an
+integrated pedagogy of a culturally responsive engineering design process. The present research offers valuable recommendations for
+teacher educators, professional development providers, policymakers, and researchers who wish to integrate culturally responsive
+pedagogy and the engineering design process in math or science K-12 classrooms. The significance of this research underscores the
+importance of empowering teachers with professional development, around implementation of novel pedagogical approaches, to both
+shape and inform their beliefs and practices.
+Keywords:
+engineering design, culturally responsive pedagogy, STEM teachers, case study
+Introduction
+The purpose of this comparative case study is to investigate teacher beliefs and sense of agency upon implementing new
+instructional practices; specifically teaching secondary science or mathematics content infused with the engineering design
+process (EDP) (Katehi et al., 2009) and culturally responsive pedagogy (CRP) (Ladson-Billings, 2009). Currently, K-12
+schooling in the USA lacks exposure to the appreciation and knowledge surrounding the creativity, rewarding work, and
+positive learning outcomes associated with science, technology, engineering, and mathematics (STEM)-related careers
+(Katehi et al., 2009). This lack of exposure especially limits women and people of color, both of whom are underrepresented
+in STEM fields (Katehi et al., 2009; National Science Board, 2016). As such, while the need for improving the success rates
+1
+https://doi.org/10.7771/2157-9288.1380
+in STEM coursework is pertinent across all racial and ethnic backgrounds, it is especially critical to address the needs of
+students from historically minoritized populations that are disproportionately less likely to pursue and persist through
+STEM-related degree programs (Leboy & Madden, 2012).
+One strategy for reform in improving participation in STEM fields is aimed towards K-12 pedagogies in math and
+science classrooms. Shifts in instructional practices are grounded within the beliefs or agentic behaviors of teachers as the
+guiding force behind their instructional decisions and actions (Pajares, 1992; Rokeach, 1968; Siwatu, 2007). There is a
+substantial amount of research on the topics of the EDP and culturally responsive teaching suggesting that the pedagogical
+approaches result in positive student outcomes (Gay, 2000; Katehi et al., 2009; Ladson-Billings, 2009). However, the
+response, beliefs, and understanding that teachers have about these pedagogies have been largely overlooked (De Florio,
+2016). Accordingly, the crux of the present research is grounded in the value of examined secondary mathematics and
+science teachers’ beliefs regarding the pedagogical approaches of EDP and CRP. Moreover, through the study of teachers’
+agentic behaviors, the present research study provides insights into the barriers that teachers may encounter when
+integrating EDP and CRP pedagogies.
+This study was conducted through the lens of Bandura’s social cognitive theory and is driven by the assertion that
+individuals are capable of influencing decisions, functions, and behavior with intentionality (Bandura, 1986, 2001, 2006),
+known as agency. Humans’ beliefs are at the core of their agentic behaviors, which includes self-regulated behaviors that
+allow an individual to take the necessary actions to yield desired outcomes (Bandura, 2006). These agentic behaviors
+include intentionality and forethought to guide the plans for action, as well as self-reactiveness and self-reflection which
+allow for one to persevere through challenges and self-examine their progress (Bandura, 2001). Acknowledging that an
+individual’s sense of agency leads them to actively regulate their own experiences provides an ideal lens from which to
+examine teacher agency and their pedagogical beliefs. The following research question was informed by the theoretical
+underpinnings of Bandura’s (1986, 2001) social cognitive theory:
+RQ 1. How, and in what ways, are secondary mathematics and science teachers’ pedagogical beliefs and sense of
+agency related to the integration of the EDP and CRP in the classroom?
+RQ 1a. What barriers do secondary mathematics and science teachers experience during implementation of CRP and
+EDP?
+RQ 1b. How do secondary mathematics and science teachers perceive their own role in the movement to implement CRP
+and EDP in secondary science and mathematics curricula?
+Literature Review
+Both CRP and EDP have each garnered national attention and multiple decades worth of research (Gay, 2010; Katehi
+et al., 2009; Ladson-Billings, 2009; Lee & Fradd, 1998; Wulf, 1998). The findings from these bodies of literature urge the
+integration of these two pedagogies into K-12 instruction to support inclusive STEM curricula (Crismond, 2001; Kolodner
+et al., 2003; Mehalik et al., 2008), greater student interest, and improved academic achievement (Aguirre & del Rosario
+Zavala, 2013; Lachapelle & Cunningham, 2014).
+The EDP is a critical component of the work engineers do and how they approach societal problems. EDP has been
+defined as an approach encompassing identification of a problem and developing a model that is refined through data
+analysis to produce a solution consisting of social and technological elements (Daugherty & Custer, 2012; Hynes et al.,
+2011). According to Katehi et al. (2009), EDP is in essence, ‘‘the central activity of engineering’’ (p. 56). Wulf (1998)
+explained that engineers regularly tackle problems through consideration of limitations and constraints (i.e., cost, time,
+materials, etc.) to derive solutions that cater to human wants and needs. Hence, EDP identifies a problem and works towards
+the design of a viable solution through an iterative set of practices (Apedoe et al., 2008). Although the order of these
+practices may vary, the EDP encompasses a series of critical steps aimed at addressing a specific problem (Atman et al.,
+1999). The process of engaging in the EDP is initiated by identification of a need or problem (Apedoe et al., 2008) often
+expressed through concerns of customers or clients (Crismond et al., 2006). Following this step, engineers explore similar,
+previously solved, problems, while being mindful of constraints and limitations. This research phase is critical because it
+allows engineers to acquire a deep understanding of how the problem being tackled relates to those previously resolved. The
+process of re-design and re-testing provides engineers with useful insights about the physical constraints and limitations of
+the problem or product. Furthermore, the practice of evaluation, which can take place at any point in the design, allows
+engineers to obtain feedback, as well as generate ideas for upcoming redesign procedures (Crismond et al., 2006).
+208
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+2
+https://doi.org/10.7771/2157-9288.1380
+Therefore, the redesign stage is instrumental to the process as it allows engineers to refine the prototype through informed
+decisions based on data collected and feedback acquired during testing and evaluations (Apedoe et al., 2008).
+Carr and Strobel (2011) advocated that the integration of the EDP connects mathematics and science content in
+meaningful ways for K-12 learners, which may help explain that inclusion of EDP resulted in improved student
+achievement and interest in STEM fields (Katehi et al., 2009). However, according to Lee and Strobel (2014), while
+preservice teacher preparation and in-service teacher professional development on scientific inquiry gained traction in
+STEM education reform, the EDP did not receive the same level of attention. The authors believed that this discrepancy was
+a result of an already established foundation for the sciences in K-12 curricula. Thus, an increased emphasis must be placed on
+teacher preparation and professional development programs (Brophy et al., 2008; Lee & Strobel, 2014; Roehrig et al., 2012).
+An essential feature of the EDP is to identify a problem akin to real-world challenges (Apedoe et al., 2008; Crismond
+et al., 2006; Hynes, 2010). Yet, there is a dearth of literature on the need for framing those problems through culturally
+relevant real-world challenges. Ladson-Billings (1994, 1995) coined this term during her exploration of the instructional
+practices used by teachers to effectively teach students of color in a way that builds on their lived experiences. Ladson-
+Billings stated that CRP is a philosophy of teaching that asserts the need to use students’ cultural identities and experiences
+as resources for classroom instruction. CRP is ‘‘a pedagogy that empowers students intellectually, socially, emotionally, and
+politically by using cultural referents to impart knowledge, skills, and attitudes’’ (Ladson-Billings, 1994, p. 382). The
+implications of tailoring instruction to reflect the culture of ethnically diverse students includes positive learning outcomes
+of underrepresented minority populations (Hollins, 1996; Ladson-Billings, 1994, 1995). Cultural characteristics are
+inclusive of students’ ethnic background and traditions. These traits include varying forms of learning styles, societal
+contributions, communications, and gender role socialization, all of which are influenced by cultural factors (Gay, 2000).
+Accordingly, teachers must move past the faulty ideology of a one-size-fits-all instructional approach and, instead, adopt a
+methodology that envisions content through their students’ cultural lens (Aguirre & del Rosario Zavala, 2013; Gay, 2000,
+2002, 2010). The embodiment of CRP demands that teachers share content knowledge in meaningful ways, while also
+creating avenues for students to challenge the systemic issues in society.
+The Ladson-Billings (1994, 1995) model for CRP is built upon three fundamental pillars: academic achievement, cultural
+competence, and sociopolitical consciousness. The first tenet asks instructors to foster an environment that is inclusive of
+the instructional practices intended to help students master the content. Teachers who were able to effectively teach students
+of color upheld a sense of responsibility towards preparing students to be academically successful. Ladson-Billings (1994)
+further explained that the embodiment of CRP ‘‘requires that teachers attend to students’ academic needs, not merely make
+them feel good’’ (p. 160). In her later work, Ladson-Billings (2006) explained that academic achievement does not equate to
+student achievement on high-stakes testing. Instead, she shared that her vision for the tenet entails learning that occurs
+through interactions with skilled teachers. The second tenet of CRP tasks teachers to design learning experiences that
+celebrate the social, cultural, and linguistic background of their students. In doing so, teachers reject deficit-thinking when
+working with students of color and, instead, view the culture and lived experiences of students as assets to their learning.
+Consequently, teachers who embrace cultural competence affirm and celebrate their students’ cultural identities. The third
+tenet of CRP aims to develop the sociopolitical and critical consciousness of students. Teachers who integrate CRP in their
+classrooms cultivate opportunities for students to engage in academic discourse and activities that challenge the power
+dynamics within their communities. Hence, students are empowered to question the social inequities they may have
+personally experienced or witnessed. This tenet also suggests that teachers develop their own sociopolitical consciousness.
+However, scholars in the field of CRP have acknowledged that teachers often struggle with doing so; therefore, they only
+implement the first two of the three total tenets (Gay & Howard, 2000).
+In sum, there remains a gap in the research on teachers’ beliefs and agentic behaviors when integrating EDP and CRP in
+the science and mathematics classroom. Thus, the findings from this study aim to spark future investigations and
+discussions on the power of a culturally responsive engineering design approach to teaching along with the agency of
+teachers who are employing these practices. As such, this work also contributes to the literature on teacher agency,
+a developing and important field in the realm of teacher education research that is scarcely explored and reported (Biesta
+et al., 2015; Cheng & Huang, 2018; Va¨ha¨santanen, 2015).
+Methodology
+Teachers for this study were recruited from a National Science Foundation (NSF)-funded, five-year fellowship program
+at the University of Houston, Leadership through Equity and Advocacy Development (LEAD) Houston. A cohort of
+15 teachers participated who were enrolled in a master’s degree in STEM education and had four subsequent years of
+professional development. The five teachers selected from the cohort shared plans for incorporating CRP and EDP during
+the upcoming school year. This research utilized a study design (Merriam, 1998) that employed mixed methods for the data
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+209
+3
+https://doi.org/10.7771/2157-9288.1380
+collection (Creswell, 2014). Each participant comprised an individually bounded case (Stake, 1995) and the data collected
+from each case were triangulated and analyzed within and across each case. The data consisted of submitted reflective
+journal entries regarding their perceptions and beliefs about the implementation process, philosophy of teaching statements,
+and transcripts from individual interviews. Member checking through synthesis of analyzed findings (Stake, 1995) was
+facilitated as an additional and final data source. Saldan˜a’s (2013) coding techniques were utilized to identify emerging
+themes for individual teachers and again through a thematic analysis to identify meta-patterns across cases. The findings
+from the qualitative data were combined with quantitative results derived from the Design, Engineering, and Technology
+(DET) survey (Yas¸ar et al., 2006), and the Culturally Responsive Teaching Outcome Expectancy (CRTOE) survey (Siwatu,
+2007). During cross-case analysis, descriptive statistics acquired from the quantitative instruments helped corroborate
+teachers’ beliefs and agentic behaviors when integrating EDP and CRP in their content instruction. Table 1 provides an
+overview of the data sources and analyses to redress the research inquiry. The data collected include quantitative surveys for
+each approach: EDP and CRP.
+Qualitative Data Collection
+Each participant was asked to complete a 10- to 15-minute reflective journal prompt. Teachers were asked to spend an
+estimated 100–150 minutes total to complete ten short-answer journal prompts. These entries were completed following the
+implementation of the instructional module inclusive of CRP and the EDP. Reflective journals are utilized in research to
+provide participants and researchers with an avenue for expressing thoughts and narrating experiences (Connelly &
+Clandinin, 1990). In the context of teacher education, reflective journaling strengthens relationships between the instructor
+and trainee (Bashan et al., 2017), and improves the learning process of teaching candidates (Moon, 2000). According to
+Farabaugh (2007), reflective journaling promotes awareness of the process through recording thoughts and feelings
+associated with each aspect of the learning process. Moreover, journaling allows the learner to connect theory with practice
+(Dyment & O’Connell, 2011).
+In addition to reflective journaling, the data collected were also triangulated with the findings attained through semi-
+structured individual interviews. Each interview lasted approximately one hour and took place after the teachers completed
+their reflective journal prompts and surveys. Semi-structured interviews help provide a naturalistic environment that enables
+interviewees to openly discuss their thoughts and ideas (Krueger & Casey, 2000). Furthermore, unlike the generalizations
+caused by only using surveys, interviews yield insights into human behavior and perceptions (Fern, 2001). Doing so
+allowed the authors to strategically pose interview questions guided by the responses obtained through the other data
+sources. The interview protocol refinement (IPR) framework (Castillo-Montoya, 2016) was utilized to strengthen the
+reliability of the interview protocols as shown in Table 2.
+The first step of the IPR for interview protocol development mapped the interview questions onto a matrix of the key
+constructs of the framework. A few additional questions were added to obtain background information regarding the
+participants’ school setting. The next phase of the framework suggests that the researcher construct an inquiry-driven
+conversation with the interviewees. Maxwell (2013) explained that this entails composing the interview questions
+differently from the research questions by stating that ‘‘research questions formulate what you want to understand; your
+interview questions are what you ask people to gain that understanding’’ (p. 101). Thus, the authors of this study utilized
+everyday language of the interviewees in the questions, and avoided the theoretical language often utilized in writing
+Table 1
+List of research inquiry, data sources, and data analysis.
+Research inquiry
+Data sources
+Data analysis approach
+Pedagogical beliefs about
+the EDP and CRP
+Quantitative: CRTOE (Siwatu, 2007) and
+DET (Yas¸ar et al., 2006) surveys
+Descriptive analysis
+Qualitative: reflective journals; interviews
+Three rounds of content analysis: first cycle (in vivo),
+second cycle (in vivo and values), and third cycle
+(pattern) coding methods
+Barriers encountered during
+implementation of EDP and CRP
+Quantitative: DET survey
+Descriptive Analysis
+Qualitative: reflective journals;
+interviews; member checking
+Content analysis: three rounds of content analysis: first
+cycle (in vivo), second cycle (in vivo and descriptive),
+and third cycle (pattern) coding methods
+Perceived role in implementation
+of EDP and CRP in content area
+Teaching philosophy statements;
+interviews; reflective journals;
+member checking
+Three rounds of content analysis: first cycle (in vivo),
+second cycle (in vivo and descriptive), and third cycle
+(pattern) coding methods
+210
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+4
+https://doi.org/10.7771/2157-9288.1380
+research questions (Brinkmann & Kvale, 2015). Moreover, to conduct a conversational dialogue that still maintains the
+goals of the research, the authors utilized four types of interview questions recommended by researchers: (1) introductory;
+(2) transitional; (3) key or integral; and (4) closing questions (Castillo-Montoya, 2016; Creswell, 2008; Krueger & Casey,
+2009; Merriam, 2009). The third phase ensures that reliability and trustworthiness of the interview protocol are strengthened
+by obtaining feedback. This was provided by an additional mixed-methods researcher who is involved with the NSF grant
+that funds the fellowship. For the fourth and final phase, a pilot interview was conducted with an educator not associated
+with the fellowship grant only to pilot instrument (Baker, 1994; Merriam, 2009). Still, while the pilot was not conducted
+with a group of participants or someone associated with the fellowship, it is important to note that according to Castillo-
+Montoya (2016) many researchers may only be able to carry out the first three phases of the IPR process. Castillo-Montoya
+explained that this may be due to a lack of access to resources, time, or willing participants, nevertheless, ‘‘those researchers
+have taken important steps to increase the reliability of their interview protocol as a research instrument and can speak to
+that effort in their IRB applications as well as any presentations or publications that may result from their research’’ (p. 827).
+Consequently, this research utilized IPR to develop interview questions that elicit insightful responses with strategic
+alignment to the research purpose and were conducted through a protocol that strengthens the reliability and trustworthiness
+of the research. Table 3 displays a sample of the interview questions with cells marked to indicate which construct of the
+research is being addressed through each question (Neumann, 2008).
+In addition to interviews and reflection journals, the participants also provided their teaching philosophy statements.
+These statements generated an additional self-reported data source that gave insights regarding the teachers’ agency along
+with how they perceive their role in educational reform. The statements were analyzed for alignment with the teachers’
+Table 2
+Four steps to interview protocol refinement.
+Step #
+Protocol action
+1
+Alignment of interview questions with research questions
+2
+Developing an inquiry-based dialogue
+3
+Acquiring feedback on the interview protocol
+4
+Piloting the interview protocol
+Note. Adapted from Castillo-Montoya (2016).
+Table 3
+Sample excerpt from interview matrix.
+Interview question
+Background
+information
+Teacher agency Teacher beliefs
+Transition statement: I’d like to begin the interview by first asking you some questions regarding your school and/or district.
+Q1. Can you describe your school setting for me?
+X
+Q2. How long have you been teaching at this school/district?
+X
+Transition statement: Great. Next, I’d like to discuss your perceptions about the constructs of engineering design process (which I will abbreviate
+as EDP) and culturally responsive pedagogy (which I will abbreviate as CRP).
+In your reflection journal you described how you used EDP to augment your project by
+,insert description.
+X
+X
+Q3a. How do you define EDP in your classroom context?
+Q3b. How did the infusion of EDP change this project?
+Q3c. Do you see room for infusing EDP pedagogy in other curricular projects you are currently
+using?
+In the reflection journal, you described how you used CRP to augment your project by
+,insert description.
+X
+X
+Q4a. How do you define CRP in your classroom context?
+Q4b. How did the infusion of CRP change this project?
+Q4c. Do you see room for infusing CRP pedagogy in other curricular projects you are currently
+using?
+Q5. What connection/s have you made between EDP and CRP? Please describe the
+connections you see or lack thereof.
+X
+Note. Adapted from Castillo-Montoya (2016).
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+211
+5
+https://doi.org/10.7771/2157-9288.1380
+reflections and reactions to the implementation of new instructional practices. Thus, their philosophy on teaching helped
+support and explain their agentic behaviors and beliefs.
+Member Checking
+Member checking can take place at different points in data collection and can often include sending the transcript of an
+interview to the participants (Doyle, 2007). The approach utilized in this research provides the participants with a more
+involved role in the process of telling their story. Member checking through synthesis of analyzed data (Harvey, 2014)
+allowed participants to read through the researchers’ interpretations of their statements. In this case, the interpretations
+include results and findings from surveys, interviews, reflection journals, and teaching philosophy statements. As explained
+by Birt et al. (2016), ‘‘if studies are undertaken to understand experiences and behaviors and to potentially change practice,
+then surely participants should still be able to see their experiences within the final results’’ (p. 1805). This approach
+complements a constructivist approach for data analysis as it allows the participants to reflect upon their own responses
+and stories while having the opportunity to add more data, help validate the findings, and minimize researcher bias in
+interpretation (Birt et al., 2016; Doyle, 2007).
+Quantitative Data Collection
+In an effort to investigate the beliefs teachers hold regarding EDP the participants were asked to complete the quantitative
+DET survey. Yas¸ar et al. (2006) developed a quantitative instrument to assess the perceptions K-12 teachers hold regarding
+teaching with DET. DET was defined to include the following characteristics: identifying a problem vis-a-vis technology,
+proposing solutions by understanding cost–benefit rations, selecting a solution based upon limiting parameters,
+implementing with a model, and using the solution as a form of communication. The authors explained that the
+combination of the design, engineering, and technology approaches allows for ‘‘conceiving, building, maintaining, and
+disposing of useful objects and/or processes in the human-built world’’ (Yas¸ar et al., 2006, p. 205). The authors further
+related their definition of technology to that established by the national science standards. As such, DET was defined to
+include the following characteristics which also mirror the practices outlined by the Massachusetts Department of Education
+(DOE) (2016) along with other prominent EDP models:
+identify a problem or a need to improve on current technology; (2) propose a problem solution; (3) identify the costs and
+benefits of solutions; (4) select the best solution from among several proposed choices by comparing a given solution to
+the criteria it was designed to meet; (5) implement a solution by building a model or a simulation; and (6) communicate
+the problem, the process, and the solution in various ways. (Massachusetts DOE, 2016, p. 205)
+For the purpose of examining teacher beliefs regarding CRP, this study utilized the CRTOE scale (Siwatu, 2007). As is
+true for the theoretical foundation of this research, Siwatu (2007) was also guided by Bandura’s (1977, 1986) theoretical
+lens of social cognitive theory. Siwatu (2007) differentiated between the self-efficacy and outcome expectancy scale, the
+latter of which is used for this study, by explaining that outcome expectations ‘‘are individual judgments about the potential
+outcomes of their behaviors’’ (p. 1088). Siwatu (2007) asserted that the competencies selected for the instruments are rooted
+in literature that reflects the voices of practitioners and pioneers in research who have advocated for the culturally sensitive
+and relevant teaching practices that associated closely with a CRP approach. The author noted that these instruments were
+developed due to shortage of scales that measure preservice or practicing teacher beliefs regarding CRP: ‘‘despite the
+changing demographics of today’s schoolchildren, little research has been done to examine preservice and in-service
+teachers’ culturally responsive teaching self-efficacy and outcome expectancy beliefs. The development of the CRTSE and
+CRTOE would allow for these needed inquiries’’ (Siwatu, 2007, p. 1089). Both surveys were administered to teachers
+completing their lessons infused with EDP and CRP.
+Data Analysis
+Cases were analyzed using a concurrent triangulation design (Creswell, 2008; Creswell & Plano-Clark, 2007), which
+warrants collecting and analyzing the quantitative and qualitative data concomitantly within and across the cases. The
+triangulation design is the most commonly used approach in mixed-methods research as it allows the investigator ‘‘to obtain
+different but complementary data on the same topic’’ (Morse, 1991, p. 122), thus achieving a deeper understanding of the
+topic or problem. The convergent model of triangulation design (Creswell, 1999) allows the researcher to compare results
+derived from quantitative and qualitative approaches in order to validate, confirm, and corroborate the qualitative findings
+and with quantitative results (Creswell, 2008). In the present research, the authors examined teacher beliefs regarding the
+212
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+6
+https://doi.org/10.7771/2157-9288.1380
+implementation of the EDP and CRP approaches through multiple lenses and further verified the findings across the cases
+(Creswell, 2014). Consequently, this research employed the mixed methods triangulation approach to corroborate
+participants’ survey results (quantitative) with interview transcripts, reflective journal responses, and teaching philosophy
+statements (qualitative) to better understand the beliefs and agency of secondary mathematics and science teachers upon
+implementing EDP and CRP in their respective content (math or science) instruction.
+This research utilized an inductive approach (Saldan˜a, 2013) for coding that minimized researcher bias through the search
+for prescribed themes, and yielded an exploratory study that allowed the participants to drive the findings. All the qualitative
+data sources (i.e., interviews, reflection journals, and teaching philosophy statements) underwent three rounds of coding in
+an effort to establish rigor in the analysis and thoroughly derive the emerging themes. The first round involved in vivo
+coding which is at times referred to as natural or emic coding, implying that it involves the inductive approach for coding
+verbatim terms or phrases used by the participant. Saldan˜a (2013) explained that this approach is most appropriate when the
+study prioritizes the participant’s voice in the data analysis process.
+The second round of coding utilized both in vivo and values coding methods. Values coding has been described by
+Saldan˜a (2013) as ‘‘the application of codes to qualitative data that reflect a participants’ values, attitudes, and beliefs,
+representing his or her perspectives or worldview. Though each construct has a different meaning, values coding, as a term,
+subsumes all three’’ (p. 131). Values coding was appropriate for this research not only because it focuses on an individual’s
+beliefs, a pivotal feature of this research, but, also, because it is recommended for case studies. Furthermore, values coding,
+when applied to multiple data sources, helps corroborate the coding and strengthen trustworthiness (LeCompte & Preissle,
+1993; Saldan˜a, 2013). Finally, the third and final round of coding utilized a second-cycle coding method, pattern coding.
+Second-cycle coding allows researchers to ‘‘reorganize and reanalyze the data coded through first cycle methods’’ (Saldan˜a,
+2013, p. 234). Specifically, pattern coding is utilized to meta code or group similarly identified codes, while also ascribing
+meaning to the newly organized categories or emergent themes. Thus, pattern codes combine the data from first-cycle
+coding and synthesizes it into more meaningful units of analysis (Miles et al., 2014; Saldan˜a, 2013).
+The quantitative data analysis consisted of utilizing the descriptive data collected through surveys. In addition to the
+survey responses, this includes teachers’ demographic information, such as gender, age, race, number of years of teaching
+experience, certification, secondary grade level, and content area. Moreover, descriptive statistics for the schools in which
+each participant taught are also presented which includes demographic data of the student population. The descriptive data
+were triangulated with the qualitative findings for analysis within and across each case.
+Findings
+The five identified cases consisted of teachers with experience ranging from 6 to 13 years in the classroom, as shown in
+Table 4. Four of the participants are science teachers while one teaches mathematics. Moreover, three of the participants are
+middle school teachers and two teach high school. Three of the teacher participants have bachelor’s degrees in their content
+area while the other two have background in education or interdisciplinary studies.
+Of the five cases included in this study, four teachers identified as female. Three participants identified as Hispanic while
+the other two identified as Non-Hispanic/White. Table 5 shows the combinations of gender and race/ethnicity included in
+this study.
+Table 6 shows the characteristics of the schools and districts in which the five participants are currently teaching. All,
+with the exception of one, teacher participants work for schools with over 40% of the student population classified as
+economically disadvantaged, a designation indicating that a student is eligible for free or reduced-price meals under the
+National School Lunch and Child Nutrition Program (Texas Education Agency, 2014). These schools also house over 50%
+of students identified as part of minority populations.
+Culturally Responsive Teaching Outcome Expectations
+The CRTOE survey (Siwatu, 2007) is designed to provide insight into the set of beliefs that teachers hold about the
+positive outcomes associated with culturally responsive teaching practices. The survey is a self-reported measure
+whereupon teachers rate the possibility of positive student outcomes achieved through 26 culturally responsive instructional
+techniques. The teachers rate each strategy on a scale from zero which is indicative of ‘‘entirely uncertain’’ to 100 which
+implies ‘‘entirely certain.’’ Siwatu (2007) developed the survey and described the items as a measure of ‘‘teachers’ beliefs
+that engaging in culturally responsive teaching practices will have positive classroom and teaching outcomes’’ (p. 1090).
+Therefore, high scores on the CRTOE scale reflect greater beliefs associated with positive outcomes that result from
+culturally responsive instruction. Table 7 includes the participating teachers’ mean scores.
+The CRTOE survey (Siwatu, 2007) scores for teachers in this research ranged from 2330 to 2595 out of a maximum
+possible score of 2600. The teachers had a mean (M) score of 2532.60 and standard deviation (SD) was 273.72. The item
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+213
+7
+https://doi.org/10.7771/2157-9288.1380
+that yielded the highest level of positive teaching outcomes expectation was for the possibility that ‘‘students’ self-esteem
+can be enhanced when their cultural background is valued by the teacher’’ (M 5 98.40; SD 5 2.06).
+Teachers also expressed high levels of outcome expectancy for the following possibilities: ‘‘students’ academic
+achievement will increase when they are provided with unbiased access to the necessary learning resources’’ (M 5 98.20;
+SD 5 1.94); ‘‘providing English language learners with visual aids will enhance their understanding of assignments’’ (M 5
+98.20; SD 5 2.23); ‘‘connecting my students’ prior knowledge with new incoming information will lead to deeper
+learning’’ (M 5 98.20; SD 5 1.83); and ‘‘a positive teacher–student relationship can be established by building a sense of
+trust in my students’’ (M 5 98.20; SD 5 1.83). The last statement was also the highest scored item for Siwatu (2007) who
+developed the survey and measured the beliefs of 275 preservice teachers.
+Meanwhile, the teachers’ CRTOE beliefs were lowest for the possibility that ‘‘simplifying the language used during the
+presentation will enhance English language learners’ comprehension of the lesson’’ (M 5 84.40; SD 5 15.47). This was
+Table 4
+Teacher participants’ educational profiles.
+Teacher
+Number of years
+teaching
+Grade level
+Content area
+Bachelor’s degree
+Ashley
+9
+6–8
+Science
+Interdisciplinary studies
+Karen
+13
+6–8
+Science
+Education
+Michelle
+4
+6–8
+Science
+Biological sciences
+David
+6
+9–12
+Science
+Kinesiology
+Sophia
+11
+9–12
+Mathematics
+Mathematics
+Note. Educational profile data were collected from survey and interview responses.
+Table 5
+Self-reported teacher demographics.
+Teacher
+Gender
+Self-identified race or ethnicity
+Ashley
+Female
+Hispanic
+Karen
+Female
+Non-Hispanic/White
+Michelle
+Female
+Hispanic
+David
+Male
+Hispanic
+Sophia
+Female
+Non-Hispanic/White
+Note. Data reported were collected from demographic survey questions.
+Table 6
+Teachers’ school characteristics.
+Teacher
+School type
+School minority Pct.
+School Eco Dis. Pct.
+District minority Pct.
+District Eco Dis. Pct.
+Ashley
+6–8
+59.0%
+49.4%
+67.0%
+56.0%
+Karen
+6–8
+32.1%
+7.9%
+48.2%
+28.8%
+Michelle
+6–8
+96.2%
+82.5%
+67.0%
+56.0%
+David
+9–12
+75%
+46%
+78.4%
+77.1%
+Sophia
+9–12
+78.1%
+97.6%
+94.4%
+80.3%
+Note. Pct., percentage of total; Eco Dis., economically disadvantaged. All data are reported by schools to the government based on the 2015–2016 school
+year and accessed through U.S. News Education (2019).
+Table 7
+Teacher mean scores on the CRTOE survey.
+Teacher
+Mean score
+Ashley
+2548.00
+Karen
+2453.00
+Michelle
+2337.00
+David
+2595.00
+Sophia
+2330.00
+214
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+8
+https://doi.org/10.7771/2157-9288.1380
+also the item with the highest level of standard deviation with a minimum score of 65 and the maximum score of 100.
+The next lowest scored item for outcome expectancy was ‘‘matching instruction to the students’ learning preferences will
+enhance their learning’’ (M 5 88; SD 5 10.18).
+Design, Engineering, and Technology
+The DET instrument (Yas¸ar et al., 2006) was developed to measure teacher perceptions of teaching with engineering
+design. The responses regarding barriers encountered helped provide a deeper understanding of what teachers expect to self-
+react towards as part of agency when implementing a project inclusive of the EDP. It is interesting to note that teachers
+displayed the highest level of variation on the responses regarding barriers in integration DET. Specifically, statements
+22–24 each garnered a mean of 3.2 and SD of 1.09 with responses ranging from 4 (maximum) to 2.00 (minimum) on a
+5-point scale. This variation is striking when considering that on all other questions the mean value was 4.60 or higher, and
+SD was 0.55 or lower. Moreover, 10 questions out of the total 24 resulted in a mean value of 5 (SD 5 0). An additional nine
+questions resulted in mean of 4.80 (SD 5 0.45). Lastly, the survey also resulted in one question each for mean value of
+4.60 (SD 5 0.55) and mean value of 4.0 (SD 5 0). Statements 22–24 questioned how strongly teachers agree or disagree
+upon whether the lack of administrative support is a barrier when implementing DET. The statements also questioned how
+strongly teachers agree or disagree with ‘‘minorities and women’’ being perceived by others as populations who do well in
+DET. This variation may be suggestive of teachers’ personal experiences, along with those reported from their students who
+belong to these underrepresented populations in STEM. Table 8 provides the total scores and mean values for each teacher
+participant. The scores ranged from 110 to 114, out of a maximum possible score of 120.
+Pedagogical Beliefs about CRP and EDP
+Through reflective journals and individual interviews, teachers shared their definitions of CRP and the EDP. The
+definitions provided remained consistent within each individual’s data sources and were also common in language across
+the participants. Teachers explained the EDP as an iterative cycle encompassing the following steps: identifying a problem,
+brainstorming solutions, designing prototypes, and redesigning to address the problem at hand (Baker, 1994; Katehi et al.,
+2009; Yas¸ar et al., 2006). CRP was defined by teachers as an approach centered on students’ cultural backgrounds and lived
+experiences that contribute to students’ funds of knowledge which are then integrated into instructional content lessons
+(Aguirre & del Rosario Zavala, 2013; Gutie´rrez, 2009; Siwatu, 2007, 2011). The common language and description of the
+constructs are expected because the teachers shared their introduction to the pedagogical approaches through the graduate-
+level coursework as part of their master’s degree program. Still, upon completion of summer courses, each teacher returned
+to their individual school/district and implemented the CRP and EDP to fit their content curricula. In doing so, teachers
+experienced varying levels of support from team members and administrators at their schools as shared through reflective
+journals and during interviews.
+The most critical factor influencing teachers’ beliefs and agency was the reaction of their students towards the projects
+infused with CRP and EDP. The teacher participants reported heightened interest in content, student engagement, and
+improved academic performance. Teachers felt encouraged by the positive learning outcomes and were driven to continue
+future implementation. They viewed their students’ reactions as a benchmark to assess their own effectiveness with the
+enactment of EDP and CRP. Moreover, upon successful implementation and receiving positive student feedback,
+the teachers felt empowered in their capacity to advocate for others to use CRP and EDP. As such, an important take-away
+for teacher educators is framing the introduction of instructional practices through the lens of student outcomes.
+The Engineering Design Process
+The definitions that teachers provided for the EDP were consistent with those rooted in the literature (Hynes et al., 2011;
+Yas¸ar et al., 2006). The teachers described the steps which include defining the problem (Cross & Roozenburg, 1993),
+Table 8
+Teacher scores on the DET survey.
+Teacher
+Mean score
+Ashley
+112.00
+Karen
+110.00
+Michelle
+113.00
+David
+112.00
+Sophia
+114.00
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+215
+9
+https://doi.org/10.7771/2157-9288.1380
+researching solutions, identifying constraints, building prototypes, testing, redesigning, and communicating solutions
+(Massachusetts DOE, 2016). One of the participants, Michelle, discussed helping her students acknowledge the value in
+their prototypes even when the products did not function properly. She shared that she had her students verbalize all the
+ways in which their prototype was successful and reflect on lessons learned along the way. This is in alignment with
+research that argues the EDP can foster a sense of perseverance in students through the design and redesign steps involved
+in the experience (Lottero-Perdue & Parry, 2017). The iterative nature of engineering design assumes that the first few
+prototypes will not function successfully or provide the best solution to the identified problem (Cunningham & Carlsen,
+2014). This process of failing and moving forward is productive as students and engineers learn and obtain data through
+trial (Lottero-Perdue & Parry, 2017). Petroski (2012) explained the role of failure in the field of engineering and the EDP:
+‘‘…because every successful design is the anticipation and obviation of failure, every new failure no matter how seemingly
+benign presents a further means towards a fuller understanding of how to achieve a fuller success’’ (p. 45).
+Thus, the experiences acquired through the EDP encourage students and teachers to embody a growth mindset, defined
+by Ricci (2013) as ‘‘a belief system that suggest one’s intelligence, or skills, or talents, can be grown or developed with
+persistence effort, and focus on learning’’ (p. 3). Growth mindset has proven to yield positive student learning outcomes
+through enhanced academic performance (Blackwell et al., 2007). The EDP cultivates a growth mindset through student
+engagement with ‘‘test to failure experimentation’’ (Lottero-Perdue & Parry, 2017, p. 50). Accordingly, the Framework for
+K-12 Science Education has specifically included testing for failure as one of the core ideas found in K-12 science and
+engineering practices (National Research Council, 2012).
+All the teacher participants stated that they observed high levels of student engagement and creativity during the course of
+the projects. Overall, the teachers found themselves pleasantly surprised regarding the increase in student involvement
+through participation in the EDP. David expressed that the feedback from his students led him to wish that he had learned
+about, and incorporated, EDP earlier in his teaching career. Similarly, all teacher participants also shared that they witnessed
+heightened levels of engagement in students who otherwise lacked interest in daily instruction. Therefore, due to the
+creativity and student ownership resulting from the EDP projects, students were more likely to experience positive attitudes
+towards content topics (Goeser et al, 2009).
+David discussed a student in his class who was deeply immersed in the sketching and development of her prototype
+designs. However, David noted that after the project concluded, this student returned to previous behavioral characteristics,
+which meant lower levels of engagement and involvement in the classroom. Hence, the utilization of the EDP as a vehicle
+for teaching mathematics or science content provided a hands-on alternative to routine-based, traditionalistic teaching
+practices (Hynes et al., 2011). Furthermore, the iterative nature of EDP naturally allowed for the incorporation of scientific
+reasoning and mathematical problem-solving (Blackwell et al., 2007; Lachapelle & Cunningham, 2014). Consequently, the
+secondary mathematics and science teacher participants in this research affirmed the positive student outcomes associated
+with the EDP. These beliefs were also reflected in the overwhelmingly positive responses expressed by the teachers
+regarding future use of the recently implemented project along with future integration of the EDP in their content curricula.
+Culturally Responsive Pedagogy
+When asked to define CRP all teachers emphasized the value in learning about their students’ backgrounds. The teachers
+explained that doing so would allow them to tailor their instruction by connecting the students’ lived experiences to content
+topics. This concept of building relevance with students is an integral component mentioned in scholarly definitions of CRP
+(see Gay, 2002; Ladson-Billings, 1994, 2009; McAllister & Irvine, 2002). Sophia shared that she planned to survey her
+students to use specific pieces of their cultural and family background into her projects. This is reminiscent of the
+community mapping project described by Jackson and Boutte (2018). Community mapping is an activity through which
+current and prospective teachers can include walks around the neighborhood and engage in conversations with local
+residents. The purpose of the exercise is to provide teachers with insights about students’ culture and their life experiences
+outside of school (Jackson & Boutte, 2018). The value of cultivating relevance is grounded in CRP research and was
+prevalent in this dissertation study through the teacher participants’ responses about their beliefs. This was also evidenced
+through the teachers’ high scores and mean values resulting from the CRTOE survey responses.
+Furthermore, as David’s students learned, the STEM workforce is not always representative of a diverse student body.
+David asked his students to develop social media profiles for famous engineers to whom they could relate. Some of the
+students, specifically those of color, struggled to do so, and one ultimately developed a profile with a silhouette to recognize
+the lack of diversity in the field of engineering. In the USA, only 4.3% and 7.0% of all engineers self-identify as part of
+African American and Latinx populations, respectively (National Science Foundation & National Center for Science and
+Engineering Statistics, 2017). This student’s personal crisis with the STEM workforce was an important realization for him
+to have as it led him to acknowledge the disparity in the field and aspire to change the national statistics. It is this
+disproportionate representation of Black and Latinx populations that scholars have cited as a vital reason for considering the
+216
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+10
+https://doi.org/10.7771/2157-9288.1380
+cultural and linguistic background of students, and, therefore, provide culturally responsive instruction (Aguirre & del
+Rosario Zavala, 2013; Gutie´rrez, 2009; Gutstein, 2006; Siwatu, 2011).
+Although David’s project did yield conversations about race and representation in STEM, absent from the CRP
+integration in all projects was a strong focus on social justice. Ladson-Billings (1994) defined CRP through three prominent
+tenets for instructional practices: (1) upholding high expectations for all students; (2) guiding students through the
+development of their cultural competence; and (3) fostering a sense of critical sociopolitical and cultural consciousness in
+students. The third outcome described by Ladson-Billings (1994) involves the development of critical consciousness which
+fosters the cultivation of an individual’s sociopolitical awareness through cultural, social, and political engagement
+(Mustakova-Possardt, 1998). CRP empowers students to identify and tackle the injustices and inequities that impact their
+lives and represent the experiences of disenfranchised populations (Aguirre, 2009). Consequently, social justice has gained
+traction as an integral component of culturally responsive instruction, especially in the field of mathematics (Aguirre, 2009;
+Gutie´rrez, 2009; Gutstein, 2006). The incorporation of CRP in mathematics concepts has shown to tackle a variety of topics
+ranging from the institutionalization of racism in mortgage lending practices (see Gutstein, 2006) to the use of quantitative
+analysis to challenge a school district’s decision for closing a neighborhood school (see Varley-Gutie´rrez, 2010).
+Consequently, for teachers to embody the aspect of CRP that encourages social justice, they must acknowledge that
+teaching their content is a political, rather than neutral, exercise (Aguirre & del Rosario Zavala, 2013).
+Some of the projects designed by the participating teachers addressed social inequities in terms of access to resources and
+lack of diversity in the STEM workforce. Still, the sociopolitical consciousness was not directly evidenced in any of the
+projects. During the summer course and planning for the project, teachers were asked to align their projects with the eight
+dimensions of the culturally responsive mathematics and science teaching (CRM/ST) lesson analysis tool, originated by
+Aguirre and del Rosario Zavala (2013). The teachers all indicated that their projects met the cultural competence category
+which ensured the lesson utilized students’ funds of knowledge, culture, and community support. Additionally, this
+competency manifested throughout the themes and meta-patterns identified in this research. Still, the use of critical
+knowledge to address social justice was lacking in the projects, and therefore not indicated on the teachers’ alignment to the
+CRM/ST rubric. However, that is to be expected provided that this was the teachers’ first year in the master’s degree
+program and fellowship. Therefore, the projects were based upon their initial introductions to CRP, and representative of
+their first attempt at integration.
+While the projects that teachers designed did not include social justice at this juncture, the concept of empathy was
+prevalent throughout student experiences and teacher self-reflections. Ashley’s project allowed students to acknowledge
+that they lack access to warm meals unless purchased at their school. They developed prototypes for insulative-heaters
+which the students tested by self-utilization of food brought from home. Given that Ashley’s school has no microwaves in
+the cafeteria, her students expressed that they were happy to have developed their protype. Students explained that, prior to
+doing so, many of them were consuming cold meals for lunch. In this case, the students were able to reflect upon how the
+topics in their science class can be used to provide access to resources for their community. Karen’s students had a similar
+realization as they were given the option to develop a heavy load carrier for the librarian or the coaching staff. Students felt
+so motivated to help their selected recipient that many asked if they would ultimately scale their prototype to size to ensure
+that they could truly be of service. Additionally, Michelle shared that her students were deeply motivated by the concept of
+developing prosthetic models for veterans and others in need. She explained that her students researched additional
+disabilities, beyond those included in the assignment, and began brainstorming prototypes that would make life easier for
+those individuals.
+This desire from the participating teachers to incorporate a sense of service in their students contributes towards the
+research offered by McAllister and Irvine (2002) on the role of empathy in CRP. An empathetic disposition on behalf of the
+teachers is a quality that researchers have associated with effective instructional practices especially in urban and diverse
+school settings (Darling-Hammond, 2000; Gordon, 1999). This quality allows individuals to foster sensitivity towards other
+cultures and approach situations by bearing others’ perspectives and experiences in mind (Goleman, 1998). McAllister and
+Irvine (2002) further explained the impact of empathetic teachers in diverse classrooms by stating the following:
+Teachers are better able to modify pedagogy and curricula to fit their students’ needs, such as the teacher who changed a
+classroom ritual to be more comfortable for her Vietnamese students by simply offering her students multiple ways to say
+goodbye rather than obliging them to hug her before they left the classroom. (p. 2002)
+The participating teachers’ willingness to promote these qualities in their students is a reflection in what they value within
+themselves. The teachers shared the need to utilize their students’ funds of knowledge, experiences outside of school, and
+cultural backgrounds when designing curricula. Additionally, they expressed that they felt connected to their students, even
+those who were not engaged. The teachers reiterated throughout their interview and reflective journal entries their desire to
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+217
+11
+https://doi.org/10.7771/2157-9288.1380
+spark students’ interest and creativity in STEM-related topics. Hence, the teachers emphasized the need for culturally
+responsive instruction, not only for the students enrolled in advanced courses, but, even more so, for the students in their on-
+level or academic classes. The teachers advocated for these students in front of colleagues who felt the integration of CRP
+and the EDP would be better suited for high-performing students. Moreover, teachers stated that they felt inspired by the
+results from the project, which indicated not only improvement in academic performance but also involvement from
+students who otherwise remained on the sidelines of the classroom. Consequently, the findings from this research support
+the notion that the empathic disposition of teachers allows them to make efforts in utilizing their students’ funds of
+knowledge (McAllister & Irvine, 2000). Furthermore, the findings suggest that emphatic teachers are likely to design and
+value instruction that fosters a sense of service in students.
+Contribution to the Field
+This research is grounded in the assertion that it is of great significance to examine the ways in which teachers perceive
+and define new pedagogical approaches upon implementation. The insights provided by teachers have implications for how
+professional development providers and teacher educators present instructional practices to attain teacher buy-in. Moreover,
+the beliefs teachers hold about the pedagogical constructs will guide their curricular decisions. Therefore, the pursuit of
+teachers’ endorsement is important because it determines the likelihood of teachers engaging in the novel practices. It is
+through investigation of the participating teachers’ beliefs that the authors uncovered a vital pedagogical perspective that is
+indicative of how teachers will approach future implementations. The synergistic relationship between CRP and the EDP is
+discussed in this section and contributes to the literature in each field of practice.
+The Culturally Responsive Engineering Design Process
+A key implication derived from this research is the connectivity between the EDP and CRP yielding a culturally
+responsive engineering design process (CREDP). A significant pattern and finding that emerged from this research is that
+upon enactment in unison, teachers perceived a powerful and natural relationship between the two pedagogical constructs.
+Moreover, an important aspect of this finding was that while teachers were able to conceive implementing CRP in the
+absence of the EDP, they were unable to do so in reverse. In other words, the value that teachers placed on implementing
+engineering design with a culturally responsive lens was so strong that they were unable to commit to or visualize the
+implementation of EDP without CRP. Teachers explained that through combined enactment they were able to reap the
+benefits of both constructs simultaneously.
+Castaneda and Mejia (2018) have connected the three tenets of CRP as defined by Ladson-Billings (1994) with the
+standards established by the Accreditation Board for Engineering and Technology for a civil engineering program.
+Similarly, this research provides a framework that couples each of the three tenets of CRP with the iterative steps commonly
+found in prominent versions of EDP as used in K-12 curricula. See Table 9 (Massachusetts DOE, 2016).
+CRP Tenet I
+Ladson-Billings (1994, 1995) described in her first tenet for CRP the importance of teachers adopting a mindset that
+expects all students to become academically successful. Ladson-Billings (2006) later clarified the term ‘‘academically
+successful’’ so to differentiate from student outcomes on high-stakes standardized tests, ‘‘What I envisioned is more
+accurately described as ‘student learning’ what is that students actually know and are able to do as a result of pedagogical
+interactions with skilled teachers’’ (p. 34).
+As such, a teacher embodying CRP will need to approach students through an asset-based philosophy (Villegas & Lucas,
+2002). This entails viewing students’ cultural and linguistic background as an opportunity for involvement in content versus
+a characteristic that inhibits student potential. The practices in the EDP which include allowing students to identify the
+problem or need, research the problem, develop, test, and evaluate models for solution are all grounded in this tenet of CRP.
+It is important to note that the problem or need students are addressing must be framed around the students’ cultural context.
+This was also identified as an important facet of their projects by all the participating teachers because it allowed for
+purposeful incorporation of CRP into the EDP. Moreover, providing students with the opportunity to design their own
+solution or prototype entrusts them with ownership over the problem and enables them to creatively address the problem
+(Householder & Hailey, 2012; Hynes, 2010). This was evidenced by the teachers’ self-reported observations of their
+students’ learning and engagement. Allowing students such experience naturally produces a student-centered classroom.
+However, it is this nature of the EDP, when employed with cultural relevance to students, that can meet the objectives of
+tenet I as described by Ladson-Billings (1994). Therefore, it is critical when connecting CRP with the EDP that the problem
+have a culturally responsive or relevant context.
+218
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+12
+https://doi.org/10.7771/2157-9288.1380
+CRP Tenet II
+According to Ladson-Billings (2006) the concept of fostering cultural competence in students is the most challenging
+component of CRP to convey to educators. Cultural competence does not necessarily mean cultural sensitivity, but rather,
+‘‘helping students recognize and honor their own cultural beliefs and practices while acquiring access to the wider culture’’
+(Ladson-Billings, 2006, p. 36). In other words, students are not only learning to be respectful of other cultures, but truly
+delving into the intricacies of cultures in a way that builds the conceptualization of their personal and collective cultures.
+This tenet is associated with students designing solutions to solve a problem or need that is steeped in culturally relevant
+context. Accordingly, to develop prototypes, conduct data analysis, and communicate solutions, students must be immersed
+in understanding the cultural and/or linguistic context associated with the project. Providing students with the opportunity to
+engage in these steps allows for the inclusion of tenet II into the EDP.
+CRP Tenet III
+Tenet III involves sociocultural and political consciousness. This area of CRP was the least evidenced in the teachers’
+projects and is often less likely to appear in projects designed by teachers who are not well-versed or comfortable with CRP
+(Gay & Howard, 2000; Young, 2010). Additionally, teachers often struggle with this concept of CRP because they are
+lacking in their own sociopolitical consciousness (Gay & Howard, 2000). Still, should a teacher be willing to infuse this
+tenet in their instruction, the EDP can be operationalized by solving a problem that is not only relevant and capable of
+fostering cultural competence but also charged with addressing inequities and injustices in social, cultural, and political
+settings. For example, in the culturally responsive mathematics assignment shared by Varley-Gutie´rrez (2010), students use
+data analysis to challenge a school district’s decision to shut down a neighborhood school due to budgetary concerns.
+A potential extension through incorporation of EDP for the same problem might include developing prototypes or
+blueprints for modifications to the school that can result in efficiency and save the district money.
+Teacher participants, having implemented the two constructs simultaneously through classroom projects, were convinced
+that engineering design was most beneficial and worthwhile to use when it is immersed in their students’ cultural context.
+All participating teachers acknowledged the value of each construct and were willing to embody CRP on its own, and as a
+pivotal facet impacting instructional and curricular decisions. Nevertheless, based upon the positive outcomes experienced
+through the synergistic enactment of CRP and EDP, the teachers felt compelled to frame each engineering design challenge
+around a problem that was culturally responsive towards their students. Based on the findings from this study, formalizing
+the relationship between the two constructs and adopting a CREDP have the potential to yield greater teacher buy-in which
+is essential for all curricular reform efforts (Cheng & Huang, 2018).
+Recommendations for Stakeholders
+The findings from this research offer valuable recommendations for teacher educators, professional development
+providers, and researchers. The research, while premised around CRP and the EDP, examined beliefs and agentic behaviors
+of teachers. The participating teachers are part of a master’s program and fellowship designed to promote teacher leadership
+and cultivate teachers’ pedagogical content knowledge around CRP and other innovative instructional approaches. Thusly,
+the teachers’, prior to their integration of CRP and the EDP, already displayed signs of agency and motivation to improve
+their own instruction and impact the practices of others.
+Table 9
+The EDP in relation to the three tenets of CRP.
+Steps in EDP
+Tenets of CRP
+Identify the problem
+Tenet I: Upholding high expectations for all students
+Tenet II: Guiding students through the development of their cultural competence
+Tenet III: Fostering a sense of critical sociopolitical and cultural consciousness in students
+Brainstorm and research the problem
+Tenet I: Upholding high expectations for all students
+Develop solutions
+Tenet II: Guiding students through the development of their cultural competence
+Create a protype
+Tenet I: Upholding high expectations for all students
+Test and collect data to evaluate design
+Tenet I: Upholding high expectations for all students
+Communicate the solution
+Tenet II: Guiding students through the development of their cultural competence
+Redesign
+Tenet II: Guiding students through the development of their cultural competence
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+219
+13
+https://doi.org/10.7771/2157-9288.1380
+The authors of this research recognize that examining beliefs and agentic behaviors is a complex process which is
+dependent upon self-reported data (McAllister & Irvine, 2000, 2002). To further clarify the intentionality of the authors, this
+research does not purport to draw any relationships between the teachers’ experiences in the fellowship to their self-reported
+beliefs and instructional outcomes. The research instead seeks to understand the reactions teachers have to the pedagogical
+constructs of CRP and the EDP upon implementation. The study examines how teachers define each construct after the
+experience, the value they associate with approaches, and how those beliefs relate to their agency regarding continued
+implementation. Below are recommendations that emerged from the findings and should be of interest and value to
+stakeholders in the field of teacher education.
+Recommendations for Future Research
+The crux of this research lies in valuing the beliefs and insights of teachers because they are the most critical component
+to any change in instructional practice. Much research has been conducted on exploring the value of each of the two
+pedagogical constructs, the EDP and CRP. Some of these studies have involved teachers’ beliefs (see Siwatu, 2007; Yas¸ar
+et al., 2006; Yoon et al., 2018). Nevertheless, there remains a shortage of research on investigating how teachers respond to
+the instructional practices upon enactment in their classes. This is problematic because beliefs and attitudes are dynamic and
+evolve through observations and experiences (Bandura, 1986). Therefore, the beliefs teachers have during their preservice
+years, or upon introduction to an approach, are not entirely representative of how teachers will describe the value of the
+instructional practices upon attempting them with their students. Moreover, examining these beliefs allows for the
+researcher to gain insights on which aspects of the pedagogical approaches are most appealing to teachers and which
+challenge them. Thus, the concepts that excite teachers can help researchers uncover strategies for introducing novel
+instructional practices. Accordingly, addressing the areas that cause hesitation in teachers can help strengthen the reform
+through targeted support.
+Conclusions
+Much like any instructional or pedagogical intervention, the teachers’ buy-in and beliefs surrounding the approaches will
+determine the fidelity with which the constructs are implemented. This research provided insights on how teachers, who are
+motivated to enact change, perceived the constructs of the EDP and CRP upon implementation. The teachers had no prior
+experience with the pedagogical approaches before entering the program. Moreover, since their introductory coursework on
+the topics, this iteration was their first time in adopting instruction inclusive of CRP and EDP. The insights and statements
+captured during this research are reflective of their initial reactions to the implementation. The authors of this research
+acknowledge that the teacher participants’ beliefs will likely evolve as they progress through the coursework and
+professional development. However, first impressions are of significance because experiences and observations have the
+power to influence agency towards future enactments. Additionally, the barriers these teachers encountered along the way
+and how they self-reacted to persevere through those challenges are also of importance. The findings can serve as lessons
+that will help strengthen the development of other teachers who are not as confident in their instructional abilities, or
+comfortable with parting from teacher-centered practices.
+Another key implication derived from this research is the connectivity between the EDP and CRP. Specifically, teacher
+participants, having experienced the two constructs simultaneously, were convinced that the EDP was most beneficial and
+worthwhile to use when it is immersed in their students’ cultural context. The teachers acknowledged the value of each
+approach and shared their willingness to use CRP on its own. However, based upon the outcomes experienced through the
+synergistic enactment of the EDP and CRP, the teachers felt compelled to frame each engineering design challenge around a
+problem that was culturally responsive towards their students. Provided the power of teacher buy-in, this finding is of
+critical importance to teacher educators in the fields of teacher development, STEM education, engineering education, and
+CRP.
+Finally, professional development providers and policy makers are urged to place teachers at the forefront of any
+conversation that is charged with producing reform. Researchers are advised to examine the ways in which teachers
+perceive, react to, and define instructional approaches that are deemed impactful. Involving willing teachers as active
+contributors to the field, as opposed to passive recipients of instructional initiatives, can help cultivate teachers’ change
+agency. Accordingly, this research underscores the importance of empowering teachers with professional development that
+is shaped and informed by their beliefs and experiences. It is imperative to acknowledge and foster the power of teacher
+change agents who if given the opportunity will transform traditionalistic approaches throughout our educational system.
+220
+M. Manuel et al.
+/
+Journal of Pre-College Engineering Education Research
+14
+https://doi.org/10.7771/2157-9288.1380
+Acknowledgments
+This material is based upon work supported by the National Science Foundation under Division of Undergraduate
+Education 1759454. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the
+author(s) and do not necessarily reflect the views of the National Science Foundation.
+This paper is part of a set of papers recognized by the American Society for Engineering Education (ASEE)’s Pre-College
+Engineering Education Division as one of the division’s best papers from the 2022 conference. J-PEER republishes the
+ASEE Pre-College Engineering Education Division’s best papers with permission from ASEE and under the ‘‘Invited
+Contributions: Best Papers from ASEE Pre-College Engineering Education’’ section of the journal. J-PEER acknowledges
+that ASEE holds the copyright for this paper, the original version of which can be accessed at: Manuel, M. (2022, August).
+The intersection of culturally responsive pedagogy and engineering design in secondary STEM (Research to Practice).
+Paper presented at 2022 ASEE Annual Conference & Exposition, Minneapolis, MN. https://peer.asee.org/41186
+Author Bios
+Mariam Manuel, Ph.D., is a Clinical Assistant Professor in the College of Natural Sciences and Mathematics at the
+University of Houston. Dr. Manuel’s experience in the classroom and working with students from diverse backgrounds
+informs her research interests in the areas of STEM teacher education for diverse learners, and the use of culturally
+responsive instruction in STEM with a focus on engineering design. Email: mamanuel@uh.edu
+Jessica Gottlieb, Ph.D., is an Associate Professor in the Department of Educational Psychology, Leadership, &
+Counseling. Dr. Gottlieb’s research focuses on how educational policy can be used to increase equity and access of
+high-quality STEM education opportunities. Email: jessica.gottlieb@ttu.edu
+Gina Svarovsky, Ph.D., is an Associate Professor of Practice at the University of Notre Dame Center for STEM
+Education. For over two decades, Dr. Svarovsky has been interested in how young people, especially those from
+traditionally underserved populations, learn science and engineering in both formal and informal learning environments.
+Email: gsvarovsky@nd.edu
+Rebecca Hite, Ph.D., is an Associate Professor of STEM Education at Texas Tech University. Dr. Hite’s research
+foci include exploration of the cognitive and noncognitive affordances of emergent technologies, interventions, and
+outreach intended to augment individual and collective STEM interest, attitudes, motivation, and identities. Email:
+rebecca.hite@ttu.edu

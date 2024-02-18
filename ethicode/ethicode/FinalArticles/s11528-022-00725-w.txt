@@ -1,0 +1,648 @@
+1 3
+https://doi.org/10.1007/s11528-022-00725-w
+ORIGINAL PAPER
+Early Childhood Preservice Teachers’ Perceptions of Computer Science, 
+Gender Stereotypes, and Coding in Early Childhood Education
+Fatih Ari1  · Ismahan Arslan‑Ari1 · Lucas Vasconcelos1
+Accepted: 25 March 2022 
+© Association for Educational Communications & Technology 2022
+Abstract
+The purpose of this exploratory study was to investigate early childhood preservice teachers’ perceptions of computer sci-
+ence and gender stereotypes in computer science, and perceptions of coding in early childhood education. Quantitative and 
+qualitative data were collected from early childhood preservice teachers enrolled in a teaching methods course at a large 
+southeastern university in the U.S. Findings showed that participants had misconceptions about what CS is and what com-
+puter scientists do. They were also neutral about coding and its integration in early childhood education. Both qualitative 
+and quantitative data supported that the participants did not hold gender stereotypes in CS.
+Keywords Early childhood education · Preservice teachers · Computer science · Coding · Gender stereotypes
+Introduction
+Computer science (CS) education in K-12 has received 
+considerable attention worldwide in the last decade. With 
+many resources freely available and the advances in com-
+puting technologies, K-12 educators have been exploring 
+different ways of infusing CS in formal and informal edu-
+cational settings, expanding to early education years (Bers, 
+2019). However, many efforts and initiatives of integrating 
+CS education during early education years are mainly extra-
+curricular and voluntary, benefitting students who usually 
+hold high interest in CS and come from families with high 
+socioeconomic status (Funke et al., 2016; Goode & Mar-
+golis, 2011). Furthermore, aligned with the general gender 
+disparities in CS, early childhood CS opportunities mostly 
+attract boys (Cheryan et al., 2015). In addition, teaching 
+CS in early childhood education requires developmentally 
+appropriate learning experiences for young children rather 
+than implementing strategies designed for older children 
+(Bers, 2019; Bers et al., 2014). Therefore, there is a need 
+for teaching CS in early childhood in a more inclusive, age-
+appropriate, and curriculum-integrated manner (Bers, 2019; 
+Lee, 2020). In this sense, involving early childhood teach-
+ers in CS education and understanding their perceptions of 
+CS, especially their gender stereotypes, become necessary 
+to infuse CS in early childhood education successfully. A 
+growing body of research focuses on the implementation 
+(e.g., tools, software) of CS education with CS teachers in 
+K-12 settings (Chang & Peterson, 2018); however, research 
+focusing on non-CS teachers, especially early childhood pre-
+service teachers, is scarce. Considering the recent attempts 
+across the world to introduce CS concepts and processes in 
+early childhood education, preparing early childhood teach-
+ers for this challenging task becomes a necessity.
+Preservice Teachers’ Perceptions of CS Education 
+and Coding
+Teachers are pivotal for integrating CS education in K-12 
+classrooms (Butler & Leahy, 2021; Yadav et al., 2017). 
+However, research showed that many teachers hold nar-
+row perspectives about CS education, considering it pri-
+marily equivalent to using computers (Li, 2021; Yadav 
+et al., 2014). For instance, Yadav et al. (2014) reported 
+that preservice teachers who were not trained for com-
+putational thinking perceived computational thinking as 
+ * Fatih Ari 
+ 
+arifatih@mailbox.sc.edu; fatihari@gmail.com
+ 
+Ismahan Arslan-Ari 
+ 
+arslanai@mailbox.sc.edu
+ 
+Lucas Vasconcelos 
+ 
+limadel@mailbox.sc.edu
+1 
+Learning Design and Technologies Program, University 
+of South Carolina, Wardlaw College 130, Columbia, 
+SC 29208, USA
+/ Published online: 23 April 2022
+TechTrends (2022) 66:539–546
+using computer technology whereas those who completed 
+a week-long computational thinking module developed a 
+more accurate conceptualization of computational think-
+ing as a problem solving process using computing con-
+cepts with or without computers, in addition to positive 
+attitudes towards integrating it into their future teaching. 
+In a recent study by Butler and Leahy (2021), preservice 
+teachers who completed a specialization in digital learning 
+developed a better understanding of computational think-
+ing concepts and how to teach them to children compared 
+to their initial understandings. Similarly, Connolly et al. 
+(2020) found that preservice teachers who participated in 
+a makerspace program focusing on computational thinking 
+and its integration into teaching demonstrated improved 
+attitudes towards computing and efficacy beliefs in embed-
+ding computational thinking in their teaching.
+In addition to these, several studies explored preser-
+vice teachers’ perceptions of and attitudes towards coding 
+and computer programming (e.g., Cetin, 2016, Lloyd & 
+Chandra, 2020; Yukselturk & Altiok, 2017). Cetin (2016) 
+compared attitudes towards programming in two groups 
+of preservice teachers exposed to block-based program-
+ming and text-based programming instruction groups over 
+a 6-week period. Study findings showed that preservice 
+teachers’ attitudes toward programming were not affected 
+by the programming medium. In another study, Yukselturk 
+and Altiok (2017) found that preservice teachers’ negative 
+attitudes toward programming significantly decreased after 
+they worked with Scratch in a semester-long programming 
+course. However, preservice teachers’ willingness to take 
+on more programming courses and their efficacy beliefs 
+in learning programming did not change after the course. 
+In a recent qualitative case study by Lloyd and Chandra 
+(2020), senior preservice teachers who had prior experi-
+ence with programming and robotics demonstrated a clear 
+understanding of what coding and computational thinking 
+are and emphasized the importance of coding skills for 
+students in the 21st century. These findings clearly support 
+the notion that developing an accurate understanding of 
+CS education and positive perceptions about integrating 
+CS education into teaching are crucial for encouraging 
+preservice teachers to integrate CS education into K-12 
+classrooms (Butler & Leahy, 2021).
+Although some attempts have been made to understand 
+and improve preservice teachers’ perceptions of and atti-
+tudes toward CS education (e.g., Yadav et al., 2014), 
+research focusing on early childhood preservice teachers is 
+still in its infancy (Angeli et al., 2016). To our knowledge, 
+there are only a few studies that explored early childhood 
+preservice teachers’ experiences with and perceptions of 
+CS education (e.g., Bers et al., 2002; Chang & Peterson, 
+2018), indicating a need for more research in this area.
+Gender Stereotypes in CS
+CS as a discipline has been extensively described by edu-
+cators as a narrow and “leaky pipeline” (Almukhambe-
+tova et al., 2021; Berg et al., 2018; Varma & Hahn, 2008). 
+First, the pipeline is narrow because the population in CS 
+is predominantly formed by White males (Beyer, 2014). 
+And second, the pipeline is leaky because minorities (e.g., 
+females and people of color) who decide to join CS face 
+higher attrition rates and end up switching educational and 
+career paths (Clark, 2005; Varma & Hahn, 2008). These 
+two factors lead to a field that lacks gender and racial 
+diversity. In fact, females are critically underrepresented 
+in CS (Graham & Latulipe, 2003; Pantic et al., 2018). Data 
+shows that approximately 25% of professionals in the com-
+puting industry were female in 2020 (Bureau of Labor 
+Statistics, U.S. Department of Labor, 2021).
+One of the main factors leading to female underrepre-
+sentation in CS is stereotypes and misconceptions about 
+the field, and about who can succeed (Pantic et al., 2018). 
+Over the course of their lives, females are continuously 
+exposed to stereotypical representations of a computer sci-
+entist as a White male who is highly intelligent, socially 
+inept, works long hours, and chooses to spend time on 
+gadgets and technology (e.g., programming) rather than 
+around people (Cheryan et al., 2015; Vitores & Gil-Juárez, 
+2016). Meanwhile, females encounter social expectations 
+to be feminine, sociable, and concerned about domestic 
+and family matters (Camussi & Leccardi, 2005). These 
+stereotypes about CS, in many instances, clash with social 
+expectations for females. This undercuts their sense of 
+identity and perceived ability. Specifically, females 
+become unable to envision themselves as computer scien-
+tists, and to develop self-perceptions as capable individu-
+als who can succeed in the field. As far as we know, no 
+previous research has investigated early childhood preser-
+vice teachers’ stereotypical beliefs in CS. Furthermore, 
+considering that the majority of teachers, especially the 
+early childhood teachers, are female in K-12 education 
+(Zha et al., 2020) and that they serve as role models for 
+young children (Master et al., 2014; Olsson & Martiny, 
+2018), it is important to understand the full extent of their 
+stereotypes in CS (e.g., gender) early in their teacher train-
+ing programs and offer strategies that would help them 
+debunk such stereotypes before they start their teaching 
+careers.
+Hence, with this exploratory mixed methods study, our 
+goal was to understand early childhood preservice teach-
+ers’ perceptions of CS and gender stereotypes in CS, and 
+perceptions about coding in early childhood education. In 
+this study, we addressed the following research questions:
+540
+TechTrends (2022) 66:539–546
+1 3
+1. What are early childhood preservice teachers’ under-
+standings of CS education in general?
+2. Do early childhood preservice teachers hold gender ste-
+reotypes in CS?
+3. What are early childhood preservice teachers’ percep-
+tions of coding and its integration in early childhood 
+education?
+Methods
+Study Context and Participants
+Thirty-four senior early childhood preservice teachers, 
+enrolled in two sections of an early childhood mathematics 
+methods course at a large public university in the Southeast 
+U.S, participated in this study. Due to the COVID-19 pan-
+demic, the course was delivered online. The same instruc-
+tor taught both sections. All of the participants were female 
+and their ages ranged from 21 to 30, with a mean age of 
+22.09. Twenty-six of the participants identified themselves 
+as White, four as Black or African American, two as His-
+panic or Latino, and one as Asian. Only three participants 
+reported that they had experience with coding prior to this 
+study. To ensure confidentiality, we used pseudonyms when 
+presenting qualitative findings.
+Instruments
+This exploratory study implemented a cross-sectional sur-
+vey design to examine early childhood preservice teachers’ 
+perceptions of CS, gender stereotypes in CS, and integration 
+of coding into early childhood education. Quantitative data 
+was collected through an online survey consisting of three 
+subscales: perceptions of coding (5 items), integration of 
+coding into teaching (6 items), and gender stereotypes in CS 
+(5 items). The items measuring participants’ perceptions of 
+integration of coding into teaching were adapted from Yadav 
+et al.’s (2014) study. The items measuring participants’ per-
+ceptions of coding and gender stereotypes were created by 
+the researchers. Two experts, one with a master’s degree in 
+CS, reviewed the adapted items for face validity. To check 
+the internal consistency of the subscales, Cronbach’s alpha 
+coefficients were calculated. The reliability coefficients for 
+all subscales were good: perceptions of coding (α = 0.85), 
+integration of coding into teaching (α = 0.85), and gender 
+stereotypes (α = 0.92). Lastly, the qualitative data were col-
+lected through open-ended questions and an adapted ver-
+sion of the Draw a Computer Scientist Test by Pantic et al. 
+(2018). The test asked participants to draw a computer sci-
+entist and explain what their computer scientist is doing, 
+identify their gender and ethnicity, and describe the typical 
+day of the computer scientist.
+Findings
+The quantitative data were analyzed using descriptive sta-
+tistics, and the qualitative data were analyzed using induc-
+tive analysis through open coding and simultaneous coding 
+(Saldaña, 2016). Two of the researchers analyzed a sample 
+of the participants’ responses to open-ended questions and 
+their draw a scientist test individually. Then, they negoti-
+ated the discrepancies between their analysis and created 
+a revised coding scheme. The same coders completed the 
+qualitative data analysis using the revised coding scheme 
+and reached an agreement at the end of the coding process. 
+The findings below are presented based on the questions 
+explored in this study, combining the quantitative and 
+qualitative results.
+Q1: Preservice Teachers’ Perceptions of Computer 
+Science
+We asked participants to explain what they think CS is 
+and what a computer scientist does. Qualitative findings 
+indicated that participants held a very narrow perspec-
+tive regarding the definition of CS and what a computer 
+scientist does. Many participants (n = 15) perceived CS as 
+similar to programming and coding, as shown in “the study 
+of programming software” (Tess), “the action of coding” 
+(Samantha), and “programming software for a multitude 
+of purposes” (Aveline). In addition, many participants 
+(n = 14) mentioned that CS is about how to use computers 
+and fixing computers. For instance, Ellie thought that CS 
+is “the ability to use and navigate a computer”. Similarly, 
+Riley wrote that CS is “the study of how computers work”. 
+Interestingly, two participants used the word “science” in 
+their definitions as shown in “using codes and technology 
+for studying science” (Diana) and “working with science 
+through the computer” (Amara).
+Additionally, when asked about what a computer scien-
+tist does, participants’ most referenced activity was devel-
+oping software and computer programs (n = 19). This was 
+followed by learning how to use and fix computers (n = 6), 
+creating new ways of using computers (n = 5), and doing 
+research (n = 4). For instance, Charley explained, “They 
+[computer scientists] create softwares and codes, work 
+with machines, and work with IT things”. Another partici-
+pant mentioned that computer scientists “create new ways 
+to use computers in life” (Randzi). Similarly, Samantha 
+emphasized that computer scientists “work with computers 
+and learn the inside and outside of computers”.
+With the draw a scientist test, participants were also 
+asked to explain the daily activities of their computer sci-
+entist. Aligned with their responses to the open-ended 
+541
+TechTrends (2022) 66:539–546
+questions, participants indicated in their drawings that 
+their computer scientists were programming (n = 15), and 
+fixing computers and software (n = 5). Participants’ draw-
+ings also identified activities that were not mentioned in 
+their written responses. These included collaborating with 
+other computer scientists (n = 7), using problem solving 
+skills (n = 3), working with data (n = 3), and playing video 
+games (n = 3).
+Together, these findings show that the majority of 
+female early childhood preservice teachers who partici-
+pated in this study had a very narrow understanding of 
+what CS is and what a computer scientist does.
+Q2: Gender Stereotypes in Computer Science
+This subscale included five-point Likert-type items, 
+ranging from 1 (strongly disagree) to 5 (strongly agree). 
+Results showed that participants did not hold gender ste-
+reotypes in CS (M = 1.91, SD = 0.76). All of the items in 
+this subscale had a mean score below 3.00. (see Table 1). 
+Among all the participants, only 22 of them completed 
+the draw a computer scientist test. The analysis of par-
+ticipants’ drawings was also aligned with the quantitative 
+results as 11 participants drew a female computer scientist 
+and 11 drew a male computer scientist. Also, the majority 
+of the participants identified their computer scientist as 
+White (n = 16). Examples of participants’ drawings are 
+provided in Fig. 1.
+Q3: Preservice Teachers’ Perceptions of Coding 
+and its Integration Into Teaching
+Participants were asked, on a five-point Likert-type scale 
+ranging from 1 (strongly disagree) to 5 (strongly agree) to 
+rate the importance of coding in early childhood education. 
+Overall, they were neutral about coding in early childhood 
+education (M = 3.18, SD = 0.51). It is noteworthy that par-
+ticipants perceived coding as helpful for students to become 
+good problem solvers in their lives (M = 3.47, SD = 0.66) and 
+to choose good careers in the future (M = 3.29, SD = 0.68). 
+Among all the subscale items, there was one item with a 
+mean score below 3.00 (see Table 2).
+To gauge participants’ perceptions of the integration of 
+coding into teaching, we used six items on a four-point scale 
+ranging from 1 (strongly disagree) to 4 (strongly agree). 
+Overall, participants did not indicate high perceptions 
+regarding the integration of coding into teaching (M = 2.43, 
+SD = 0.58). However, on average, they acknowledged the 
+importance of having background knowledge and under-
+standing of coding and how to integrate it into teaching 
+(M = 3.03, SD = 0.72). Of all the subscale items, only two 
+items had a mean score below 2.00 (see Table 3), indicating 
+they did not expect to teach coding in their future careers.
+When asked about how they could integrate coding in 
+early childhood education, several participants mentioned 
+using games (n = 5), block-based programming such as 
+Scratch (n = 2), and toys designed to teach coding concepts 
+(n = 1). Additionally, two participants mentioned creating a 
+technology center in their classroom where students could 
+“work on coding apps that interest them” (Isabel) and “work 
+Table 1  Descriptive statistics for the gender stereotypes subscale items (n = 34)
+Note. Scale ranging from 1 to 5: 1 = strongly disagree, 2 = disagree, 3 = neutral, 4 = agree, 5 = strongly agree
+M
+SD
+I think that boys are better at coding than girls.
+1.79
+0.91
+I think that male teachers would enjoy teaching coding in their classes more than female teachers would.
+1.85
+0.82
+I think that boys are more enthusiastic about learning how to code than girls.
+1.97
+0.90
+If given a choice, I think that boys would be more likely to choose learning how to code than girls.
+2.12
+0.88
+If I needed to choose a student to do a coding demonstration for the class, I think that I would unconsciously ask a boy 
+to share his computer program with the whole class.
+1.79
+0.81
+Fig. 1  Example computer scien-
+tist drawings of participants
+542
+TechTrends (2022) 66:539–546
+1 3
+on computer developing apps” (Sydney). Similarly, Rose 
+mentioned establishing a school-wide program for kids to 
+“join and learn more about coding”. In terms of subjects, 
+several participants wrote math, art, and science could be 
+possible subjects where coding could easily be integrated. 
+For instance, Kelly wrote, “Students can work in groups and 
+come up with their own coding work through patterns. They 
+can use shapes, colors, or different sized manipulatives to 
+make their patterns.” Besides these, eight participants noted 
+that they were not sure about how to teach coding to kids. 
+For instance, Tess indicated having no “experience with cod-
+ing or computer science” as the main cause for this. Simi-
+larly, Ersa and Petra were not sure how to integrate coding, 
+but they would “like to learn how”. Additionally, two par-
+ticipants thought that allowing students to use their laptops 
+would mean integrating CS into teaching. For example, Ellie 
+said, CS is “already in the classroom while they [the stu-
+dents] learn to use their laptops”. These examples clearly 
+indicate a need to provide training for preservice teachers 
+about coding and how to teach coding in early childhood 
+education.
+Discussion
+The involvement of early childhood teachers is essential 
+for age-appropriate, gender-inclusive CS education in early 
+school years. Therefore, it is important to understand how 
+early childhood teachers view CS and its integration in early 
+childhood education and to prepare them to introduce CS 
+to young children in inclusive ways. With this study, we 
+explored early childhood preservice teachers’ perceptions 
+of CS and their gender stereotypes in CS, and perceptions 
+of coding and its integration into early childhood education. 
+The findings from this study showed that participants held 
+a narrow perspective in terms of a general understanding 
+of what CS is. Similar to Yadav et al.’s (2014) study, the 
+majority of participants perceived CS as coding, and using 
+and fixing computers. Parallel to their conceptualization of 
+CS, they drew computer scientists who were either program-
+ming or fixing computers in the drawings (see Fig. 1). These 
+shallow understandings of what CS is and what computer 
+scientists do can be explained by the lack of knowledge of 
+the CS field because preservice teachers, and even many in-
+service teachers, have very little or no experiences with CS 
+(Lloyd & Chandra, 2020). Additionally, these early child-
+hood preservice teachers had been practicing internship at 
+K-12 schools and many schools nowadays implement camps 
+or programs on robotics and coding. It is possible that the 
+participants may have experienced or heard about such pro-
+grams at their internship schools, which could possibly be 
+another factor for their limited depictions of CS.
+In terms of gender stereotypes in CS, the findings 
+revealed that the participants did not hold gender stereo-
+types in CS. Both survey and qualitative data (i.e., draw a 
+computer scientist test) supported this finding. For example, 
+Table 2  Perceptions of coding 
+in early childhood education
+Note. Scale ranging from 1 to 5: 1 = strongly disagree, 2 = disagree, 3 = neutral, 4 = agree, 5 = strongly 
+agree
+M
+SD
+Teaching kids coding is essential in today’s world.
+3.12
+0.64
+Coding should be integrated into the early childhood education curriculum.
+3.06
+0.60
+As an early childhood education teacher of tomorrow, I believe that we should take 
+courses on how to code and how to teach coding in different subject areas.
+2.97
+0.67
+Coding would help kids to become good problem solvers in their daily lives.
+3.47
+0.66
+Coding would help kids to choose good careers in the future.
+3.29
+0.68
+Table 3  Perceptions of integration of coding into teaching
+Note. Scale ranging from 1 to 4: 1 = strongly disagree, 2 = disagree, 3 = agree, 4 = strongly agree
+M
+SD
+I can do well in infusing coding and computing into teaching.
+2.24
+0.74
+I expect to use coding and computing skills in my daily life as a teacher.
+1.97
+0.72
+I hope that my future career as a teacher will require the use of coding and computing concepts.
+1.94
+0.81
+I think that the idea of infusing coding and computer science into teaching is interesting.
+2.50
+0.83
+Computer science and coding can be integrated into classroom education in other fields.
+2.91
+0.79
+Having background knowledge and understanding of how to infuse computer science and coding into one’s own 
+teaching is valuable in and of itself.
+3.03
+0.72
+543
+TechTrends (2022) 66:539–546
+among the participants who completed the draw a computer 
+scientist test (n = 22), 11 pictured a female computer sci-
+entist. Overall, this finding does not align with research 
+findings indicating gender stereotypes in CS (e.g., Martin, 
+2004; Pantic et al., 2018). However, it should be noted that 
+participants in these studies also included male participants 
+and in the current study all of the participants were female.
+With regards to perceptions of coding and its integration 
+into early childhood education, participants’ overall percep-
+tions were not very positive. However, their ratings were 
+higher than the average for several individual statements. 
+For example, participants acknowledged the importance of 
+teaching coding to kids, how coding would help kids become 
+good problem solvers and to make good career choices in the 
+future. Additionally, they reported that having background 
+knowledge in coding and how to infuse coding into teaching 
+is valuable for them. These findings in fact are aligned with 
+the findings from previous studies (e.g., Yadav et al., 2014; 
+Yukselturk & Altiok, 2017) in which preservice teachers 
+reported positive perceptions and attitudes regarding coding 
+after they participated in training on coding and its inte-
+gration in K-12 education. The participants’ low ratings in 
+general may be explained by their lack of knowledge and 
+skills in coding and its integration in teaching as only three 
+participants indicated previous experience with coding in 
+this study.
+Conclusion and Implications
+This exploratory study was an initial attempt to understand 
+early childhood preservice teachers’ perceptions of CS and 
+gender stereotypes in CS, and perceptions of coding and 
+its integration in early childhood education. The findings 
+of this study highlighted the importance of training early 
+childhood preservice teachers about what CS is and how to 
+integrate CS in early childhood education as well as iden-
+tifying and debunking their CS stereotypes. Implications 
+for practice and directions for future research are discussed 
+as follows.
+Implications for Practice
+It was evident from the findings that many participants 
+had misconceptions about what CS is and what com-
+puter scientists do. Specifically, participants in this study 
+shared a very narrow perspective regarding CS, perceiv-
+ing it as coding, programming, or using and fixing com-
+puters. Also, some participants noted that they were not 
+sure how to integrate coding but would like to learn how. 
+These clearly emphasize the need for training early child-
+hood preservice teachers on CS education, coding, and its 
+integration in early childhood education. Hence, given the 
+global focus on integrating CS in early childhood educa-
+tion, teacher education programs should equip these future 
+teachers with the knowledge and skills needed to integrate 
+CS in early childhood education. However, decision mak-
+ers in teacher education programs should consider that 
+such training should be integrated into the curriculum 
+of teacher education programs and be continuous (Ray 
+et al., 2020) rather than an isolated, one-shot training. For 
+example, technology integration courses targeting early 
+childhood preservice teachers may offer ongoing CS train-
+ing and demonstrate integration of both developmentally 
+appropriate plugged and unplugged CS activities into dif-
+ferent teaching settings (Mason & Rich, 2019). Addition-
+ally, it is essential to provide early childhood preservice 
+teachers opportunities to practice CS skills and knowledge 
+hands-on and develop teaching activities integrating such 
+skills in their corresponding subject areas. Connolly et al. 
+(2020) demonstrated that makerspace has a great potential 
+for providing hands-on CS education to preservice teach-
+ers. With busy schedules of teacher education programs, 
+teaching method courses in early childhood education can 
+be a place to seamlessly integrate the use of makerspace 
+into the curriculum where early childhood preservice 
+teachers develop and practice teaching strategies for CS 
+education as they learn how to code and how to teach cod-
+ing to young children.
+Furthermore, the findings from this study showed that 
+the participants did not hold gender stereotypes in CS. 
+However, this does not indicate that such stereotypical 
+beliefs might not be developed in the future. In fact, half 
+of the participants (n = 11) who completed the draw a com-
+puter scientist test depicted male computer scientists and 
+almost half of the participants (n = 16) who completed the 
+survey described their computer scientists as White. This 
+might indicate the existence of certain level of stereotypi-
+cal notions among the participants, especially considering 
+that all of the participants were female. A teacher who 
+perceives CS careers as more appropriate for White males 
+may unintentionally not direct female students or students 
+of color towards such careers. Therefore, it is important 
+to help preservice teachers to be aware of their CS ste-
+reotypes and to train them for more inclusive teaching 
+practice. As a starting point, CS education training for 
+early childhood preservice teachers can include opportuni-
+ties to inform them about stereotypical beliefs in CS and 
+to advocate for the notion that all students can succeed 
+in CS. As Olsson and Martiny (2018) asserted, exposure 
+to counter-stereotypical role models can possibly change 
+people’s aspirations in life. Therefore, such training can 
+be provided by professionals who are counter-stereotypical 
+examples (e.g., a female computer scientist) in the society.
+544
+TechTrends (2022) 66:539–546
+1 3
+Directions for Future Research
+This study expands the literature on CS education by explor-
+ing early childhood preservice teachers’ perceptions of CS 
+and their gender stereotypes in CS. Preservice teachers’ 
+dispositions contribute to the successful development and 
+buy-ins of CS education programs (Butler & Leahy, 2021). 
+Therefore, how early childhood preservice teachers perceive 
+CS, their stereotypical beliefs in CS, coding and its inte-
+gration in early childhood education are important, particu-
+larly towards designing and implementing age-appropriate, 
+gender-inclusive CS education in early school years. The 
+findings of this study acknowledged the importance of pro-
+viding training to early childhood preservice teachers, not 
+only to get them familiar with general CS concepts but also 
+to show how to integrate CS concepts in their future teach-
+ing and how to design and implement gender-inclusive CS 
+education activities. Therefore, future research, especially 
+longitudinal research, is needed to investigate the long-term 
+effects of CS education initiatives targeting early childhood 
+preservice teachers and how participation in such initiatives 
+translates into more inclusive CS teaching practices in early 
+childhood education. Longitudinal studies can also offer 
+insights regarding the relationship between one’s disposed 
+beliefs acquired through surveys and interviews, and their 
+actions and implementations in the classroom once they 
+become a teacher.
+Although participants did not report prevalent gender ste-
+reotypes in CS, many of them showed indications of a cer-
+tain level of stereotypical notions (e.g., depicting a computer 
+scientist as a White male). Various factors may contribute 
+to developing such stereotypical notions, including but not 
+limited to lack of knowledge or long-term exposure to stere-
+otypical examples and role models through different venues 
+(e.g., news, movies, etc.). As an initial step, future research 
+should explore the underlying reasons for early childhood 
+preservice teachers’ stereotypical beliefs in CS. Another ave-
+nue for future research can examine the effects of exposure 
+to the counter-stereotypical role models on early childhood 
+preservice teachers’ CS stereotypes and their CS teaching 
+practices. Such exposure should introduce early childhood 
+preservice teachers to diverse roles from the CS field and 
+emphasize the importance of including female students in 
+CS education at a young age. Further, this study did not 
+include any male preservice teachers, so future research can 
+also explore if such stereotypical beliefs and the effects of 
+exposure to counter-stereotypical role models differ across 
+male and female early child preservice teachers.
+Lastly, early childhood preservice teachers in this study 
+did not have strong negative or positive dispositions towards 
+coding and integrating coding in early childhood education. 
+In addition to lack of CS knowledge and skills, other fac-
+tors (e.g., motivation, self-efficacy, perceived value) may 
+have contributed to this outcome. Therefore, future research 
+should investigate factors that might influence early child-
+hood preservice teachers’ perceptions of coding and its inte-
+gration in early childhood education. Additionally, future 
+research can investigate whether ongoing engagement with 
+CS activities (e.g., robotics programming), particularly 
+designed for early childhood education, helps preservice 
+teachers develop more positive dispositions towards coding 
+and its integration in early childhood education.
+Study Limitations
+There are several limitations to this study. First, due to the 
+COVID-19 pandemic, the data were collected online, limit-
+ing our ability to supervise the data collection process. For 
+example, it was not possible to confirm whether participants 
+communicated to each other as they were drawing their com-
+puter scientists. Next, with open-response items, it was not 
+possible to ask follow up questions based on the answers 
+participants provided. Semi-structured individual interviews 
+with each participant would have provided more in-depth 
+information that could help us understand the underlying 
+factors for their stereotypical beliefs. Lastly, all of the par-
+ticipants in this study were female. Therefore, the findings 
+may not reflect male early childhood teachers’ perceptions 
+and stereotypical beliefs in CS, or their perceptions of cod-
+ing for early childhood education.
+Declarations 
+Conflict of Interest The authors declare that they have no conflict of 
+interest. 
+Research Involving Human Participants and/or Animals All procedures 
+performed in studies involving human participants were in accordance 
+with the ethical standards of the institutional research committee and 
+with the 1964 Helsinki declaration and its later amendments or com-
+parable ethical standards. 
+Informed Consent Informed consent was obtained from all individual 
+participants included in the study.

@@ -1,0 +1,863 @@
+Citation: Aladé, F.; Lauricella, A.R.;
+Kumar, Y.; Wartella, E. Impact of
+Exposure to a Counter-Stereotypical
+STEM Television Program on
+Children’s Gender- and Race-Based
+STEM Occupational Schema.
+Sustainability 2022, 14, 5631. https://
+doi.org/10.3390/su14095631
+Academic Editors: Anita Tabacco,
+Gavin Duffy, Alicia García-Holgado
+and Rachel Riedner
+Received: 2 April 2022
+Accepted: 5 May 2022
+Published: 7 May 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sustainability
+Article
+Impact of Exposure to a Counter-Stereotypical STEM Television
+Program on Children’s Gender- and Race-Based STEM
+Occupational Schema
+Fashina Aladé 1,*
+, Alexis R. Lauricella 2, Yannik Kumar 3 and Ellen Wartella 4
+1
+Department of Advertising & Public Relations, Michigan State University, 404 Wilson Rd.,
+East Lansing, MI 48824, USA
+2
+Erikson Institute, 451 N. LaSalle Street, Chicago, IL 60654, USA; alauricella@erikson.edu
+3
+CVS Health, Chicago, IL 60606, USA; yannik@uchicago.edu
+4
+Center on Media and Human Development, Northwestern University, 2240 Campus Drive,
+Evanston, IL 60208, USA; ellen-wartella@northwestern.edu
+*
+Correspondence: aladefas@msu.edu; Tel.: +1-517-353-2938
+Abstract: Gender and racial diversity in STEM has been deemed an essential need for a sustainable
+future, but girls and children from underrepresented racial/ethnic backgrounds continue to show
+less interest in STEM than their White and male counterparts. Media has been shown to reﬂect
+children’s occupational schema from an early age, and therefore might be used to help broaden
+children’s beliefs about who participates in STEM. In this ﬁeld-based pre/post-experimental study,
+children in kindergarten and ﬁrst grades (N = 48, 62.5% female, Mage = 6.57) viewed episodes of a
+STEM-focused educational television series that features a diverse group of protagonists two to three
+times a week for eight weeks. Their occupational schema were measured before and after exposure.
+Results suggest there was no quantiﬁable change in their attitudes. However, qualitative analysis of
+their open-ended responses sheds light on how children’s beliefs about who participates in STEM are
+shaped, i.e., by both mediated and real-world exposure.
+Keywords: occupational attitudes; STEM identity; gender; race; children’s television
+1. Introduction
+Knowledge, skill, and efficacy in science, technology, engineering, and mathematics
+(STEM) are essential for preparing children for an increasingly technological global workforce,
+which in turn is essential for a sustainable future [1,2]. The likelihood that school-age children
+will participate in the STEM workforce later in life is highly dependent on their early attitudes
+toward STEM subjects [3,4]. However, U.S. students’ interest in STEM is relatively low when
+compared to their international peers, which contributes to the U.S. lagging behind other
+countries in STEM achievement [5–7]. This is true not only for American children, but also
+for children in similarly industrialized countries where quality of life is generally high and
+pressure to pursue specific careers is low [5]. In order to address this ‘STEM gap’ and to move
+towards achieving the UN’s Sustainable Development Goals, it is essential that we better
+understand how children’s early attitudes towards STEM are formed and what factors might
+influence children to want to pursue a STEM career later in life.
+Media is one environmental factor shown to shape children’s attitudes and beliefs [8].
+Educational television, especially, has been found to boost children’s positive attitudes
+towards learning and speciﬁc school subjects. Fisch [9] explains that one of the ways
+that educational television can supplement formal education is by encouraging positive
+attitudes toward academic subjects, especially among populations that are less likely to
+pursue those subjects on their own. This idea that educational television can promote
+learning and attitudes towards learning is well documented [10–13]. However, it is unclear
+Sustainability 2022, 14, 5631. https://doi.org/10.3390/su14095631
+https://www.mdpi.com/journal/sustainability
+Sustainability 2022, 14, 5631
+2 of 16
+from extant research whether educational television can have a measurable impact on
+children’s career interests and occupational schema. This paper presents an experimental
+study that investigates the ability of a STEM-focused educational television show to shape
+children’s expectations about who participates in STEM and in STEM careers.
+1.1. Early Attitudes towards STEM Careers
+Historically, the association between STEM interest and participation in STEM career
+pathways has been studied most rigorously in the context of postsecondary education [14,15].
+However, there is recent mounting evidence that attitudes towards STEM develop early and
+persist into adulthood. Maltese and Tai [16] found that eighth-grade students who believed
+science would be useful in their future and who were interested in a science career were more
+likely to earn degrees in STEM. Sadler, Sonnert, Hazari, and Tai [17] found that students’ career
+interests when entering high school were the strongest predictors of their career interests when
+leaving high school. Going even younger and looking at elementary/primary school children,
+Auger, Blackhurst, and Wahl [18] found that first-graders’ self-reported career aspirations were
+just as specific and realistic as those of fifth graders. Selkow [19] investigated kindergarten and
+first-graders’ occupational choices and found significant differences as a result of maternal
+employment status, suggesting that even as early as kindergarten, children’s occupational
+interests have real, concrete connections to their real-world exposure and experience. These
+findings, combined with the knowledge that achievement gaps in science and math begin
+before first grade [20,21], provide strong reason to investigate the ability of educational media
+to influence young children’s attitudes and beliefs about who participates in STEM.
+1.2. Media and the Development of Occupational Schema
+Much of the existing work on the presence of occupational portrayals in the media
+has focused on adult-directed television. For example, Signorielli [22] found that women
+on television, and particularly African American women, had the least diversity and the
+least prestige in terms of the occupations in which they were portrayed. A 2012 report
+by the Geena Davis Institute on Gender in Media speciﬁcally investigated sex roles and
+occupational portrayals in children’s television and family ﬁlms. The authors found that
+despite women comprising 47% of the U.S. labor force, they represented only 25% of
+employed characters in children’s television shows [23].
+These media portrayals begin to have an effect on viewers from an early age [24].
+Research suggests that young children are likely to develop occupational schemas that
+reﬂect the images they see on television [22], and that gender- and race-based occupational
+schemas are in place by age six [25,26]. Jeffries-Fox and Signorielli [27] found that middle
+school children who watched more television were more likely to want more glamorous and
+high-status jobs, like those most often portrayed on TV. Similarly, Signorielli [28] found that
+high school students who watched more television aspired to high-status jobs that allowed
+them to make a lot of money, much like the TV characters they frequently viewed. In 1974
+study, Beuf [29] looked at preschoolers’ gendered occupational aspirations in relation to the
+amount of television they viewed. She found that children held sharply contrasting beliefs
+about which occupations should be held by men and which should be held by women. For
+example, on average, children reported that doctors and telephone repairpersons could
+only be men, while feeding a baby was a woman’s job. Though the speciﬁc examples used
+in that study are now somewhat dated, the major ﬁnding of Beuf’s [29] study that is still
+relevant today was that the more television the children watched, the more likely they were
+to apply gender stereotypes to careers and household work roles.
+1.3. The Need for Diverse STEM Portrayals
+Not only are American children’s attitudes towards STEM concerningly low [5,30],
+their ideas about who participates in STEM are also quite narrow. A meta-analysis by
+Miller and colleagues [31] showed that, despite gradual improvement over the last ﬁfty
+years, when children are asked to draw a scientist, the majority of drawings still depict
+Sustainability 2022, 14, 5631
+3 of 16
+White men. These impressions are not inaccurate as women and people of color are
+largely underrepresented in STEM ﬁelds in the United States and other western industrial
+nations [32]. Blickenstaff [33] writes that there is no singular reason why this is the case,
+but that it is a complex and multi-faceted problem. The underrepresentation of female
+characters and racially diverse characters in STEM television shows [34,35] is likely one
+contributing factor.
+It is not only critical that girls and children of color believe they can pursue STEM, but
+also that all children believe that girls and children of color can pursue STEM. Studies show
+that women, and particularly women of color, often drop out of the STEM pipeline even after
+receiving STEM degrees in higher education because of hostile work environments [17,36].
+In other words, it is not that they do not believe they are smart enough or capable enough;
+the problem often lies in the fact that their White male colleagues do not see them as equal
+and valuable. Many studies have looked at ways to increase girls’ self-efficacy in STEM,
+e.g., [37–39], or racial minority students’ self-efficacy in STEM, e.g., [40,41], but in addition
+to boosting self-efficacy for individuals from these underrepresented groups, we must also
+work to broaden all children’s ideas about who participates in STEM. Accordingly, this study
+utilizes a sample of children that roughly reflects the population of the U.S. in terms of gender
+and race in order to investigate whether exposure to a STEM television show that features girls
+and racially diverse characters can impact children’s ideas about who holds STEM careers.
+1.4. Television Viewing and Attitude Change
+1.4.1. Theoretical Frameworks
+The relationship between television exposure and attitude change is complex, but
+signiﬁcant effects have been shown across many domains, from political attitudes and
+beliefs to health attitudes and behaviors [42,43]. For children speciﬁcally, researchers
+have found effects of television exposure on social attitudes [44], racial attitudes [45], sex
+role attitudes [46], and attitudes towards learning [11]. Cultivation theory [47] and social
+cognitive theory [48] are two useful frameworks for understanding the relationship between
+exposure and attitudes. Cultivation theory suggests that heavy television viewers are more
+likely to adopt attitudes that are consistent with the themes portrayed on television. Via
+long-term, cumulative media exposure, we come to view the world through the perspective
+that is most dominant in the media [47]. Social cognitive theory posits that people learn
+not only through their own experience, but also through the observation of others’ actions,
+including those of media ﬁgures, and the consequences of those actions [49]. In the context
+of the current study, both of these theories would suggest that exposure to programs
+that portray all different types of characters modeling STEM behaviors, and, importantly,
+showing intrinsic and extrinsic rewards for STEM participation, would lead children to
+believe that they also can and should participate in STEM, whether they are boys, girls,
+Black, White, etc.
+1.4.2. Single vs. Repeated Exposure
+Speciﬁcally looking at exposure to a science show and children’s reported interest in
+science, Mares, Cantor, and Steinbach [50] found that while one-time exposure did not
+affect attitudes, repeated exposure over the course of eight weeks did have a signiﬁcant
+effect on attitudes towards science. Other studies have similarly found long-term and/or
+regular exposure to be more effective at inﬂuencing attitudes than short-term or one-time
+exposure. Interestingly, Bond [37] found that a single, one-time exposure was enough to
+inﬂuence attitudes in a negative, stereotypical direction. However, there were no effects
+of one-time exposure for children who were exposed to positive, counter-stereotypical
+STEM depictions. The author points out that more research is needed to determine if long-
+term and/or repeated exposure to counter-stereotypical STEM depictions might inﬂuence
+children in a positive way. Building from that work, and guided by the tenets of cultivation
+and social cognitive theories, the current study investigates the effects of eight weeks of
+Sustainability 2022, 14, 5631
+4 of 16
+exposure to counter-stereotypical depictions of STEM engagement. Figure 1 presents a
+graphical depiction of the theory of change undergirding this study.
+influence attitudes in a negative, stereotypical direction. However, there were no effects 
+of one-time exposure for children who were exposed to positive, counter-stereotypical 
+STEM depictions. The author points out that more research is needed to determine if long-
+term and/or repeated exposure to counter-stereotypical STEM depictions might influence 
+children in a positive way. Building from that work, and guided by the tenets of cultiva-
+tion and social cognitive theories, the current study investigates the effects of eight weeks 
+of exposure to counter-stereotypical depictions of STEM engagement. Figure 1 presents a 
+graphical depiction of the theory of change undergirding this study. 
+ 
+Figure 1. Theoretical model of the effects of repeated exposure to STEM-focused educational televi-
+sion featuring diverse characters. This model incorporates elements of Bandura’s social cognitive 
+theory and Gerbner’s cultivation theory. 
+1.5. The Current Study 
+Based on the theoretical frameworks presented above and the limited extant litera-
+ture in this area, we hypothesized that repeated exposure to counter-stereotypical STEM 
+portrayals might in fact positively influence young children’s attitudes and beliefs about 
+who participates in STEM. Specifically, we hypothesized: 
+Hypothesis 1 (H1). Repeated exposure to a counter-stereotypical STEM program will be related 
+to broader ideas about women and girls participating in STEM compared to a control group. 
+Hypothesis 2 (H2). Repeated exposure to a counter-stereotypical STEM program will be related 
+to broader ideas about individuals from underrepresented racial/ethnic backgrounds participating 
+in STEM compared to a control group. 
+Given the relative dearth of research exploring children’s race- and gender-based oc-
+cupational attitudes, we also sought to explore how children themselves would describe 
+and/or explain their biases in these areas. Specifically, we asked: 
+Figure 1. Theoretical model of the effects of repeated exposure to STEM-focused educational televi-
+sion featuring diverse characters. This model incorporates elements of Bandura’s social cognitive
+theory and Gerbner’s cultivation theory.
+1.5. The Current Study
+Based on the theoretical frameworks presented above and the limited extant literature
+in this area, we hypothesized that repeated exposure to counter-stereotypical STEM por-
+trayals might in fact positively inﬂuence young children’s attitudes and beliefs about who
+participates in STEM. Speciﬁcally, we hypothesized:
+Hypothesis 1 (H1). Repeated exposure to a counter-stereotypical STEM program will be related
+to broader ideas about women and girls participating in STEM compared to a control group.
+Hypothesis 2 (H2). Repeated exposure to a counter-stereotypical STEM program will be related
+to broader ideas about individuals from underrepresented racial/ethnic backgrounds participating in
+STEM compared to a control group.
+Given the relative dearth of research exploring children’s race- and gender-based
+occupational attitudes, we also sought to explore how children themselves would describe
+and/or explain their biases in these areas. Speciﬁcally, we asked:
+RQ1: (a) How do children articulate their explicit attitudes and beliefs about who partic-
+ipates in STEM? (b) What information to they draw from to form judgments about who
+participates in STEM?
+2. Materials and Methods
+2.1. Study Design
+To address our hypotheses and research questions, we conducted a pre/post-
+experimental study that took the shape of a media intervention. The study was conducted
+in before- and after-school childcare centers in a suburb of a large city in the Midwestern
+United States. Over the course of eight weeks, participants in the treatment group regularly
+viewed episodes of Cyberchase, a STEM show that features main characters who are diverse
+Sustainability 2022, 14, 5631
+5 of 16
+in terms of race and gender and exhibit high levels of STEM engagement. Participants in
+the control group went about business as usual. All participants completed assessments
+before and after the eight-week exposure period.
+2.2. Study Sites and Recruitment
+After approval of the study by the university’s Institutional Review Board, three local
+childcare programs were contacted and informed about the study and agreed to take part.
+These childcare centers provide before- and/or after-school care for elementary school-aged
+children. The programs are relatively unstructured; students can engage in a variety of
+games and activities, do homework, and eat snacks. Center directors sent consent forms
+home to parents of all kindergarten and ﬁrst graders at their centers. Parents who consented
+to have their child participate were also asked to complete an online survey to provide
+demographic information about their family. One center had two participating locations,
+resulting in four study sites. The study sites were randomly assigned to either the treatment
+or control condition.
+2.3. Participants
+A total of 55 children were recruited into the study across the three participating
+centers. Of the 55 children whose parents granted consent, 48 successfully completed all
+components of the study (i.e., pretest assessment, posttest assessment, and, for treatment
+group, viewed at least 50% of the episodes) and, thus, could be included in analyses. The
+ﬁnal sample of 48 children (n = 25 treatment, n = 23 control) were 62.5% female and ranged
+in age from 5.5 to 7.53 years (M = 6.57, SD = 0.52). The sample was quite diverse in terms
+of race/ethnicity and also included some socioeconomic diversity (i.e., about 20% of the
+sample reported household incomes between USD 60,000 and 85,000, whereas the median
+household incomes in the school districts we sampled from range from USD 85,469 to
+123,618). Table 1 presents demographic information of the treatment and control groups.
+t-tests revealed no signiﬁcant differences between treatment and control groups on any
+demographic variables.
+Table 1. Participant Demographics.
+Variable
+Control
+Treatment
+Mean (SD)
+Percent
+Mean (SD)
+Percent
+Child Age (in years)
+6.29 (0.67)
+6.83 (0.48)
+Gender
+Males
+43.5
+45.4
+Females
+56.5
+54.5
+Race
+White
+56.5
+66.7
+Black
+26.1
+16.7
+Asian
+4.3
+4.0
+Hispanic
+4.3
+16.7
+Other
+8.6
+8.0
+Household Income
+USD 60,000–84,999
+21.3
+18.2
+USD 85,000–99,999
+9.0
+0.0
+>USD 100,000
+69.7
+81.8
+Parental Education
+Bachelor’s Degree
+43.5
+36.4
+Master’s Degree
+29.1
+36.4
+Professional/Doctorate Degree
+27.4
+27.2
+Parent Age (in years)
+37.30 (4.76)
+39.91 (2.43)
+Parent’s Relationship to Child
+Mother
+78.3
+64.0
+Father
+21.7
+36.0
+Sustainability 2022, 14, 5631
+6 of 16
+2.4. Procedure
+2.4.1. Pre- and Posttest
+Participants were interviewed in a quiet space in their childcare classroom. Each one-
+on-one interview session lasted approximately 15–20 min. In addition to the occupational
+attitudes measure reported in this study, participants also completed several additional
+measures reported in a separate study: program and genre familiarity, attitudes towards
+STEM, program appeal, and parasocial relationships. Interviews were audio recorded for
+later transcription. It took approximately two weeks to complete pretest interviews for all
+participants across the three centers. After exposure, posttest interviews took an additional
+two weeks.
+2.4.2. Exposure
+Participants in the treatment condition watched an episode of Cyberchase two or three
+times a week for eight weeks (the exposure length was determined based on research by
+Mares et al., 1999). Viewing sessions were conducted by the lead researcher or a trained
+research assistant. For each viewing session, the researcher took the participating students
+to one side of the classroom or an adjacent classroom. The episodes were shown using a
+classroom projector with children sitting on a rug approximately four to six feet in front
+of the screen. Viewing occurred in groups of 8–14 children at a time. The researcher took
+attendance at each viewing session to ensure that all participating children watched at
+least two episodes every week. In order to accomplish that goal, sometimes the researcher
+would need to come in on a third day, which resulted in some children occasionally viewing
+three episodes in a week. Children were instructed to sit and watch the video quietly. Most
+children were excited about the opportunity to watch the show, and thus were quite attentive
+throughout. There was often laughter at jokes, and occasionally children made remarks
+aloud such as, “Why are they doing that”. The researchers would reply with a reminder to
+keep watching, such as “I don’t know, let’s keep watching and see what happens”.
+During the eight-week exposure period, children in the control condition went about
+business as usual. They did not view any videos during their before- or after-school
+programs. They participated in activities that were very similar to what children in the
+treatment group did when they were not in viewing sessions, such as coloring, reading
+books, making jewelry, playing board games, etc.
+2.5. Stimulus
+The stimulus program for this study was chosen using data from a prior content
+analysis of children’s STEM-focused television [34]. Our goal was to select a STEM program
+that (A) showed high levels of STEM engagement from main characters (i.e., modeling of
+STEM behaviors such as asking questions, making observations, investigating, and problem
+solving), and (B) did a particularly good job of featuring characters that were diverse in
+terms of both gender and race. To accomplish this goal, we created a mathematical formula
+that ranked each of the 30 STEM programs included in the content analysis on both of
+those features. Since the main unit of analysis in coding was the individual character, the
+value of a show was posited to be the sum of the value of each individual character within
+that show. Each character’s value was calculated as the sum of their STEM engagement
+weighted by the centrality of the character to the show (i.e., major characters were weighted
+more heavily than minor characters), with multipliers for female and minority characters.
+A show value for each program was then calculated as the sum of all character values, and
+the 30 programs were ranked based on their show values. Creation of the formula was an
+iterative process that included several stages of trial and error to ensure that the rankings
+produced by the formula both matched expectations of face validity and took the form of a
+roughly normal distribution with appropriate variance, skew, and kurtosis. The program
+that came out as number one in the ﬁnal ranking (as well as in several other iterations of the
+formula and rankings) was Cyberchase, and thus, this was chosen as the stimulus program.
+Sustainability 2022, 14, 5631
+7 of 16
+Cyberchase is an animated PBS show designed to teach math concepts “in a fun way
+that kids can understand” (http://www.pbs.org/parents/Cyberchase/about-Cyberchase/,
+accessed on 17 March 2018). The main team of protagonists includes Jackie, an African
+American girl, Inez, a Latin-American girl, and Matt, an Irish-American boy. These three
+main characters, often referred to as the Cybersquad, are accompanied by Digit, a “cybird”
+who helps them solve problems in order to defeat the evil villain Hacker. Along the way,
+they learn that math is everywhere and that it is a useful tool for solving problems. In “For
+Real,” the live-action segment following each animated episode, adults show the viewers
+how math can help solve life’s problems in the real world. Common Sense Media rates
+Cyberchase as appropriate for children ages 5 and up, which made it perfectly appropriate for
+the kindergarten and ﬁrst graders in the study sample. Participants were shown a random
+selection of episodes from the two most recent fully available seasons of Cyberchase (seasons
+8 and 9). The episodes were shown in relative sequential order, though the narratives are
+not interdependent, so missing an episode did not pose any comprehension problems for
+the participants. Anecdotally speaking, participants were unfamiliar with Cyberchase before
+the study, but seemed to enjoy the show quite a bit, and were always excited when it was
+time to watch another episode.
+2.6. Measures
+2.6.1. “Me/Not Me” Self-Identiﬁcation Task
+In order to have an understanding of the individual contexts participants were bring-
+ing into the study, it was important to know how the children self-identiﬁed, both in
+terms of gender and race, and in terms of their relationship to STEM. Self-identiﬁcation
+was measured using the “Me/Not Me” task, adapted from Rogers and Meltzoff [51]. The
+task included the following social identity labels: boy, girl, daughter, son, brother, sister,
+Asian, Black, Latino/a, White, student, athlete, artist, scientist, problem solver, investigator.
+Following the procedure used by Rogers and Meltzoff (2017), the order of presentation
+was held constant for each participant. For each card, the child was asked, for example,
+“Are you a [boy]?” and told to sort the card into the “Me” pile if the label described them
+and into the “Not me” pile if it did not. After all cards were sorted in this manner, the
+researcher verbally went through each pile again and gave the child an opportunity to
+revise any selections. Labels placed into the “Not Me” pile were coded as 0, and labels
+placed into the “Me” pile were coded as 1.
+2.6.2. Occupational Attitudes
+The occupational attitudes measure, used at pre- and posttest, was created speciﬁcally
+for this study and was informed by previous research [25,26,29]. Due to time and space
+constraints of data collection, we did not use a traditional implicit association test (IAT) for
+this measure. Instead, we used pictorial response options and asked for children’s quick
+‘gut reactions’ as a quasi-implicit measure (adapted from [25,26]), and then asked them to
+verbally elaborate on their response in order to capture their explicit attitudes (adapted
+from [29]).
+The measure consisted of 12 items, six of which were designed to capture children’s
+adherence to gender stereotypes about STEM occupations, and the other six of which were
+designed to capture children’s adherence to racial stereotypes about STEM occupations.
+For the ﬁrst four items, participants were shown an illustrated picture of a boy and a girl.
+The boy and girl were dressed very similarly in a t-shirt and jeans and both were carrying a
+book and wearing a backpack (i.e., intended to look like ordinary schoolchildren), and both
+were Caucasian with brown hair and brown eyes (i.e., holding race as a constant while
+manipulating gender). Participants were asked to select “Which of these kids is more likely
+to grow up and become a [scientist, mathematician, engineer, computer programmer]?”
+Participants could answer verbally or point to the picture of the boy or girl to select their
+answer. After each question, the researcher asked the participant to explain why they
+chose the answer they gave, and responses were recorded verbatim for later analyses.
+Sustainability 2022, 14, 5631
+8 of 16
+The next four questions were identical to the ﬁrst four, except that rather than a picture
+of a boy and girl, the picture showed two boys, one White and one Hispanic, who were
+otherwise depicted very similarly, both with a backpack and book and similar clothing
+(i.e., manipulating race while holding gender as a constant). Again, participants were
+asked to select “Which of these kids is more likely to grow up and become a [scientist,
+mathematician, engineer, computer programmer]?” and were asked to explain why they
+thought that was true.
+The ﬁnal four questions consisted of four different drawings: a Black male scientist
+next to a Black female scientist, a White female computer programmer next to a White male
+computer programmer, a Black male airline pilot next to a White male airline pilot, and a
+Black female doctor next to a White female doctor (the former two manipulating gender
+and the latter two manipulating race). For each drawing, participants were asked “Which
+of these two people do you think really works as a [scientist, computer programmer, airline
+pilot, doctor]?” and “Why do you think that?”. In each drawing, the two people were
+dressed in the same clothes and carrying the same materials and were drawn to look as
+identical as possible aside from the gender or race. All drawings were created speciﬁcally
+for this study by a locally commissioned artist to allow for a clean manipulation of only the
+race or gender while keeping everything else about the pictures constant. Figure 2 shows
+examples of the images used in this measure.
+Sustainability 2022, 14, x FOR PEER REVIEW 
+9 of 17 
+ 
+ 
+ 
+(a) 
+(b) 
+Figure 2. Examples of image prompts from the occupational attitudes measure. Partici-
+pants were asked “Which of these two people do you think really works as a [(a) com-
+puter programmer] [(b) doctor]?”. There were twelve items total: (a) six items manipu-
+lated gender while holding race constant; (b) six items manipulating race while holding 
+gender constant. 
+To create a quantitative measure of participants’ gender- and race-based occupa-
+tional attitudes, responses from the six gender manipulation items were summed to create 
+a scale that measured participants’ adherence to traditional gender stereotypes about 
+STEM occupations, and responses from the six race manipulation items were summed to 
+create a scale that measured participants’ adherence to traditional racial stereotypes about 
+STEM occupations. For each item, the more stereotypical responses (White or male) were 
+scored as a 1 and the less stereotypical responses (non-White, female, or both) were scored 
+as a 0, such that higher scores on the summed 0–6 scales represented greater adherence to 
+stereotypes. 
+2.6.3. Coding of Open-Ended Responses 
+To explore RQ1, we conducted a qualitative content analysis of participants’ re-
+sponses to the open-ended ‘why’ component of the measure. Qualitative content analysis 
+is an analytical technique that draws on the strengths of both qualitative and quantitative 
+research by first qualitatively assigning codes to each textual unit of analysis and then 
+analyzing the frequency of each code occurrence [52]. Following standard procedures for 
+qualitative content analysis of interview data, responses were first transcribed from audio 
+recordings and researcher notes. Responses were typically one or two sentences long. Two 
+coders, the lead author and a research assistant, then read through the responses and de-
+vised separate preliminary coding schemes from this first pass through the data. Coders 
+then discussed their preliminary coding schemes, compared codes, and reconciled any 
+differences to form a more refined coding scheme. The coders then double coded a sample 
+of the data and established strong inter-rater agreement (Cohen’s ĸ = 0.938, p < 0.001), 
+Figure 2. Examples of image prompts from the occupational attitudes measure. Participants were asked
+“Which of these two people do you think really works as a [(a) computer programmer] [(b) doctor]?”.
+There were twelve items total: (a) six items manipulated gender while holding race constant; (b) six
+items manipulating race while holding gender constant.
+To create a quantitative measure of participants’ gender- and race-based occupational
+attitudes, responses from the six gender manipulation items were summed to create a
+scale that measured participants’ adherence to traditional gender stereotypes about STEM
+occupations, and responses from the six race manipulation items were summed to create a
+scale that measured participants’ adherence to traditional racial stereotypes about STEM
+occupations. For each item, the more stereotypical responses (White or male) were scored
+as a 1 and the less stereotypical responses (non-White, female, or both) were scored as
+a 0, such that higher scores on the summed 0–6 scales represented greater adherence to
+stereotypes.
+2.6.3. Coding of Open-Ended Responses
+To explore RQ1, we conducted a qualitative content analysis of participants’ responses
+to the open-ended ‘why’ component of the measure. Qualitative content analysis is an
+analytical technique that draws on the strengths of both qualitative and quantitative
+research by ﬁrst qualitatively assigning codes to each textual unit of analysis and then
+analyzing the frequency of each code occurrence [52]. Following standard procedures
+for qualitative content analysis of interview data, responses were ﬁrst transcribed from
+audio recordings and researcher notes. Responses were typically one or two sentences long.
+Two coders, the lead author and a research assistant, then read through the responses and
+devised separate preliminary coding schemes from this ﬁrst pass through the data. Coders
+Sustainability 2022, 14, 5631
+9 of 16
+then discussed their preliminary coding schemes, compared codes, and reconciled any
+differences to form a more reﬁned coding scheme. The coders then double coded a sample
+of the data and established strong inter-rater agreement (Cohen’s k = 0.938, p < 0.001),
+before individually coding the remaining responses.
+The ﬁnal coding scheme consisted of 15 codes. The exposure code was given to
+responses that cited the media they’ve consumed, their family, or their own personal
+experience (e.g., “my grandpa is an engineer” or “I saw someone like that on a TV show”).
+There were two codes for race-based responses and two codes for gender-based responses.
+Responses that cited a character’s race or gender to justify choosing the more stereotypical
+option (e.g., “boys are mostly better than girls at math”) were coded as race-stereotypical or
+gender-stereotypical. Responses that cited a character’s race or gender to justify choosing
+the counter-stereotypical option (e.g., “because girls are better than boys at math”) were
+coded as race-counter-stereotypical or gender-counter-stereotypical. The exposure code could be
+combined with these race and gender codes to label responses that expressed race/gender
+stereotypical/counter-stereotypical beliefs due to exposure (e.g., “I saw a movie and the
+girl knew how to use a computer”), resulting in four additional codes: race-stereotypical
+exposure, gender-stereotypical exposure, race-counter-stereotypical exposure, and gender-counter-
+stereotypical exposure. Responses that expressed a belief about equality and picked both
+characters (e.g., “both boys and girls can do it”) were given an equality code. The visual
+characteristics code was given to any response that referred to a speciﬁc visual element of the
+picture (e.g., “he has a book about math” or “he is smiling”). Explanations that were about
+a character’s ability to perform the occupation (e.g., looks smarter, seems stronger, knows
+science/math) were given a skills code. Vague, non-descriptive responses (e.g., “they look
+like it”) were coded as non-committal. When a child did not offer an explanation or said
+“don’t know” when asked why, their response was coded as don’t know. Responses that
+did not ﬁt into any of the aforementioned categories were coded as other. Each response
+could only receive one code, so coders were instructed to choose the code that seemed most
+prominent in the response.
+3. Results
+3.1. Between-Groups Effects
+All analyses were completed using SPSS version 24. Prior to hypothesis testing, we
+used regression analyses to check for differences in all variables of interest by classroom, by
+treatment group, and by researcher who conducted the interview. No signiﬁcant differences
+were found, and therefore these variables were not included as covariates in the analyses.
+To test the ﬁrst two hypotheses, which dealt with differences between treatment
+and control in their change in attitudes over time, we ran Mixed Analyses of Variance
+(ANOVAs). A mixed ANOVA compares the mean differences between groups that have
+been split on two factors, or independent variables, where one is a “within-subjects” factor
+(in this case, time) and the other factor is a “between-subjects” factor (in this case, condition).
+That is, it tests whether there is a signiﬁcant difference in slope of the outcome variable
+from pretest to posttest between the treatment group and control group.
+A 2 × 2 mixed ANOVA was used to test H1, which hypothesized that participants in
+the treatment group would have a more positive change in their gender-based occupational
+STEM attitudes from pretest to posttest than participants in the control group. There was no
+main effect of time (F(1, 45) = 2.28, p = 0.138), no main effect of condition (F(1, 45) = 0.297,
+p = 0.588), and no interaction between time and condition (F(1, 45) = 1.38, p = 0.247).
+A 2 × 2 mixed ANOVA was used to test H2, which hypothesized that participants in
+the treatment group would have a more positive change in their race-based occupational
+attitudes from pretest to posttest than participants in the control group. There was no
+main effect of time (F(1, 46) = 0.575, p = 0.452), no main effect of condition (F(1, 46) = 1.32,
+p = 0.257), and no interaction between time and condition (F(1, 46) = 1.20, p = 0.280). Taking
+the results of H1 and H2 together, we ﬁnd that children who watched Cyberchase did not
+Sustainability 2022, 14, 5631
+10 of 16
+experience a measurable broadening of their race- or gender-based occupational attitudes
+about who participates in STEM, compared to children in the control group.
+3.2. Open-Ended Occupational Responses
+Responses to the ‘why’ component of the occupational attitudes measure were coded
+to investigate RQ2. There was no observable difference of the frequency of any type of
+response between the treatment and control groups. Of all the types of responses, don’t
+know was the most common, making up 26.4% of all 1152 responses. The following results
+exclude don’t know results and look at the responses of both the treatment and control
+groups together.
+For items that manipulated gender, responses that cited visual characteristics of the
+character were most common, making up 42.9% of the 438 responses. Children would
+often point to a character’s backpack or book as a reason why they were more likely to
+hold a STEM occupation, despite the fact that both characters had a backpack and a book.
+Gender-stereotypical responses made up 7.1% (n = 31) of the total. Children who gave these
+responses either talked about how it was normally boys who did science and built things
+(e.g., “because I thought only boys could study bugs or trees or leeches”, “because girls
+usually aren’t interested in building things”) or how girls did not belong in the profession
+(e.g., “because girls weren’t expected to do it. They were expected to be nurses. Having
+a job was off-limits”). Only 2.7% (n = 12) of the total responses were gender-counter-
+stereotypical. The majority of these were expressed in relation to exposure (e.g., “because
+one of my great grandmas was an engineer”, “I keep watching shows about girls doing
+engineer stuff . . . I also watched a movie about it. It was a Ghost Busters movie . . . one of
+the girls was an engineer”). Non-committal responses made up 22.8% and skills responses
+made up 12.3% of the total 438 responses. Only 1.8% (n = 8) of responses expressed a belief
+about equality. 9.4% of responses did not ﬁt into any other category and were coded as
+other. See Table 2 for the breakdown of frequencies of each code.
+Table 2. Qualitative Codes for Gender-Based Occupational Attitude Responses.
+Code
+Frequency
+Percent
+Visual characteristics
+188
+42.9
+Non-committal
+100
+22.8
+Skills
+54
+12.3
+Other
+41
+9.4
+Gender-stereotypical
+28
+6.4
+Equality
+8
+1.8
+Gender-counter-stereotypical exposure
+7
+1.6
+Exposure only
+5
+1.1
+Gender-counter-stereotypical
+5
+1.1
+Gender-stereotypical exposure
+3
+0.7
+Total
+438
+100
+Note: This table excludes don’t know responses.
+For items that manipulated race, responses that cited visual characteristics were also
+most common, making up 33.9% of the 410 responses. As with questions about gender,
+children often used books and backpacks to differentiate the characters, despite the fact
+that both characters had identical accessories. Race-stereotypical responses made up 7.1%
+(n = 29) of the total. There were a variety of justiﬁcations for these responses. Some
+children held ideas that linked race to ability (e.g., “White skinned people take extra
+care of their people [patients]”), a few children held ideas about whether a particular
+job was appropriate for Black people (e.g., “Because doctors don’t accept Blacks into
+medical school—Blacks don’t get very good jobs”), and a couple of children came up with
+nonsensical explanations (e.g., “he had White skin, so rain won’t show on his hands” as an
+explanation for picking a White pilot over a Black pilot). Only 1.5% (n = 6) of responses were
+race-counter-stereotypical (e.g., one child thought that it was “mostly Black people who go
+Sustainability 2022, 14, 5631
+11 of 16
+to become doctors”). Non-committal responses made up 29.5%, and skills responses made
+up 14.4% of the total. Beliefs about equality were expressed in 2.9% (n = 12) of responses,
+and 9.8% of responses did not ﬁt into any other category and were coded as other. See
+Table 3 for the breakdown of frequencies of each code.
+Table 3. Qualitative Codes for Race-Based Occupational Attitude Responses.
+Code
+Frequency
+Percent
+Visual characteristics
+135
+33.9
+Non-committal
+121
+29.5
+Skills
+59
+14.4
+Other
+40
+9.8
+Race-stereotypical
+24
+5.9
+Equality
+12
+2.9
+Race-stereotypical exposure
+5
+1.2
+Exposure
+4
+1.0
+Race-counter-stereotypical
+4
+1.0
+Gender-stereotypical
+3
+0.7
+Race-counter-stereotypical exposure
+2
+0.5
+Gender-counter-stereotypical
+1
+0.2
+Total
+410
+100
+Note: This table excludes don’t know responses.
+Across the gender and race questions, responses that cited skills often talked about
+‘knowing’ and ‘smartness’. One other oft-cited skill was strength, though this was ex-
+clusively in relation to questions about being an engineer. There were no observable
+differences in the frequency of any type of response between pre-test and post-test for the
+treatment group or the control group.
+4. Discussion
+4.1. Summary and Interpretation of Results
+The importance of a diverse and technologically skilled workforce for our future
+existence has been well documented in the sustainability literature [2,53,54]. Thus, many
+programs have been developed in recent years to engage girls and children from diverse
+backgrounds in STEM from an early age. One way to reach children en masse is via the mass
+media. Speciﬁcally, curriculum-backed public television has been shown to have positive
+effects on children’s learning across many domains. Yet, connections between STEM-
+focused educational television and young children’s career interests and aspirations have
+been yet untested. To investigate the effect of repeated exposure to a counter-stereotypical
+STEM show on children’s occupational attitudes about who participates in STEM and
+hold STEM careers, we conducted a pre/post-, between-subjects experimental study with
+48 children in kindergarten and ﬁrst grades. For eight weeks, participants in the treatment
+group regularly viewed episodes of Cyberchase, a children’s television program that models
+high levels of STEM engagement from a diverse group of characters. Participants in the
+control group went about business as usual. All participants completed assessments before
+and after the eight-week exposure period.
+Our two hypotheses were not supported. Analyses revealed no signiﬁcant differences
+between treatment and control groups in their change in occupational attitudes. There was
+also no main effect of time; for both treatment and control groups, attitudes, on average,
+did not change from pretest to posttest. This was true whether students started out with
+high or low attitudes, was true for boys and girls, as well as for younger and older children.
+However, to probe this issue a bit further and investigate children’s reasoning behind
+their responses, we conducted an exploratory qualitative content analyses of children’s
+open-ended responses to the occupational attitudes measure. The results across gender
+and race questions were very similar. With both kinds of questions, many children pointed
+to superﬁcial visual characteristics of the images to explain their choices. Additionally,
+Sustainability 2022, 14, 5631
+12 of 16
+many children also gave non-committal responses, which might reﬂect their inability or
+reluctance to articulate ideas of race and gender or their compulsion to give an answer for
+the sake of the researcher. Only a minority of children articulated ideas about race and
+gender, but when they did, it was most-often in a stereotypical way. Of those gender- and
+race-based responses, a recurrent theme was that their belief was based on some kind of
+exposure; a handful of children cited media they had consumed, some referred to what
+their family members did, and others mentioned what they had seen personally.
+It was clear that these open-ended data presented a very different picture than the
+closed-ended response data. Unlike with our quantitative measure of attitudes, which did
+not show any clear patterns, explicit race and gender stereotypes were quite prevalent
+in children’s open-ended responses, showing that children in this age group do express
+constrained beliefs about who participates in STEM. Encouragingly, there were also some
+counter-stereotypical ideas put forth by the children, such as expressions of equality and
+efﬁcacy for all types of people to participate in STEM. However, these were much less
+frequent than the stereotypical responses. As with the quantitative measure, there did not
+appear to be any differences between responses from participants in the treatment and
+control groups. Taken together, these ﬁndings provide valuable contributions to theory and
+practice, but must be considered in light of some study limitations.
+4.2. Limitations
+The sample for this study was limited in several ways. First, the sample size was
+relatively small and may not have been sufﬁcient for detecting small effects. Though
+the target sample size was larger, the time-intensive nature of the data collection made
+it impossible to recruit more participants. Additionally, though we made an effort to
+recruit childcare centers who cater to diverse families, and indeed had a racially diverse
+sample, there was not much socioeconomic diversity within the sample. Participants’
+parents reported relatively high education levels and household incomes. The hypotheses
+and research questions presented here should be further explored with a larger and more
+socioeconomically diverse sample in order to make more generalizable claims and to have
+more conﬁdence in the observed results.
+There were also some methodological limitations to this study. Most notably, the
+measure of occupational attitudes was created speciﬁcally for this study and therefore
+had not been previously validated. Since other studies have successfully used Implicit
+Association Tests (IATs) with young children, future research should utilize an IAT to
+investigate implicit gender- and race-based STEM occupational attitudes. There is also an
+inherent limitation of using only one stimulus program rather than a variety of television
+shows as stimuli. The effects of this study may be speciﬁc to the program, and thus, may
+not be generalizable to educational STEM television in general.
+Finally, it should be noted that discussions of race and gender are highly subjective
+to the culture in which they are being discussed. The measures used in this study were
+chosen and developed speciﬁcally for a U.S. context. However, the research questions
+addressed are certainly globally relevant; researchers investigating these questions in
+different geographic contexts should be sure to use culturally appropriate adaptations of
+the measures used here.
+4.3. Theoretical and Methodological Contributions
+Despite these limitations, the results of this study provide valuable contributions
+to our understanding of the early development of race- and gender-based occupational
+attitudes. Overall, these ﬁndings suggest that a single counter-stereotype, even with
+repeated exposure, may not be strong enough to override the stereotypical occupational
+schema that are already in place by kindergarten. This runs counter to effects predicted
+by the drench hypothesis, put forth by Greenberg [55], which posits that a few critical
+portrayals of non-traditional roles can alter stereotypical attitudes. Greenberg argues that
+exposure to just a few salient counter-stereotypical portrayals can cut through the buildup
+Sustainability 2022, 14, 5631
+13 of 16
+of traditional stereotypes to produce attitude change in viewers. The drench hypothesis was
+created in contrast to the drip hypothesis, which states that the dominant stereotype-laden
+content present in our provides a steady drip of stereotyped media portrayals, reinforcing
+and cultivating stereotype-based attitudes. There has been some empirical evidence that
+supports the drench hypothesis [56–59]. However, the results of this study suggest that
+the effects of the stereotypical ‘drip’ might in fact be too powerful to be overridden by a
+counter-stereotypical ‘drench’.
+This is much in line with what Bond [37] discovered. In his study of six- to nine-year-
+old girls, videos depicting stereotypical portrayals of women were very effective at altering
+participants’ attitudes to be less favorable towards STEM. However, videos depicting
+counter-stereotypical portrayals were not effective at creating more favorable attitudes
+towards STEM. Bond explains that this is likely due to the fact that stereotypical gender
+schemata are already so strongly in place in children’s minds that new information that
+maps onto those schemata is easily processed by the brain. However, without pre-existing
+schemata to map onto, the counter-stereotypical images did not have as strong of an effect.
+One important nuance to consider is that previous studies that found support for the
+drench hypothesis looked at outcome measures such as recall of a counter-stereotypical
+character portrayal [56,59], or self-reported familiarity and comfort with an outgroup [57,58].
+This study, like Bond’s [37], went a step further to see if those counter-stereotypes could
+actually impact attitudes. Considering these findings together, it seems likely that the drench
+of a counter-stereotype may be helpful for recall and familiarity, but not as effective for truly
+altering people’s worldviews.
+In terms of effective exposure periods, this study adds to extant literature on television
+exposure and STEM attitudes by moving beyond a single exposure and looking at repeated
+exposure over the course of eight weeks. Eight weeks has been shown to be a sufﬁcient
+time period for other similar media interventions [50,60], however, in this study we did
+not observe such effects. Cultivation theory does suggest that it is cumulative exposure
+over years that affects the way people view the world. Thus, in the case of changing
+occupational schema, it may be that even eight weeks is not a long enough exposure
+period. Future research should investigate the effects of even longer-term exposure to
+counter-stereotypical character portrayals to see if there might be more measurable effects.
+5. Conclusions
+In sum, this multi-method analysis of the effects of educational television on children’s
+gender- and race-based STEM occupational attitudes provides nuanced, but important
+insights. The quantitative measure of attitudes did not reveal any patterns or trends, which
+may be an indication that these attitudes towards STEM careers are not yet strongly formed
+for children in this age group. Prior work has shown that by age six, children do have ideas
+in place about which genders and races perform certain occupations [25,26], but this had
+not been examined speciﬁcally in the STEM context. It may be that children are not familiar
+enough with STEM occupations to have strong ideas about who should perform them.
+Analysis of participants’ open-ended responses showed that exposure is an important
+precursor to attitudes; when children had gender- or race-based beliefs about who should
+hold certain occupations, it was most often because they either personally knew someone
+who holds that occupation or had seen a relevant portrayal on TV or in a movie. Theories
+based in psychology and communication science certainly suggest that media can be a
+useful tool for pushing us towards a sustainable future, particularly in terms of children’s
+interest in STEM. This study serves as a useful starting point, but more research is needed to
+continue to investigate this relationship between media exposure, children’s occupational
+schema, and their eventual decisions about whether or not to pursue and persist in STEM.
+Author Contributions: Conceptualization, F.A.; methodology, F.A.; formal analysis, F.A. and Y.K.;
+writing—original draft preparation, F.A.; writing—review and editing, F.A., A.R.L., Y.K. and E.W.;
+project administration, F.A. and A.R.L.; funding acquisition, E.W. All authors have read and agreed
+to the published version of the manuscript.
+Sustainability 2022, 14, 5631
+14 of 16
+Funding: This research was supported by a grant from the National Science Foundation Reese Pro-
+gram, DRL-1252121 to Ellen Wartella. Any opinions, ﬁndings, and conclusions or recommendations
+expressed in these materials are those of the author(s) and do not necessarily reﬂect the views of the
+National Science Foundation.
+Institutional Review Board Statement: The study was conducted in accordance with the Declaration
+of Helsinki and approved by the Institutional Review Board of Northwestern University (Study ID
+STU00204780).
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the
+study. Parents provided written consent for their children to participate, and children provided
+verbal assent.
+Data Availability Statement: Not applicable.
+Acknowledgments: The authors are grateful to the families that participated in this research, the
+childcare centers and directors who helped facilitate the data collection, and the members of the
+Center on Media and Human Development who helped with data collection efforts.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.

@@ -1,0 +1,558 @@
+El‑Hamamsy et al. 
+International Journal of STEM Education  (2023) 10:60 
+https://doi.org/10.1186/s40594‑023‑00438‑3
+RESEARCH
+Open Access
+© The Author(s) 2023, corrected publication 2023. Open Access  This article is licensed under a Creative Commons Attribution 4.0 
+International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes 
+were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To 
+view a copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.
+International Journal of
+STEM Education
+How are primary school computer science 
+curricular reforms contributing to equity? 
+Impact on student learning, perception 
+of the discipline, and gender gaps
+Laila El‑Hamamsy1,2*  , Barbara Bruno3, Catherine Audrin4, Morgane Chevalier4, Sunny Avry2, 
+Jessica Dehler Zufferey2 and Francesco Mondada1,2 
+Abstract 
+Background Early exposure to Computer Science (CS) and Computational Thinking (CT) for all is critical to broaden 
+participation and promote equity in the field. But how does the introduction of CS and CT into primary school cur‑
+ricula impact learning, perception, and gaps between groups of students?
+Methodology We investigate a CS‑curricular reform and teacher Professional Development (PD) programme 
+from an equity standpoint by applying hierarchical regression and structural equation modelling on student learn‑
+ing and perception data from three studies with, respectively, 1384, 2433 and 1644 grade 3–6 students (ages 7–11) 
+and their 83, 142 and 95 teachers.
+Results Regarding learning, exposure to CS instruction appears to contribute to closing the performance gap 
+between low‑achieving and high‑achieving students, as well as pre‑existing gender gaps. Despite a lack of direct 
+influence of what was taught on student learning, there is no impact of teachers’ demographics or motivation on stu‑
+dent learning, with teachers’ perception of the CS‑PD positively influencing learning. Regarding perception, students 
+perceive CS and its teaching tools (robotics, tablets) positively, and even more so when they perceive a role model 
+close to them as doing CS. Nonetheless, gender differences exist all around with boys perceiving CS more positively 
+than girls despite access to CS education. However, access to CS‑education affects boys and girls differently: larger 
+gender gaps are closing (namely those related to robotics), while smaller gaps are increasing (namely those related 
+to CS and tablets).
+Conclusion This article highlights how a CS curricular reform impacts learning, perception, and equity and sup‑
+ports the importance of (i) early introductions to CS for all; (ii) preparing teachers to teach CS all the while removing 
+the influence of teacher demographics and motivation on student outcomes; and (iii) having developmentally appro‑
+priate activities that signal to all groups of students.
+Keywords Computer science, Curricular reform, Elementary education, Learning achievement, Computational 
+thinking, Perception survey, Equity, Gender gaps
+*Correspondence:
+Laila El‑Hamamsy
+laila.elhamamsy@epfl.ch
+Full list of author information is available at the end of the article
+Page 2 of 43
+El‑Hamamsy et al. International Journal of STEM Education  (2023) 10:60
+Introduction and related work
+Introducing computer science and computational thinking 
+for all from an equity perspective
+The past decades have seen a growing international con-
+sensus regarding the importance of teaching Computer 
+Science (CS) and Computational Thinking (CT) to ensure 
+that students are digitally literate (Webb et  al., 2017). 
+Computing is increasingly ubiquitous in today’s societies, 
+thus leading to CS being more and more often consid-
+ered as a subset of STEM education which must be ren-
+dered as available to students as mathematics or science 
+education (Guzdial & Morrison, 2016). Introducing CS 
+into formal education is also considered to foster Com-
+putational Thinking (CT), an essential skill for everyone 
+in the twenty-first century (Jiang & Wong, 2022; Zhang 
+et  al., 2023) which is as important as reading, writing, 
+and arithmetics (Wing, 2006). Teaching CT is not only 
+considered by researchers to benefit STEM-related dis-
+ciplines (Hurt et al., 2023; Swaid, 2015), but is also con-
+sidered transversal. The benefits of CT are thought to go 
+beyond CS or mathematics (Denning & Tedre, 2021; Li 
+et al., 2020; Mannila et al., 2014; Weintrop, 2021; Wein-
+trop et  al., 2016; Zhang et  al., 2023), extending to arts 
+(Zhang et  al., 2023), with new evidence even showing 
+that young students employ CT during free play (Kot-
+sopoulos et al., 2022), thus providing an additional lever 
+to introduce both CS and CT to all. Although studies on 
+K-12 CS education and CT have increased significantly in 
+recent years (Apiola et al., 2023; Bers et al., 2022b; Hsu 
+et al., 2018), introducing CS and CT into curricula has 
+been a challenge internationally.
+Ottenbreit-Leftwich 
+and 
+Yadav 
+(2022) 
+recently 
+expressed the importance of a “system-wide implemen-
+tation of CT” from an equity perspective to ensure that 
+all students are introduced to CT, and not just those of 
+a select number of teachers who choose to teach CT. 
+This is echoed by Bers et al. (2022b) who advocate that 
+exposure to CS and CT should happen in early founda-
+tional years (ages 3–8) “from a social equity perspective 
+to prevent stereotypes and ensure [that] all young chil-
+dren receive equal opportunities to develop their digital 
+literacy”. Two key points emerge from this discourse and 
+must be addressed to broaden participation and promote 
+equity in these fields:
+• Structural barriers are access-related and limit (early) 
+CS and CT experiences for all, but can be addressed 
+through curricular reforms (Ottenbreit-Leftwich & 
+Yadav, 2022).
+• Social barriers, often stereotype (and therefore gen-
+der) related, arise despite equal access and regardless 
+of socioeconomic status (Wang & Hejazi Moghadam, 
+2017), but can be addressed through early exposure 
+to mitigate the effects of existing stereotypes (Bers 
+et al., 2022b).
+The consequence of social and structural barriers is that 
+disparities are present at multiple levels, including per-
+formance (i.e. learning) and attitudes towards CS (i.e. per-
+ception). Such disparities ultimately contribute to having 
+under-represented groups in CS and CT-related fields, 
+and must therefore be addressed in order to increase the 
+likelihood that a more diverse and inclusive set of people 
+persist in these fields. In the following sections, we delve 
+into the literature and highlight the disparities that exist 
+due to such barriers, particularly in terms of learning and 
+perception.
+The influence of social and structural barriers 
+on learning‑related equity
+Several studies have shown that unequal access to (high-
+quality) CS education (Bers et al., 2022b; Wang & Hejazi 
+Moghadam, 2017)  contributes to performance gaps. In 
+particular, a recent large-scale analysis of performance 
+with 46,000 students from 14 countries conducted by 
+Karpinski et  al. (2021) found that socioeconomic back-
+ground, and therefore access, was related to persistent 
+gaps in CT performance. Their findings indicated that 
+students from “less advantaged backgrounds had lower 
+levels of computer skills [...], especially in CT” (Karpin-
+ski et al., 2021). Unfortunately, regardless of access, sev-
+eral studies have found that boys perform better than 
+girls (El-Hamamsy et al., 2022c; Kong & Lai, 2022b; Polat 
+et al., 2021; Román-González et al., 2017), even in kin-
+dergarten (Sullivan & Bers, 2016), due to the existence 
+of stereotypes (see “ The influence of social and struc-
+tural barriers on equity related to the perception of the 
+discipline”).
+Although access to developmentally appropriate CS & 
+CT education can increase students’ skills from a young 
+age (Bers et al., 2014; 2022a, b; Hall & McCormick, 2022; 
+Relkin et al. 2021), several studies suggest that perception 
+of the discipline can also influence performance (Hinckle 
+et al., 2020; Rachmatullah et al., 2022; Sun et al., 2022). 
+Rachmatullah et  al. (2022) for instance found that the 
+gender-performance gap was more prevalent in coun-
+tries where the “socio-cultural context” tends to promote 
+such stereotypes and “influenc[e] gender diversity in the 
+CS field”. Their findings are corroborated by Hinckle et al. 
+(2020) who found that student learning was not directly 
+influenced by prior experience, but was mediated by their 
+perception of CS. Numerous studies in higher educa-
+tion have also found that motivational and affective fac-
+tors influence performance and participation in the field 
+(Lishinski et  al., 2022), and that they are influenced by 
+Page 3 of 43
+El‑Hamamsy et al. International Journal of STEM Education  (2023) 10:60
+ 
+gender and ethnicity (Lishinski et al., 2022; Warner et al., 
+2022). These studies confirm the importance of:
+• developing CS and CT initiatives that broaden par-
+ticipation to all students,
+• considering their impact on performance and per-
+ception to verify whether the gaps between different 
+groups of participants are decreasing.
+The influence of social and structural barriers on equity 
+related to the perception of the discipline
+Perception-related biases are considered to contribute 
+to disparities and under-representation in CS for women 
+(Rachmatullah et  al., 2022; Wang & Hejazi Moghadam, 
+2017), and more generally for under-represented minori-
+ties (Lishinski et al., 2022; Warner et al., 2022), due to ste-
+reotype threat (i.e. conforming to/inducing a stereotype 
+simply because you know it exists). Unfortunately, the 
+developmental literature has found that basic stereotypes 
+develop in children as young as 2–3 years old (Bers et al., 
+2022b). This is confirmed by multiple studies that identi-
+fied CS-related stereotypes in young children (e.g. start-
+ing 6 years old, Master et al. 2021, and even kindergarten, 
+Sullivan & Bers, 2016). The result is that when students 
+are exposed to negative CS-stereotypes, students in the 
+stereotyped group (e.g. girls in this case) tend to endorse 
+those beliefs (Plante et al., 2013; Vandenberg et al., 2021) 
+which negatively impacts their performance, motiva-
+tion, and career intentions (Master & Meltzoff, 2020; 
+Plante et al., 2013; Vandenberg et al., 2021). For instance, 
+Cheryan et al. (2013) found that women who were pre-
+sented non-stereotypical views on computer scientists 
+were more likely to express an interest in majoring in 
+CS. Therefore, students may make early career decisions 
+informed by such stereotypes, contributing to an early 
+gender gap (Wang & Hejazi Moghadam, 2017), and long-
+term disparities in the fields of CS and engineering (Mas-
+ter et al., 2021).
+As gender-related stereotypes are prevalent, it is not 
+surprising that numerous studies find that girls perceive 
+CS more negatively than boys (El-Hamamsy et al., 2023c; 
+Kong et al., 2018; Vandenberg et al., 2021; Witherspoon 
+et al., 2016), contributing to a lower sense of belonging 
+(Cheryan et  al., 2013, 2017; Opps & Yadav, 2022; Van-
+denberg et  al., 2021), self-efficacy (Beyer, 2014; Kong 
+et al., 2018; Vandenberg et al., 2021), and interest (Beyer, 
+2014; Master et  al., 2021). Provided the importance of 
+such factors for academic achievement and career deci-
+sions (Bandura, 1993; Beyer, 2014; Howard et al., 2021a; 
+Olivier et al., 2019), the consequence is that CS “suffers 
+from the lowest participation of girls than other sci-
+ence, technology, engineering, and mathematics (STEM) 
+subjects (Cheryan et al., 2017)" (Hinckle et al., 2020; Jiang 
+& Wong, 2022). As prior experience may positively affect 
+attitudes toward CS (Hinckle et  al., 2020), researchers 
+have suggested that engaging early in CS-related activi-
+ties that “signal equally to both girls and boys that they 
+belong and can succeed” (Cheryan et  al., 2017) in CS, 
+may increase girls’ interest, and ultimately contribute to 
+addressing gender equity in the field (Cheryan et al. 2017; 
+Hinckle et  al., 2020; Jiang & Wong, 2022). Therefore, 
+in the rest of the article we refer to perception-related 
+equity as the reduction of the influence of stereotypes 
+around CS & CT that lead to biases between groups of 
+people (namely gender) and may influence their motiva-
+tion, engagement, participation and persistence in these 
+fields.
+How are CS and CT curricular reforms having an impact 
+and contributing to equity in these fields?
+Early CS and CT opportunities for all students are essen-
+tial to address structural and social barriers, broaden 
+CS participation, and promote equity in the field. An 
+increasing number of initiatives have therefore sought to 
+include CS and CT in compulsory K-12 worldwide (Bal-
+anskat & Engelhardt, 2015; Bers et  al., 2022b; Bocconi 
+et al., 2022;  European Union and Education, 2019; Hub-
+wieser et al., 2015; Voogt et al., 2015; Webb et al., 2017). 
+In this context, it is essential to establish how such initia-
+tives affect students (Guskey, 2002). This should extend 
+beyond learning to include perception, and investigate 
+how these dimensions interrelate (Hinckle et  al., 2020) 
+to ensure that expanding CS to K-12 “neither exacerbates 
+existing equity gaps in education nor hinders efforts to 
+diversify the field of CS” (Wang & Hejazi Moghadam, 
+2017). The student-level impact of widespread CS and 
+CT curricular reforms, and professional development 
+(PD) programmes, is however seldom evaluated. “Stud-
+ies that relate student’s learning achievement and teach-
+ers’ capacity building are still rare in the literature of CT 
+(Mason & Rich, 2019)” (Kong & Lai, 2022a). This is likely 
+due to the difficulties countries face implementing CS & 
+CT reforms, including adequately training a sufficient 
+number of teachers to teach the new concepts (Bocconi 
+et  al., 2022; El-Hamamsy et  al., 2021b). Difficulties of 
+assessing teachers’ mastery of Computational Pedagogi-
+cal Content Knowledge (Hickmott & Prieto-Rodriguez, 
+2018), and what is implemented after PD programmes 
+(El-Hamamsy et al., 2022a) also exist, despite their direct 
+influence on student learning (Kong & Lai, 2022a). To the 
+best of our knowledge, only Kong & Lai (2022a) linked 81 
+teachers’ content knowledge with 3226 students’ achieve-
+ment in their evaluation of a PD programme. However, 
+these teachers chose to participate in the PD programme 
+and were required to teach a year-long curriculum. This 
+Page 4 of 43
+El‑Hamamsy et al. International Journal of STEM Education  (2023) 10:60
+differs significantly from mandatory curricular reform 
+contexts, where the PD programme is imposed on all 
+teachers, resulting in teachers who implement the peda-
+gogical content to varying degrees, if at all. Since a pre-
+requisite to achieving equity is that CS-related reforms 
+have an impact, the lack of studies evaluating the impact 
+of CS reforms means that there is little insight into 
+whether these reforms are contributing to equity and 
+reducing learning and perception gaps between different 
+groups of students.
+Since a “K-12 curriculum is a zero-sum game, where 
+adding a subject means [removing] something” (Otten-
+breit-Leftwich & Yadav, 2022), it is essential to establish 
+the effectiveness of implementing CS & CT curricula in 
+formal education. Evaluating a reform’s effectiveness is 
+critical given:
+• the need to improve corresponding PD programmes 
+and curricula (Hickmott & Prieto-Rodriguez, 2018),
+• the objective of sustaining the reform in teachers’ 
+practices (Hubers, 2020),
+• the importance of alleviating concerns of fund-
+ing agencies and government bodies regarding the 
+impact of the reform and PD programme on teachers 
+(Hickmott & Prieto-Rodriguez, 2018) and students.
+Studies evaluating the impact of reforms are even more 
+pressing since recent findings indicate that teachers are 
+not necessarily convinced that their students are learning 
+as a result of teaching these novel curricula (El-Hamamsy 
+et  al., 2023b; Toh, 2016) . Establishing the benefits at 
+the student-level is therefore not only necessary to have 
+a complete evaluation of reforms (Avry et  al., 2022; 
+El-Hamamsy et  al., 2023b; Guskey, 2000), but is essen-
+tial if the objective is to promote teachers’ decisions to 
+continue to implement a new practice in the long term 
+(Howard et al., 2021b; Klingner et al., 2001).
+Problem statement and research questions
+The present study therefore looks to contribute to under-
+standing the influence of CS curricular reforms on stu-
+dent learning and perception and determining to what 
+extent they contribute to equity with respect to: (i) gen-
+der, i.e. reducing significant differences between boys’ 
+and girls’ perception and performance; (ii) performance, 
+i.e. reducing significant differences between initially low 
+and high performers; and (iii) self-efficacy, i.e. reducing 
+significant differences between students who have low 
+or high self-efficacy. Please note that although the main 
+focus of the article is on the former equity dimensions, 
+one must not neglect the importance of equity in terms 
+of socioeconomic status (Vandenberg et al., 2021; Wang 
+& Hejazi Moghadam, 2017), a dimension which we did 
+not have access to in the present context.
+We propose to address the overarching question of 
+equity in two steps: first investigating whether and how 
+the reform significantly influences perception and learn-
+ing (impact), and then how the results differ according 
+to student populations (equity). To that effect, we inves-
+tigate the impact of a mandatory CS curricular reform 
+and teacher PD programme (see “Context: a computer 
+science curricular reform for all to promote equity start-
+ing primary school”) to understand whether and how 
+the primary school Computer Science curricular reform 
+is contributing to reaching equity goals (i.e. broadening 
+participation in the field to a larger number and a more 
+diverse set of people). We therefore consider the follow-
+ing research questions: 
+(RQ1) 
+ How does teaching CS pedagogical con-
+tent1 impact student learning? And how 
+does it impact learning-related gender- and 
+performance-equity?
+(RQ2) 
+ How does teaching CS pedagogical content 
+impact students’ perception of CS and the tools 
+used to teach it (i.e. robots and tablets)? And 
+how does it impact perception-related self-effi-
+cacy and gender-equity?
+To answer these questions, we employ data collected 
+between January 2021 and June 2022 in the context of 
+a mandatory primary school CS-curricular reform that 
+is presently being deployed to all grade 1–6 teachers in 
+the region after a piloting phase. The data stem from 
+three studies (see Table 1), the first on student learning 
+(RQ1), the second on perception of the discipline and 
+performance (RQ1, RQ2), and the third on perception 
+of the discipline (RQ2). These studies involved, respec-
+tively,  n1 = 1384 , n2 = 2433 and n3 = 1644 grade 3–6 
+students (ages 7–11) and their n1 = 83 , n2 = 142 and 
+n3 = 95 teachers. The data are analysed through hierar-
+chical linear modelling for student learning, and Struc-
+tural Equation Modelling for perception, to establish 
+the link between teaching CS and these key outcome 
+variables.
+Context: a computer science curricular reform 
+for all to promote equity starting at primary school
+The research is part of a large-scale project seeking to 
+introduce Digital Education (also referred to as Com-
+puting Education) as a new discipline for all students in 
+1 CS pedagogical content refers to pedagogical activities that intend to teach 
+students about CS, as opposed to those that employ CS as a tool to teach in 
+other disciplines.
+Page 5 of 43
+El‑Hamamsy et al. International Journal of STEM Education  (2023) 10:60
+ 
+the Canton of Vaud in Switzerland (El-Hamamsy et al., 
+2021b). The curricular reform relies on the collabora-
+tion between four institutions in the region (the depart-
+ment of education, the university of teacher education, a 
+higher education university and the technical university) 
+within a research practice partnership to develop the 
+curriculum and corresponding mandatory teacher-PD 
+programme for CS, Information and Communication 
+Technology and Digital Citizenship. To ensure the sus-
+tainability and scalability of the reform, the project began 
+with a piloting phase with 10 representative schools from 
+the region (hereby referred to as CS-schools) before 
+large-scale deployment. The CS-curriculum and teacher 
+PD-programme was piloted for the first time and itera-
+tively adjusted for grades 1–4 in 2018–2019, and for 
+grades 5–6 in 2019–2020, with all the teachers from the 
+10 CS-schools (approximately ngrades1−4 = 350 , and 
+ngrades5−6 = 180)2. This resulted in a reference manual3 
+containing pedagogical activities (for CS, ngrades1−4 = 13 , 
+ngrades5−6 = 12 ) that the teachers can choose from to 
+achieve the curricular objectives (in terms of algorithms 
+and languages, machines and networks, information 
+and data, and the impact of CS on society). The teachers 
+were trained to teach these activities during a mandatory 
+CS-PD that they participated in prior to the present study 
+and were encouraged to teach the novel discipline which 
+is now part of the regional study plan. They were how-
+ever not required to do so. Given that in primary school 
+there is no dedicated hour in the grid for Digital Educa-
+tion (and thus CS), and that the discipline is not evalu-
+ated, this leads to a large variability in both what and 
+how much is taught. This therefore required analysing 
+the student-level impact of the curricular reform, and the 
+influence being taught specific pedagogical content by 
+teachers (which we refer to as adoption). While the ini-
+tial focus was on student learning (see study 1 in “Study 
+1: student learning and the link with what teachers from 
+the CS-schools implemented”), a parallel pilot study in 
+grade 9 (ages 13–14) in Spring 2021 indicated that there 
+were already significant perception-related gender gaps 
+(El-Hamamsy et al., 2023c). This lead to the introduction 
+of a student perception survey in Fall 2021 (see studies 2 
+and 3 in “Study 2: student perception, the link with what 
+teachers from the CS-schools implemented, and correla-
+tions with performance” and “Study 3: student perception 
+between CS-schools and schools where teachers were 
+not yet trained to teach computer science”) to determine 
+when gender gaps appear and whether teaching CS con-
+tributes to closing these gaps.
+Study 1: student learning and the link with what 
+teachers from the CS‑schools implemented
+Methodology (study 1)
+Participants and data collection (study 1)
+The first study follows all the grade 3–4 students from 
+7 CS-schools over 6 months to evaluate learning in a 
+pre- post-test design. These students were all introduced 
+to CS for the first time during the 2018–2019 academic 
+year and therefore had approximately 2 years of prior 
+CS experience. The objective of the study was therefore 
+to see to what extent these students progressed over that 
+time period in relation to what they were taught. Given 
+the scale of the study, the objective was to focus on a sub-
+set of the learning objectives that could be measured in a 
+valid and reliable way, and at a large scale, in grades 3–6. 
+We therefore chose to focus on the CT-concepts defined 
+Table 1 Synthesis of the three studies evaluating the impact of the CS‑curricular reform at the student‑level
+Study 1: learning
+Study 2: perception and 
+performance
+Study 3: perception
+Date
+January and June 2021
+November 2021
+June 2022
+Grades
+3–4 (ages 7–9)
+3–6 (ages 7–11)
+3–6 (ages 7–11)
+Number of schools
+7 CS‑schools
+7 CS‑schools
+3 CS‑schools and 2 
+non‑CS‑schools
+Number of teachers
+83
+142
+95
+Number of students
+1384
+2433
+1644
+Student—CT‑concepts
+x
+x
+Student—perception of CS
+x
+x
+Teacher—perception of CS
+x
+Teacher—activities taught
+x
+2 The up-to-date Computer Science curriculum can be accessed at https:// 
+www. pland etudes. ch/ web/ guest/ educa tion- numer ique
+3 The 2021–2022 version of the pedagogical content can be accessed at 
+https:// www. vd. ch/ filea dmin/ user_ upload/ accue il/ Commu nique_ presse/ 
+decod age. pdf.
+Page 6 of 43
+El‑Hamamsy et al. International Journal of STEM Education  (2023) 10:60
+by Brennan and Resnick (2012)4 which align with the 
+region’s CS curricular objectives (sequences, loops, con-
+ditionals, and while statements), all the while considering 
+what the teachers taught between the pre- and post-tests. 
+To that effect, we employed the competent Computa-
+tional Thinking test (cCTt, El-Hamamsy et al., 2022c), a 
+25-item CT-concepts’ assessment (see example questions 
+in Fig.  1) originally developed and validated for grades 
+3–4 that evaluates CS concepts of sequences, loops, if-
+else statements and while statements. This instrument 
+was later validated for grades 3–6, including a Differen-
+tial Item Functioning analysis which demonstrates that 
+the cCTt is not biased towards genders (i.e. it is gender 
+fair) and can therefore be used to measure significant dif-
+ferences between boys’ and girls’ responses (El-Hamamsy 
+et al., 2023d).
+The student-learning data were complemented by data 
+on teachers’ perception of CS and the CS-PD acquired in 
+January 2021, and data regarding what teachers taught 
+(which we refer to as adoption) between January and 
+June 2021 (see Table 2). The adoption data are based on 
+the activities that the teachers were introduced to dur-
+ing their CS professional development programme and is 
+collected in the form of a number of periods per activ-
+ity which we are then able to convert into boolean values 
+and derive the amount of CS activities taught.
+Please note that the data sets include missing data due 
+to (i) students not being present for either the full pre- 
+and/or post- tests, (ii) teachers not administering the 
+test, or (iii) teachers not answering the pre- and/or post- 
+teacher survey. As the analyses combine multiple data 
+sets, a synthesis of the number of students and teachers 
+for which the full responses are available with respect to 
+the data subsets considered is provided in Table 3. Finally, 
+while it would have been interesting to have a control 
+group to be able to infer how learning compared between 
+students who had access to CS courses and those who 
+did not, the administration of a performance assessment 
+to students in non-CS-schools was not authorised due 
+to ethical concerns. Nonetheless, given the variability in 
+what the teachers taught, 4 grade 3 classes and 6 grade 4 
+classes did not receive any CS education and thus provide 
+an interesting point of comparison. As the second data 
+subset (test + adoption data) constitutes the core of the 
+analysis, we provide more detailed demographics infor-
+mation in Appendix A.1 in Table 10.
+Analysis methodology (study 1)
+The student learning data are analysed in three stages.
+First, the January and June test data ( n = 1319 ) are 
+analysed using multiple ANOVA with Benjamini–Hoch-
+berg p-value correction to reduce the false discovery rate 
+(study 1a). The results are reported as significant (i.e. 
+p < 0.05 ) only if the minimum effect size (Cohen’s D5) 
+required to achieve a statistical power of 0.8 is reached 
+with α = 0.05 . Dunn’s post hoc test is then applied for 
+multiple comparisons when significant. When compar-
+ing responses between groups of students (according to 
+the dependent variables) the delta between the average 
+Fig. 1 Two cCTt question formats: grid on the left and canvas on the right (figure taken from El‑Hamamsy et al. 2022c)
+4 Brennan and Resnick (2012)’s operational definition of CT decomposes 
+CT into CT concepts (i.e. the concepts that computer scientists engage 
+with), practices (i.e. the processes they employ to resolve computational 
+problems) and perspectives (i.e. their perception of CT). Please note that at 
+the time of the study there were no valid, reliable and scalable instruments 
+to measure CT-practices and perspectives.
+5 Cohen’s D is a means of quantifying the difference between the means of 
+two samples ( µ1 , µ2 ) all the while accounting for their standard deviations 
+( sd1 and sd2 ). Cohen’s D is therefore computed as the difference between the 
+two sample’s means divided by the pooled standard deviation ( sp ). There-
+fore, Cohen’s D = µ1−µ2
+sp
+ where sp =
+sd2
+1+sd2
+2
+2
+ . The rule of thumb to inter-
+pret Cohen’s D is as follows: if around 0.2 the effect is considered small, if 
+around 0.5 the effect is considered medium and if around 0.8 or above the 
+effect is considered large.
+Page 7 of 43
+El‑Hamamsy et al. International Journal of STEM Education  (2023) 10:60
+ 
+Table 2 Teacher survey questions (7‑Point Likert, excepted adoption and demographic questions)
+Dimension

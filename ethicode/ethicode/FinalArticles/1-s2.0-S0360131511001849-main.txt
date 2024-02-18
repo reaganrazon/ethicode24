@@ -1,0 +1,522 @@
+Computer games created by middle school girls: Can they be used to measure
+understanding of computer science concepts?
+Jill Denner a,*, Linda Werner b, Eloy Ortiz a
+a ETR Associates, 4 Carbonero Way, Scotts Valley, CA 95066, USA
+b University of California, Santa Cruz, 1156 High St. MS:SOE3, Santa Cruz, CA 95064, USA
+a r t i c l e
+i n f o
+Article history:
+Received 18 February 2011
+Received in revised form
+14 June 2011
+Accepted 5 August 2011
+Keywords:
+Construction of computer games
+Secondary education
+Programming
+After-school
+a b s t r a c t
+Computer game programming has been touted as a promising strategy for engaging children in the kinds
+of thinking that will prepare them to be producers, not just users of technology. But little is known about
+what they learn when programming a game. In this article, we present a strategy for coding student
+games, and summarize the results of an analysis of 108 games created by middle school girls using
+Stagecast Creator in an after school class. The ﬁndings show that students engaged in moderate levels of
+complex programming activity, created games with moderate levels of usability, and that the games
+were characterized by low levels of code organization and documentation. These results provide
+evidence that game construction involving both design and programming activities can support the
+learning of computer science concepts.2011 Elsevier Ltd. All rights reserved.
+1. Introduction
+Efforts to get precollege students on the pathway to a computing career typically use at least one of two strategies: 1 increase their
+interest and excitement about computing, and 2 introduce students to computational concepts and skills. For over a decade, people have
+identiﬁed computer game programming as a way to both hook students into programming activities and teach them fundamental concepts
+of computer science. Early studies provided detailed documentation about what students learned (Harel, 1991; Kafai, 1995) but there is
+a dearth of recent evidence on whether child-friendly program development environments can engage students in ways of thinking that
+prepare them for more advanced programming activities (Hayes & Games, 2008). Recent studies conﬁrm that computer game programming
+is motivating (Basawapatna, Koh, & Repenning, 2010; Robertson & Howells, 2008; Seif El-Nasr, Yucel, Zupko, Tapia, & Smith, 2007), but few
+present ﬁndings on what students learn.
+Over the last eight years, we have developed and studied computer game programming classes for middle school girls and boys. In
+previous articles, we described how computer game programming motivated and engaged girls and boys (Denner, Bean, & Martinez, 2009;
+Denner, Werner, Bean, & Campe, 2005; Werner, Denner, Bliesner, & Rex, 2009) and increased girls’ perceived computer skills and perceived
+support for computing (Denner, 2007, 2011). We also described the results of a pilot study where we coded games for aspects of IT ﬂuency
+(Werner et al., 2009). In the current paper, we describe our strategy for coding student games, and the results of the analysis of 108 games
+created by primarily low income Latina girls with no prior programming experience. Although the games cannot be used to predict whether
+or not these students will go on to pursue classes that teach more advanced programming concepts or will maintain a set of programming
+skills or concepts, they do provide some important information about the potential of computer game programming for helping students to
+think and work in computational ways that prepare them to navigate and contribute to new technologies.
+1.1. Theoretical framework
+The theory of constructionism guides much research on how and what children learn when they work on a computer. The educational
+strategy of computer game programming with children is based on constructionist learning, which holds that learning happens when
+* Corresponding author. Tel.: þ1 831 440 2264; fax: þ1 831 438 3577.
+E-mail addresses: jilld@etr.org (J. Denner), linda@cs.ucsc.edu (L. Werner), eloyo@etr.org (E. Ortiz).
+Contents lists available at ScienceDirect
+Computers & Education
+journal homepage: www.elsevier.com/locate/compedu
+0360-1315/$ – see front matter 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.compedu.2011.08.006
+Computers & Education 58 (2012) 240–249
+people are actively engaged in making a meaningful product. More speciﬁcally, constructionist learning is a process of appropriation
+(making knowledge their own and identifying with it), engagement with others, and the belief that understanding is more important than
+memorizing rules or procedures (Mayer, 2003; Papert, 1991). A constructionist approach to understanding learning combines individual-
+level cognitive processes with the social and cultural contexts in which learning takes place (Kafai, 2006). From this perspective, it is not
+simply the act of making games that makes a constructionist learning environment—it is making games for and with other students.
+1.2. Children programming games: what do they learn?
+Novice programming languages were created both to introduce a broader and younger group of students to programming concepts, and
+to engage a more diverse group of students as producers rather than simply users of computers (Kelleher & Pausch, 2005). Salen (2007)
+states “knowing how to put together a successful game involves system-based thinking, iterative critical problem solving, art and
+aesthetics, writing and storytelling, interactive design, game logic and rules, and programming skills” (p. 305). However, greater attention
+has been put into creating game programming environments than has been put into understanding how children learn from using these
+systems.
+Computer game programming is increasingly being introduced at the high school level, but despite the apparent potential of
+programming a game to support learning, a recent review shows that there is limited research to support this connection in K-12 grades
+(Hayes & Games, 2008). One recent project report assessed 95 games for what the authors call “contemporary learning abilities,” such as
+game design and functionality (Reynolds, Scialdone, & Caperton, 2010), and a study of middle school students has started to map student
+games to computational thinking (Koh, Basawapatna, Bennett, & Repenning, 2010). However, most existing research focuses on how
+computer game creation increases students’ skills, conﬁdence, and motivation to program computers (Denner, 2007; Basawapatna et al.,
+2010; Eow, Ali, Mahmud, & Baki, 2010; Seif El-Nasr et al., 2007). There are even fewer studies of whether computer game programming
+increases children’s understanding of computer science concepts.
+Our review of the literature leads us to hypothesize that computer game programming may be particularly useful for engaging students
+in three key competencies: programming, organizing and documenting code, and designing for usability. In the next section, we describe
+what we mean by each of these, and draw on prior research to show why they are important constructs for understanding and promoting
+children’s thinking.
+1.2.1. Programming
+To prepare students to contribute to the future of computing, it is important to introduce them to foundational concepts that involve
+algorithmic thinking by middle school (Frost, Verno, Burkhart, Hutton, & North, 2009). Algorithmic thinking involves deﬁning a problem,
+breaking it into smaller yet solvable parts, and identifying the steps for solving the problem. As part of this, students must model the details
+of essential characteristics while suppressing unnecessary details. In the process, ﬁnite sequences of instructions are coded to operationalize
+the modeled abstractions.
+Many programming environments designed for children are written in ways to make features like algorithmic thinking accessible to non-
+programmers, but there is limited research on whether making games with child-friendly environments leads to increased understanding of
+programming concepts. Studies based on very small samples (usually one class) have found that when programming or ‘modding’ a game,
+middle and high school students demonstrate knowledge of basic programming concepts, such as variables, loops, and conditionals, as well
+as more advanced concepts like parallel and event programming (Peppler & Kafai, 2007; Werner et al., 2009; Yucel, Zupko, & Seif El-Nasr,
+2006; Carbonero, Szafron, Cutumisu, & Schaeffer, 2010). Studies of very young children using ToonTalk describe how game programming
+systems can engage them in computational abstractions (Kahn, 2004). And a study of over 80 boys and girls using Scratch (and over 500
+projects) found increases in use of certain programming concepts (loops, variables, Boolean logic, and random numbers) in student projects
+(not games) over a year’s time (Maloney, Peppler, Kafai, Resnick, & Rusk, 2008). A recent study did ﬁnd that high school students’ games
+indicate student knowledge of computer science concepts (Carbonero et al., 2010). While the typical ‘designed-for-children’ programming
+environment does not include all of the features in a modern, general purpose language, there is often a signiﬁcant overlap which gives
+students a taste of how common programming languages work (Kelleher & Pausch, 2005).
+1.2.2. Organizing and documenting code
+Documentation and information organization are critical parts of learning to think in a computational way. For example, a fundamental
+activity of software engineering is to document software so that the developer and others can understand the software in case they need to
+modify it for future use, but also to understand the current operation of that software (Denning et al., 1989). If code is never executed, that
+code should be removed from the program to reduce confusion. Kotula (2000) states that “(T)here is a great deal of information about code
+behavior that simply cannot be expressed in source code, but requires the power and ﬂexibility of natural language to state. Consequently,
+source code documentation is an irreplaceable necessity, as well as an important discipline to increase development efﬁciency and quality.”
+Good coding standards are also an important part of a game design and construction course, particularly when students are working
+collaboratively on a project (Schaefer & Warren, 2004).
+1.2.3. Designing for usability
+Usability is the extent to which a tool can be used intuitively and effectively for the stated goal. In a recent revision of the Computer
+Science Teachers Association Model Curriculum for K-12, the learning objectives for human–computer interaction in middle school include
+understanding and creating usable interfaces (Frost et al., 2009). Usability has particular relevance in computer game design because to
+make a usable game, the game programmer must think about how the player will interact with the game (Peppler & Kafai, 2007; Salen,
+2007), the outcomes of player action, and the goal of the game (how the player can win or lose). Creating interactivity requires problem
+posing rather than just problem solving; a process that is linked to increased ﬂexibility in thinking, problem solving skills, and conceptual
+understanding (Silver, 1994; Smith & Cypher, 1999). When students design a game for usability, they include features that engage and
+motivate the user, clear instructions on how to play the game, and play experience that is free of defects.
+J. Denner et al. / Computers & Education 58 (2012) 240–249
+241
+1.3. Current study
+In summary, we have identiﬁed three key competencies that are important for engaging children in computational thinking:
+programming, documenting and understanding software, and designing for usability. We have also created a coding framework with which
+to assess these competencies. In the current study we focus on the appearance of these three key competencies in the computer games that
+students created in an after-school program. Products like games are imperfect examples of what children learn, and may under or over
+estimate a student’s understanding of a concept. But they provide information about the learning opportunities related to building
+computer science concepts that are afforded by programming a computer game with a partner.
+2. Methods
+2.1. Participants
+The girls in this study were participants in a voluntary after-school program focused on computer game programming. The games were
+programmed by 59 girls; each student created between one and ﬁve games, and each game took between four and six weeks (1–2 h/week)
+to complete. Most (72%) of the 108 games were programmed by a pair of students working together. When they enrolled in the program,
+most had just begun the sixth grade (M ¼ 10.44, SD ¼ .77), 72% self-identiﬁed as Latina (primarily Mexican descent), and 22% as white. The
+majority (72%) spoke a mixture of English and Spanish at home–a small group (6%) spoke only Spanish and 22% spoke only English at home.
+Most of the students attend a middle school where 46% of the student population are English language learners, 82% of families are low
+income, and 18% of the parents have graduated from college. In 2007, the town’s per capita income was $16,888 (half the US per capita
+income), 75% of the population was Latino (primarily Mexican migrants and immigrants), and half of the residents had earned a high school
+diploma.
+2.2. Procedure
+Each student programmed several games over a period of 14 months. The class met twice a week (during the school year) and every day
+for three weeks during the summer in a school computer lab. The class was based on constructionist learning principles, which include an
+informal setting where students work on a project for an extended period of time, teachers who encourage peer sharing and helping each
+other, frequent student reﬂection on the process and products that are created, and the creation of a product that is made available in
+a public space for others to play (Harel & Papert, 1991). The focus of this article is on our second cohort of students, so there were peer
+helpers from cohort 1 that provided guidance and support during game programming, in addition to having 1–2 teachers at every class. On
+average, students spent 1 h programming their games during each class meeting; the rest of the time was spent doing activities that both
+taught and built a network of support to pursue courses and careers in computing. Speciﬁc activities included exploring an online science
+education community, writing in an online journal, interacting with virtual role models, and going on ﬁeld trips to colleges and tech
+companies. More detail about the program can be found in Denner et al. (2009).
+The students programmed games with Stagecast Creator software, which uses a programming-by-demonstration approach and visual
+before-after rules that are appealing and accessible to novice programmers (Smith, Cypher, & Tesler, 2000). Creator employs object-oriented
+programming via the use of characters and rule-based execution. Although Creator was widely used in the late 1990s and early 2000s, there
+is little research on whether the expected learning beneﬁts occur.
+The constructs available in the Creator software can be related to those of modern day programming languages. For example, Creator
+characters correspond to the concepts of objects and inheritance, the “rules” feature corresponds to the concept of methods, and the
+programming of mouse clicks and key input corresponds to the concept of events. Many of the features of Creator allow for algorithmic
+thinking. For example, students can build complex behaviors out of the sequential execution of simple instructions or ‘rules’ as instructions
+are called, which is at the heart of algorithmic thinking: breaking up complex tasks into a ﬁnite sequence of smaller parts. Creator scenes
+give students a logical way to break up their projects into smaller, convenient pieces. Creator’s rule-based programming approach provides
+for conditional execution, another key component of algorithmic thinking and program state can be handled using character and global
+variables. Parallelism, a high level concept that often eludes computer science undergraduates, can be simulated with the ‘do all’ feature of
+Creator’s rules. Creator offers built-in characters and backgrounds, as well as a draw feature that allows students to create their own
+characters and backgrounds, which facilitate their ability to model their own imaginary worlds. The ability to name and add comments to
+characters, variables, and rules corresponds to the concept of code documentation. Fig. 1 includes an example of rule-based execution: the
+screen shot shows rules that could be used to move one or more of the characters on that screen.
+Students were ﬁrst introduced to Creator by doing the built-in tutorials with a partner. Tutorials cover topics such as creation of rules (the
+Creator name for methods), ordering of rule execution, creating and changing a character’s appearance, animation, sounds, stages (the
+Creator name for scenes) and doors (mechanisms used to travel between stages), randomness, and variables. In addition, students were
+taught about code documentation and organizational concepts, such as the use of rule, variable, and character appearance names, and the
+deletion of extraneous rules. The programming constructs that were introduced in the tutorials were also demonstrated by the teacher. In
+addition, students were given handouts that included step-by-step instructions and screen shots for things like replace a character with
+a directly neighboring one (used to depict one character ‘eating’ another). Students were taught about game design by the instructor who
+required students to incorporate themes for each game genre, and by a Gallery Walk activity where the importance of including clear
+instructions and a clear goal was reinforced by having peers playtest and comment on each other’s games.
+Over the course of the program, students were asked to create ﬁve games of four different genres. The ﬁrst genre was a “maze” game;
+students were asked to include at least one stage, one challenge on each stage, and multiple appearances for at least one character. Next,
+students built another maze game and added a content focus on astrobiology. The third game genre was “action;” students were asked to
+include challenges for the player to react to, including being chased by ghosts or shooting targets. The fourth game genre was “trivia,” and
+the requirements were to include at least ten stages, each containing a question that the player must answer correctly in order to advance to
+J. Denner et al. / Computers & Education 58 (2012) 240–249
+242
+the next stage. The last genre was “adventure,” where game play involved the development of a story with multiple paths that result in
+different outcomes. There were minimal requirements, they included creating events, multiple linked stages, doors that work, and clear
+instructions and a goal.
+Before starting their game in each genre, the girls played sample games. Some of the sample games have production quality graphics,
+complete with characters that change appearance when moving left or right, sounds, speech, multiple stages, conditional execution
+program rules based on local and global variables, and descriptive rule, variable, and appearance names to assist in code understanding.
+Others were much simpler in both their graphical design (e.g., stick ﬁgure drawings without multiple appearances) and lack of descriptive
+rule or character names.
+The classes were staffed by a middle school teacher, and in some classes there was an additional adult (either research staff or the
+program coordinator) or a slightly older peer to answer questions. Teachers had no prior exposure to Creator or other game programming
+environments; they usually taught language arts, science, and mathematics.
+2.3. Data coding and analysis
+A coding scheme was developed, based on the ISTE National Education Technology Standards for Students (NETS*S) and a scheme
+created by Martin, Walter, and Barron (2009) to identify the extent to which students used the features in Creator that are believed to
+correspond with important computer science programming concepts. We believe the coding scheme we use can be adapted for use with any
+of the programming environments targeted at younger populations. While the use of this scheme can be used to look for properties of the
+environment needing improvement, we believe it can be used to compare various environments.
+As shown in Table 1, each game was coded within the three overarching categories (programming, documenting and understanding
+software, and designing for usability) and 24 subcategories. Each game was coded for the presence, or in some cases, the extent of each
+element within these three categories. Names for characters, global variables, and rules were counted if they had proper names (e.g.,
+Chocolate the bear) or descriptive names (e.g., bear), as long as they were different from the default names.
+One hundred and eight games were coded. The games were coded by the third author, and the ﬁrst author did a 10% check (she coded all
+24 categories for 11 games). She found ten out of 368 possible items that were coded differently, Cohen’s Kappa ¼ .93. These differences
+were discussed and resolved. Basic frequencies were run on each coding category.
+3. Results
+The games varied in their complexity. For example, the average number of scenes was 7 (range 1–36) and the average number of rules
+was 28 (range 0–122). In the following tables, the ﬁndings are grouped within each of the three computing concepts, and only concepts that
+appeared in at least one game are included. Table 2 displays the percentage of games that included each complex programming element.
+Fig. 1. Rule-based execution in Creator.
+J. Denner et al. / Computers & Education 58 (2012) 240–249
+243
+Although most games included conditions or events, 18% did not have any functional interaction. The most common elements were door
+functionality, which allows the player to move from one scene or stage to the next, and the use of conditional character interaction (where
+something happens in the game as a result of two or more characters interacting). In only 35% of the games with door functionality were all
+the doors set correctly. Character variables were used in approximately one third of the games, and 96% of those variables involved changes
+in character appearance during game play, while 4% used sound. Only 3% of all the games included a character variable that the student
+created, that involves something other than sound or appearance.
+Table 3 shows that there was great variation in the use of different types of code organization and documentation. Rules were grouped in
+meaningful ways in slightly more than half the games, and more than half of the games included (extraneous) rules that did not ﬁre. Rule
+boxes were used in one third of the games, and a closer analysis found that 90% of those who used a rule box used it only for the “do random”
+command that allows the program to vary the order of rules, meaning a different one will ﬁre on any given turn. In the other 10% of rule
+boxes, students used the “do ﬁrst” rule that tells the program to ﬁre in order.
+As shown in Table 4, students’ games had modest levels of usability. Most games included multiple stages of play, and more than half had
+a clear goal (a clear way to win or lose). Among the games with multiple stages, 47% had stages that were linked sequentially and
+thematically. Functionality was mixeddhalf of the games had few or no defects, and fewer than half included clear instructions on how to
+play the game. In Fig. 2 is an example of a game with clear instructions. In the 31 games where the character appearance changed, 61% had
+characters that changed appearance without any interaction, 32% had characters change appearance as a result of interaction with another
+character, and 7% of the games included both types of character appearance change. When character appearance changed, 32% of the games
+involved the Creator-provided images, while 68% of the games used student-created images.
+Table 2
+Types of programming in students’ games.
+Total
+Conditions or events
+82%
+Door functionality
+59%
+Conditional character interaction
+57%
+Parallelism
+36%
+Character variable use
+29%
+Use of random
+32%
+Global variable use
+4%
+Variable test
+1%
+Table 1
+Game coding categories and deﬁnitions.
+Coding category
+Deﬁnition
+Programming
+Parallelism
+Two or more characters run one rule based on the same starting conditions
+(e.g., when left arrow is pressed, the main character moves and a ghost throws pumpkins at her).
+Use of random
+A character is programmed with multiple rules and the runtime environment (Stagecast)
+randomly chooses which rule to ﬁre on each clock tick.
+Variable test
+An “and-if test” is used on a variable in the game
+(e.g., more than one condition must be in place for a rule to ﬁre).
+Global variable use
+Uses information that affects every stage and every character world wide
+(e.g., follow character from one stage to the next).
+Character variable use
+Information about individual characters (e.g., change in appearance)
+is used in game (either changed and/or displayed).
+A new deﬁnition is given to a variabledchanged the default initialization of a character.
+Character variable type
+Whether the variable was a change of appearance, sound, or something else.
+Conditional character interaction
+The rule involves two or more characters that interact and cause something (character death, character win)
+to occur within the game. The rule must ﬁre to count.
+Conditions or events
+Player can make something happen by interacting with the program
+Door functionality - another form
+of conditional execution
+A rule transports a character from stage to stagedsome or all based on whether the user moves a character
+onto a special door object and the door object is linked to another stage
+Code organization and documentation
+Extraneous rules
+The program code includes rules that are never used
+Character names
+Characters are given a name (the default is overridden).
+Variable names
+The default “variable 1” is changed to a name.
+Rule names
+Rules are given a name.
+Rule comments used
+Rules are given comments.
+Rule grouping
+Rules are organized by character and/or stagedsometimes or always.
+Rule boxes
+Rule boxes are used to organize and order multiple rules for individual characters.
+Designing for usability
+Incorporates Themes
+The given theme is important and incorporated into the game (e.g. astrobiology, adventure, trivia).
+Character appearance changes
+Characters change their appearance during game play (e.g., ﬂap wings, change direction).
+Character appearance type
+When character appearance changed: whether the appearance changed to a Creator-provided
+or a student-created picture.
+Linking of stages
+Stages of game play are linked thematically and sequentially.
+Multiple stages of game play
+There are multiple scenes of game play.
+Instructions clear
+There are clear instructions for playing the game and rules for user input.
+Goal (how to win-lose) clear
+There are clear instructions on how a player wins and/or loses the game.
+Functionality
+There are few or no defects in the programming.
+J. Denner et al. / Computers & Education 58 (2012) 240–249
+244
+To illustrate these ﬁndings, we offer two case studies of the most complex games —those with the highest levels of all three categories:
+programming, code organization and documentation, and designing for usability. The ﬁrst game “Farm Craze” is an action game where the
+player moves the main character (a farmer) from left to right through three stages (see Fig. 3). The player makes the farmer throw a pitchfork
+at three types of ﬂying farm animals (pigs, chickens and cows) and the contact turns them into food (bacon, eggs and hamburgers
+respectively) and the player earns points. The goal of the game is to complete three game stages while accumulating as many points as
+possible. A programming example of conditional character interaction is when the food falls as a result of the pitchfork hitting the animal.
+This game also demonstrates strong code organization and documentation because it has clearly labeled character and rule namesdthe
+students gave meaningful names to all of the characters and to most of the rules. This game is one of the few that includes global variables,
+which allow the player to accumulate a point each time the pitchfork hits a target.
+“Welcome to Chef Baker’s Adventure” is an adventure game where the player controls a character called Chef Baker who travels
+throughout a town in search of ingredients (ﬂour, eggs, and sugar) for making cookies (see Fig. 4). Chef Baker talks to three different
+characters in six different stages and has to answer math questions related to cooking (e.g., If a recipe calls for 2 3/4 cups of ﬂour, and I want
+to double the recipe, how much ﬂour do I use? Possible answers are: 4 6/8, 4 6/3 or 5 1/2). Once a question is answered correctly, the player
+can access the door to the next stage. The player has to answer three questions correctly to reach the ﬁnal stage and win the game. In this
+game, there is the use of conditional character interaction to program the characters to talk to each other, there are multiple instances of
+changes in character appearance used to program things such as birds ﬂapping their wings, and rules are grouped to keep track of them. This
+game also has a strong narrative, and was coded highly for incorporating themes.
+4. Discussion
+In this study, we explore whether computer game programming is a useful strategy for engaging middle school students with no
+programming experience in the kinds of thinking and problem solving that will prepare them for computing intensive classes and careers.
+To this end, we describe a coding framework and present the results from an analysis of 108 games. The ﬁndings suggest that computer
+game programming is a promising approach to engage underrepresented students in the concepts and capabilities that will prepare them
+for computer science courses and careers. However, students struggled with concepts that prior research suggests are difﬁcult for young
+novice programmers (Clancy, 2004; Linn,1985). As a result, the more complex aspects of computing were not automatically engaged in, and
+require additional educator support.
+Our ﬁndings extend those by other researchers working with novice programmers (e.g., Soloway & Spohrer, 1989), however, our work
+differs in an important way. In most other studies, novice programmers were given assignments with program requirements speciﬁcations,
+such as to write a program to read, sum, and print the average of a group of integer values from standard input. When there are speciﬁc
+requirements, researchers can evaluate the quality of the solution and analyze whether the programming constructs are used correctly or
+incorrectly. However, we placed very few technical computer science requirements on our students regarding the programs they create. Thus,
+the students in our study designed their own requirements, usually with a partner, and then programmed a game to ﬁt those requirements.
+Below we offer a summary of the computer science constructs that students used either as expected or in a novel way, and discuss these
+results in the context of prior research on novice programmers. Overall, we ﬁnd great variation in the extent to which students incorporated
+computer science constructs into their game programs. Although having requirements for each game genre appeared to increase the use of
+those constructs, there was still variation in the extent to which they were used.
+The ﬁndings show that students incorporated only modest amounts of complex programming concepts, code organization and docu-
+mentation, and design for usability into their games. We expected that making games in Creator would engage students in key features of
+programming such as extensive control structures for sequential, conditional, parallel, and randomized execution; both global and local
+variables; abstractions via the use of jars; and event handling for mouse clicks and key input. And indeed, some of the games incorporated
+elements that represent these complex programming concepts. However, only one third of the programs used character variables, and only
+Table 3
+Code organization and documentation in students’ games.
+Total
+Rule grouping
+53%
+No extraneous rules
+41%
+Rule boxes
+31%
+Character names
+31%
+Rule names
+15%
+Variable names
+7%
+Rule comments
+4%
+Table 4
+Designing for usability.
+Total
+Multiple stages of game play
+84%
+Goal
+54%
+Functionality
+50%
+Linking of stages
+47%
+Instructions clear
+46%
+Incorporates themes
+40%
+Character appearance changes
+29%
+J. Denner et al. / Computers & Education 58 (2012) 240–249
+245
+one of these programs contained tests of the values of these variables to control program execution. For example, only 1% of the students
+included an “and-if test” used on a variable in the game. Similarly, Clancy (2004) found that young students do not understand the use of
+‘while’ and ‘if,’ and that novice programmers appear to expect tests to be handled as events that when satisﬁed would result in a jump to the
+code within the ‘while’ (or within the ‘if’ part of the conditional). Even when conditionals were placed in sequential code segments, students
+did not expect the conditional expression to only be tested when the statement holding the conditional is executed. Maloney et al. (2008)
+also found certain concepts were used less often in their students’ projects made using the Scratch programming language, such as random
+numbers, variables, and Boolean logic.
+Most of the uses of character variables were for changing a character’s appearance, an important program feature for creating simu-
+lations, games, or animated stories. Multiple appearances for at least one game character were required for one of the game genres (the
+maze genre), and so since students programmed ﬁve games and two were mazes, we would expect that at least 40% of the games would
+have included this complex programming concept. In addition, since this was a requirement for the ﬁrst game genre, we might have found
+that all subsequent games included this complex programming concept. That was not the case – only about one third of the games included
+the use of character variables for changing a character’s appearance. Additionally, there were few other uses of character or global variables
+in our students’ games, which suggests that knowledge of variable use was not transferred from the appearance variable to other uses of
+variables.
+The students in our study had difﬁculty with planning the design of their game and programming code that included multiple pieces.
+Robins, Rountree, and Rountree (2003) found that novices approached a program in a line-by-line way rather than in ‘chunks.’ Similarly, the
+students in our study incorporated limited use of ‘variables’ to handle complex processing such as counters, and also mixed success with the
+use of stages, which requires multiple disjoint pieces to all be present in order to work correctly. Most games incorporated multiple stages,
+which is consistent with the fact that this was an assignment requirement for at least three of every student’s games. However, stages were
+linked in less than half of the games and only 59% of the games had at least one functioning door, while 35% had all doors working (a rule
+transports a character from stage to stage). These percentages suggest that our students also had difﬁculty putting the various pieces
+correctly together.
+How do we interpret these frequencies? Were some types of programming used more frequently because they were the easiest to learn
+in Creator, because they were required by the teacher, or were they used more frequently because they were in the sample games, or
+because they had handouts with screen shots and written instructions? It is likely that ease of learning and clear instructions played a role.
+Fig. 2. A game with clear instructions.
+Fig. 3. Screen shot of the Farm Craze game.
+J. Denner et al. / Computers & Education 58 (2012) 240–249
+246
+Indeed, door functionality was clearly explained in a handout, and could be programmed with only a few simple steps. Similarly, conditional
+character interaction (e.g., one character makes another disappear), required only two steps that were described in a handout. On the other
+hand, the sample games and teacher requirements had a minimal effect on what they programmed. For example, the sample adventure
+game had some of the most complex programming, but a separate analysis by game genre showed that the students’ adventure games were
+not the most complex. It may be that students’ motivation may play a more important role—they put less time into the trivia and adventure
+games, which came at the end of a 14-month class.
+Several concepts seemed difﬁcult for students, despite the availability of instructional materials. For example, there was a handout that
+clearly explained how to use variables to require that a character eat a certain amount of objects before it could pass through a door, but few
+students incorporated this into their games. Similarly, few students incorporated the use of global variables to make the player earn points
+when an object is hit by another object even though we provided a handout for this too.
+Our ﬁndings are similar to two other studies of students using Creator. In one small study, middle school students using Creator grasped
+key concepts in a short period of time, including conditionals, sequencing, and debugging, but they struggled with decomposition (Martin,
+1999). Similarly, the students in our study struggled with breaking down a desired action into a series of multiple rules, and often had lists of
+extraneous rules that did not ﬁre or were duplicates. Seals, Rosson, Carroll, Lewis, and Colson (2002) also describe some of the challenges
+that middle school students experience with Creator, which include difﬁculty distinguishing between the character window and the
+variable window, and difﬁculty understanding the importance of the visual context in regards to creating program rules. The students in our
+study had similar difﬁculties. For example, programming character movement in Creator involves positioning characters on the stage to
+create the beginning visual context for the rule, dragging a yellow box, called a ‘spotlight’ to surround this visual context, and then posi-
+tioning characters on the stage to create the ending visual context for the rule. During program execution, a rule ‘ﬁres’ when the current
+situation on the stage matches the beginning visual context, so all beginning visual contexts must be identiﬁed by the programmer. Many of
+the students were successful at making a character move when the background was a single color, but would fail to include other backdrops
+or characters in the rule’s beginning visual context. The result of this was that their character would stop when it encountered those things.
+Seals et al. (2002) refer to this characteristic of Creator as “visual brittleness” and say that it can lead to an unmanageable number of rules (p.
+2). Creator does have a feature that provides for the creation of rules that can ﬁre even without exact matches: the “don’t care” square will
+allow a ‘before picture’ to match a square no matter what is in it. The use of this feature could have mitigated the ‘visual brittleness’ we found
+within these students’ programs, but it was not introduced to students in this class.
+When writing code for a game or any other program, an important indication of the programmer’s understanding of their creation is the
+extent to which they organize and document their code. Creator offers features of code organization and documentation that include multi-
+word phrase names for characters, variables, and rules. Additionally, students can add comments to a rule or between rules. Since Creator
+Fig. 4. Screen shots of the Chef Baker game.
+J. Denner et al. / Computers & Education 58 (2012) 240–249
+247
+gives newly created rules the default name “untitled,” student-deﬁned rule names are one indication of their understanding of the code’s
+purpose. However, more than half of the students’ game programs contained extraneous rules, and few took advantage of the system for
+organizing and renaming their characters, variables, or rules. This is unfortunate, since most of the games were programmed by pairs of
+students over multiple weeks, so documentation about what they did would have been particularly important when a student was absent.
+Reasons for this lack of documentation include a limited understanding of the code’s purpose, and limited role modeling and reinforcement
+by teachers. Many of the examples given to the students were not documented using multi-word phrase names and additional comments,
+so the importance of these elements was not reinforced.
+The moderate levels of usability are similar to other studies of similar age students. For example, Kafai, Ching, and Marshall (1997) found
+that when ﬁfth and sixth grade students programmed their ﬁrst game, they had limited ability to take the perspective of the player.
+Similarly, Linn (1985) found that most middle school students had difﬁculty learning design skills, which include putting together pieces of
+code to perform complex functions, as well as planning and testing the program. Additional training in how to design a game for high
+usability is needed in order to increase this skill among middle school students.
+Like others have found, many novice programmers do not persist in the face of challenges. Fluery (1993) found that novices want to avoid
+complexity, and experts want to manage complexity. For example, Fluery (1993) argued that novice programmers who do not type in
+comments or additional program documentation are trying to avoid additional complexity. The results of this are that the novice is less
+likely to make more than one attempt to debug his or her program. Other studies have found that children have difﬁculty debugging
+a program that does not execute as expected (Lin, Yen, Yang, & Chen, 2005). Perkins, Hancock, Hobbs, Martin, and Simmons (1989) call
+students that are unwilling to explore ways to solve a problem “stoppers,” and those that systematically try multiple strategies for
+debugging “movers.” They also describe “extreme movers” as those students that try multiple strategies without careful reﬂection, and
+these students typically have no more success than the stoppers. These categories are consistent with our observation data, but a more
+systematic video study is required to assign students to different categories and determine the results of their programming efforts.
+An important limitation to this study is that the games may not have reﬂected what students were capable ofdonly what they did.
+Clearly, students’ ﬁnal products were limited by a number of things, including missing classes due to illness or other obligations, and having
+to negotiate decisions with a partner. Because there were few requirements for the games other than those described in Section 2.2 above,
+we cannot assume that a student is incapable of using correctly or even using a speciﬁc Creator feature if the student’s game didn’t include
+evidence of that feature. Like others have found (Seif El-Nasr et al., 2007), the girls were very reluctant to revisit and revise their games once
+they were done.
+As we stated earlier, we placed very few technical computer science requirements on our students regarding the programs they create. In
+most other studies, novice programmers are given assignments with program requirements speciﬁcations such as to write a program to read,
+sum, and print the average of a group of integer values from standard input. When there are speciﬁc requirements, researchers can evaluate
+the quality of the solution and analyze whether the programming constructs are used correctly or incorrectly. We hoped that students would
+be motivated to experiment and learn about computer science while exploring the game creation problem domain. In one very speciﬁc
+instance of a complex computer science concept, multiple appearances for at least one game character were included in the requirements
+given to the students for their maze game, the ﬁrst of the ﬁve games they created. We saw very little experimentationwith the use of multiple
+appearances outside of the maze games. Perhaps one very important outcome of our study is that without proper guidance, the problem
+domain approach may fail to provide sufﬁcient motivation to the students to use and learn a wide range of computer science concepts,
+especially the complex concepts. Since approximately one third of the games had multiple appearances for at least one game character, this
+approach was a successful mechanism to overcome a narrow student focus on “easy concepts” that can occur on a student-guided domain-
+based approach to software design and programming. To increase motivation, Kafai, Franke, Ching, and Shih (1998) suggested offering
+challenges or competitions as “conceptual design tools” that teachers can use to encourage students to make more complex games.
+Additionally, we’ve developed a coding scheme that can be used to identify the extent to which students used the features in Creator that
+are believed to correspond with important computer science programming concepts. The coding scheme can be adapted for use with any of
+the programming environments targeted at novice populations, and we believe it can be used to compare various environments as well, in
+order to help educators decide which one to use. We are in the process of using a similar scheme with Alice (Werner, Campe, & Denner,
+under review) and Kodu Game Lab (Fristoe, Denner, MacLaurin, Mateas, & Wardrip-Fruin, 2011) and hope to explore which kinds of
+environments are most successful in motivating the use and learning of different kinds of computer science concepts.
+5. Conclusion
+There are few prior studies that explore the extent to which computer game programming engages middle school students in the use
+of computer science concepts. The results of this study provide evidence that when students program a computer game, they have the
+opportunity to engage in the kind of thinking that will prepare them for further study in computing. However, among students with no
+prior programming experience, more extensive instructional support is needed to engage a greater percentage of students in the more
+complex computer science concepts, to help them create and understand organizational systems, and to identify and remove faults in
+their programs. Strategies to increase motivation include offering competitions and more strict requirements for high-level programming
+and cleaner code. Future studies that compare students across different programming environments will help us understand the role
+played by features of the tool.
+It appears that additional tool features might beneﬁt code organization. These include requiring labeling and naming, and giving longer-
+lasting feedback on which rules are used (and not used) during a program’s execution. Longer-lasting feedback on duplicate or non-ﬁring
+rules might also help students increase the correctness and complexity of their programming, as it would assist them in debugging why
+things did not work as intended. Students can already observe whether a rule ﬁres because of the presence of rule indicator lights usable
+when play is reduced to single stepping through the program world, however, the current mechanism provides information in real-time.
+Perhaps if feedback information was stored and available for replay, it could enhance student understanding. The ﬁndings also
+contribute to efforts to analyze students’ game design projects and programming environments targeted at novices, which are critical steps
+J. Denner et al. / Computers & Education 58 (2012) 240–249
+248
+toward helping researchers and educators understand different aspects of what students learn through the process of computer game
+programming and computer programming in general.
+Acknowledgements
+The authors are grateful for the contributions of Steve Bean and Jacob Martinez to this work. This material is based on work funded by the
+National Science Foundation under grant number 0624549. Any opinions, ﬁndings, and conclusions or recommendations expressed in this
+material are those of the authors and do not necessarily reﬂect the views of the National Science Foundation.

@@ -1,0 +1,66 @@
+18
+The Effects of Computer Science Stereotypes and Interest on
+Middle School Boys’ Career Intentions
+REMY DOU, KARINA BHUTTA, MONIQUE ROSS, LAIRD KRAMER, and
+VISHODANA THAMOTHARAN, Florida International University
+Like other STEM fields, computer science (CS) lacks representation of minorities, such as Black and Hispanic
+individuals, both in the number of bachelor’s degrees obtained and the number of individuals in the CS work-
+force. Out-of-school CS programs are often designed with the intent to inspire young people to pursue careers
+in CS. Much of this programming focuses on developing student interest in CS and CS careers. Nevertheless,
+it is not well understood how the stereotypes that children hold about computer scientists contribute to CS
+interest and career choice. In this study, we set out to examine the complex relationships between CS interest,
+held stereotypes, and CS career choice. We surveyed participants in an after-school CS program offered to
+middle school boys who identified with racial and ethnic minority groups (N = 110). We tested three linear
+regression models and confirmed that CS interest and socially divergent stereotypes—those that diverged
+from societal norms—of computer scientists play unique and contrary roles in young boys’ career decision-
+making process even when controlling for home and school factors. These models suggest educational CS
+programs should include curriculum to dispel participants’ socially divergent stereotypes about computer
+scientists rather than targeting CS interest alone, particularly if a goal is to inspire diverse young people to
+pursue careers in CS.
+CCS Concepts: • Social and professional topics → Informal education; K-12 education; Cultural charac-
+teristics;
+Additional Key Words and Phrases: Computer science, interest, stereotypes, middle school
+ACM Reference format:
+Remy Dou, Karina Bhutta, Monique Ross, Laird Kramer, and Vishodana Thamotharan. 2020. The Effects of
+Computer Science Stereotypes and Interest on Middle School Boys’ Career Intentions. Trans. Comput. Educ.
+20, 3, Article 18 (June 2020), 15 pages.
+https://doi.org/10.1145/3394964
+1
+INTRODUCTION
+Despite the growth in computer science (CS) as a field, members of U.S. minority populations,
+particularly those from Black and Latino communities, continue to go underrepresented both in
+the number of bachelor’s degrees attained and in the workforce [1, 2]. Research in CS education
+points to individuals’ interest in and identification with CS as a field as critical factors that
+This work was supported by the Verizon Foundation. The authors declare no conflicts of interest, financial or otherwise,
+that may be perceived as influencing the authors’ objectivity.
+Authors’ addresses: R. Dou (corresponding author), K. Bhutta, M. Ross, L. Kramer, and V. Thamotharan, Florida Interna-
+tional University, 11200 SW 8th St, Miami, Florida, 33199; emails: {redou, kbhut001, moross, kramerl, vthamoth}@fiu.edu.
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee
+provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and
+the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored.
+Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires
+prior specific permission and/or a fee. Request permissions from permissions@acm.org.
+© 2020 Association for Computing Machinery.
+1946-6226/2020/06-ART18 $15.00
+https://doi.org/10.1145/3394964
+ACM Transactions on Computing Education, Vol. 20, No. 3, Article 18. Publication date: June 2020.
+18:2
+R. Dou et al.
+influence career choice [3–5]. This focus on interest as a predictor of career choice is often
+associated with children’s identity development, with studies pointing to the emergence of
+individuals’ ability to see themselves as a professional in a particular field as a more meaningful
+framework through which to interpret career decision-making, especially among those pertaining
+to these groups [6–9]. When youth identify with what they perceive are the practices of CS
+and computer scientists, they express more interest in CS as a career option [4]. Nevertheless,
+youth from minoritized groups often face obstacles that hinder them from seeing themselves as
+computer scientists, creating a disconnect between their vocational expectations and the tasks
+they perceive computer scientists perform [10].
+Furthering the disconnect between children and CS careers, the lack of formal course offerings
+within the K–12 curriculum limits student exposure to CS curriculum, which in turn limits their
+association with CS. For schools with majority minority and low-income populations, the few CS
+courses offered tend to be misaligned with accepted definitions like those set forth by organiza-
+tions such as the Association of Computing Machinery (ACM) and the Computer Science Teachers
+Association (CSTA). Instead of focusing on programming, coding, or hardware, students are more
+likely to learn basic keyboarding and software skills and/or be taught by teachers who are not
+required to have particular qualifications or certifications [11, 12]. For this reason, the growth of
+informal CS education is invaluable for providing more accurate portrayals of the CS field (e.g.,

@@ -1,0 +1,697 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tgcl20
+Green Chemistry Letters and Reviews
+ISSN: 1751-8253 (Print) 1751-7192 (Online) Journal homepage: www.tandfonline.com/journals/tgcl20
+Integrating social and environmental justice into
+the chemistry classroom: a chemist’s toolbox
+Grace A. Lasker & Edward J. Brush
+To cite this article: Grace A. Lasker & Edward J. Brush (2019) Integrating social and
+environmental justice into the chemistry classroom: a chemist’s toolbox, Green Chemistry
+Letters and Reviews, 12:2, 168-177, DOI: 10.1080/17518253.2019.1609602
+To link to this article:  https://doi.org/10.1080/17518253.2019.1609602
+© 2019 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 29 May 2019.
+Submit your article to this journal 
+Article views: 5701
+View related articles 
+View Crossmark data
+Citing articles: 12 View citing articles 
+Integrating social and environmental justice into the chemistry classroom: a
+chemist’s toolbox
+Grace A. Laskera and Edward J. Brushb
+aSchool of Nursing & Health Studies, University of Washington Bothell, Bothell, WA, USA; bDepartment of Chemistry, Bridgewater State
+University, Bridgewater, MA, USA
+ABSTRACT
+Although the chemical enterprise has provided numerous contributions to humanity, unintended
+consequences contribute to a disproportionate exposure of hazardous chemicals to certain
+populations based on race and socioeconomic status. Integrating concepts of social and
+environmental justice within chemistry curriculum provides an educational framework to help
+mitigate these impacts by training the next generation of chemists with justice-centered and
+green chemistry principles to guide their future work. Green and sustainable chemistry
+technologies can contribute to social equity and environmental justice. However, equity and
+social justice have only recently become a signiﬁcant part of the green chemistry conversation.
+This article summarizes how the authors have explored issues of equity and environmental
+justice with the green and sustainable chemistry community. It oﬀers a toolbox for college and
+university instructors containing foundational language, research, and idea-generation that can
+be used to strengthen the transition of a traditional chemistry curriculum toward a justice-
+centered one.
+ARTICLE HISTORY
+Received 23 July 2018
+Accepted 1 March 2019
+KEYWORDS
+Social justice; environmental
+justice; chemistry curriculum;
+community-engaged
+participatory research; social
+justice education pedagogy;
+critical race pedagogy; green
+chemistry; systems thinking
+Introduction
+The American Chemical Society’s (ACS) vision (1) focuses
+on ‘[i]mproving people’s lives through the transforming
+power of chemistry.’ Chemistry has inarguably provided
+numerous contributions to humanity; however, it has
+come with a history of unintended consequences of
+chemical impacts on human health and the environment
+(2–4) including planetary-level impacts on atmospheric
+processes and climate (5). In some cases, these have con-
+tributed to a disproportionate exposure to hazardous
+chemicals in vulnerable populations (children, women,
+communities of color, and low socioeconomic commu-
+nities) (6–11) and warrants discussion around ethics
+and responsibility of the chemical enterprise to reduce
+© 2019 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly cited.
+CONTACT Grace A. Lasker
+glasker@uw.edu
+GREEN CHEMISTRY LETTERS AND REVIEWS
+2019, VOL. 12, NO. 2, 168–177
+https://doi.org/10.1080/17518253.2019.1609602
+these burdens. For example, in low- and middle-income
+countries, environmental pollution is a leading cause of
+mortality and morbidity (12) and is associated with ill-
+nesses such as diabetes (13–15), metabolic syndrome
+(16), cardiovascular disease (17–19), and hypertension
+(20) among many others. In other cases, naturally-occur-
+ring and human-made chemicals have impacted access
+to clean air, food, and water globally such as Flint, MI
+lead water poisonings (21, 22), lead exposure in inner
+city housing (23); higher BPA levels in the blood of indi-
+viduals using emergency food assistance due to higher
+BPA in donated food bank items (9); jet fuel exposure
+in the air surrounding air force bases (24); and other
+impacts. Attending to principles of social and environ-
+mental justice within chemistry curriculum provides a
+framework to reduce these impacts and ensures that
+the next generation of chemists hold justice-centered
+principles and actions as a steadfast aspect of their
+future work. Green chemistry principles can also guide
+scientists and policy-makers in making evidenced-
+based decisions in how we design, make, use, and
+dispose of chemicals and chemical products.
+Exploring issues of equity and environmental
+justice with the green and sustainable
+chemistry community
+Only recently has equity and social justice become a sig-
+niﬁcant part of the green chemistry conversation. While
+the 12 Principles of Green Chemistry do shift accountabil-
+ity toward environmental impact consideration, only one
+of them, ‘Principle #4: Designing safer chemicals. Chemi-
+cal products should be designed to achieve their desired
+function while being as non-toxic as possible,’ (25) is
+speciﬁc to human health. While great strides have been
+made to design safer chemicals within the chemical
+enterprise, there is more work to be done around recog-
+nizing the existence within and impact of chemicals on
+disadvantaged communities, particularly those of lower
+socioeconomic status and communities of color. It is
+implicit that green and sustainable chemistry contributes
+to social equity and environmental justice because these
+innovative technologies have excellent potential to oﬀer
+solutions to achieve equity. As well, this fully comp-
+lements the dynamic ACS Mission Statement, which is
+‘to advance the broader chemistry enterprise and its prac-
+titioners for the beneﬁt of Earth and its people’ (1).
+Organized conversations around social and environ-
+mental justice as a framework to address the why of
+green chemistry began at the 20th Green Chemistry
+and Engineering Conference in Portland in June 2016
+during a symposium on green chemistry and the social
+and environmental (in)justice of chemical exposure.
+The purpose of this unique symposium was to bring
+together, for the ﬁrst time, a multidisciplinary group of
+participants to begin exploring the racial and socioeco-
+nomic disparities in how hazardous chemicals impact
+society. This topic was discussed with over 75 partici-
+pants who attended the symposium event.
+This justice- and equity-centered symposium has now
+been held at the last 3 GC&E conferences (2016, 2017,
+2018 and will be again in 2019), each time building on
+strong and consistent attendance and sharing knowledge
+across disciplines and ﬁelds to better deﬁne, identify, and
+determine how to mitigate these issues from a chemistry
+perspective. The growth of this symposium is not surpris-
+ing. Chemistry professionals connect with green chem-
+istry from science, education, and business perspectives.
+Others intersect from areas such as public health, toxi-
+cology, occupational health, policy, government, engin-
+eering, industry, etc. Linking green and sustainable
+chemistry to equity and environmental justice inspires
+and resonates with a completely new audience (26) and
+has expanded the reach of green chemistry’s inﬂuence.
+A central theme from these symposia has been how
+these topics connect to green and sustainable chemistry.
+It is important to note that the narrative of these sym-
+posium and subsequent events, workshops, etc, has
+never been that ‘chemicals are bad.’ Instead, it has been
+an exploration of how diﬀerent sectors of the chemical
+enterprise interpret the topics of ‘social equity’ and
+‘environmental justice’ and how there is a speciﬁc connec-
+tion of justice to green and sustainable chemistry.
+Teaching
+students
+these
+connections
+(exposure
+impacts on health, disease status, and the environment
+as well inequitable access to clean water, air, and food for
+communities of color and low socioeconomic status) has
+emerged as a signiﬁcant thread in all three symposium
+and in the subsequent work that participants have done
+within their own institutions to expand their chemistry cur-
+riculum to focus more on justice and equity. Another new
+and emerging theme is the way in which the ACS and the
+chemical enterprise can contribute to equity on a global
+scale by contributing to achieving the United Nations Sus-
+tainable Development Goals (SDGs) (27). The concept for
+using the SDGs to drive forward work that supports
+equityaroseindirectlyfromthesejustice-focusedsymposia
+at GC&E, and participants and workgroups are noting that
+thekeysforthe chemicalenterprisewillbe innovativetech-
+nology, economics, and systems- and life-cycle thinking.
+Integrating justice into the chemistry
+classroom
+Social and environmental justice provides a framework
+for teaching and investigating chemistry as solutions to
+GREEN CHEMISTRY LETTERS AND REVIEWS
+169
+inequitable health and environmental impacts due to
+chemical exposure that can be mitigated through
+green chemistry principles that inﬂuence the design,
+manufacturing, and use of products with an emphasis
+in considering human and environmental health (28).
+Social justice supports the equality of all in economic,
+political, social, and human rights access and environ-
+mental justice assumes the same equal access of rights
+through regulations and policies of environmental laws
+and considerations (28). The community as a whole is
+considered as focal as the individual itself and this com-
+munity-mindedness advocacy for the health and well-
+ness of place and community are an important part of
+many student’s values and goals. Research shows that
+programs that incorporate aspects of cross-cultural and
+social systems are key to student engagement and reten-
+tion (29–33) especially for students of color and women
+(34, 35). Leadership skills also develop in students
+when courses focus on social justice and civic responsi-
+bility (36–39), while civic engagement in young adult-
+hood has been shown to have a positive impact on
+income, education level achieved, and positive mental
+health and health behaviors (40). When these concepts
+are integrated into major-level courses, students frame
+these skills within the context of the subjects studied,
+further strengthening their experience in the classroom
+(41).
+Integrating social and environmental justice frame-
+works into chemistry courses and/or programs requires
+a multi-faceted approach that involves many pieces of
+a complex puzzle. Recently, a two-year endeavor by Kor-
+etsky et al. (42) to shift the School of Chemical, Biological,
+and Environmental Engineering (CBEE) at Oregon State
+University (OSU) toward fostering inclusivity, diversity,
+and meaningful experiences for students was under-
+taken. Their process included developing and imple-
+menting guiding principles that can be used as a
+model. These guiding principles exemplify the principles
+of green chemistry by including the student experience
+as part of the learning process that develops young che-
+mists into justice-focused researchers, developers, and
+engineers with a systems-level approach to considering
+impact. Additionally, by prioritizing pedagogy that sup-
+ports successful retention and completion of students
+of color and women chemists, (43–45), a more diverse
+STEM workforce results as well. The guiding principles
+are as follows:
+(1) ‘Increasing inclusivity, diversity, and social justice in
+engineering
+education
+requires
+active
+cultural
+changes at organizational/departmental and inter-
+personal levels that aﬀect the experiences and per-
+ceptions of students and faculty to increase the
+degree to which diverse individuals identify as
+chemical engineers.
+(2) Organized cultural change leads to inclusion when it
+reﬂects and aﬃrms the lived experiences of all
+members of the community (e.g. students, staﬀ,
+faculty, administrators) as people with complex, mul-
+tifaceted identities. These changes should align with
+our community’s core shared mission of developing
+students’ chemical engineering knowledge and
+skills.
+(3) Explicit pedagogical and social supports for students
+and faculty will help to transition their identities,
+knowledge and skills from engineering school
+world to engineering practice world’ (42).
+The following discussion is oﬀered as a toolbox of
+foundational language, exploratory research, and idea-
+generation that can be used to strengthen the transition
+of a traditional chemistry curriculum toward a justice-
+centered one.
+STEM identity and its impact on student
+success
+Conﬁdence and science self-eﬃcacy have long been
+recognized
+as
+an
+important
+indicator
+of
+student
+success and retention in STEM majors, and women his-
+torically have less conﬁdence in STEM abilities or per-
+ceived success (34, 46–49). In one study researching the
+role of identity development and values in STEM reten-
+tion, researchers found that conﬁdence in a Chemistry
+II class was directly related to course grade and overall
+retention in STEM majors. Students who started their
+Chemistry II class with more conﬁdence earned a
+higher grade than those who did not; students who
+earned higher grades in the beginning of the term
+gained conﬁdence over the semester and were less
+likely to leave their STEM major; and those students
+who were conﬁdent in their place within a STEM major
+earned higher Chemistry II grades than those who
+were not (50). This is good news for those students
+who feel like they ‘belong’ in the chemistry major, but
+what about those who do not?
+Women of color, among other underrepresented
+groups, do not persist in STEM at the same rates as
+their White male counterparts due to social or interperso-
+nal factors, contributing to a lack of a sense of social
+belonging in STEM spaces (35, 51, 52). Likewise, women
+of color experience microaggressions disproportionality
+in STEM spaces, including being questioned about their
+‘presence’ in STEM as well as experiencing racial harass-
+ment (35, 53, 54). STEM identity is traditionally described
+as competitive, individualistic, and solitary (think ‘lone
+170
+G. A. LASKER AND E. J. BRUSH
+genius’) (34, 55), which disadvantages women and stu-
+dents of color who are engaged and retained when
+they have access to and belonging within cross-cultural
+social systems (29–32). This is of critical importance
+when of the 21,821 degrees awarded in chemistry in
+2016, only 1,978 were awarded to Hispanic students
+and only 1,168 were awarded to African-American stu-
+dents (56).
+It is important that the space that chemistry exists
+within
+(be
+that
+the
+classroom,
+laboratory,
+oﬃce,
+program, community, etc.) be inclusive, diverse, and wel-
+coming to all students but particularly mindful toward
+the additional work required to support underrepre-
+sented minority students. One approach is applying criti-
+cal race pedagogy in the classroom. Critical race
+pedagogy ‘is an instructional approach designed to chal-
+lenge and transform the prevailing Eurocentric power
+structure that organizes higher education curricula in
+order to cultivate spaces that validate the experiences
+of Students of Color’ (57). This framework helps minimize
+microaggressions in spaces where students are growing
+their conﬁdence and self-eﬃcacy around chemistry
+success. It also has been shown to empower students
+of color when conversations and acknowledgements
+are made in regard to system-level biases and discrimi-
+nations (57), especially as they exist as barriers for
+students.
+Acknowledging the role of intersectionality in STEM
+identity is also critical. Intersectionality is deﬁned as
+‘the social, economic and political ways in which iden-
+tity-based systems of oppression and privilege connect,
+overlap and inﬂuence one another’ (58). It recognizes
+that there are biases occurring at multiple levels when
+considering intersectional identity such as gender, ethni-
+city, disability, age, veteran status, etc. and prevents indi-
+viduals from feeling included. For example, 76.9% of
+African-American women in one survey around gender
+bias for women of color stated that they were more
+likely than other women to have to prove their expertise
+and competence (59). Likewise, ‘Latinas who behaved
+assertively risked criticism for being angry or ‘too
+emotional,’ even when the women themselves reported
+that they weren’t angry – they just weren’t deferential.
+Nearly 60% of Latinas surveyed noted backlash for
+expressing anger, as compared with 54.4% of Asian-
+Americans, 49.7% of Whites, and 47.8% of Blacks’ (59).
+When learning and research spaces are compromised,
+no one beneﬁts.
+Social justice education pedagogy
+Social justice education as a pedagogy is one that ‘expli-
+citly recognizes the disparities in societal opportunities,
+resources, and long-term outcomes among marginalized
+groups’ (60). A social justice educator is one that models,
+aﬃrms, and sustains socially-just learning spaces so that
+the student may recognize equitable social relations and
+structures in the greater context of work and life. It’s not
+just what they are learning but how and why they are
+learning it. It explains how a classroom that models
+social justice equity inﬂuences the development of
+social and equitable decision-making by the student
+after the class is over (61, 62), and that ‘using a social
+justice lens to actively engage learners in STEM content
+provides motivation and engagement not found in
+decontextualized academic knowledge.’ It allows stu-
+dents to build critical consciousness around the social
+function of their chemistry knowledge (63). Since chemi-
+cals know no borders, it is important that students recog-
+nize the global impact of the work they will be doing and
+that they grow a social consciousness that allows for
+green chemistry and justice principles to guide pre-pro-
+duction design decisions. In the classroom, faculty could
+facilitate having weekly discussions around case studies
+that highlight regrettable substitutions, environmental,
+or human health impacts of chemicals such as DDT,
+lead, asbestos, chemicals in cigarettes, eWaste, noeniciti-
+noid and chlorinated pesticides, etc. Depending on the
+curriculum that week, examples can be brought in that
+mirror the content and can complement the required
+learning for that unit. Students learn to associate chemi-
+cal classes, reactions, and processes with outcomes
+beyond the ‘ﬁnal product’ and recognize their role in
+supporting outcomes that will not negatively impact
+communities and ecosystems.
+Hahn Tapper (60) suggests a model of social justice
+pedagogy that involves ﬁve pillars: A: Freirean notions
+of social justice; B: An examination of individual and
+group identities (social identity theory); C: Intersectional-
+ity; D: Experiential education (text study, guest speakers,
+ﬁeld trips, interactive activities); and E: Responsibility and
+empowerment. This model was developed after analysis
+of an educational organization founded in 2003 that
+oﬀers
+intergroup
+programs
+that
+deeply
+integrates
+social justice (60). This is just one of many models devel-
+oped and employed across organizations, agencies, and
+educational programs.
+It is important to note that while there is no ‘uniﬁed
+approach’ to social justice education, there are some
+shared principles: ‘[1] There are very real diﬀerentials in
+access to social and institutional power between rela-
+tionally positioned group members. [2] While all people
+have socialized prejudices and can discriminate, only
+the dominant group is backed by social and institutional
+power, which is multidimensional and constantly operat-
+ing, being contested, and renegotiated. [3] Those who
+GREEN CHEMISTRY LETTERS AND REVIEWS
+171
+claim to be for social justice must also be engaged in self-
+reﬂection on their own socialization into patterns of
+oppression and continually seek to counter those pat-
+terns. This is a lifelong project and is not achieved at
+the completion of an article or workshop’ (64). Reﬂection
+on these shared principles can be a starting point for the
+multi-layered work required for integrating social justice
+into the chemistry classroom: (1) reﬂecting around your
+identity and role in the dynamics of oppression, privilege,
+identity, and -isms, (2) understanding that students come
+with their own needs to reﬂect and learn more about
+these systems and their own place within them, and (3)
+and framing curricular learning around justice-related
+content.
+Some of this work should be done before shifting cur-
+riculum toward a justice-centered approach (self-reﬂec-
+tion and research and training in cultural-competency,
+identity, bias, threats, etc) while other aspects of this
+work will happen in the classroom, in real time. Creating
+inclusive classroom spaces is also imperative for student
+success. Inclusive classrooms require that content be
+created that accounts for multiple perspectives and
+varied lived experiences from all students. It embraces
+how an individual’s values and perspectives are valuable
+in how they construct, retain, and apply knowledge (65).
+It is also imperative that faculty address their own poten-
+tial assumptions around student identity and learning
+capabilities. This may be diﬃcult or uncomfortable
+passage for faculty who have not yet done this reﬂective
+work. One tool to help begin the process of self-reﬂec-
+tion is the Implicit Bias test. This test was designed to
+help individuals identify internal biases by measuring
+‘the strength of associations between concepts (e.g.
+black people, gay people) and evaluations (e.g. good,
+bad) or stereotypes (e.g. athletic, clumsy)’ (66). It is a fre-
+quent starting place for individuals engaging in social
+justice pedagogy and advocacy. It is also a great tool
+to use with students as their own implicit biases can
+shape the classroom community and impact others.
+In some instances, inclusivity in the classroom can be
+challenged by a very important need to discuss and
+investigate the role of racism, bias, etc within lived
+experiences of students collectively. Although these con-
+versations may result in unintended consequences
+(‘altercations between individual students or groups of
+students; silence from students who feel intimidated or
+fear conﬂict; the assertion and perpetuation of false
+stereotypes or problematic assumptions; the expression
+of oﬀensive speech’) (65) making sure the conversation
+is planned and responses to these issues have been
+well-considered will mitigate potential negative out-
+comes. A guideline for handling these potentially
+diﬃcult moments in the classroom is outlined by
+Sensoy and Diangelo (64) as follows: [1] ‘Recognize and
+aﬃrm the importance of the conversation, [2] Be
+honest about your lack of experience but your willing-
+ness to try, [3] Change your pedagogy, e.g. move to
+small groups for some discussions, [4] Facilitate by invit-
+ing other voices in – e.g. ‘Does anyone have a similar or
+diﬀerent perspective?’ ‘Who hasn’t spoken yet?’, [5]
+Facilitate dialogue rather than debate, e.g. ‘both/and’
+rather than ‘either/or’ frameworks.’ Despite the potential
+for diﬃcult dialogue, having the conversations and doing
+reﬂective work within self and with students creates an
+inclusive and safe learning environment for all students.
+Community-engaged participatory research
+The history of product development globally has rarely
+prioritized consideration for ecological and human
+health impacts of the chemicals or products developed.
+As a result of this omission, more of these impacts are
+being recognized and reported through clinical research
+and epidemiological studies, especially within disadvan-
+taged communities and populations. Some researchers
+are attempting to quantify and qualify those impacts
+through work with communities to determine the best
+ways to mitigate them. One way in which this occurs is
+through
+Community-Based
+Participatory
+Research
+(CBPR). CBPR ensures that community members are part-
+ners in this research and work, not subjects. It uses
+knowledge within the community to design research or
+interventions
+best-suited
+for
+the
+nuances
+of
+the
+systems within that community and helps connect the
+community with the researchers and policy makers to
+build relationships. When these parameters are met, it
+allows the community to realize the beneﬁts immedi-
+ately and directly (67). This model of research diverges
+from more traditional research found within STEM pro-
+grams,
+particularly
+in
+chemistry
+where
+the
+work
+happens in laboratories, not in communities.
+Recognizing the role of communities as an integrated
+aspect of research requires interpersonal reﬂection on
+the equality of communities (especially communities of
+color and disadvantaged communities). One must dis-
+mantle hierarchies of systems and judgement around
+educational, income, class, and race/ethnicity status to
+allow community members to be equal partners in
+ﬁnding solutions for their issues. Faculty who shift
+toward CBPR demonstrate this commitment to diversity
+and inclusion by modeling research as a partnership that
+beneﬁts all involved, not just the institutions already
+advantaged. It is important that there is a direct role
+that the community has in the design and conduction
+of research and the development of policy around the
+issues that directly impact them. This can be diﬃcult
+172
+G. A. LASKER AND E. J. BRUSH
+for a number of reasons, some of which are related to
+scientiﬁc and health literacy levels, where 36% of
+adults have at or below basic levels in health literacy
+skills (68) and the use of complicated language, contra-
+dictory health information, and quantity of information
+that makes understanding science and health concepts
+diﬃcult for individuals, especially those who are of a
+low socioeconomic status (69). Likewise, communicating
+environmental exposure risks to communities may have
+ethical concerns when research hasn’t yet ﬁnalized real
+risk outcomes associated with exposures in many
+instances (70). Still though. there is still a signiﬁcant
+beneﬁt to involving students and communities together
+in ﬁnding solutions to issues around chemical exposures
+such as helping students develop concepts around cultu-
+rally-tailored interventions (71), building leadership skills
+(72) and civic responsibility (73), helping to dismantle
+hierarchy of academic systems in research (74), increas-
+ing critical thinking skills among students (75), and
+linking knowledge to action (76). Some barriers for
+faculty may include lack of departmental or institutional
+support for this type of work, funding issues, and lack of
+time to properly build relationships with communities
+and to implement CBPR research that meets the criteria
+of ethically-responsible engagement.
+Systems thinking in chemistry
+Systems thinking was conceptualized in 1987 by Barry
+Richmond, a pioneer in systems thinking and the
+dynamics of systems (77). Later, Arnold and Wade
+pointed to a need for a ‘common language and frame-
+work’ that allows interdisciplinary teams to share knowl-
+edge and solve global issues in part due to the
+commonality of this language and framework. The com-
+plexity of systems prompted Arnold and Wade (77) to
+redeﬁne systems thinking as a ‘system of thinking
+about systems,’ and they analyzed eight well-regarded
+systems thinking deﬁnitions. They found among them
+that ‘common elements tend to include interconnec-
+tions, the understanding of dynamic behavior, systems
+structure as a cause of that behavior, and the idea of
+seeing systems as wholes rather than parts’ (77). Investi-
+gating and visualizing this interconnected web of topics,
+disciplines, partners, etc., is particularly helpful for chem-
+istry students who wish to connect justice to their work
+as chemists and designers to directly or indirectly
+resolves potential justice-related health and environ-
+mental issues. Systems thinking demonstrates chemis-
+try’s ‘place’ in the larger context of the world (78) by
+challenging student to ‘think about how chemistry may
+be used to provide services and functions to other
+sciences and end-uses as opposed to being an end all
+to itself to advance the science of chemistry’ (79). This
+serves justice-oriented outcomes by challenging ideas
+of hierarchy and helping students recognize post-pro-
+duction impacts in the context of lifecycle inventory
+and assessment in product development (79, 80).
+Matlin et al. (81) calls for systems thinking in the devel-
+opment of a ‘one world chemistry.’ They cite chloroﬂuor-
+ocarbons, antibiotics, and plastic waste in the sea as three
+examples where the chemical enterprise has applied
+principles
+of
+systems
+thinking
+toward
+recognizing
+impacts and devising solutions to concerns. Systems
+thinking is inherently interdisciplinary, yet Reeve (82)
+suggested that the educational approach may be better
+framed as ‘STEM Thinking,’ which is ‘purposely thinking
+about how STEM concepts, principles, and practices are
+connected to most of the products and systems we use
+in our daily lives.’ As students apply what they have
+learned within their chemistry courses or programs to
+solving problems within the context of systems thinking
+assignments or case studies (or on projects across
+diﬀerent schools and disciplines of study), they recognize
+their impact within these greater systems. Expanding
+their question ‘Why am I studying chemistry?’ beyond
+STEM-based learning outcomes into social and behav-
+ioral, artistic and creative, health and medicine, and
+systems of race, culture, and identity, challenges them
+to work interdisciplinarily to solve complex issues and
+provides relevance to the real-world systems beyond
+the classroom and laboratory (28).
+Systems thinking analysis is generalized by six steps:
+[1] Identify inﬂuences on a desired outcome or process.
+[2] Indicate the relative strength of impact of the ident-
+iﬁed inﬂuences. [3] Determine how the inﬂuences all
+interact. [4] Identify feedback loops that indicate poten-
+tial dynamic changes that may occur in a system that
+changes. [5] Identify bottlenecks and limitations of the
+system. [6] Identify leverage points that can improve
+the outcomes or processes identiﬁed (83). Creating class-
+room and laboratory exercises that involve systems
+thinking analysis as part of the deliverable helps students
+identify their role in a bigger system as well as their
+opportunity for positive impact as career chemists,
+designers, etc. It also increases relevancy for students,
+important in particular for students of color and
+women (28), and provides context and purpose for
+their place in their communities as chemists.
+Conclusion
+Innovative green and sustainable chemistry technologies
+have excellent potential to oﬀer solutions to achieve
+equity and environmental justice. However, the STEM
+pipeline must be supported by a framework to facilitate
+GREEN CHEMISTRY LETTERS AND REVIEWS
+173
+the use of social and environmental justice for teaching
+and investigating chemistry as solutions to justice
+issues. Linking green and sustainable chemistry to
+equity and environmental justice has excellent potential
+to inspire a new audience of students to pursue STEM
+careers and to strengthen the pipeline through the
+engagement and retention of students of color and
+women. Considering aspects of identity, bias, inclusivity,
+community-centered research, guiding principles of
+social justice pedagogy, and systems thinking can
+guide faculty and staﬀ toward supporting a justice-cen-
+tered focus within curriculum that calls for consideration
+and protection of human and environmental health. It
+provides purpose, relevancy, and vision for chemistry
+students and their future careers as change agents.
+Acknowledgements
+The authors would like to thank the American Chemical Society
+and the Green Chemistry & Engineering Conference for hosting
+seminars led by the authors around social and environmental
+justice over the past several years. They would also like to
+thank all collaborators and community partners and their
+expertise in resources for faculty and staﬀ to incorporate
+justice-centered teaching into the classroom and for providing
+guidance to the authors.
+Disclosure statement
+No potential conﬂict of interest was reported by the authors.
+Notes on contributors
+Grace A. Lasker is a Senior Lecturer and Director of the Health
+Studies program at the University of Washington Bothell. She
+has over a decade of educational program and course develop-
+ment experience for academic, continuing education, grants,
+and private industry. Her research focuses on the intersection
+of toxicology, green chemistry, and public health and the role
+of social and environmental justice pedagogy in training the
+next generation of scientists and public health practitioners
+around safer chemical design. She is also a certiﬁed nutritionist
+(CN) and a Certiﬁed Health Education Specialist (CHES). She is
+an Aﬃliate Faculty with the University of Washington’s Depart-
+ment of Environmental & Occupational Health Sciences
+(DEOHS) and is active with DEOHS’ Continuing Education
+department. Dr. Lasker has focused her career on teaching
+and program development, particularly online programs. She
+is a certiﬁed online developer and instructional designer,
+working in this capacity for programs and grants across the
+country.
+Edward J. Brush is a Professor of Chemistry and coordinator of
+Project GreenLab at Bridgewater State University. Project
+GreenLab is a regional center for Green Chemistry Education
+that focuses on curriculum development, research, and com-
+munity outreach. Our partners include faculty and students at
+Bridgewater State University and regional colleges. Project
+GreenLab aims to educate the BSU and regional communities
+about green chemistry and the impacts of chemicals on
+human and environmental health. GreenLab oﬀers professional
+development and hosts an annual Undergraduate Symposium
+on Sustainability and the Environment.

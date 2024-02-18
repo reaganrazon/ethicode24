@@ -1,0 +1,376 @@
+Journal of Physics: Conference
+Series
+     
+PAPER • OPEN ACCESS
+Building a Professional Learning Community with
+Team Endeavors while Creating Elementary-
+focused STEM-integrated Lesson Plans
+To cite this article: S Krainara and S Chatmaneerungcharoen 2019 J. Phys.: Conf. Ser. 1340 012015
+ 
+View the article online for updates and enhancements.
+You may also like
+How important is technological,
+pedagogical, content knowledge? A
+literature reviews
+J Mupita, I Widiaty and A G Abdullah
+-
+Making an IMPRESSion: mapping out
+future directions in modern physics
+education
+Magdalena Kersting, David Blair, Stefano
+Sandrelli et al.
+-
+Improving Educator Development by
+Innovation in Teaching Activity via web 2.0
+Nurhanim Saadah Abdullah, Mohd Ismail
+Abd Aziz, Affero Ismail et al.
+-
+This content was downloaded from IP address 68.65.175.96 on 17/02/2024 at 22:07
+Content from this work may be used under the terms of the Creative Commons Attribution 3.0 licence. Any further distribution
+of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.
+Published under licence by IOP Publishing Ltd
+International Annual Meeting on STEM Education (I AM STEM) 2018
+IOP Conf. Series: Journal of Physics: Conf. Series 1340 (2019) 012015
+IOP Publishing
+doi:10.1088/1742-6596/1340/1/012015
+1
+ 
+ 
+ 
+ 
+ 
+ 
+Building a Professional Learning Community with Team 
+Endeavors while Creating Elementary-focused STEM-
+integrated Lesson Plans 
+Krainara S1*, Chatmaneerungcharoen S2 
+1Baankuku School, Phuket Educational Area District Office. 
+2Department of General Science, Faculty of Education Phuket Rajabhat University 
+ 
+*Corresponding author’s e-mail address: drsiriwankief@pkru.ac.th 
+Abstract. This longitudinal study examined the development of pedagogical knowledge of 
+teacher‘s participation in a 2-year professional development program that enhanced teacher’s 
+self-efficacy and prompted changes in science instruction in the elementary grades. The 
+purpose of this research was to implement STEM activities which are developed by a 
+professional team. A professional learning community (PLC) was used as a professional 
+development tool helping the teacher increase her Pedagogical Content Knowledge. 
+Collaborative design of STEM science lessons, implementation of the lessons and reflection on 
+outcomes. Collaboration among the educator and teachers was offered in the form of online 
+learning materials, exemplary lessons and the availability of an expert. The researcher 
+participated for one year in the program. Results showed significant increases in teacher’s 
+overall self-efficacy in teaching science, personal efficacy, and outcome expectancy efficacy 
+during the 2 years. The increase of self-efficacy was presented with changes in improved 
+instructional practices, particularly student participation activities. The educators and experts 
+were important in providing pedagogical support during the design and implementation, and 
+reflected with teachers on how to improve on their teaching. 
+1.  Introduction 
+Building individuals with good knowledge and understanding of Science and Technology have 
+become the main goals of national education programs. Thai science education has advocated infusing 
+21st century skills into the school curriculum and several educational levels have participated in such 
+efforts. Thai educational institutions that focus on STEM, such as the Office of Basic Education 
+Commission (OBEC), The Institute for the Promotion of Teaching Science and Technology (IPST), 
+Phuket Rajabhat University STEM Education Center (PKRU STEM Education Center) and Chevron 
+Enjoys Science projects.  
+STEM is a curriculum based on the idea of educating students in four specific disciplines — 
+science, technology, engineering and mathematics. Integrated approaches to STEM (science, 
+technology, engineering, and mathematics) education are increasingly popular, but remain challenging 
+and elusive. There is much hope that integrated approaches to STEM education can help the next 
+generation of students to solve real-world problems by applying concepts that cut across disciplines as 
+well as capacities of critical thinking, collaboration, and creativity [1]. However, most teachers have 
+International Annual Meeting on STEM Education (I AM STEM) 2018
+IOP Conf. Series: Journal of Physics: Conf. Series 1340 (2019) 012015
+IOP Publishing
+doi:10.1088/1742-6596/1340/1/012015
+2
+ 
+ 
+ 
+ 
+ 
+ 
+received training in only one discipline [3], and most schools and classes at all levels still have 
+separate departments and class periods for the STEM subjects. Therein lies a significant challenge for 
+educators and administrators interested in promoting integrated STEM. 
+Lesson design, Planning is an essential aspect of effective teaching. Planning begins with a design 
+of units of study, and continues in the development of a sequence of lessons crafted to achieve the 
+goals of the unit. Units are large chunks of the curriculum. Each unit contains multiple lessons and the 
+lessons provide a pathway to mastery of the big idea. Each lesson should be an important step toward 
+the goals of the unit. 
+Characteristics of a Good Lesson [2] 
+To plan effective lessons, you begin with the end – what are the outcomes you want from the 
+lesson? What knowledge, skills, and attitudes will students possess if the lesson is successful? All 
+lessons have the same basic structure: clear objectives, activities that provide students opportunities to 
+meet the objectives, an introduction that activates prior knowledge and introduces questions that the 
+teacher uses to check for understanding, and independent work in which students apply the concepts 
+under varying degrees of difficulty. 
+So the essential elements of the lesson design are: 
+1. The objectives are set first and drive the design. 
+2. There is an opening that activates students’ prior knowledge. 
+3. The lesson provides clear direction for students. 
+4. The teacher models or demonstrates the work to be done. 
+5. There is an opportunity for guide practice.  
+6. There are opportunities for teachers to check for understanding. 
+7. There is an opportunity for independent work. 
+8. There is a closing and summation of what was learned. 
+Goals identified in the framework include building STEM literacy and 21st century competencies; 
+developing a STEM-capable workforce; and boosting interest and engagement in STEM. In terms of 
+outcomes, the framework considers learning and achievement; and the ability to transfer 
+understanding across STEM disciplines. Regarding the nature and scope of integration, the framework 
+addresses which subjects are connected; which disciplines are dominant; and the duration, size, and 
+complexity of an initiative. With respect to implementation, the framework focuses on instructional 
+designs involving problem-based learning and engineering design; professional development and 
+development of professional learning communities; and adjustments to the learning environment, such 
+as extended class periods, extended lesson planning, team teaching, and partnering between STEM 
+educators experts and teachers. 
+Watsuwankeereewong School is located in Patong, a major tourist attraction in the world. The 
+students have migrated or have moved out from parents who come to work in Patong, and many of the 
+student’s behaviors have been observed. Students in school have lower academic achievement. Most 
+lack the ability to think and solve problems without reason and are tired of learning, are lazy, and 
+unable to connect their knowledge from the classroom to everyday life. As a result, students do not see 
+the importance of science. 
+For the above reasons. If the teacher cooperates to adjust the teaching and learning and plans together 
+the design of learning management, along with observation of teaching together and activities that 
+focus on the students, they will be able to practice and think for themselves. Sharing the STEM 
+activity design of teachers reflects and improves teaching the community of professional learning 
+teachers. It develops students to their full potential, helps people in the 21st century and brings 
+research results to effective teaching and learning through professional community processes. It will 
+encourage students to recognize the importance and relevance of STEM (science, technology, 
+engineering and mathematics) 
+Other paragraphs are indented (BodytextIndented style). 
+ 
+ 
+International Annual Meeting on STEM Education (I AM STEM) 2018
+IOP Conf. Series: Journal of Physics: Conf. Series 1340 (2019) 012015
+IOP Publishing
+doi:10.1088/1742-6596/1340/1/012015
+3
+ 
+ 
+ 
+ 
+ 
+ 
+Purpose of study 
+To develop teachers in Watsuwankeereewong school to be able to design teaching and learning 
+together. 
+To build a professional learning community in Watsuwankeereewong school Patong Phuket. 
+Research Questions 
+What processes of collaborative STEM lesson design enable teacher design teams to develop a 
+STEM integrated lessons? 
+2.  Methodology 
+2.1.  Research Methodology 
+This Study is based on the classroom action research. The data analysis focused on processes of 
+collaborative STEM lesson design enable teacher design teams to develop a STEM integrated lessons. 
+This study was conducted for 1 year following the research framework which is presented in Picture 1. 
+2.2.  Research Participations 
+The research participants were 4 science teachers and 2 science student teachers in major of General 
+Science, 
+Faculty 
+of 
+Education 
+at 
+Phuket 
+Rajabhat 
+University, 
+themselves 
+teach 
+in 
+Watsuwankeereewong School and educator from The Department of General Science Faculty of 
+Education at Phuket Rajabhat University. The four science teachers and two science student teachers 
+cooperative indicated their willingness to participate in the study choosing to focus their curriculum 
+design within Force Lesson. 
+2.3.  Research Instruments 
+In order to study the processes of collaborative STEM lesson design and enable teacher design teams 
+with the Professional Learning Community (PLC). The researcher used data from, a design lesson 
+observation meeting, classroom observation, individual interviews, a questionnaire, an inquiry-based 
+lesson plan, reflection, and group discussions. In this research, classroom observations, interviews, 
+questionnaires, case studies and documents were used as research methods to provide opportunities for 
+participants and the researcher to generate an understanding for a particular situation. Research 
+participants presented their lesson plan design through writing lesson plans, teaching, reflecting, 
+meeting and answering or discussing topics in the interview process. Additionally an understanding of 
+their PLC and STEM was transcribed and explained by the researcher who has used the inductive 
+approach to generate the article. 
+ 
+2.4.  Teacher design team descriptions  
+Team lesson design 
+    The Team Lesson Design consisted of four teachers and two student teachers in major of General 
+Science, the Faculty of Education at Phuket Rajabhat University, six of whom worked in the same 
+schools. Two teachers participated in the Chevron Enjoy Science Project the previous year. 
+Team to the reflect  
+The Team to the Reflect consisted of an administrator and an educator from the Department of 
+General Science Faculty of Education at Phuket Rajabhat University. 
+ 
+ 
+ 
+ 
+ 
+ 
+International Annual Meeting on STEM Education (I AM STEM) 2018
+IOP Conf. Series: Journal of Physics: Conf. Series 1340 (2019) 012015
+IOP Publishing
+doi:10.1088/1742-6596/1340/1/012015
+4
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1. Professional development overview and data collection timeline 
+Weeks 
+Activities 
+Data collected 
+1 
+-Design lesson. 
+Collaborate with colleagues on designing                     
+and activity.  
+How will it be assessed? 
+- Individual participant reflections         
+- Field notes 
+ 
+2 
+-Teach 
+Teach from the lesson plan design. 
+- Individual participant reflections         
+- Field notes 
+ 
+-Assess 
+How did your students do? 
+ 
+ 
+-Share 
+Share your assessments with your colleagues. 
+ 
+ 
+-Reflect 
+How did our students do? 
+ 
+3 
+-Evaluate 
+Are we making an impact? What changes do we 
+need to make? 
+- Individual participant reflections         
+- Field notes 
+ 
+-Inquiry 
+What learning needs do our students have? 
+ 
+How do we improve the lesson plan? 
+ 
+4 
+Cycle repeat from wk2-3 
+ 
+ 
+3.  Data Collection 
+Classroom Observation was used in the ways of formal and informal observation of teaching while it 
+was taking place in a classroom or other learning environment.  It was conducted by fellow teachers, 
+administrators, experts or instructional specialists. 
+Practice Reflective Journal by classroom teacher/ researcher. 
+Reflective Feedback Journal by PLC team. 
+4.  Data Analysis 
+The researcher analyzed documents and underlying knowledge of participants in speaking and writing. 
+Data from multiple sources such as teachers’ journals and interviews, field notes from observations 
+and card sorting were analyzed by the process of open coding to get the transcripts from the first 
+interview, observation, reflection and card sorting, developing initial categories of the participant’s 
+technological pedagogical content knowledge and their practice. In developing categories, the 
+researcher used a constant comparative method of analyzing multiple sources of data which served to 
+triangulate the data in order to increase trustworthiness of the research findings and assertions made. 
+5.  Result and discussion 
+The results of this research are as follows. 
+1. Form of community building, professional learning in schools. The use of STEM instruction on 
+the strengths of Mathayomsuksa 3 of Watsuwankeereewong School consists of 4 main components 
+and 10 sub-components as follows. 
+     The main element is as follows 
+1 Organization for Learning consists of two sub-components: 
+1) Prepare the environment within the school with a focus on cleanliness, cleanliness, and health 
+rate of personnel 
+International Annual Meeting on STEM Education (I AM STEM) 2018
+IOP Conf. Series: Journal of Physics: Conf. Series 1340 (2019) 012015
+IOP Publishing
+doi:10.1088/1742-6596/1340/1/012015
+5
+ 
+ 
+ 
+ 
+ 
+ 
+ 2) Creating a corporate culture that is conducive to learning: being a good person, being open 
+minded, listening to friends, enhancing the mental state of student teachers by organizing 
+psychological activities. 
+The second element, the value creation and the shared vision, consists of two sub-components: 
+1) Co-ordinate the student's learning goals for understanding. 
+2) Define learning together based on the PLC concept: taking experience, exchanging experiences, 
+visualizing success, exchanging expectations. 
+The Third element 3: Learning from the common practice consists of 3 sub-components: 1) 
+Learning together. Collaborative Learning: Designing / Planning / Producing Exchanges. Reflect the 
+teaching, and improve teaching 
+2) AAR (After action review): Successful exchange not less than one time a month. 
+ 
+The main component 3 evaluates the expected results. 
+1) Strong student achievement. 
+2) Student behaviour in STEM 
+3) Teacher Satisfaction The pattern of creating a professional learning community in schools. 
+ 
+The results of the evaluation of the community-based learning model in vocational schools in Wat 
+Suwankeereewong School by contextual experts on the benefits.  The possibility and the accuracy are 
+at the highest level. The students in grade 7 - 9 had an average score of 73.14 percent. The teacher of 
+Watsuwankeereewong School STEM teaching behaviours were at a higher level. Teachers were 
+satisfied with the model of community building, professional learning in schools at a high level. 
+6.  Conclusion 
+For one year with a collaborative STEM lesson design, and STEM teaching development by building a 
+professional learning community, the results showed increases in teacher’s overall self-efficacy in 
+teaching science, personal efficacy, and outcome expectancy efficacy. The increase of self-efficacy 
+was presented with changes in improved instructional practices, particularly student participation 
+activities. This enabled the ability to build a professional learning community of teachers. 
+ 
+ 
+Figure 1. Research Frame work 
+International Annual Meeting on STEM Education (I AM STEM) 2018
+IOP Conf. Series: Journal of Physics: Conf. Series 1340 (2019) 012015
+IOP Publishing
+doi:10.1088/1742-6596/1340/1/012015
+6
+ 
+ 
+ 
+ 
+ 
+ 
+Lesson Design consists of these elements: 
+ 
+Understanding the prior achievement of the class. 
+ 
+Clear learning objectives that specify the concepts or skills to be mastered; 
+ 
+Modeling or demonstrating the skills or concepts;  
+ 
+Guided practice to allow students to apply the skills or concepts; and 
+ 
+Checks for understanding that permit the teacher to monitor student progress and when 
+necessary adapt instruction to meet the needs of individual students. 
+In the Lesson design, teachers were asked to discuss:  
+ 
+Group of Team Learning 
+ Member’s role; Group leader, supervisor, communicator, collectors, time controller. 
+ 
+The Cognitive Demand of Classroom Tasks 
+ Construction of knowledge, through disciplined inquiry, to produce discourse, products, 
+and performances. 
+ 
+Formative Assessment 
+ Observations of student work, student responses to teachers’ questions, or on the use of 
+techniques that allow students to give continual feedback about whether they understand the 
+material. 
+7.  Research Implication 
+Results showed significant increases in teacher’s overall self-efficacy in teaching science, personal 
+efficacy, and outcome expectancy efficacy during the 2 years. The increase of self-efficacy was 
+presented with changes in improved instructional practices, particularly student participation activities. 
+The educators and experts were important in providing pedagogical support during design and 
+implementation, and reflected with teachers on how to improve on their teaching.        
+University researchers/ experts are currently facilitating academic-year professional development 
+for science coaches within the division to pilot STEM activities in classrooms. This continuing 
+investment will build upon the school Professional development model for STEM integration and 
+respond to the expressed needs of the participants. The sequential actions of experiencing, questioning, 
+analyzing, adapting, envisioning, and reflecting on STEM lesson plans as a vehicle for STEM 
+integration in science classrooms 

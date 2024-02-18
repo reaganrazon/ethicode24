@@ -1,0 +1,1310 @@
+Vol.:(0123456789)
+1 3
+Early Childhood Education Journal (2023) 51:875–888 
+https://doi.org/10.1007/s10643-022-01347-w
+A Mixed Methods Study of the Relationship Between Individualized 
+Lesson Planning and Social‑Emotional Outcomes in Young Children
+Michael J. Haslip1  · Neisha Terry1
+Accepted: 5 April 2022 / Published online: 7 May 2022 
+© The Author(s), under exclusive licence to Springer Nature B.V. 2022
+Abstract
+This mixed methods study examines the relationship between different components and characteristics of individualized 
+lesson plans and children’s social-emotional outcomes to develop a profile of effective planning. Sixty-one individualized 
+SEL lesson plans written and implemented by 20 experienced early childhood educators from a large city in the northeastern 
+United States are examined to understand the types and difficulty level of behavioral challenges teachers addressed, the types 
+and specificity of SEL skills taught and the specificity of teaching strategies implemented. By quantizing qualitative data 
+through a process of descriptive, pattern and then magnitude coding, the study then uses correlational analyses to examine 
+the relationship between successful child outcomes following instruction and the rated components of the lesson plans. 
+Findings reveal that lesson plan alignment is most strongly related to successful social-emotional outcomes (rho coefficient 
+.69), followed by teaching strategy specificity (rho .51). The difficulty level of the children’s behavior being addressed by the 
+lesson plans and the teachers’ ability to list SEL skills with specificity as learning objectives were not significantly related 
+to later student success. Assigning individualized SEL lesson planning to in-service teachers resulted in at least partially 
+successful child outcomes 59% of the time, showcasing how teachers need more systematic practice and training to refine 
+this important skill.
+Keywords Early childhood education · Social emotional learning · Lesson plan · Individualized instruction · 
+Differentiation · Professional development
+Introduction
+Social emotional learning (SEL) competencies are best fos-
+tered by teachers who understand how to design lessons that 
+provide explicit opportunities for students to be introduced 
+to and practice these skills (Egert et al., 2018; Masterson, 
+2021; McClelland et al., 2017). Benson (2021) argues that 
+SEL-focused lesson plans engage students more, making 
+them more amenable to the development of these compe-
+tencies. Effective lesson planning for SEL also contributes 
+to better classroom management, leading to greater learning 
+gains (Sandilos et al., 2020).
+McClelland et al. (2017) state that “effective interven-
+tions embed direct instruction and practice of targeted [SEL] 
+skills into daily activities” (p. 33). Therefore, to support SEL 
+competencies in the early years, teachers need  to develop 
+proficiency crafting and delivering SEL plans. However, the 
+capacity of early childhood educators to write lessons aimed 
+at developing SEL competencies appears so understudied 
+that no empirical examples could be found for review. There 
+remains disparity in the level and nature of teacher prepared-
+ness in early childhood (Boyd et al., 2020; Burchinal et al., 
+2002). While some teachers have been trained in lesson 
+design at accredited teacher education programs, others are 
+new to the field and have a rudimentary understanding of 
+writing lesson plans (Ackerman, 2004; Marais et al., 2019; 
+McClelland et al., 2017).
+SEL programs, curricula, lesson plan templates and 
+related resources are readily available for early childhood 
+ * Michael J. Haslip 
+ 
+Haslip@drexel.edu
+ 
+Neisha Terry 
+ 
+Nty23@drexel.edu
+1 
+School of Education, Drexel University, 3rd Floor, Office: 
+3225, 401 Market St, Philadelphia, PA 19104, USA
+876
+ 
+Early Childhood Education Journal (2023) 51:875–888
+1 3
+teachers, such as the Head Start Effective Practice Guides,1 
+the HighScope Preschool Curriculum for Social and Emo-
+tional Development (Epstein, 2012), the SecondStep Early 
+Learning Curriculum,2 Al’s Pals,3 Incredible Years,4 Tools 
+of the Mind5 and 70 other programs described on the 
+CASEL Program Guide.6 However, as research indicates, 
+lessons are more effective when they are designed from a 
+place of contextual knowledge (Ladson-Billings, 2002). The 
+most effective lessons  are those that can leverage knowledge 
+of the learner, the learning context, and the community to 
+select appropriate strategies and learning activities (Ladson-
+Billings, 2002; Paris & Alim, 2017). Prepackaged curricula 
+may not be as effective as lessons designed by teachers 
+themselves for a specific classroom context or individual 
+child. Yet the ideal of individualized, teacher created SEL 
+lesson plans in early childhood is elusive, in part because 
+there appears to be no published empirical research on this 
+topic.
+Some early childhood educators admit to having limited 
+knowledge of social emotional learning characteristics (Esen-
+Augyen & Shain-Taskin, 2017). While they have heard the 
+term used, many of them are unfamiliar with the competen-
+cies or indicators associated with each SEL skill. Addition-
+ally, research reveals an overall lack of teacher proficiency in 
+lesson design at the early childhood level, connecting back 
+to inadequate lesson plan training in teacher preparation 
+programs (Marais et al., 2019), as well as inadequate train-
+ing from subsequent professional development (McClelland 
+et al., 2017; Sandilos et al., 2020). In fact, when examining 
+the issue of SEL competency and teacher delivery of these 
+skills, researchers report that “early childhood educators often 
+feel that they don’t receive enough  training to effectively help 
+children develop SEL skills” (McClelland et al., 2017, p. 34).
+This need for more effective professional development 
+aimed at equipping teachers with pedagogical tools to pro-
+vide instruction in SEL led to a recent study by Sandilos 
+et al. (2020) exploring how professional development based 
+on pre-written SEL learning curricula for Pre-K class-
+rooms might effect teacher-student interactions and teacher 
+effectiveness. Despite the focus on curricula and delivery 
+of SEL objectives, the  researchers did not explore lesson 
+planning, or assess teachers’ ability to plan SEL lessons and 
+instructional opportunities. The programs that they explored 
+featured lessons that had already been planned for teachers. 
+Early childhood teacher proficiency in SEL lesson planning 
+remains unexplored. Other researchers have examined early 
+childhood teachers' perceptions of the adequacy of their pro-
+fessional development in SEL with results indicating that 
+more training is needed (Aparo, 2021; Ferreira et al., 2021). 
+These studies have not focused on SEL lesson planning.
+SEL competencies are appropriate targets for planning 
+and instruction, including those related to emotion regula-
+tion, decision-making, conflict resolution, cooperative play, 
+and many others (Epstein, 2009). These skills are developed 
+along a progression, with learners in the early years being 
+introduced to the skills in a way that  best suits their devel-
+opmental ability and cultural context (Mondi et al., 2021; 
+Yoder, 2014). Furthermore, teachers must understand many 
+different developmental milestones and the need for a cul-
+turally relevant lens when assessing them (McCarthy et al., 
+2006; Mondi et al., 2021). Teachers of children ages 3–5 
+and ages 6–8 often address different developmental targets 
+(Darling-Hammond et al., 2020). Likewise, students in urban 
+and rural areas, as well as students from disparate ethnic 
+or racial backgrounds, develop differing cultural norms and 
+practices that must be considered when planning and assess-
+ing SEL development in the early years (Ladson-Billings, 
+1995; Webb-Johnson, 2002). Identifying the appropriate 
+response to developmental, cultural and economic diversity 
+in children is a skill that must be developed within teachers, 
+including  the ability to discern the appropriate SEL skill 
+for instruction within this context, and the ability to provide 
+proper cultural and linguistic scaffolding during instruction. 
+Can teachers adequately develop or employ these skills of 
+discernment and cultural competence if only utilizing pre-
+developed lesson plans?
+Most SEL lesson plans are written for whole-group or 
+small group instruction in collaborative classroom settings 
+(VanAusdal, 2019). The rationale behind this emphasis on 
+group instruction is due to the highly social nature of the 
+skill sets being targeted for development, with many pre-
+developed lessons featuring activities such as role-play, 
+games, and other group activities (White et al., 2017). This 
+group lesson plan emphasis reveals another knowledge gap, 
+as there is a paucity of empirical data on the nature and 
+effectiveness of individualized SEL plans in early childhood 
+classrooms.
+Though researchers agree that “the result of appropri-
+ately individualized instruction is meaningful learning for 
+all young children” (Boat et al., 2010, p. 3), individual-
+ized instruction is typically reserved for students  requiring 
+special education services (Boat et al., 2010; Smith et al., 
+2 SecondStep Early Learning Program. Online: https:// www. secon 
+dstep. org/ early- learn ing- curri culum
+3 TeachingStrategies, Al’s Pals. Online: https:// teach ingst rateg ies. 
+com/ produ ct/ als- pals/
+4 The Incredible Years training series. Online: https:// incre dible years. 
+com/
+5 Tools of the Mind. Online: https:// tools ofthe mind. org/ get- tools/
+6 Collaborative for Social, Emotional and Academic Learning 
+(CASEL), Program Guide. Online: https:// pg. casel. org/ review- progr 
+ams/
+1 U.S. Department of Health and Human Services, Administration 
+for Children and Families, Early Childhood Learning & Knowledge 
+Center (ECLKC), Effective Practice Guides, Social and Emotional 
+Development. Online: https:// eclkc. ohs. acf. hhs. gov/ school- readi ness/ 
+effec tive- pract ice- guides/ social- emoti onal- devel opment
+877
+Early Childhood Education Journal (2023) 51:875–888 
+1 3
+2018). It is therefore important to examine ECE teachers’ 
+self-efficacy with creating SEL lesson plans and individual-
+izing SEL guidance. “Individualized guidance” is thought 
+to be more effective at teaching children social competence 
+skills compared to whole class lessons (Katz & McClel-
+lan, 1997) because it “maximizes the child’s participation in 
+constructing new knowledge and allows teachers to be warm 
+and supportive during the interaction” (Epstein, 2009, p. 18).
+Although there are teaching guides for supporting dif-
+ferentiation across content areas in the early grades (Smutny 
+& von Fremd, 2009) and frameworks for modifying early 
+childhood curriculum for individualization (Horn & Baner-
+jee, 2009), qualitative research suggests that teachers in 
+the early elementary grades “struggle to develop effective 
+individual learning plans” in practice (Muñoz-Martínez & 
+Porter, 2020, p. 1), making it likely to  find similar struggles 
+at the preschool level. In the United States, the ECE profes-
+sion recognizes the importance of providing differentiated 
+and individualized instruction for all young children across 
+all developmental domains (Masterson, 2021; NAEYC, 
+2019), yet there appears to be no empirical research about 
+how early childhood teachers engage in individualized les-
+son planning for social-emotional learning or how successful 
+they are when doing so.
+Purpose
+The purpose of this study was to determine if teachers report 
+improved social-emotional outcomes in young children 
+after writing and implementing individualized SEL lesson 
+plans, and if so, to what extent, how, and why. The study 
+investigated how early childhood teachers engage in indi-
+vidualized SEL lesson planning by examining the types of 
+behavioral challenges they target for improvement, the types 
+of SEL skills they identify as learning objectives, the speci-
+ficity of teaching strategies used, the degree of alignment 
+across these components, and the level of social-emotional 
+improvement children experience after instruction accord-
+ing to teachers.
+Conceptual Framework
+This study is grounded in three conceptual perspectives, 
+(1) The Collaborative for Academic, Social, and Emotional 
+Learning (CASEL) framework, (2) Knowles’s (1984) adult 
+learning theory, and (3) individualized instruction and les-
+son planning (Kapfer, 1975; Masterson, 2021). The CASEL 
+framework is composed of five core SEL competencies: self-
+awareness, self-management, social awareness, relationship 
+skills and responsible decision-making (CASEL, 2021). 
+Knowles’s adult learning theory presents four principles 
+that informed how professional development was provided 
+to the teachers in this study: (1) adults are most interested in 
+learning about subjects closely related to their professional 
+or personal lives, (2) adults learn best by solving problems 
+encountered in their course of their work or life, (3) adult 
+learning happens through experiences, (4) adults learn by 
+reflecting on and evaluating their own teaching and learning. 
+With regards to individualized instruction and lesson plan-
+ning in preschool, Masterson (2021) writes:
+Individualized means tailoring your choices, sup-
+ports, and interactions to ensure the specific child can 
+be successful and take pride in learning. It involves 
+making practical adjustments to activities, time, 
+materials, goals, and levels of support… Individual-
+ized support is important for all preschool children. 
+It involves keeping track of skills children can carry 
+out independently and identifying skills that are still 
+developing and need support. (p. 14)
+Program Implemented
+In 2017, the first author taught a non-credit bearing course 
+in social-emotional learning to 24 in-service early childhood 
+educators in a large city in the northeastern US. Educators 
+earned 20 state approved PD hours for completing the course 
+which was taught in a classroom in a local neighborhood 
+community center. Participants attended class weekly for 12 
+consecutive weeks. The course addressed the importance of 
+SEL, strategies for creating positive teacher–child interac-
+tions and a supportive environment, understanding and sup-
+porting emotional development (e.g. empathy, competence, 
+labeling emotions), social development (e.g. community, 
+cooperative play, valuing diversity), moral development, 
+being a role model for SEL, how to observe children’s char-
+acter strengths, how to assess children’s SEL development, 
+and other activities (Haslip et al., 2018).
+Intervention
+One important element of the SEL course was to prepare 
+educators to provide individualized SEL instruction by 
+practicing how to write and implement a simple lesson plan 
+template for one young child (ages 2–6). This preparation 
+involved educators reflecting on challenging behaviors, iden-
+tifying SEL skills for development, writing action plans to 
+support children’s SEL skill development, and later reflect-
+ing on children’s improvement after coaching and instruc-
+tion. The lesson plan writing, implementation, and reflection 
+activity was treated primarily as a homework assignment 
+for teachers as it relied on teachers to implement their plans 
+with children while at work. An SEL lesson plan template 
+was given to all teachers and explained (see instrumenta-
+tion). Teachers were asked to write an individualized SEL 
+lesson plan for one child who had no more than moderate 
+878
+ 
+Early Childhood Education Journal (2023) 51:875–888
+1 3
+behavioral challenges. They were then asked to implement 
+their plan for the child over the subsequent week(s), write 
+about the child’s results and then submit the completed tem-
+plate in a later class. They were invited to complete this 
+cycle as frequently as they could to improve their individu-
+alized SEL lesson planning skill and support their students. 
+The course instructor/researcher did not help teachers write 
+individualized lesson plans, although there was much dis-
+cussion and material given to teachers about how to sup-
+port SEL and related teaching tips provided throughout the 
+course. The instructor also did not provide written feedback 
+on submitted lesson plan templates.
+Research Questions
+1. What are the most frequently addressed behavioral chal-
+lenges documented on young children’s individualized 
+SEL lesson plans?
+2. How difficult are the behavioral challenges addressed on 
+young children’s individualized SEL lesson plans?
+3. What SEL skills do early childhood educators target for 
+instruction on individualized SEL lesson plans?
+4. How specific are the SEL skills identified for instruction 
+by early childhood educators on individualized lesson 
+plans?
+5. How specific are the teaching activities and strategies 
+written on SEL lesson plans by early childhood educa-
+tors?
+6. How well-aligned is the content of individualized SEL 
+lesson plans for young children?
+7. How frequently do early childhood educators report suc-
+cessful child outcomes following individualized SEL 
+lesson planning and instruction?
+8. Is there a statistically significant relationship between 
+successful child SEL outcomes and various characteris-
+tics of an individualized lesson plan, including:
+o 
+the difficulty level of the behavioral challenge that 
+was addressed
+p 
+the specificity level of the SEL skill(s) that were 
+identified for instruction
+q 
+the specificity level of the teaching strategies on the 
+lesson plan
+r 
+the degree of alignment across each section of the 
+lesson plan, including the nature of the behavioral 
+challenge, the SEL skill(s) to be taught and the spe-
+cific teaching activities on the lesson plan.
+Methods
+Participants
+Participants were 20 in-service early childhood educators 
+drawn from a class of 24 teachers completing a course in 
+social-emotional learning for professional development. 
+All 20 participants voluntarily completed the SEL lesson 
+plan submission activity associated with the course, permit-
+ting data collection for this study (four teachers chose not 
+to submit lesson plans and were therefore excluded from 
+this study). Table 1 reports characteristics of 19 participants, 
+rather than 20, because one person did not put their name or 
+study identification number onto the three SEL lesson plans 
+they submitted. We are confident only one person submit-
+ted unnamed lesson plans after handwriting analysis. All 19 
+known participants were female (100%), and the majority 
+were 40 or more years of age (63%), identified as Black/
+African American (63%), had at least a bachelor’s degree 
+(58%), six or more years of teaching experience (91.6%), 
+worked full-time teaching children (74%) and taught more 
+than one age group of children (e.g. 3–4 & 4–5) (89%). Par-
+ticipants represented different work roles at the time of the 
+study, including lead teacher, assistant teacher, early learn-
+ing center director, at-home childcare provider, and coach. 
+All participants worked in a large city in the northeastern 
+United States.
+Participants for the SEL course were recruited in three 
+steps. First, the first author met with 10 local childcare direc-
+tors to assess the need for SEL training and solicit topics of 
+interest for content. Second, all 10 directors distributed a 
+flyer with course registration information to their teachers. 
+Third, the course flyer was also distributed to teachers and 
+directors citywide using early childhood center list serves 
+and through local professional development organizations. 
+The study received institutional review board approval. 
+Participants’ signed informed consent was obtained during 
+course session one.
+Data Collection and Instrumentation
+Data were collected using a researcher-created template enti-
+tled SEL Coaching Action Plan  (Appendix B), which was a 
+one-page lesson plan template that contained five sequential 
+sections for teachers to complete: (1) what is the repeating 
+pattern of behavior that is a challenge of this child? (2) What 
+does the child need to learn? What is the missing skill(s) that 
+needs to be coached? (3) Describe how you plan to coach 
+the child over the following week (what will you do and 
+say; what will you coach the child to do and say; are there 
+any cues you will establish with the child?). (4) How will 
+you make sure the child practices the new skills? (5) After 
+879
+Early Childhood Education Journal (2023) 51:875–888 
+1 3
+coaching reflection: What is the child doing now? What new 
+skill(s) does the child seem to be practicing more frequently? 
+What are the current results? These sections resemble a 
+Personalized Learning Plan instructional process (Muñoz-
+Martínez & Porter, 2020, p. 1562).
+The template instructed teachers to choose one child who 
+needed coaching to improve social interactions. The word 
+“coaching” was used to indicate teaching a single child 
+through individualized instruction and to differentiate this 
+approach from small or whole group instruction. The first 
+four sections of the template represented an individualized 
+lesson plan. The fifth section was a reflection on results, 
+to be completed 1–2 weeks after they were first written to 
+give teachers that amount of time to implement the teaching 
+strategies and time to coach the child to practice the targeted 
+SEL skills identified on the lesson plan. Sixty-one valid tem-
+plates were collected and analyzed for this study. Of these 61 
+templates, six were missing the results data, leaving 55 fully 
+completed. The children being coached were 2–6 years old, 
+with most being 3–5 years old. Twenty teachers submitted 
+between one and 10 SEL Coaching Action Plans, with an 
+average of three per teacher. In many cases, teachers com-
+pleted the lesson plan  during class on Wednesday evening, 
+without help from the instructor, and then wrote the results 
+a week or two later, submitting the complete template during 
+that later class session.
+Design
+The general features of an exploratory sequential mixed 
+methods (ESMM) design (Creswell and Creswell, 2017) 
+were adapted by analyzing qualitative data first (in Phase 
+1), then using that analysis to generate new quantitative vari-
+ables (in Phase 2) and then quantitatively testing the rela-
+tionships among these variables to answer related research 
+questions (in Phase 3). This design uses quantitizing (Sand-
+elowski et al., 2009) to convert qualitative data about lesson 
+plans into quantitative form. Each of the three phases of this 
+design are described in detail below.
+Table 1  Participant Characteristics (n = 19)
+Characteristic
+n
+(%)
+Age at time of survey (years)
+ 25 or less
+4
+21
+ 26–32
+2
+10.5
+ 33–39
+1
+5
+ 40–46
+2
+10.5
+ 47–53
+3
+16
+ 54–60
+5
+26
+ 61–67
+2
+10.5
+Gender
+ Female
+19
+100
+ Male
+0
+0
+Race/Ethnicity
+ Black or African American
+12
+63
+ White
+3
+16
+ Asian or Asian American
+1
+5
+ Hispanic or Latino/a
+2
+10.5
+ Other
+1
+5
+Highest education level completed
+ High school diploma/GED
+2
+10.5
+ CDA or other certificate (not 2-year degree)
+3
+16
+Associates degree
+3
+16
+ Bachelor’s degree
+8
+42
+ Master’s degree
+3
+16
+Job title/Type of teacher
+ Lead teacher
+7
+37
+  Assistant teacher
+7
+37
+ Director of early learning center
+2
+10.5
+ Family care provider
+(at-home child care)
+2
+10.5
+ Coach/mentor
+1
+5
+Years of teaching or childcare experience
+ 0–5
+2
+10.5
+ 6–9
+6
+31.5
+ 10 or more
+11
+58
+Hours per week teaching children
+ 30 or more (full-time)
+14
+73.5
+ 10–29 h
+3
+16
+ 9 h or less
+2
+10.5
+Age(s) of children you  teacha
+ 0–1 years old
+6
+10
+ 1–2
+7
+12
+ 2–3
+8
+13.5
+ 3–4
+14
+27
+ 4–5
+13
+22
+ 5–6
+8
+13.5
+ Other (school aged)
+3
+5
+Number of age groups you  teachb
+ 1
+3
+16
+ 2
+7
+36.8
+ 3
+2
+10.5
+Table 1  (continued)
+Characteristic
+n
+(%)
+ 4
+3
+16
+ 5
+0
+0
+ 6
+4
+21
+20 teachers submitted lesson plan templates but one teacher did 
+not identify herself. Therefore, only 19 participants are reported in 
+Table 1
+a 17 teachers taught more than one age group. bAn age group is com-
+parable to a grade level (i.e. 3–4 year olds; 5–6 year olds)
+880
+ 
+Early Childhood Education Journal (2023) 51:875–888
+1 3
+Data Analysis
+SEL lesson plan templates were analyzed using researcher-
+generated document analysis where documents are prepared 
+by the investigator (e.g. lesson plan template) to learn more 
+about the person, situation or event being investigating 
+(Bowen, 2009; Merriam, 1998). First, teachers’ handwrit-
+ten templates were transcribed by one researcher into a table 
+(one row per template, one column per section). Thereaf-
+ter, the second researcher reviewed all original templates 
+and the transcription, identifying and correcting omissions. 
+Researchers then became immersed in reading, reflecting 
+on and exploring the content (Bazeley and Jackson, 2013). 
+Both researchers read the transcript fully, noting interest-
+ing or unusual observations by writing analytic memos. As 
+analysis proceeded, procedures, processes, and reflections 
+were documented in a reflexive diary to form an audit trail. 
+Epistemological reflexivity (Palaganas et al., 2017) was 
+practiced to counter threats to trustworthiness (e.g. reac-
+tivity, researcher bias) by questioning how the study was 
+conceptualized, reconsidering avenues and methods for data 
+analysis, and through inter-researcher discussion about the 
+nature of the study and the data allowing for an examination 
+of assumptions (Mauthner & Doucet, 2003).
+Content analysis (Dey, 1993) was used to investigate the 
+lesson plan descriptions, specifically to identify the many 
+types of children’s behavioral challenges, SEL skills, teach-
+ing strategies and child outcomes identified on the templates. 
+Quantitative content analysis was employed to analyze fre-
+quencies within these components. Inductive thematic analy-
+sis (Braun & Clarke, 2006) was also used to identify patterns 
+emerging from the data. Each pattern was then evaluated for 
+levels along a continuum using dimensionalization coding 
+(Gray, 2018) described in Appendix A. This method is also 
+referred to as magnitude coding (Saldaná, 2016). Dimen-
+sion/magnitude codes (e.g. low, moderate, high behavioral 
+challenge) were then quantitized, converting qualitative data 
+into quantitative form (Sandelowski et al., 2009) to popu-
+late a data set of ordinal variables (ranked data) for further 
+descriptive and inferential statistical analyses. Creating 
+quantitative variables transitioned the study from Phase 1 
+to Phase 2 of this adapted ESMM design.
+Coding and Analytic Memos
+Initial observations, insights and questions were docu-
+mented as analytic memos using the comments feature in 
+the document containing the transcribed table of all lesson 
+plan templates. Analytic memo writing continued through-
+out the coding process yielding 101 total memos. Then, 
+descriptive coding was applied across all sections of the 
+lesson plan templates to better summarize the data, as a first 
+cycle coding method (Saldaná, 2016). At this stage, in vivo 
+coding was also frequently used to summarize the data using 
+participants’ exact phrases. Data were coded for types of 
+behavioral challenges first, then types of SEL skills, then 
+types of teaching strategies. A process of pattern coding, 
+as a second level of analysis (Saldaná, 2016), then began 
+which included rereading the data, the initial descriptive and 
+in vivo codes and the analytic memos to identify patterns 
+within and across the data.
+Several patterns emerged as the basis for further analy-
+sis: children’s behavioral challenges could be categorized by 
+difficulty level (low, moderate, high), the SEL skills could 
+be categorized along a continuum of specificity (general to 
+concrete), the teaching strategies listed on each lesson plan 
+could be categorized by specificity (general to concrete), 
+all sections of the lesson plan template could be evaluated 
+together for alignment (low, moderate, high) and reflec-
+tions on child outcomes could be evaluated for level of child 
+success (none, partial, notable). These levels (dimension/
+magnitude codes) were not selected a priori but were iden-
+tified from the inductive analytic process. Definitions for 
+each of these levels within each of these categories were 
+established by referring to exemplars in the data (Appendix 
+A). Having identified these dimensions for each section of 
+the template, the dimension coding technique was applied 
+(Gray, 2018) to another cycle of coding, this time analyzing 
+and rating every section of every template according to these 
+dimension codes (e.g. these codes were applied to the data 
+by manually typing underneath each section of each template 
+the corresponding dimension code such as a “low,” “moder-
+ate” or “high” about a behavioral challenge). This process 
+has also been described as magnitude coding which adds 
+a coded datum to indicate the degree of evaluative content 
+(Miles et al., 2014).
+Each researcher coded the data using different text colors 
+to facilitate a process of intercoder negotiated agreement 
+(Campbell et al., 2013). Initial rounds of dimension/mag-
+nitude coding produced differences in ratings between the 
+two coders. A subsequent round of dimension coding was 
+then conducted by rereading the original codes and noting 
+the intercoder discrepancy, rereading the data, rereading 
+the analytic memos, reviewing the data again in the context 
+of the rating scale definitions (Appendix A), writing new 
+memos and then arriving at a final dimension code decision, 
+thus resolving the coding dispute.
+Descriptive Statistics and Correlational Analyses
+Qualitative data were rated using inductively derived dimen-
+sional codes and then quantitized (e.g. 1, 2, 3), creating 
+ranked data for correlational analyses among five newly cre-
+ated ordinal variables: level of behavioral challenge; speci-
+ficity of SEL skills; specificity of the teaching strategies 
+employed; alignment across lesson plan sections; and, level 
+881
+Early Childhood Education Journal (2023) 51:875–888 
+1 3
+of student success after instruction. These variables were 
+then entered into SPSS, version 28. Frequencies (dimension 
+code counts; percentages) and descriptive statistics (mean, 
+median, standard deviations) were then calculated for each 
+variable.
+Spearman’s rank correlation analyses were then per-
+formed to determine if there were significant relationships 
+between the five variables. Spearman’s rho was used because 
+it is a non-parametric statistic appropriate for use with 
+ranked data (Howell, 2012). We also ran a Kendall’s tau 
+correlational analysis, a similar non-parametric correlation 
+used “when there is a small data set with a large number of 
+tied ranks” (Field, 2013, p. 278) which calculates a slightly 
+more conservative coefficient. Running these statistical tests 
+to answer related research questions represented Phase 3 of 
+the ESMM approach.
+Findings
+RQ 1: Types of Behavioral Challenges and Their 
+Frequency
+Seventy unique behavioral challenges were identified on 
+the 61 SEL lesson plan templates. The 70 challenges were 
+coded for behavioral type and description. Nine unique cat-
+egories of behavioral challenge emerged through inductive 
+content analysis and are organized by frequency (Table 2). 
+As shown, aggression was addressed most frequently on 
+individualized SEL lesson plans (n = 20, 29%). Examples 
+included hitting, pushing, scratching, yelling at others, 
+throwing things at others and aggressive play.
+RQ 2: Difficulty Level of Behavioral Challenges
+Sixty-one templates were analyzed for overall behavioral 
+challenge difficulty level (Table 3). There was a fairly even 
+split between moderate and high difficulty (46%) and low 
+difficulty (54%) challenges addressed on the lesson plans.
+RQ 3: Types of SEL Skills and Their Frequency
+Using descriptive and in vivo coding, 117 SEL skills were 
+identified on the templates. These SEL skills were grouped 
+by behavioral challenge area (e.g. skills to reduce aggression 
+or increase sharing) and then synthesized down to 41 unique 
+skills using pattern coding to collapse duplicative skills. The 
+non-duplicative list of 41 SEL skills was then reanalyzed for 
+emergent categories, identifying 17 skill clusters. The 17 skill 
+clusters were also reanalyzed, and four skill themes emerged. 
+Each theme represented a core SEL competency area. Table 4 
+presents the four SEL competency areas, associated SEL skill 
+clusters, and related skill examples. Social skills represented 
+nearly half of the SEL skills taught to children (49%), with the 
+Table 2  Frequency of behavioral challenges on individualized SEL lesson plans
+Behavioral challenges and examples
+n
+(%)
+1
+Aggression
+Hitting, pushing, scratching, yelling, throwing, aggressive play
+20
+29
+2
+Noncompliance
+Not following directions or routines; not listening, not transitioning, not cleaning up
+17
+24
+3
+Not sharing
+Not taking turns, not sharing toys, taking toys from others, not sharing play roles (e.g. being the leader)
+13
+19
+4
+Disrupting peers
+Interrupting peers’ work and play, excessive touching, not playing well, impatience with peers
+7
+10
+5
+Negative emotions
+Separation anxiety, nervousness, temper tantrums, grumpiness
+6
+9
+6
+High or low voice volume
+Speaking too loudly or quietly, not speaking up at all
+3
+4
+7
+Self-help challenges
+Using the toilet
+2
+3
+8
+Friendship development
+Not developing new friendships
+1
+1
+9
+Throwing toys, non-aggressively
+1
+1
+Total behavioral challenges
+70
+100
+Table 3  Behavioral challenges 
+reported on SEL lesson plans 
+(N = 61)
+Degree of Difficulty
+n
+(%)
+High
+13
+21.3
+Moderate
+15
+24.6
+Low
+33
+54.1
+882
+ 
+Early Childhood Education Journal (2023) 51:875–888
+1 3
+rest being compliance skills, emotional functioning skills and 
+body control skills.
+RQ 4: Specificity of SEL Skills
+Table 5 reports that 54% of lesson plans contained a loosely 
+specified description of the SEL skills children were supposed 
+to learn through individualized instruction, while 39% of SEL 
+skills were at least moderately specified. The number of skills 
+written on each template were also counted (median = 2.00).
+RQ 5: Specificity of Teaching Strategies
+Each lesson plan was analyzed for the specificity of the 
+teaching strategies used, with loosely specified plans 
+limited to general teaching methods such as modeling, 
+verbal reminders and/or praise while very specified plans 
+contained several concrete actions to coach the child to 
+practice a new skill, such as using cuing, role-playing, and 
+direct instruction as warranted. The median lesson plan 
+was moderately specified (median = 2.00), containing one 
+concrete action and mostly clear teaching strategies. Les-
+son plans were at least moderately specified in 64 percent 
+of cases, containing one or more concrete actions to coach 
+children’s SEL skill development (Table 6).
+RQ 6: Alignment Between Lesson Plan Components
+Table 7 shows that most lesson plan templates (79%) dem-
+onstrated partial or full alignment between the description 
+of the child’s behavioral challenge, the associated SEL 
+skills to be taught, and the teaching strategies used.
+Table 4  Frequency of SEL skills on individualized SEL lesson plans
+SEL competency areas, skill clusters and related skill examples
+n
+(%)
+1
+Social skills
+Cooperative play, teamwork, sharing & turn taking, communication, how to make friends
+20
+48.8
+Ask others to play, let others lead, find another toy, wait for a turn, how to verbalize needs, apologize, use gentle hands
+2
+Compliance Skills
+Following the schedule or routine, listening, following directions
+10
+24.4
+How to stop playing to transition, how to select a new activity, hand raising, looking at the teacher to hear instructions, remem-
+bering rules
+3
+Emotional Functioning and Self-Regulation Skills
+Managing anger, practicing positive emotional expressions (e.g smiling) perspective taking, patience, coping skills, problem-
+solving
+8
+19.5
+Cope with negative feelings, use breathing to calm down, greet friends with a smile, patiently wait for a turn
+4
+Body Control Skills
+Body awareness, boundaries, not bumping into others
+3
+7.3
+Understand how your body can hurt someone if you are big or rough, respect personal space, apologize for bumping others
+Total SEL Skills
+41
+100
+Table 5  Specificity of SEL skills on lesson plans (N = 61)
+SEL skill specificity
+n
+%
+Very specified
+7
+11.5
+Moderately specified
+17
+27.9
+Loosely specified
+33
+54.1
+Unspecified
+4
+6.6
+Table 6  Specificity of teaching 
+strategies on SEL lesson plans 
+(N = 61)
+SEL skill specificity
+n
+%
+Very specified
+11
+18
+Moderately specified
+28
+45.9
+Loosely specified
+21
+34.4
+Unspecified
+1
+1.6
+Table 7  Alignment between 
+lesson plan components 
+(N = 61)
+Alignment levels
+n
+%
+Fully aligned
+28
+45.9
+Partially aligned
+20
+32.8
+Not aligned
+13
+21.3
+Table 8  Child outcome 
+following individualized SEL 
+instruction (n = 55)
+Characteristic
+n
+%
+Successful
+15
+24.6
+Partially successful
+21
+34.4
+Unsuccessful
+19
+31.1
+883
+Early Childhood Education Journal (2023) 51:875–888 
+1 3
+RQ 7: Frequency of Successful Child Outcomes
+Teachers reported progress they observed in children fol-
+lowing implementation of each lesson plan. Fifty-five les-
+son plan templates were analyzed with child results data, 
+coding each template for degree of successful child out-
+come along a dimension with three levels: successful, par-
+tially successful, unsuccessful (Table 8). As shown, 59% 
+of lesson plans were successful or partially successful at 
+improving behavior and/or SEL skills in young children, 
+while 31% were unsuccessful.
+RQ 8: Statistical Relationships Between Lesson Plan 
+Components and Child Outcomes
+Table 9 reports all spearman’s rank correlational analyses. 
+Five relationships are significantly positively related to vary-
+ing degrees (weak to strong). There was a moderately strong, 
+positive correlation between specificity of teaching strategies 
+and children’s SEL improvement  rs(53) = 0.51 p < 0.001. As 
+teaching strategies became more specified and concrete, chil-
+dren’s SEL outcomes tended to improve. There was a strong, 
+positive correlation between lesson plan alignment and suc-
+cessful child outcomes  rs(53) = 0.65, p < 0.001. As lesson 
+plan alignment increased, children’s positive SEL outcomes 
+tended to increase. Teaching strategy specificity and overall 
+lesson plan alignment were also highly correlated r = 0.69, 
+p < 0.01. Likewise, there were weak positive correlations 
+between behavioral difficulty and teaching strategy specific-
+ity (r = 0.25, p < 0.05) and between behavioral difficulty and 
+lesson plan alignment, r = 0.25, p < 0.05. There was not a 
+statistically significant relationship between behavioral chal-
+lenge level and children’s SEL improvement  rs(53) = 0.22 
+p < 0.10. Nor was there a statistically significant relationship 
+between SEL skill specificity and children’s SEL improve-
+ment  rs(53) = 0.10 p < 0.475. All significant coefficients in 
+Table 9 were also statistically significant using Kendall’s 
+tau, with one exception: there was no significant relation-
+ship between behavioral difficulty level and specificity of 
+teaching strategies used by the teacher, r = 0.23, p = 0.053.
+Discussion
+By writing individualized SEL lesson plans teachers can 
+become proactive, rather than reactive, in addressing chal-
+lenging behavior (NAEYC, 2019). Best practices to sup-
+port social and emotional development in early childhood 
+include giving children diverse opportunities to practice 
+skills needed to regulate emotions, attention, and behav-
+ior, to enter social groups, learn to help, to resolve conflicts 
+constructively, consider other’s perspectives, to discuss and 
+solve problems, and to practice other prosocial behaviors 
+(NAEYC, 2019, p. 22).
+Teachers should help individual children learn 
+socially appropriate behavior by providing guidance 
+that is consistent with a child’s level of development. 
+Good teachers notice patterns in children’s challeng-
+ing behaviors such as physical aggression, relational 
+aggression, verbal bullying, tantrums, whining, testing 
+limits, and refusal to follow directions. They can assess 
+the function of a behavior and provide thoughtful, con-
+sistent, and individualized responses whenever they 
+occur. (Masterson, 2021, p. 42)
+As Masterson (2021) described, good teachers notice 
+patterns in common behavioral challenges, such as aggres-
+sion or not following directions, and provide individualized 
+guidance in response. This study found that the behavio-
+ral challenges early childhood teachers primarily address 
+when providing individualized instruction are, in this order: 
+aggression, noncompliance, not sharing, disrupting peers, 
+and negative emotion (e.g. tantrums). It also found that chil-
+dren can make notable progress in SEL skill and behavioral 
+improvement following a teacher’s individualized support, 
+so long as the teaching strategies employed are appropriately 
+aligned with the behavioral challenge and the skill(s) being 
+taught and are concrete and specific.
+Successful child outcomes were reported across the les-
+son plans when they demonstrated alignment between the 
+challenge, the skill(s) to be taught and the teaching strategies 
+to be employed and when the teaching strategies were con-
+crete and direct for the child, such as using cuing, involving 
+Table 9  Means, standard 
+deviations, and intercorrelations 
+(Spearman’s rho) for scores on 
+five measures of SEL lesson 
+plans
+a Correlation coefficient for difficulty of the challenge and student success. bOrdinal variables measured on 
+a scale of 1–3. cOrdinal variable measured on a scale of 0–3
+*Correlations are significant at p < .05. ** p < .01
+Measure
+M
+SD
+1
+2
+3
+4
+5
+1. Difficulty of behavioral  challengeb
+1.67
+.81
+1.0
+2. SEL skill  specificityc
+1.44
+.79
+−.07
+1.0
+3. Teaching strategies  specificityb
+1.80
+.75
+.25*
+.16
+1.0
+4. Lesson plan  alignmentb
+2.25
+.79
+.25*
+.18
+.69**
+1.0
+5. Student  successb
+1.93
+.79
+.22a
+.10
+.51**
+.65**
+1.0
+884
+ 
+Early Childhood Education Journal (2023) 51:875–888
+1 3
+the child in a role-playing activity or a story about the SEL 
+skill, and through direct coaching. Unsuccessful lesson plans 
+tended to rely exclusively on giving verbal reminders, mod-
+eling good behavior from a distance, and using praise, with-
+out providing more direct guidance or instruction or a means 
+for the child to practice the desired skills. The importance 
+of having children practice the desired skills in the context 
+of providing personalized instruction has been previously 
+discussed (Muñoz-Martínez & Porter, 2020). Successful les-
+son plans showed children how to practice a behavior or skill 
+(e.g. how to enter group play, how to seek out an alternative 
+toy, how to smile while greeting friends, how to use gentle 
+hands), and did not just give children verbal reminders to do 
+the right thing or merely praise their efforts. This research 
+shows is that through professional development early child-
+hood teachers can learn to write and implement individu-
+alized SEL lesson plans in response to children’s typical 
+behavioral challenges, reflect on children’s results following 
+instruction and witness notable progress in children’s behav-
+ior and skills, so long as their plan is coherent (aligned), 
+and provides concrete guidance to the child, a finding sup-
+ported by the planning literature (Drost & Levine, ; Serret 
+& Gripton, 2020).
+Counterintuitively, there was not a significant correlation 
+between the difficulty level of the challenging behavior and 
+the success of the lesson plan for the child. One assump-
+tion was that less challenging behaviors addressed on les-
+son plans would also be related to higher success levels for 
+children. In this sample, whether the teacher was address-
+ing a high, moderate or low difficulty behavioral challenge 
+made little difference in the success of the lesson plan. The 
+child’s behavioral starting point is not of primary impor-
+tance. Rather, the level of coherent and concrete guidance 
+provided to that child matters the most (Epstein, 2009; Katz 
+& McClellan, 1997; Kersey & Masterson, 2013).
+Similarly, how specifically teachers documented the 
+learning objective(s), meaning the SEL skills to be taught, 
+was also not meaningfully related to child SEL outcomes. 
+This finding was surprising because it was assumed that the 
+more specifically the teacher could describe the underly-
+ing SEL skills she was trying to teach, the more successful 
+children would be at learning those skills. Instead, findings 
+revealed that the SEL skills being taught could be embed-
+ded into the specific teaching strategies even if they were 
+not concretely articulated independently on the lesson plan 
+template as learning objectives. Most important, as reported 
+in Table 9, was overall alignment across all elements of the 
+lesson plan (Drost & Levine, 2015; Serret & Gripton, 2020) 
+and one of those elements was SEL skill identification. 
+Therefore, child outcomes depended not on how concretely 
+the teacher could write the learning objective but rather how 
+well she could translate that objective into concrete teach-
+ing strategies that clearly addressed the SEL skill and the 
+behavioral challenge (alignment). In other words, the reality 
+of the behavioral challenge and nature of the SEL skill(s) 
+to be taught both need to be carried forward into a specific 
+instructional plan that embodies them to noticeably affect 
+child outcomes.
+Limitations
+Study limitations include a small sample size limiting 
+generalizability, reliance on teacher judgement of student 
+achievement (Meissel et al., 2017) because SEL outcomes 
+were not independently assessed, and the inability to make 
+casual claims with correlational analyses. With regards to 
+teacher report bias, teachers did not appear to inflate positive 
+child outcomes as only 24% were successful compared to 
+34% partially successful and 31% unsuccessful. Conveni-
+ence sampling resulted in an experienced group of teach-
+ers participating in the study and the lack of novice teacher 
+participation.
+Suggestions for Future Research
+Future research should address the methodological limita-
+tions noted above by using researcher observation in the 
+classroom to confirm that the content of the lesson plans 
+is reflected in actual instructional methods and to observe 
+or assess SEL outcomes in children to independently con-
+firm student growth. Future researchers might also want to 
+experiment with different lesson plan processes, such as that 
+presented by Muñoz-Martínez and Porter (2020, p. 1563), 
+to determine if alternatively structured plans prove more 
+effective.
+Suggestions for Practice
+Even experienced early childhood teachers need more pro-
+fessional development around how to articulate specific SEL 
+skills, as 34% of lesson plans were rated “loosely specified” 
+in this area. Likewise, the fact that 54% of lesson plans 
+were rated as “partially aligned” or “not aligned” also illu-
+minates a need to unpack examples of aligned lesson plans 
+for early childhood teachers in future professional develop-
+ment. Additionally, teachers are more likely to write effec-
+tive SEL lesson plans if they are given a compendium7 of 
+concrete teachings strategies that align with specific SEL 
+skills and corresponding behavioral challenges to improve 
+the frequency with which they write specific plans. This 
+study found that only 18% of lesson plans contained “very 
+7 This compendium must be reported separately due to word count 
+limitations.
+885
+Early Childhood Education Journal (2023) 51:875–888 
+1 3
+specified” teaching strategies and there was a significant 
+correlation between using specifc teaching strategies and 
+successful child SEL outcomes. By providing professional 
+development about SEL lesson planning in early childhood, 
+in-service teachers will be able to improve each element 
+of their plans and increase positive child outcomes. More 
+targeted training in SEL lesson planning is needed because 
+31% of lesson plans were rated as has having “unsuccessful” 
+child outcomes.
+Conclusion
+This study illuminated a component of the social-emotional 
+curriculum in early childhood: writing, implementing and 
+reflecting on individualized SEL lesson plans for children 
+ages 2–6. As a professional development exercise, asking 
+in-service teachers to practice writing individualized SEL 
+lesson plans was partially or notably successful for children 
+in 59% of the cases, but this result could be significantly 
+improved. Correlational findings examining the relation-
+ships between lesson plan features and teacher reports of 
+unsuccessful, partially successful or notably successful SEL 
+outcomes suggest that the most important characteristics of 
+individualized SEL lesson plans are (1) the degree of coher-
+ence/alignment across all components of the lesson plan 
+template, and (2) the specificity of the teaching strategies 
+implemented. Future research and teacher training should 
+explore how to improve these two characteristics to ensure 
+that SEL lesson planning becomes increasingly affective for 
+young children.
+Appendix A
+Rating Scale Definitions
+Behavioral Difficulty Level
+We used dimensionalization to analyze the degree of behav-
+ioral difficulty in three levels: low, moderate, high. High dif-
+ficulty challenges included high levels of negative emotion, 
+including “being very aggressive towards peers,” “anger and 
+crying for excessive amounts of time,” and combinations of 
+multiple challenging behaviors all on one lesson plan, such 
+as “hitting other children, throwing balls at other children, 
+and snatching toys from them.” With regards to degrees of 
+aggression, we coded “repeatedly hitting other children” 
+as high difficulty and “occasionally hitting a child without 
+provocation” as moderate difficulty. Moderate difficulty 
+included moderate forms of aggression or moderate negative 
+emotion and behavior, such as “aggressive play,” “throw-
+ing blocks,” “anger and yelling at peers,” “not talking,” and 
+“needing constant redirection.” Low difficulty challenges 
+presented less pronounced expressions of negative emo-
+tion (e.g. impatience with peers, being grumpy, being sad 
+when mom leaves), and typical expressions of behavior that 
+needed occasional redirection (e.g. not transitioning between 
+centers, not napping, touching others too much, not cleaning 
+up, interrupting other’s play, not listening to the teacher). 
+The behavioral difficulty codes were quantitized (low = 1, 
+moderate = 2, high = 3) and added to an SPSS data set for 
+descriptive and inferential analysis.
+SEL Skills and Skill Specificity
+Each SEL skill was identified within all 61 lesson plans and 
+then grouped by behavioral challenge. Three cycles of con-
+tent analysis were completed to synthesize the original list 
+of SEL skills into common categories to reduce duplication 
+(e.g. self-regulation and sharing were mentioned repeat-
+edly). This process reduced the number of SEL skills from 
+117 to 41.
+Each SEL skill section on the lesson plan template was 
+also coded for level of specificity using dimensionalization. 
+Skills listed by teachers were labeled as unspecified, loosely 
+specified, moderately specified and very specified. Unspeci-
+fied labels were assigned to data that did not contain SEL 
+skills (e.g., “child needs to learn how to read”). Loosely 
+specified SEL skills contained broad ideas (e.g. “self-regu-
+lation”) without concrete actions and were somewhat clear. 
+Moderately specified skills contained at least one concrete 
+action (e.g., “how to ask for a turn with a toy”) and were 
+mostly clear. Very specified skill descriptions contained 
+multiple concrete actions, which were interrelated and very 
+clear. The SEL skill specificity codes were quantitized (0, 
+1, 2, 3) and add to the data set for descriptive and inferential 
+analysis.
+Lesson Plan Specificity
+We also analyzed how specifically the teaching strategies 
+were described. We rated each lesson plan as unspecified/
+missing (0), loosely specified (1), moderately specified (2) 
+and very specified (3). One lesson plan was rated “unspeci-
+fied” for presenting tips to help the child with spelling and 
+reading while not addressing any SEL skills. Loosely speci-
+fied plans presented only general ideas such as modeling, 
+using verbal reminders and providing positive reinforcement 
+for the child, but not intervening to provide concrete coach-
+ing so  that the child could practice the new skill(s). Mod-
+erately specific lesson plans contained general ideas plus at 
+least one concrete action to intervene and coach the child 
+(e.g. using cues with the child). It was mostly clear how the 
+SEL skill was taught. Very specified lesson plans contained 
+several concrete actions to teach missing SEL skills(s), 
+886
+ 
+Early Childhood Education Journal (2023) 51:875–888
+1 3
+presented in a coherent sequence of steps. It was very clear 
+how the skill was taught. This qualitative rating scale was 
+quantitized (0, 1, 2, 3) and the numeric codes were added to 
+an SPSS data set.
+Alignment Level
+To evaluate the overall coherence of each lesson plan we 
+examined the continuity of the ideas presented across each 
+section of the template. This examination was done by cod-
+ing each template for the level of alignment between teacher 
+reported behavioral challenges, SEL skills to be taught and 
+subsequent teaching strategies. Templates were rated as 
+not aligned, partially aligned, and fully aligned with corre-
+sponding codes (1, 2, 3) entered in a data set for descriptive 
+and inferential analysis.
+Child Success Level
+We coded the child outcomes teachers reported by degree 
+of success (successful, partially successful, not successful), 
+again using the dimensionalization coding technique (Gray, 
+2018). A successful child outcome was defined as obvious 
+and notable progress made by the child to improve the behav-
+ioral issue and/or develop the SEL skill(s) identified on the 
+lesson plan. Perfect mastery of the SEL skill or complete 
+elimination of the challenging behavior was not required for 
+a successful rating. Rather, notable progress was the key met-
+ric. A partially successful child outcome was defined as lim-
+ited progress in behavior and SEL skills. The teacher clearly 
+indicated some degree of growth in the child. Finally, a not 
+successful outcome meant the teacher could not identify how 
+the original target behavior or SEL skills had improved. Tan-
+gential outcomes might be provided, such as reflections on 
+the child’s current behavior or what happened in general, but 
+the description lacked an identifiable example of improve-
+ment tied to the original lesson plan objectives.
+Appendix B
+SEL Coaching Action Plan
+1. Think of a child who needs coaching to improve her/his 
+social interactions. Choose a child who is functioning in 
+the moderate range the first time you try this.
+2. What is the repeating pattern of behavior that is a chal-
+lenge for this child?
+3. How do you plan to coach the child over the following 
+days?
+4. Consider these elements when writing your action plan 
+to coach the child: Child observes situation first; child 
+does something to help the group; child uses words that 
+facilitate participation; child asks permission to partici-
+pate; child accepts role given by leader; child notices 
+cues from others
+Child____________________
+Time Frame___________________
+1. What is the repeating pattern of behavior that is a chal-
+lenge for this child?
+2. What does the child need to learn? What is the missing 
+skill(s) that needs to be coached?
+3. Describe how you plan to coach the child over the fol-
+lowing week.
+• What will you do and say? When, where, how?
+• What will you coach the child to do and say?
+• Are there any cues you will establish with the child 
+to remind him to use the tips?
+• How will you have the child reflect on his/her suc-
+cess?
+4. How will you make sure the child practices the new 
+skills?
+5. After coaching reflection: What is the child doing now? 
+What new skill(s) does the child seem to be practicing 
+more frequently? What are the current results?
+Acknowledgements The authors thank Dr. Leona Donaldson for tran-
+scription and coding assistance.
+Funding This study was supported by Drexel University.

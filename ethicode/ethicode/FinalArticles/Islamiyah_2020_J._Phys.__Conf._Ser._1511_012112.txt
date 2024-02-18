@@ -1,0 +1,648 @@
+Journal of Physics: Conference
+Series
+     
+PAPER • OPEN ACCESS
+Computer-based “Color-Mixing Maze Game” to
+stimulate symbolic thought for the development of
+learning science in early childhood
+To cite this article: Roudlotul Islamiyah et al 2020 J. Phys.: Conf. Ser. 1511 012112
+ 
+View the article online for updates and enhancements.
+You may also like
+Analysis of Drug Effectiveness and
+Efficiency of Use of Amlodipine-Captopril
+Combination Compared to Amlodipine-
+Valsartan in the X Hospital Patients of
+Bogor
+Ferry Effendi, Sri Septiani and Leny Fitri
+Lubis
+-
+Government support for agriculture and
+evaluation of its effectiveness at the macro
+and micro level
+N P Larionova
+-
+Dynamic Partitioning and Additional
+Branch Coverage for Test Case Selection
+Arnaldo Marulitua Sinaga, Arie Satia
+Dharma, Oscar Hutajulu et al.
+-
+This content was downloaded from IP address 68.65.175.112 on 18/02/2024 at 00:21
+Content from this work may be used under the terms of the Creative Commons Attribution 3.0 licence. Any further distribution
+of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.
+Published under licence by IOP Publishing Ltd
+International Conference on Science Education and Technology
+Journal of Physics: Conference Series
+1511 (2020) 012112
+IOP Publishing
+doi:10.1088/1742-6596/1511/1/012112
+1
+ 
+ 
+ 
+ 
+ 
+ 
+Computer-based “Color-Mixing Maze Game” to stimulate 
+symbolic thought for the development of learning science in 
+early childhood 
+Roudlotul Islamiyah1, Farida Agus Setiawati2, Winda Sherly Utami1 
+1 Postgraduate Program Early Childhood Education, Yogyakarta State University, 
+Yogyakarta, Indonesia 
+2 Department of Psychology, Faculty of Education Science, Yogyakarta State 
+University, Yogyakarta, Indonesia 
+Abstract. The purpose of this study was to determine the differences in the effectiveness of the 
+computer-based “color mixing maze games” to stimulate symbolic thinking for the 
+development of learning science in early childhood in the new era of industry 4.0. 23 samples 
+in one kindergarten in Surabaya were used for this study consisted of 13 children (TK A1) for 
+the experimental group and 10 children (TK A2) for the control group. This research was a 
+type of quantitative experimental research using the Quasi-experiment method and the Non-
+equivalent Control Group Design. The Independent Sample T-Test was used for the data 
+analysis technique and N-Gain with SPSS 21 was used for the effectiveness test. The results of 
+the effectiveness test depicted a result of the Sig≤0.05 value and thus Ho was rejected and Ha 
+was accepted, which means that there were significant differences in effectiveness computer-
+based “color mixing maze games” compared with paper-based games to stimulate symbolic 
+thinking in the development of learning science in early childhood. Computer-based games are 
+stated to be able to provide the right understanding in the learning process including science 
+learning in recognizing mixing colors. 
+1.  Introduction 
+In the new era of industry 4.0, all matters will be related to technology that continues to develop and 
+become part of the harmony between human life and technology or machinery. Klaus stated that 
+industrial revolution 4.0, emerged around 2010, developed through the internet which was the center 
+of all things becoming a link between technology or machines and humans [1]. The fourth industrial 
+revolution is not only a trigger for developing technology but also for human resources. Humans must 
+continue to adapt and innovate in living systems so that they can be in harmony with existing 
+technological developments, including in the process of education or learning. The existence of the 
+fourth industrial revolution gives rise to the term of education 4.0 which is a way of integrating 
+learning and technology [2]. Interesting learning content is one of the developments in digital games 
+which is one of the uses of technology [3]. As an initial education, PAUD (Early Childhood 
+Education, which is roughly equivalent to "pre-school or ECE" in English) becomes the most 
+important period in a child's development. Learning that does not utilize technology in the process at 
+school makes PAUD's goal to prepare children for further education is not maximally carried out yet. 
+The success of humans in adapting to the development of the era is very dependent on the 
+childhood which is the root in human life. Children are very easy to be given stimulation to practice 
+their abilities, including cognitive abilities to develop children's scientific capabilities in symbolic 
+International Conference on Science Education and Technology
+Journal of Physics: Conference Series
+1511 (2020) 012112
+IOP Publishing
+doi:10.1088/1742-6596/1511/1/012112
+2
+ 
+ 
+ 
+ 
+ 
+ 
+thinking about color. The ability to think symbolically in children is the recognition and the use of the 
+symbols on an object [4]. Color is one of the symbols that is very pivotal for children because 
+knowing color can be a benchmark or early detection effort for color blindness. Recognizing colors 
+and mixing colors are one of the science learning needed for early childhood but there are still many 
+children who have not been able to distinguish colors and understand their mixing.  
+The process of arranging children's sense of sight in recognizing color symbols is part of science 
+learning for early childhood. Early childhood science learning aims to train children to be able to use 
+all five senses as a tool in recognizing various events and objects both living and dead objects [5]. 
+Learning science is very important to be introduced early on to children because of the development of 
+the era so it demands humans to improve their ability to master technology and science [6]. Science 
+learning about mixing colors will be easier to understand if we can take advantage of the game as an 
+effective media. Games are very attached to the world of children which is one factor in knowing the 
+world [7]. The game aims as a communicative, fun, and educative media [8]. Game is one of the 
+important tools for children in developing their cognitive aspects so that children can improve their 
+knowledge skills by playing the game [9]. Games will be very interesting if it can be maximized by 
+using computer technology or other electronic media. The way of providing learning through 
+computer media must be familiarized with early on. The challenge that must be faced by educators in 
+providing computer-based science learning for early childhood is that not all children know about how 
+to use computers. The rule of the game will be different when it compares to the media of paper and 
+also an understanding of the content of the material provided. Initial observations showed 82% of 
+Kindergarten A group in one school in Surabaya did not know about mixing colors and the school did 
+not utilize computer facilities in learning science in children. 
+Color Mixing Maze Game is a computer-based game with learning materials about colors and their 
+mixing. This game is made by using maze so that children should pass the maze as a challenge other 
+than the child must choose the correct answer. This game aims to be a computer-based learning media 
+to develop children's science so that children are not only able to recognize primary colors (red, yellow 
+and blue) and secondary colors (green, purple and orange), but also know mixing primary colors so 
+that they become secondary colors (yellow + blue = green, red + blue = purple, and yellow + red = 
+orange). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Cover of the game 
+ 
+Figure 2. Color mixing material 
+ 
+ 
+ 
+ 
+Figure 3. Game recognizes primary colors 
+ 
+Figure 4. Games recognize the mixing of two 
+primary colors into secondary colors 
+International Conference on Science Education and Technology
+Journal of Physics: Conference Series
+1511 (2020) 012112
+IOP Publishing
+doi:10.1088/1742-6596/1511/1/012112
+3
+ 
+ 
+ 
+ 
+ 
+ 
+2.  Method 
+This research was conducted in one kindergarten (TK) in Surabaya which has computer facilities 
+but has not to use the computers as a learning medium and most (82%) students do not know about 
+color mixing. The sample in this study was 23 children (11 boys and 12 girls) aged 4-5 years who 
+were in different classes. The first class was A1 with 13 children and an A2 class with 10 children. 
+Children in kindergarten A1 were used as research samples for an experimental group and children in 
+class A2 were used as a control group. Computer-based “color mixing maze games” were used for 
+science learning activities through symbolic thinking skills in the experimental group. Color mixing 
+maze paper-based games were used for the control group. 
+This research used the Quasi-experiment method and Non-equivalent Control Group Design 
+because this research used two groups, the experimental group, and the control group, by looking at 
+the results of the pre-test and post-test. The experimental group was given science learning through 
+“color mixing maze games” that are used to recognize primary colors and mixing colors (secondary 
+colors). The instrument in this study consisted of five items that were analyzed with an independent 
+sample t-test with N-Gain because it tested the differences in the two groups that were paired with 
+results that were normally distributed and homogeneous. 
+ 
+Table 1. ResearchInstrument 
+Indicator  
+Variable  
+Sub Indicator 
+The 
+development 
+of 
+science and effectiveness 
+in computer-based “color 
+mixing maze games” 
+Recognizing 
+color 
+Get to know the primary colors (red, blue and yellow) 
+Get to know the secondary colors (orange, green, and 
+purple) 
+Mixing two 
+primary 
+colors 
+Orange 
+Purple 
+Green 
+ 
+The assessment or collection of data was carried out by observation of the results of the pre-test 
+and post-test conducted with the assessment criteria by the provisions in the curriculum for PAUD, 
+which used four assessment criteria. The assessment criteria in this study were very well-developed 
+(BSB = Score 4), well-developed according to expectations (BSH = Score 3), starting to develop (MB 
+= Score 2), and not yet developed (BB = Score 1). 
+These research instruments were used after conducting the reliability and validity and has passed 
+the tests of normality and homogeneity using SPSS 21. The analysis used both for test requirements 
+and hypotheses was a simple independent t-test with N-Gain. The effectiveness of the color mixing 
+maze game was calculated with the N-Gain formula which was [10]: 
+ 
+𝑔 = 𝑆 𝑝𝑜𝑠𝑡 − 𝑆 𝑝𝑟𝑒
+𝑆 max − 𝑆 𝑝𝑟𝑒  
+Information: 
+Sport 
+= Final test score 
+Spare 
+= Initial test score 
+Smaks 
+= Maximum score possible 
+The categorization criteria at the N-Gain level corresponded to the following table: 
+ 
+Table 2. N-gain Rate Categories 
+Category 
+Limits 
+g > 0,7  
+High 
+0,3 ≤ g ≤ 0,7  
+Medium 
+g< 0,3  
+Low 
+(Meltzer, 2002 in Pasangkin, 2015) 
+International Conference on Science Education and Technology
+Journal of Physics: Conference Series
+1511 (2020) 012112
+IOP Publishing
+doi:10.1088/1742-6596/1511/1/012112
+4
+ 
+ 
+ 
+ 
+ 
+ 
+The hypotheses in this research are as follows: 
+Ha: There is a difference in the effectiveness of computer-based “color mixing maze games” 
+compared to paper-based games to stimulate symbolic thought in the development of science in early 
+childhood. 
+Ho: There is no difference in the effectiveness of computer-based “color mixing maze games” 
+compared to paper-based games to stimulate symbolic thought in the development of science in early 
+childhood. 
+3.  Results and Discussion 
+The purpose of this study was to determine differences in the effectiveness of computer-based “color 
+mixing maze games” compared to paper-based games for early childhood science development 
+through stimulating symbolic thinking. A simple independent t-test analysis with G-Gain was the most 
+appropriate analysis in this study. 
+3.1.  Results 
+The following are the results of calculations from the N-Gain test obtained from the SPSS 21 results 
+which are then used in the test requirements and hypothesis analysis: 
+ 
+Table 3. Calculation Results for the N-Gain Score Test 
+Calculation Results for the N-Gain Score Test 
+Group 
+N-Gain Score 
+Frequency 
+Experimental group 
+ 
+0.4 
+1 
+0.5 
+1 
+0.6 
+2 
+0.7 
+2 
+0.8 
+3 
+0.9 
+2 
+1.1 
+1 
+1.2 
+1 
+Amount 
+13 
+Control group 
+-0.3 
+1 
+0 
+2 
+0.1 
+1 
+0.2 
+1 
+0.3 
+3 
+0.6 
+1 
+0.7 
+1 
+Amount 
+10 
+Total 
+23 
+ 
+In table 3, it can be seen that the highest N-Gain value in the experimental group was 1.2 and the 
+lowest was 0.4 so that 4 children are included in the medium category and 9 children are included in 
+the high category. Meanwhile, the highest value in the control group was 0.7 and the lowest was -0.3, 
+thus 5 children are included in the low category and 5 children are included in the medium category. 
+3.1.1.   Test Validity and Reliability 
+This research can be done if the existing instruments have carried out reliability and validity. 
+Reliability and validity in this study were conducted in different kindergartens but have the same 
+characteristics namely, aged 4-5 years, have computer facilities for learning, and live in the same sub-
+International Conference on Science Education and Technology
+Journal of Physics: Conference Series
+1511 (2020) 012112
+IOP Publishing
+doi:10.1088/1742-6596/1511/1/012112
+5
+ 
+ 
+ 
+ 
+ 
+ 
+district. The reliability of this study used 10 children studied in TK A (KG 1, in English) aged 4-5 
+years. 
+ 
+Table 4. Reliability Statistics 
+Cronbach's Alpha Cronbach's Alpha Based on 
+Standardized Items 
+N of Items 
+.773 
+.795 
+5 
+ 
+ 
+Based on table 4 in the Cronbach's Alpha column with a result of 0.773 which means more than 
+0.6, so it is stated that the research instrument was reliable. Thus, it can be used in the data collection 
+process. 
+ 
+Table 5. Item-Total Statistics 
+ 
+Scale Mean if 
+Item Deleted 
+Scale Variance 
+if Item Deleted 
+Corrected 
+Item-Total 
+Correlation 
+Squared 
+Multiple 
+Correlation 
+Cronbach's 
+Alpha if Item 
+Deleted 
+Primary 
+9.70 
+3.122 
+.537 
+. 
+.740 
+Secondary 10.80 
+3.733 
+.610 
+. 
+.722 
+Orange 
+9.50 
+3.389 
+.492 
+. 
+.752 
+ Purple 
+10.40 
+3.156 
+.573 
+. 
+.723 
+ Green 
+10.80 
+3.733 
+.610 
+. 
+.722 
+ 
+The reliability of each item can be seen in table 5 in the Cronbach's Alpha if Item Deleted column 
+with overall results on all items more than 0.6 so that it can be stated that the existing research 
+instruments can be used in collecting data in this study. 
+ 
+Table 6. Correlations 
+ 
+Primary  Secondary Orange 
+ Purple 
+Green 
+Total 
+Primary 
+Pearson Correlation 1 
+.733* 
+.836** 
+.836** 
+.733* 
+.977** 
+ Secondary Pearson Correlation .733* 
+1 
+.347 
+.347 
+1.000** .780** 
+Orange 
+Pearson Correlation .836** 
+.347 
+1 
+1.000** .347 
+.854** 
+ Purple 
+Pearson Correlation .733* 
+1.000** 
+.347 
+.347 
+1 
+.780** 
+Green 
+Pearson Correlation .836** 
+.347 
+1.000** 
+1 
+.347 
+.854** 
+Total 
+Pearson Correlation .977** 
+.780** 
+.854** 
+.854** 
+.780** 
+1 
+ 
+Validity in this study can be seen from table 6 in the total column which shows that the result is 
+more than 0.3 so that it is declared valid. Therefore, all items can be used in data collection in this 
+study. 
+3.1.2.  Test Requirements 973 651 
+Table 7. Tests of Normality 
+ 
+Group 
+Shapiro-Wilk 
+Statistic 
+Df 
+Sig. 
+Statistic Df 
+Sig. 
+N-Gain 
+percent 
+Experimental .102 
+13 
+.200* .979 
+13 
+.973 
+Control 
+.163 
+10 
+.200* .949 
+10 
+.651 
+ 
+Based on table 7, it can be seen that the significance value (sig) in the Kolmogorov-Smirnov and 
+Shapiro-Wilk columns both in the experimental and control classes was more than 0.05, so it can be 
+concluded that N-Gain data hasa normal distribution and the obtained data havemet the hypothesis. 
+ 
+International Conference on Science Education and Technology
+Journal of Physics: Conference Series
+1511 (2020) 012112
+IOP Publishing
+doi:10.1088/1742-6596/1511/1/012112
+6
+ 
+ 
+ 
+ 
+ 
+ 
+Table 8. Levene's Test for Equality of Variances 
+ 
+Levene's Test for Equality 
+of Variances 
+ F 
+ Sig. 
+NGain_persen Equal variances assumed 
+.380 
+.544 
+Equal variances not assumed 
+ 
+ 
+ 
+Based on table 8, it can be seen that the significance value (sig) of the Levene Test for Equivalence 
+of the Variance column was 0.544, which means more than 0.05 (0.544> 0.05), thus it can be stated 
+that the N-Gain variant data in homogeneous experiments and control classes are similar so that the 
+obtained data has met the requirements for hypothesis testing. 
+3.1.3.  Hypothesis Testing The effectiveness of “color mixing maze games” 
+ 
+Table 9. T-Test for Equality of Means 
+ 
+ 
+t-test for Equality of Means 
+T 
+Df 
+Sig. 
+(2-
+tailed) 
+Mean 
+Difference 
+Std. Error 
+Difference 
+95% Confidence 
+Interval of the 
+Difference 
+Lower 
+Upper 
+N-
+Gain 
+persen 
+Equal variances assumed 
+4.588 21 
+.000 
+5.22488 
+1.13874 
+2.85675 7.59302 
+Equal  
+variances not assumed 
+4.449 16.89 .000 
+5.22488 
+1.17435 
+2.74600 7.70377 
+ 
+Based on table 9 which is generated from the calculation of the simple independent test with N-
+Gain, it can be seen the significance of the effectiveness of “color mixing maze games” in early 
+childhood science development, which is 0.000, which means it is smaller than 0.05 (0.000≤0.05). 
+Based on these results it is stated that Ho was rejected and Ha was accepted which means there was a 
+difference in the effectiveness of computer-based “color mixing maze games” compared to paper-
+based games to stimulate symbolic thinking in the development of science in early childhood. 
+3.1.4.  Test the effectiveness level 
+Table 10. Effectiveness 
+N-Gain Score Test Calculation Results 
+ 
+Experimental Group 
+ 
+Control Group 
+N-Gain Score 
+N-Gain Score 
+Mean 
+0.7 
+Mean 
+0.2 
+Min 
+0.4 
+Min 
+-0.3 
+Max 
+1.2 
+Max 
+0.7 
+ 
+In table 10, it can be seen that the average value of N-Gain in the experimental group was 0.8 and 
+in the control group was 0.2 based on the N-gain level category in table 2, it is stated that the 
+computer-based experimental group has a high level of effectiveness with a value of 0.8> 0.7 (g> 0.7). 
+Meanwhile, the paper-based control group has a low level of effectiveness with a value of 0.2 <0.3 (g 
+<0.7). 
+3.2.  Discussion 
+Technology, including a computer, is important for education that can make teaching and learn more 
+interesting and enjoyable for children. Learning that integrates humans and technology or machinery is 
+a demand that must be mastered both by teachers and children during the fourth industrial revolution 
+International Conference on Science Education and Technology
+Journal of Physics: Conference Series
+1511 (2020) 012112
+IOP Publishing
+doi:10.1088/1742-6596/1511/1/012112
+7
+ 
+ 
+ 
+ 
+ 
+ 
+today. It is a fact that many children (82%) do not know about colors and color-mixing as important 
+symbols in human life. This is the background of making a "color-mixing maze game" to measure how 
+important and effective learning is through computer-based games. 
+Based on the calculation results of a simple independent test with N-Gain, it can be seen the 
+importance of the effectiveness of "color-mixing maze game" in the development of early childhood 
+science with a value of less than 0.05 (0.000≤ 0.05) so that it can be interpreted that Ho was rejected 
+and Ha was accepted, which means there was a significant difference in the effectiveness of computer-
+based "color-mixing maze game" compared to paper-based games to stimulate symbolic thinking in 
+the development of science in early childhood. 
+The results of this study are in line with a research from Shobary, et al (2014) which concluded that 
+the applications (computer games or color-mixing maze games) can be an alternative in learning 
+because the material is interestingly packaged and helps in the process of learning material 
+understanding the mixing of primary colors into secondary colors significantly compared to paper-
+based learning [11]. This study is also in line with research conducted by Vitianingsih (2016) which 
+based on the results of her research concluded that educational games (computer-based color-mixing 
+maze games) can help significantly in facilitating early childhood students to recognize symbols 
+(colors) compared to paper-based learning [12]. 
+Computer-based color-mixing maze game is stated to be able to provide the right understanding in 
+the learning process including science learning in recognizing colors that will train children in 
+symbolic thinking so that in this way can improve children's cognitive abilities in the development of 
+science learning. This is in line with the opinion of Klisch, Y, Miller, L, Wang, S and Epstein, J (2012) 
+which states that computer-based game for education is very effective in efforts to increase knowledge 
+about the content of the material delivered in the game including material about recognizing color 
+symbols and color-mixing [13]. 
+Learning in the form of computer-based games is stated to be more effective than paper-based in 
+recognizing color-mixing because experience in playing games can contain delight elements and can 
+be learned repeatedly without having to think about the many tools and materials to be used [14]. This 
+supports the obtained results of the research that is based on the results of N-Gain calculations, it can 
+be stated that the average N-Gain value of the experimental group was 0.7 with a maximum value of 
+1.2 and a minimum value of 0.4. The average value of N-Gain in the experimental group was 0.2 with 
+a maximum value of 0.7 and a minimum value of -0.3. Based on the N-gain level category in table 2, it 
+is stated that the computer-based experimental class has a high level of effectiveness while the paper-
+based control class has a low level of effectiveness. 
+Another advantage of computer-based games (color-mixing maze game) is stated by Schrader, PG, 
+& Mc Creery, M (2012) that computer-based games can provide direct feedback, repetition in 
+learning, interactivity aspects, and representations of virtual reality so that they are considered more 
+beneficial than other learning methods and are considered effective in learning color symbol and color 
+mixing [15]. Udosen, Alice, Uwakmfon Samuel Ekpo (2016) further strengthened his opinion that 
+learning through computer-based games (color-mixing maze game) serves as a complement to the 
+practices used in teaching and measuring the improvement of children's abilities including in the 
+ability to think symbolically by recognizing color symbols and color mixing as part of learning science 
+[16]. 
+4.  Conclusions 
+This study aims to determine the differences in the effectiveness of computer-based "color-mixing 
+maze game" compared to the paper-based games for the development of early childhood science to 
+stimulate symbolic thinking. The results of the effectiveness test showed that through analysis it was 
+known that the Significance value was 0.00≤0.05 so that Ho was rejected and Ha was accepted, which 
+mean that there was a significant difference in the effectiveness of computer-based "color-mixing 
+maze games" compared to the paper-based games to stimulate symbolic thinking in scientific 
+development knowledge in early childhood. Computer-based "color-mixing maze games" are stated to 
+International Conference on Science Education and Technology
+Journal of Physics: Conference Series
+1511 (2020) 012112
+IOP Publishing
+doi:10.1088/1742-6596/1511/1/012112
+8
+ 
+ 
+ 
+ 
+ 
+ 
+be able to provide the right understanding in the learning process including science learning in 
+recognizing mixing colors that will train children in symbolic thinking, so that in this way it can 
+improve children's cognitive abilities in the development of science learning. The computer-based 
+experimental group has a high level of effectiveness with a value of 0.8> 0.7 while the paper-based 
+control group has a low level of effectiveness with a value of 0.2 <0.3. Learning in the form of 
+computer-based games is stated to be more effective than paper-based in recognizing color-mixing 
+because experience in playing games can contain delight elements and can be learned repeatedly 
+without having to think about the many tools and materials to be used. 

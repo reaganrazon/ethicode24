@@ -1,0 +1,127 @@
+DOI: 10.4018/IJOPCD.2017010104
+Copyright © 2017, IGI Global. Copying or distributing in print or electronic forms without written permission of IGI Global is prohibited.
+International Journal of Online Pedagogy and Course Design
+Volume 7 • Issue 1 • January-March 2017
+Designing Counter-Narratives:
+Constructing Culturally Responsive 
+Curriculum Online
+Xeturah M. Woodley, New Mexico State University, Las Cruces, NM, USA
+Gaspard Mucundanyi, New Mexico State University, Las Cruces, NM, USA
+Megan Lockard, New Mexico State University, Las Cruces, NM, USA
+ABSTRACT
+The growing field of online education has developed inside a cultural context rooted in racism, 
+classism, sexism, and other forms of inherent bias. Likewise, the design and development of online 
+curriculum is not excluded from the biases that have historically plagued face-to-face curriculum. 
+In this article, the authors call online teachers into action by encouraging them to adopt an engaged 
+instructional design praxis that builds learning environments inclusive of racial, ethnic, and gender 
+diversity. Through the use of culturally responsive teaching, online teachers can create spaces of 
+counter narrative that address curricular blindnesses and promote social justice.
+KeywORDS:
+Counter-Narratives, Culturally Responsive Teaching, Curricular Blindnesses, Online Education, Social Justice 
+Praxis
+INTRODUCTION
+As social justice teachers, it is important for us to understand the political, social, and cultural contexts 
+in which the burgeoning growth of online education is occurring. Racial, gender, and ethnic biases 
+that teachers bring with them into the virtual classroom can directly impact the ways in which they 
+engage students, especially students of color. Not only are teachers changed by the hidden ideologies 
+they maintain but their students are also negatively affected. When teachers bring their inherent biases 
+into their classrooms, those biases impact students’ self-efficacy and confidence. In her essay, Audre 
+Lorde (1978) referred to the inherent biases of racism, sexism, classism, and homophobia as “human 
+blindnesses” that are rooted in “the inability to recognize or tolerate the notion of difference as a 
+beneficial and dynamic human force” (p. 31). Human blindness and the devaluing of human difference 
+create what we term curricular blindnesses. Curricular blindnesses are policies and practices rooted in 
+racism, sexism, classism, and homophobia—blindnesses that fail to recognize and value diversity in 
+the curriculum. Unacknowledged racist beliefs and discriminatory practices of teachers allow for the 
+vicious cycle of deficit thinking to continue in American education, which subsequently maintaining 
+the curricular blindnesses both in traditional and online education (Solorzano & Yosso, 2001).
+The purpose of this article is to provide critical reflections on racial and gendered curricular 
+blindnesses within the curriculum, both classroom-based and online while providing culturally 
+responsive alternatives through the use of critical teaching and design practices. As co-authors of 
+this article, we generally talk about curricular blindness that occurs within online courses in higher 
+43
+International Journal of Online Pedagogy and Course Design
+Volume 7 • Issue 1 • January-March 2017
+44
+education without focusing on a specific discipline because we are aware of the far-reaching impact 
+of inherent racial and gendered bias across disciplines.
+Critical reflections and culturally responsive design practices addressed in this article are grounded 
+in education for social justice. Through the use of critical race theory (CRT) and Black womanist 
+theory (BWT), we introduce key components necessary for developing critical online pedagogy as 
+a means of addressing the human and curricular blindnesses inherent in higher education. In short, 
+we agree with Christian and Zippay (2012) in that “teachers must develop a knowledge base that 
+includes knowledge about culture—their own and that of others and attitudes and beliefs necessary 
+to teach diverse students effectively” (p. 38). As the field of online education continues to expand 
+and grow, especially with massively open online courses (MOOCs) that reach the world, it is of vital 
+importance that teachers become leaders in developing curriculum and course offerings that act as 
+counter-narratives to the dominant narratives of White supremacy and gender oppression.
+Theoretical Frameworks: Critical Race and womanist Theories
+To interrogate and critically analyze the curricular blindnesses in both traditional and online courses, 
+CRT and BWT are used as theoretical groundings for the analysis. CRT has been used throughout 
+the field of education to analyze curriculum. It has informed educational praxis, research design, and 
+interdisciplinary ways of evaluating issues of race, class, and gender (Crenshaw, Gotanda, Peller, & 
+Thomas, 1995). Seeking to introduce racial issues into the examination of law and society, scholars 
+of color began using CRT as an alternate tool for discourse analysis as it offers scholars alternative 
+viewpoints to dominant Anglocentric perspective (Lynn, 1999). In their examination of the field of 
+education, Lynn and Adams (2002) found that CRT “allows scholars to acknowledge [the] racist 
+epidemic in American culture…and allows for the recovery and use of the relevant histories of People 
+of Color” (p. 88). In short, CRT can be used as the basis for examining the condition of people of 
+color through a racial lens without negating other aspects of their identity such as gender and class 
+(Crenshaw et al., 1995; Delgado Bernal, 2002; Ladson-Billings, 1995; Ladson-Billings & Tate, 1995; 
+Lynn, 1999; Valdes, Culp, & Harris, 2002; Yosso, 2002). Through the CRT lens, we gain a pivotal 
+awareness of the need for a more socially just curriculum—a curriculum that makes room for counter-
+storytelling and that exposes racial curricular blindnesses (Carbado, 2002; DeCuir & Dixson, 2004; 
+Delgado Bernal, 2002; Matsuda, Lawrence, Delgado, & Crenshaw, 1993). By using CRT in online 
+teaching, instructors “make changes to their online teaching strategies in a way that challenges the 
+status quo, and ultimately facilitate transformative learning for the students themselves” (Wang & 
+Torrisi-Steele, 2015, p. 20).
+BWT was developed as an alternative to inherent biases of sexism and racism within Afrocentrism 
+and feminism, respectively. The emergence of the “womanist/Black feminist milieu began to take 
+shape in the nexus of the civil rights and women’s rights movements of the 1950s and 1960s” even 
+though the roots of resistance reach back to the work done by Black women to end slavery (Ross, 
+2015, p. 361). The term womanist was first used by Alice Walker to characterize the Black woman-
+centered philosophy and became popularized by Black feminist scholars like Katie Cannon, Margaret 
+Shaw, and Layli Maparyan. BWT provides a framework for examining the intersections of race, class, 
+and gender in the curriculum, scholarship, and research. “Race, gender and other identity categories 
+are most often treated in mainstream liberal discourse as vestiges of bias or domination—that is, as 
+intrinsically negative frameworks in which social power works to exclude or marginalize those who 
+are different” (Crenshaw, 1991, p. 1242). BWT challenges these neo-liberal frameworks by providing a 
+holistic worldview that places the experiences of Black women, and other women of color, at the center 
+of understanding, thus removing them from their lived experiences at the margins (Woodley, 2013).
+By centering the female experience in theory and research, BWT creates a context for 
+understanding gendered, racial, and cultural experiences (Blackmon, 2008; Kolawole, 1997; Ross, 
+2015). The womanist worldview and its associated social movement is “rooted in the lived experience 
+of survival, community building, intimacy with the natural environment, health, healing, and personal 
+ 
+12 more pages are available in the full version of this
+document, which may be purchased using the "Add to Cart"
+button on the product's webpage:
+www.igi-global.com/article/designing-counter-
+narratives/164973?camid=4v1
+Related Content
+Comparison of Student Achievement and Problem-Solving Techniques for
+Integration Between Online and Face-to-Face Calculus Courses
+Sarah Ferguson (2020). Handbook of Research on Online Pedagogical Models for
+Mathematics Teacher Education (pp. 158-175).
+www.igi-global.com/chapter/comparison-of-student-achievement-and-
+problem-solving-techniques-for-integration-between-online-and-face-to-face-
+calculus-courses/243505?camid=4v1a
+Design Process of Three-Dimensional Multi-User Virtual Environments (3D
+MUVEs) for Teaching Tree Species
+Gamze Mercan, Dilek Doan, Pnar Köseolu and Hakan Tüzün (2020). Enriching
+Teaching and Learning Environments With Contemporary Technologies (pp. 117-
+137).
+www.igi-global.com/chapter/design-process-of-three-dimensional-multi-user-
+virtual-environments-3d-muves-for-teaching-tree-
+species/248426?camid=4v1a
+Student English Teachers' Vantage Points of the Digital Short Stories They
+Designed for Young Learners
+Gülten Koar (2023). International Journal of Online Pedagogy and Course Design
+(pp. 1-13).
+www.igi-global.com/article/student-english-teachers-vantage-points-of-the-
+digital-short-stories-they-designed-for-young-learners/315299?camid=4v1a
+Developing Musical Creativity Through Activity Theory in an Online Learning
+Environment
+Chih-Feng Chien, Brent G. Walters, Ching-Yieh Lee and Ching-Jung Liao (2018).
+International Journal of Online Pedagogy and Course Design (pp. 57-74).
+www.igi-global.com/article/developing-musical-creativity-through-activity-
+theory-in-an-online-learning-environment/201116?camid=4v1a

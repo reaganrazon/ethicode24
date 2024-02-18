@@ -1,0 +1,855 @@
+The Inclusive Professional Framework
+for Societies: Changing Mental Models
+to Promote Diverse, Equitable, and
+Inclusive STEM Systems Change
+Gretalyn M. Leibnitz 1,2*, Donald L. Gillian-Daniel 1,3,4, Robin M c C. Greenler 3,4,
+Rebecca Campbell-Montalvo 1,5,6, Heather Metcalf 1,6, Verónica A. Segarra 1,7,
+Jan W. Peters 1,8, Shannon Patton 3,4, Andrea Lucy-Putwen 1,6 and Ershela L. Sims 1,6
+1Amplifying the Alliance to Catalyze Change for Equity in STEM Success (ACCESS+), Washington, DC, United States, 2ProActualize
+Consulting, LLC, Moscow, ID, United States, 3University of Wisconsin-Madison, Madison, WI, United States, 4INCLUDES Aspire
+Alliance, Madison, WI, United States, 5University of Connecticut, Mansﬁeld, CT, United States, 6Women in Engineering, ProActive
+Network, Washington, DC, United States, 7High Point University, High Point, NC, United States, 8Katalytik, Christchurch,
+United Kingdom
+Science, technology, engineering, and mathematics (STEM) professional societies (ProSs)
+are uniquely positioned to foster national-level diversity, equity, and inclusion (DEI) reform.
+ProSs serve broad memberships, deﬁne disciplinary norms and culture, and inform
+accrediting bodies and thus provide critical levers for systems change. STEM ProSs
+could be instrumental in achieving the DEI system reform necessary to optimize
+engagement of all STEM talent, leveraging disciplinary excellence resulting from diverse
+teams. Inclusive STEM system reform requires that underlying “mental models” be
+examined. The Inclusive Professional Framework for Societies (IPF: Societies) is an
+interrelated set of strategies that can help ProSs change leaders (i.e., “boundary
+spanners”) and organizations identify and address mental models hindering DEI
+reform. The IPF: Societies uses four “I’s”—Identity awareness and Intercultural
+mindfulness (i.e., equity mindset) upon which inclusive relationships and Inﬂuential DEI
+actions are scaffolded. We discuss how the IPF: Societies complements existing DEI tools
+(e.g., Women in Engineering ProActive Network’s Framework for Promoting Gender Equity
+within Organization; Amplifying the Alliance to Catalyze Change for Equity in STEM
+Success’ Equity Environmental Scan Tool). We explain how the IPF: Societies can be
+applied to existing ProS policy and practice associated with common ProS functions (e.g.,
+leadership, membership, conferences, awards, and professional development). The next
+steps are to pilot the IPF: Societies with a cohort of STEM ProSs. Ultimately, the IPF:
+Societies has potential to promote more efﬁcient, effective, and lasting DEI organizational
+transformation and contribute to inclusive STEM disciplinary excellence.
+Keywords: inclusive professional framework for societies, mental models, intercultural mindfulness, equity mindset,
+inclusive relationships, identity awareness, inﬂuential actions, DEI (or Diversity Equity and Inclusion)
+*Correspondence:
+Gretalyn M. Leibnitz
+Leibnitz.ACCESSplus@gmail.com
+Specialty section:
+This article was submitted to
+Gender, Sex and Sexualities,
+a section of the journal
+Frontiers in Sociology
+Received: 27 September 2021
+Accepted: 14 December 2021
+Published: 18 February 2022
+Citation:
+Leibnitz GM, Gillian-Daniel DL,
+Greenler RMcC,
+Campbell-Montalvo R, Metcalf H,
+Segarra VA, Peters JW, Patton S,
+Lucy-Putwen A and Sims EL (2022)
+The Inclusive Professional Framework
+for Societies: Changing Mental Models
+to Promote Diverse, Equitable, and
+Inclusive STEM Systems Change.
+Front. Sociol. 6:784399.
+doi: 10.3389/fsoc.2021.784399
+Frontiers in Sociology | www.frontiersin.org
+February 2022 | Volume 6 | Article 784399
+1
+PERSPECTIVE
+published: 18 February 2022
+doi: 10.3389/fsoc.2021.784399
+INCLUSIVE STEM DISCIPLINARY
+EXCELLENCE REQUIRES SYSTEMS
+REFORM
+Addressing complex global challenges, such as climate change and
+health disparities, requires optimal engagement of people trained
+in science, technology, engineering, and mathematics (STEM).
+Because diverse teams embody enhanced capacity for problem
+solving, innovation, and resilience, they advance disciplinary
+excellence in a way that homogenous groups cannot (e.g., Page,
+2007;
+Borman
+et
+al.,
+2010;
+Page,
+2017;
+McGee,
+2020).
+Consequently, not only are more STEM-trained people needed,
+but speciﬁcally more diverse STEM-trained people are needed.
+Unfortunately, STEM cultures often discourage diversity by
+reproducing exclusionary norms and values (Tonso, 1996, 1999,
+2007; Seymour and Hewitt, 1997; Pawley and Tonso, 2011;
+BaillieKabo and Reader, 2012; Riley et al., 2014; Cech and Rothwell,
+2018; Hughes, 2018; McGee, 2020). Current US STEM systems
+privilege white, and/or men in STEM, and are typically perceived as
+unwelcoming by marginalized groups, especially women from various
+backgrounds (Metcalf et al., 2018; McGee, 2020; Campbell-Montalvo et
+al., 2021a). Expression of majority priority is manifest in complex ways,
+such as equating masculinity with technical ability, embracing and
+centering whiteness (Hacker, 1981, 1989; Eisenhart and Finkel, 1998;
+Lohan and Faulkner, 2004; Faulkner, 2007; Foor et al., 2007; Tonso,
+2007; Pawley and Tonso, 2011; BaillieKabo and Reader, 2012), and
+fostering the false idea that STEM is an apolitical, value-free, empirical
+meritocracy (McGee, 2020; Metcalf, 2017). Systems of power, privilege,
+and oppression intersect with those shaped by gender, race, ethnicity,
+sexuality, disability, nationality, class, and more (Crenshaw, 1989;
+Crenshaw 1991; Grifﬁn and Museus, 2011; Collins, 2015; Metcalf,
+2016; Warner et al., 2016; Metcalf et al., 2018). Collectively, these
+intersecting systems inﬂuence opportunities, create barriers, and can in
+turn promote exclusionary experiences for a variety of individuals,
+including women and other groups underrepresented in STEM. These
+experiences of exclusionary STEM systems are often replicated in, and
+sustained, not just in established STEM work environments but also by
+a STEM education system that socializes the next generation of the
+STEM workforce to abide by and reproduce these norms and values
+(Trouillot, 1995; Foucault, 2007; Tonso, 2007; Tonso, 2014).
+While STEM systems reform is clearly needed to attract, retain, and
+support a thriving diverse STEM talent pool, there is widespread
+expectation that minoritized and marginalized people will, and should
+be, the ones tasked with changing a system by which they are
+oppressed and largely excluded (Forrester, 2020). Majoritized
+people receive disproportionate power within the current system,
+so it is incumbent on them to be leaders in STEM system change to
+promote inclusive disciplinary excellence. This change must be
+supported through both “intentional introspection and subsequent
+action” (Chaudhary and Berhe, 2020, pg. 3).
+UNCOVERING PROFESSIONAL SOCIETY
+MENTAL MODELS
+Mental models are “deeply held beliefs and assumptions, and
+taken-for-granted ways of operating that inﬂuence how we think,
+what we do, and how we talk” (Kania et al., 2018, p. 4). We argue
+that intentional introspection of mental models can foster
+systems change. Systems change is “shifting the conditions
+that are holding the problem in place” (Kania et al., 2018).
+Kania et al. (2018) identiﬁed six conditions of systems change
+that are explicit (i.e., policies, practices, resource ﬂows), semi-
+explicit (i.e., relationships and connections, power dynamics), and
+implicit (i.e., mental models). Mental models hold the other
+conditions in place. Unless we learn to work at the mental
+models level, other structural changes “...will, at best, be
+temporary or incomplete” (Kania et al., 2018, p.8). While
+work
+addressing
+mental
+models
+has
+been
+increasing
+in
+academic institutions (e.g., NSF ADVANCE-funded initiatives)
+and industry settings, few projects have undertaken these efforts
+within professional societies (ProSs).
+Given the multiple, varied disciplinary functions performed by
+STEM ProSs, and that STEM ProSs often engage other STEM
+system gatekeepers (e.g., corporate, laboratory, and academic
+organizations), STEM ProSs are uniquely positioned as critical
+levers for STEM systems change (e.g., National Academy of
+Sciences et al., 2005). Peters and others (in press) identify 11
+functions performed by STEM ProSs (i.e., governance and
+leadership;
+membership;
+programming;
+professionalization;
+student chapters; prizes, awards, and funding; outreach and
+engagement; employment; advocacy; and publishing). Through
+functions such as these, the ProS reinforces mental models
+regarding how the discipline “looks, feels, and acts.” Leaders
+are identiﬁed, innovations celebrated, and the next generation is
+nurtured. For example, students enter STEM degree programs
+with varying levels of social capital (Skvoretz et al., 2020), and
+ProSs keep them in their programs (Smith et al., 2021; Campbell-
+Montalvo et al., in press). Some STEM ProSs are actively engaged
+in STEM systems change to promote diversity, equity, and
+inclusion (DEI) through STEM ProS functions (e.g., Segarra
+et al., 2020a; Segarra et al., 2020b; Campbell-Montalvo et al.,
+in press, Campbell-Montalvo et al., 2020; Etson et al., 2021).
+However, we believe that to foster greater engagement by STEM
+ProSs, more STEM ProS-speciﬁc tools are needed, especially
+those that can help make explicit and reframe mental models
+underpinning STEM ProS functions.
+THE IPF: SOCIETIES AS A TOOL FOR
+MENTAL MODEL CHANGES
+We offer the Inclusive Professional Framework for Disciplinary
+and Professional Societies (IPF: Societies) as an approach to help
+elucidate and adjust mental models that underlie STEM ProS
+functions (INCLUDES Aspire Alliance National Change, n.d.).
+The IPF: Societies is a framework that can be used to explore how
+internal conditions support and hinder current ProS DEI
+aspirations and help set a foundation for lasting organizational
+change. Speciﬁcally, the IPF: Societies is a research-informed
+approach that focuses on awareness and skill development to
+build an equity mindset—an orientation in which actions are
+grounded in understanding of how social positionings affect
+access to resources. This mindset creates greater capacity for
+Frontiers in Sociology | www.frontiersin.org
+February 2022 | Volume 6 | Article 784399
+2
+Leibnitz et al.
+Inclusive Professional Framework for Societies
+inclusive relationships and supporting actions that are focused on
+DEI change. The IPF: Societies includes the four “I’s”:
+1. Identity awareness,
+2. Intercultural mindfulness,
+3. Inclusive relationships, and
+4. Inﬂuential DEI actions.
+The IPF: Societies derives from the Inclusive Professional
+Framework for Faculty (IPF: Faculty). The IPF: Faculty was
+developed by the Aspire Alliance’s National Change Initiative,
+which is part of the National Science Foundation’s Inclusion
+across
+the
+Nation
+of
+Communities
+of
+Learners
+of
+Underrepresented Discoverers in Engineering and Science
+(NSF INCLUDES). The IPF: Societies was developed with
+input
+from
+leaders
+from
+the
+NSF
+ADVANCE-funded
+Amplifying the Alliance to Catalyze Change for Equity in
+STEM Success (ACCESS+), (n.d) Initiative, whose mission is
+to “accelerate the awareness, adoption, and adaptation of NSF
+ADVANCE
+evidence
+based,
+gender-related,
+DEI
+policies,
+practices, and programs within and across STEM ProSs, by
+providing
+support
+to
+STEM
+ProS
+boundary
+spanners.”
+Through partnership with ACCESS+ the IPF: Societies graphic
+was created, along with example functions (see Figure 1); and the
+model was tailored to a ProS audience, reﬁned, and piloted.
+Ongoing work through ACCESS+ will support engagement
+and continued reﬁnement through use with future cohorts of
+ACCESS+ ProSs and the development of complementary
+resources.
+Given the parallel role that mental models play in university
+and ProS systems, we propose that it is valuable to adapt the IPF
+for use in ProSs. Like the IPF: Faculty, the IPF: Societies at its core
+focuses on building an equity mindset through identity awareness
+and intercultural mindfulness and then puts that mindset into
+practice
+through
+reinforcing
+skills
+that
+support
+inclusive
+relationships. Where the frameworks (i.e., IPF: Faculty and
+IPF: Societies) differ is in the contexts and roles of those
+applying the framework. The IPF: Faculty was developed to
+promote inclusive skill development for faculty across their
+roles within academic institutions (e.g., teaching, advising,
+research
+mentoring,
+collegiality,
+and
+leadership)
+(Gillian-
+Daniel et al., 2021b; Dukes et al., in press). For the IPF:
+Societies, application occurs, initially by society DEI change
+leaders (i.e., “boundary spanners”), in the various functions
+that the society performs for its members and discipline, as
+discussed in greater detail below (see Figure 1: IPF: Societies
+with example ProS functions).
+The IPF: Societies has dual target audience foci: 1) DEI
+change leaders (individual focus) and 2) the ProSs as a
+system (organizational focus). Key individuals within the
+organizational system are ProS DEI change leaders, known as
+“boundary spanners,” who are people within an organization
+who work to connect ideas, resources, and stakeholders (Hill,
+2020). These individuals engage in ﬁve key behaviors: 1)
+ﬁnding—identifying knowledge and resources outside one’s
+organization
+to
+advance
+innovation,
+research,
+and
+development (Ancana and Caldwell, 1992; Tushman and
+Scanlan, 1981); 2) translating—making sense of what is
+found for modiﬁcation and application within one’s own
+organization
+(Katz
+and
+Tushman,
+1981);
+3)
+diffusing—sharing what is gained from extra-institutional
+connections with fellow organizational members (Rogers,
+2003); 4) gaining support—laying the political foundation
+and support within an organization to implement innovation
+(Brion et al., 2012; Faraj and Yan, 2009); and 5) social “weaving”
+behaviors by being the bridge wherewith to connect diverse
+stakeholders from multiple organizations under a common
+purpose (Burt, 1992; Kania and Kramer, 2011). Boundary
+spanners are an ideal lever for enacting and promoting DEI
+change given that they are often in positions to reach other
+boundary spanners in their ProSs and beyond (Aldrich and
+Herker, 1977; Katz and Tushman, 1981; Ancona and Caldwell,
+1992; Hill, 2020). We propose that uptake of the IPF: Societies by
+boundary spanners to develop and reﬁne DEI awareness,
+knowledge, and skills can better position these change leaders
+to make systemic changes within their ProS. This in turn has
+potential ripple effects extending to the wider STEM system
+(Leibnitz et al., 2021). Similarly, by STEM ProSs using the IPF:
+Societies to explore the ProS organizational system, both
+internal-focus (i.e., the STEM ProS business infrastructure)
+and external-focus (i.e., member and disciplinary serving
+STEM ProS infrastructure) DEI awareness and organizational
+capacity are enhanced, better positioning ProSs to enact DEI
+systems change.
+Figure 1 depicts the progression of the IPF: Societies’
+processes, showing how the equity mindset is developed and
+expands into relationships and actions that guide ProS core
+functioning,
+catalyzing
+STEM
+DEI
+systems
+change.
+We
+propose that the IPF: Societies can be usefully applied at both
+FIGURE 1 | The IPF: Societies graphic with ﬁve example professional
+society functions (INCLUDES Aspire Alliance National Change, n.d.).
+Frontiers in Sociology | www.frontiersin.org
+February 2022 | Volume 6 | Article 784399
+3
+Leibnitz et al.
+Inclusive Professional Framework for Societies
+TABLE 1 | How the IPF: Societies informs practices within ﬁve example professional society functions.
+Example ProS function
+name and deﬁnition
+(Peters et al., 2021)
+Example
+ProS policies/practices
+Example ProS questions generated
+with an IPF: Societies lens
+Example ideas for implementing
+more equitable practices
+Governance and leadership—How the ProS
+is run and major decisions are made (internal
+focus)
+Governing board members are
+selected based on seniority within the
+discipline
+• How is seniority a result of structural
+inequality within the ProS and U.S.
+broader society?
+• Develop a mission/vision statement or
+other commitment to equality and
+diversity that includes a non-
+discrimination clause regarding
+leadership and members (e.g., Potvit
+et al., 2018)
+• How does using seniority as a
+measure of qualiﬁcation shape the
+pool of possible governing board
+members?
+• Identify clear goals and adequate
+resources to support change
+• Gather inclusive organizational data;
+analyze the data intersectionally; share
+results publicly; and use the data to
+inform action planning
+• Ensure that DEI commitment is
+reﬂected consistently in charges to all
+committees
+• Build a case for more diverse senior
+leadership as essential to the long-
+term success of the organization
+• Build understanding, buy-in, and
+support from grassroots organizational
+members as well as from leadership
+• Engage male and/or majority member
+allies and advocates at all levels of the
+organization in the culture-change
+effort (e.g., Bilimoria et al., 2008)
+Membership—ProS members and the
+structures that shape membership makeup
+(external focus)
+In order to reduce survey burden and
+avoid being too intrusive, the ProS
+collects limited demographic data
+through its membership application
+• What data are collected, and for what
+purpose(s)
+• Maintain accountability by collecting data
+on society membership and leadership
+and present these numbers publicly
+• How are the data collected currently
+used to further an inclusive mission of
+the society?
+• Develop a mission/vision statement or
+other commitment to equality and
+diversity that includes a non-
+discrimination clause regarding
+leadership and members (e.g., Potvit
+et al., 2018)
+• Do members feel that the measures
+accurately capture their social and
+cultural identities?
+• Frame diversity as a positive and enact
+anti-discriminatory policies (e.g.,
+societal codes of conduct)
+• How is the rationale for collecting
+demographic data articulated to
+members as being both valuable and
+aligned with ProS DEI priorities and
+efforts?
+• Work to address systemic bias to
+create a culture of belonging and an
+environment that recognizes and
+supports the experiences of members
+with marginalized identities (e.g.,
+Abernethy et al., 2020)
+Convenings—Who, where, and how people
+participate in ProS events (external focus)
+Conference committees are
+composed of volunteers who
+determine the speakers, program,
+content, and social activities
+• How do social and cultural identities
+of the committee members affect
+decisions about speakers, program
+content, or social activities?
+• Switch to fully virtual conferences with
+multi-location in-person “local”
+conferences (e.g., Sarabipour et al.,
+2021)
+• How does the ProS create buy-in
+from membership around DEI-
+focused programming?
+• Select meeting locations that will be
+safe for all members
+• Choose environmentally responsible
+accommodation near public
+transportation
+• How does the selection of the event’s
+location reﬂect dominant views about
+what feels comfortable, safe, or
+enjoyable (e.g., restaurants,
+entertainment, amenities)?
+• Choose sustainable food catering
+• Provide free and on-site nursing and
+childcare facilities at regional meetings;
+include this information in registration
+materials
+• Generate meeting codes of conduct
+and ethics (e.g., Sarabipour et al., 2020)
+(Continued on following page)
+Frontiers in Sociology | www.frontiersin.org
+February 2022 | Volume 6 | Article 784399
+4
+Leibnitz et al.
+Inclusive Professional Framework for Societies
+individual and organizational levels. Below we describe speciﬁc
+aspects of the IPF: Societies as well as its application.
+Identity awareness is an awareness of aspects of one’s own
+social and cultural identities and how those identities are
+situated
+within
+larger
+intersecting
+systems
+of
+power.
+Intercultural mindfulness is the “ability to understand
+cultural differences in ways that enable one to interact
+effectively with others from different racial, ethnic, or
+social identity groups in both domestic and international
+contexts” (Gillian-Daniel et al., 2021a). Collectively, “these
+domains encompass many features of intercultural humility,
+including: 1) awareness of one’s own cultural backgrounds,
+including intersecting social identities; 2) recognizing one’s
+biases and privileges in relation to self and others; 3)
+committing to learning about others’ cultural backgrounds;
+and 4) addressing disparities in relational power by, in part,
+learning to recognize power differentials” (Gillian-Daniel
+et al., 2021a). The more aware one is of aspects of one’s
+own social and cultural identities, the identities of others, and
+how those identities are situated within larger, intersecting
+systems of power, the more equitably mindful one can be of
+impacts, decisions, and programming driven by those
+identities.
+Equity
+mindedness
+underpins
+building
+inclusive
+relationships. At both personal and organizational levels,
+willingness,
+capacity,
+and
+the
+communication
+skills
+to
+effectively engage those whose lived experiences may not
+match one’s own is vital for examining mental models and
+advancing inclusive ProS DEI reform. At the boundary
+spanner level, inclusive relationships mean reﬂecting on
+whose voices are, and are not, centered and carry decision-
+making power when discussing important ProS policies,
+processes, and activities. From the STEM ProS perspective,
+building
+inclusive
+relationships
+could
+be
+reﬂected
+in
+collaborations with a range of organizations with intention
+to build mutual capacity. Inclusive relationships at the society
+level help shift social narratives and can inform sense making
+around information collected about the ProS, two examples of
+how mental models have critical impact on organizational
+systems (Kania et al., 2018).
+Inﬂuential actions are how boundary spanners and ProSs drive
+STEM system change. We propose that informed and diversely
+networked people serving as DEI boundary spanners will be
+motivated and held accountable for positive DEI change.
+Boundary spanners’ actions can be focused on core ProS
+functions. Peters and others (2021) identiﬁed 11 functions of
+STEM ProSs for action focus. For explanatory purposes, we focus
+on a subset of ﬁve ProS functions identiﬁed by Peter et al. (2021)
+as depicted in the outer circles of Figure 1 and highlighted in
+Table 1. Ultimately, we propose that IPF: Societies-informed
+boundary spanners will engage in the inﬂuential actions
+associated with establishing new mental models and create
+accountability for nurturing the new diverse, equitable, and
+inclusive ProS look, feel, and actions.
+TABLE 1 | (Continued) How the IPF: Societies informs practices within ﬁve example professional society functions.
+Example ProS function
+name and deﬁnition
+(Peters et al., 2021)
+Example
+ProS policies/practices
+Example ProS questions generated
+with an IPF: Societies lens
+Example ideas for implementing
+more equitable practices
+Recognition—The established procedures
+in which people apply or are nominated for
+recognition or support (internal and external
+foci)
+Institutional afﬁliation is required on
+membership applications, award
+nominations, and presentation
+proposals
+• How is institutional afﬁliation tied to
+structural inequality?
+• Broaden what applicant qualiﬁcations
+are considered when awards and
+recognition are determined. For
+example, for travel awards, consider
+both evidence of a candidate’s
+scientiﬁc achievement as well as their
+expressed interest in attending/
+beneﬁting from the event
+• Is using institutional afﬁliation
+necessary?
+• Does institutional afﬁliation serve as a
+proxy for exclusionary notions of
+legitimacy, excellence, and thus bias
+selection?
+• How are scholars in career transition
+and without institutional afﬁliation
+provided access to ProS resources?
+• Vette top nominees by cross-checking
+code of conduct reports with other
+societies and contacting Title IX ofﬁces
+at current and previous institutions or
+employers (e.g., Fernandes et al.,
+2020)
+• Evaluate the extent to which award
+program goals and outcomes are
+being met (e.g., Segarra et al., 2020a)
+Professional development—Job boards,
+mentoring, practitioner continuing
+education, and similar efforts aimed at
+cultivating members’ successful careers
+(external focus)
+Professional development offerings
+provide suggestions to members
+about how to be successful job
+candidates
+• What are the biases or assumptions
+in career training that reinforce and
+normalize whiteness and
+masculinity?
+• Provide professional development
+programming to build core equity,
+diversity, and inclusion competencies,
+including and not limited to building
+awareness around implicit bias (e.g.,
+Coe et al., 2019)
+• What systems can be introduced to
+improve these society offerings?
+• Include diversity-related programming
+during annual meetings (e.g., offer
+workshops on effective mentoring)
+(e.g., Abernethy et al., 2020)
+Frontiers in Sociology | www.frontiersin.org
+February 2022 | Volume 6 | Article 784399
+5
+Leibnitz et al.
+Inclusive Professional Framework for Societies
+DISCUSSION
+The IPF: Societies complements the use of other DEI
+organizational
+tools
+and
+increases
+both
+individual
+and
+organizational capacity to more efﬁciently and effectively
+identify and engage with DEI actions resulting from use of
+these tools. For example, we offer the Women in Engineering
+ProActive Network’s (WEPAN’s) Four Frames for Promoting
+Gender
+Equity
+Within
+Organizations
+(WEPAN,
+2013).
+Originally adopted from Simmons University’s Center for
+Gender in Organizations (1998), the four frames include: 1)
+equipping the individual, 2) creating equal opportunity, 3)
+valuing difference, and 4) revisioning culture. A STEM ProS
+DEI boundary spanner employing the IPF: Societies can
+evaluate
+and
+introduce
+more
+inclusive
+professional
+development programs (Frame 1); examine and recommend
+DEI changes to organizational structures, policies, and
+practices (Frame 2); call attention to ways in which ProS
+leaders and the organization are not “walking the DEI
+walk” (Frame 3); and identify and remedy incongruences
+between ProS existing practices and goals outlined in the
+ProS
+strategic
+plan
+(Frame
+4).
+Similarly,
+from
+an
+organizational perspective, WEPAN’s frames could be used
+to evaluate the equity of professional development programs
+and educational pathways (Frame 1); examine and revise
+organizational structures, policies, and practices to support
+greater DEI integration across all society functions (Frame 2);
+ensure that all leaders are, and continue to be, trained and
+coached on how to enact DEI-focused changes (Frame 3); and
+create opportunities to re-vision ProS culture and reﬂect that
+updated vision in the ProS mission and strategic plans
+(Frame 4).
+As
+with
+WEPAN’s
+four
+frames,
+the
+IPF:
+Societies
+complements
+the
+Equity
+Environmental
+Scanning
+Tool
+(EEST) (Peters et al., 2021). The EEST is a DEI self-
+assessment tool for ProSs adapted by ACCESS+ from The
+Royal Academy of Engineering and Science Council Diversity
+and Inclusion Progression Framework (2021). We propose that
+boundary spanners skilled in using the IPF: Societies will be
+more efﬁciently and effectively able to enact changes in areas
+identiﬁed by the EEST. Table 1 illustrates how the IPF: Societies
+can inform ProS DEI practices in relation to a subset (i.e., 5 of
+the original 11) of Peters et al. (2021) ProS’s core functions, each
+of which have an internal focus (i.e., the STEM ProS business
+infrastructure) and/or an external focus (i.e., member and
+disciplinary serving STEM ProS infrastructure). We propose
+that taking an IPF: Societies lens to the policies and practices
+associated with each of these functions will help uncover and
+offer an opportunity to change previously implicit ProS mental
+models. We use questions to illustrate application of the IPF:
+Societies. In each core ProS function (column 1), existing
+policies
+or
+practices
+are
+presented
+that
+might
+appear
+reasonable to some (column 2), but when the IPF: Societies
+lens is applied (column 3), systemic and structural inequities
+affecting how the ProS engages with staff and members become
+more visible. We offer example ideas of equitable practices that
+could emerge from application of the IPF: Societies (column 4).
+This
+table
+shows
+how
+the
+ProS
+may
+not
+be
+making
+programming decisions with an understanding of structural
+issues (i.e., equity mindset), therefore missing out on the
+TABLE 2 | Example IPF: Societies implementation strategies within professional societies.
+Level of ProS
+DEI engagement
+(Peters,
+et al., 2021)
+Description of DEI
+engagement level within
+a society (Peters
+et al., 2021)
+Example IPF: Society-based
+implementation strategies
+No activity
+No case for DEI has been developed yet
+Society boundary spanners use the IPF: Societies to help identify a
+network of others interested in DEI change and make the case for DEI
+engagement to ProS leaders and members.
+Idling
+The DEI case is developing; however, DEI has not been prioritized; no
+substantial planning or activity
+Society boundary spanners engage in IPF: Societies-based programming
+to build their equity mindset and interpersonal communication skills.
+Emerging
+There is a DEI case for action; initial DEI conversations, planning, and
+action are underway, and activity is minimal/ad hoc
+Society boundary spanners use the framework together with a DEI tool to
+work with leadership and staff to identify areas of opportunity for growth in
+the society. Their equity mindset supports them asking equity-based
+questions about society functions. Society policies and procedures are
+considered through this lens.
+Progressing
+The DEI case is well established; DEI actions have been carried out from
+planning phases, and activity may not be routine yet
+Society boundary spanners work with staff and key members to design
+and implement DEI-based programming. Collaborations with other
+organizations and initiatives allow the society to leverage existing
+programming and resources as they infuse DEI throughout the society.
+There is a “tipping point” of engagement by leadership, staff, and now
+membership in these programs that support the “institutionalization” of
+said efforts.
+Achieving
+The DEI case is being realized; planning and action have been underway
+for several iterations, and impacts are clear
+Society leadership and staff routinely collect and review data, for example,
+on membership, about who engages in society leadership, on who speaks
+at society functions, and who receives recognition from the society for their
+scholarship. Policies and procedures are regularly reviewed and revised to
+be more equitable and inclusive. The society uses a DEI tool to benchmark
+their progress relative to peer societies and collaborates with these
+societies to share best practices.
+Frontiers in Sociology | www.frontiersin.org
+February 2022 | Volume 6 | Article 784399
+6
+Leibnitz et al.
+Inclusive Professional Framework for Societies
+opportunity to address them and counter obstacles to DEI
+through inclusive relationships and inﬂuential actions.
+When and where the IPF: Societies is brought into the ProS
+DEI change cycle will likely be dictated by the culture of the ProS
+and/or ProS leaders. Examples for how the IPF: Societies can be
+used and inform engagement is depicted in Table 2 below.
+CONCLUSION
+In sum, Identity awareness and Intercultural mindfulness create
+an equity mindset that supports inclusive relationships and
+inﬂuential actions. The four “I’s” core to the IPF: Societies
+provide a framework for reﬂecting and acting on ProS culture
+at individual (e.g., STEM ProS DEI boundary spanner) and
+organizational levels. The IPF: Societies offers a way to guide
+change of mental models. ProS DEI boundary spanners
+employing the IPF: Societies can leverage their positionality
+and ability to straddle groups to affect cultural change across
+STEM ProSs, in combination with the efforts of other boundary
+spanners and in the disciplines in which they engage.
+Of critical importance when working with mental models in
+ProSs is the expectation that there may be resistance to DEI
+initiatives, especially among members with majoritized identities
+who may be invested, even subconsciously, in maintaining
+existing
+power structures
+(Lipsitz,
+2006).
+Because
+people
+occupy a constellation of identities of various positionings,
+awareness of common discourses rejecting DEI could help in
+ProSs navigating them (Bonilla-Silva, 2006). The IPF: Societies
+offers a framework to begin difﬁcult discussions and offers a
+structured approach for working toward change. Of course, to be
+effective, the IPF: Societies requires sustained mobilization of its
+pieces, vis-à-vis making DEI concerns part of the fabric of ProSs.
+Potential outcomes of wide-scale implementation of the IPF:
+Societies could be ProS actions in service of a more diverse,
+inclusive, and equitable STEM culture writ large. Resultant
+increased individual capacity to engage in the articulation and
+reframing of legacy mental models in turn guides organizational
+transformation and culture reform through broader systems
+change. As organizations engage in systemic change, greater
+ProS and STEM culture DEI changes can be made. Eventually,
+DEI change becomes less about individual efforts for speciﬁc DEI
+actions and more about broad, structurally patterned ProS
+organizational transformation and, ultimately, STEM culture
+reform.
+DATA AVAILABILITY STATEMENT
+The original contributions presented in the study are included in
+the article/Supplementary Material; further inquiries can be
+directed to the corresponding author.
+AUTHOR CONTRIBUTIONS
+GML, DG-D, and RMcCG contributed to conception, design, and
+ﬁnalization of the paper. RC-M and HM contributed to drafts of
+the manuscript with special emphasis on social-science sections
+of the manuscript. SP had special focus on the IPF: Societies ﬁgure
+development. JWP and RC-M contributed to drafts of the
+manuscript with special emphasis on the sections associated
+with the ACCESS+ Equity Environmental Scanning Tool
+(EEST). VAS, AL-P, and ELS provided IPF model and ﬁgure
+reﬁnement. All authors contributed to manuscript revision, read,
+and approved the submitted version.
+FUNDING
+This material is based upon work supported by the National
+Science Foundation under Grant Nos (2017953, 1834518,
+1834522, 1834510, 1834513, 1834526, and 1834521). Any
+opinions,
+ﬁndings,
+and
+conclusions
+or
+recommendations
+expressed in this material are those of the authors and do not
+necessarily reﬂect the views of the National Science Foundation.

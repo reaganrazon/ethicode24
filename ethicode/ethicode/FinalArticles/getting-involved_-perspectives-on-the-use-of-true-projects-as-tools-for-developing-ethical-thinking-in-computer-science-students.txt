@@ -1,0 +1,154 @@
+22   International Journal of Technology and Human Interaction, 4(2), 22-34, April-June 2008
+Copyright © 2008, IGI Global. Copying or distributing in print or electronic forms without written permission of IGI Global
+is prohibited.
+absTraCT
+This article describes a unique, educational project within the field of ethics and computers that 
+was implemented in the undergraduate study of computer science in 2002. Nesna University 
+College has been using the example of sexual abuse of children in case study teaching in social 
+informatics, in order to create an environment for intrinsically-motivated learning within the 
+field of ethics in computer science. The project also gave the students a unique opportunity to 
+get involved both emotionally and practically in the field of social informatics. The project is 
+run in cooperation with Save the Children Norway and the Norwegian National Crime Squad. 
+The computer science education at Nesna University College is the only computer science 
+education in the world which has sexual abuse of children as the main topic on the computer 
+science curriculum. The computer science students provide both the Save the Children Norway 
+and the National Criminal Investigation Service with reports on various topics such as secure 
+chat, camera phones and possible abuse, Freenet as a tool for sexual abuse, and so on. 
+Keywords:  didactics; ethical/societal issues; pedagogy; social informatics
+TermInology
+The terms “Internet” and “digital media” 
+as used in this article encompass the 
+terms “World Wide Web” and “cyber-
+space.” The communication that is of 
+concern here is what is accessed via chat 
+rooms. The term “children” or “young 
+people” is applied to people under 16 
+years of age. “Sexual abuse” is used in 
+this article to describe both the activities 
+by grown-ups to induce children in talk-
+ing about sex with them in chat rooms, 
+meet them for sex, and the distribution 
+and use of child pornography. The term 
+“child pornography” is defined as any 
+visual depiction—including any photo-
+getting Involved: 
+Perspectives on the use of True Projects 
+as Tools for developing ethical Thinking in 
+Computer science students
+Per Arne Godejord, Nesna University College, Norway
+IGI PUBLISHING
+This paper appears in the publication, International Journal of Technology and Human Interaction, Volume 4, Issue 2
+edited by Bernd Carsten Stahl © 2008, IGI Global
+701 E. Chocolate Avenue, Suite 200, Hershey PA 17033-1240, USA
+Tel: 717/533-8845; Fax 717/533-8661; URL-http://www.igi-global.com
+ITJ4110
+International Journal of Technology and Human Interaction, 4(2), 22-34, April-June 2008   23
+Copyright © 2008, IGI Global. Copying or distributing in print or electronic forms without written permission of IGI Global 
+is prohibited.
+graph, film, video, picture, or computer 
+or computer-generated image or picture, 
+whether made or produced by elec-
+tronic, mechanical, or other means—of 
+sexually explicit conduct where children 
+are engaged, or made to look like they 
+are engaged, in sexual activity. The 
+term in Norway is often replaced with 
+the term “abusive material,” so as to 
+underline the fact that this material is 
+not pornography as such. “Grooming” 
+is a term describing the activity by a 
+grown-up to gain the trust of a child 
+with the intent of abusing him or her 
+sexually. ICT stands for Information 
+and Computer Technology.
+InTroduCTIon
+The last decade has seen a rapid de-
+velopment and growth in the use of 
+computer-based communication and 
+information sharing. Internet—or “the 
+Net” as it is sometimes called—has 
+proven to be perhaps the most popu-
+lar mass-communication medium in 
+the world. As with the phone and the 
+television, most of the society has read-
+ily adopted the technology. Its spread 
+internationally and its penetration into 
+almost every corner of the educational 
+system and family life, as well as work, 
+is often described as a ”revolution.” 
+As one of the first countries outside 
+the United States to be connected to 
+the ARPANET, Norway has quickly 
+developed its use of Internet from a 
+purely researchers’ tool to being second 
+on the list of European countries where 
+Internet is used daily by its population. 
+Children and young people in particular 
+have readily embraced the new com-
+munication medium, and they utilize 
+it in quite a number of ways. A wide 
+array of digital tools is enabling kids to 
+express themselves, to create their own 
+identities, and to personalize the media 
+they use. Their creativity seems limit-
+less and includes such various forms 
+as mp3 lists, online game characters, 
+digital movies, and blogs. Just take a 
+look at www.youtube.com and see how 
+kids place themselves in full view of 
+the whole world, or check Web sites 
+like the Norwegian “www.deiligst.no” 
+(Delicious.no), where teenage girls and 
+boys ask to be evaluated by their peers 
+on their looks and bodies. Also, blogging 
+is all the rage, and writing innermost 
+thoughts online instead of in the old 
+diary book might seem quite fun.
+The problem with blogging is that 
+children reveal more online than par-
+ents know, and they do it because they 
+think that blogs are only read by their 
+friends. No one ever told them that 
+everything placed on the Net is visible 
+for everyone. There are also similar 
+problems with YouTube and sites like 
+“Deiligst.no.”
+Since the fall of 2002, the depart-
+ment of computer science at Nesna 
+University College has been working 
+with a project called “Getting Involved.” 
+The project was a part of the undergradu-
+ate program in computer science and 
+the course in social informatics. The 
+project focused on child pornography 
+and the Internet. In March 2003, Nesna 
+University College signed an agreement 
+with the Norwegian Save the Children 
+ 
+11 more pages are available in the full version of this document,
+which may be purchased using the "Add to Cart" button on the
+product's webpage:
+www.igi-global.com/article/getting-involved-perspectives-use-
+true/2922?camid=4v1
+Related Content
+Semantic Tagging of Events in Video Using HNN
+Parul Saxena and R. S. Jadon (2022). Machine Learning for Societal Improvement,
+Modernization, and Progress (pp. 135-157).
+www.igi-global.com/chapter/semantic-tagging-of-events-in-video-using-
+hnn/309759?camid=4v1a
+Toward an Enacted Approach to Understanding OSS Developer’s Motivations
+Régis Meissonierm, Isabelle Bourdon, Serge Amabile and Stéphane Boudrandi (2012).
+International Journal of Technology and Human Interaction (pp. 38-54).
+www.igi-global.com/article/toward-enacted-approach-understanding-
+oss/62661?camid=4v1a
+A Comparative Case Study of Indonesian and UK Organisational Culture
+Differences in IS Project Management
+Andrew McDonald and Sven Helmer (2011). International Journal of Technology and
+Human Interaction (pp. 28-37).
+www.igi-global.com/article/comparative-case-study-indonesian-
+organisational/53201?camid=4v1a
+Exploring the Preferences for Anticipated Use of Head-Mounted Displays
+Niek Zuidhof and Somaya Ben Allouch (2019). International Journal of Mobile Human
+Computer Interaction (pp. 40-48).
+www.igi-global.com/article/exploring-the-preferences-for-anticipated-use-of-
+head-mounted-displays/237173?camid=4v1a

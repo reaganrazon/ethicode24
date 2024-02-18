@@ -1,0 +1,525 @@
+Incorporating Diversity, Equity and Inclusion Awareness and
+Knowledge in a First-Semester Organic Chemistry Classroom
+Rajesh Sunasee*
+Cite This: J. Chem. Educ. 2023, 100, 4335−4342
+Read Online
+ACCESS
+Metrics & More
+Article Recommendations
+*
+sı
+Supporting Information
+ABSTRACT: Embracing diversity, equity and inclusion (DEI) in the chemistry classroom is
+crucial for creating an inclusive learning environment that will have a positive effect on student’s
+learning, success, and hence, retention in science, technology, engineering and mathematics
+(STEM). As such, a number of DEI approaches have recently been identified to foster
+awareness and appreciation of DEI into undergraduate chemistry education. However, in
+addition to creating DEI awareness, studies or educational approaches whereby undergraduate
+students are being exposed to some basic DEI knowledge are limited. Hence, in this work, three
+key DEI initiatives were incorporated into a first semester of Organic Chemistry at a primarily
+undergraduate institution. The first initiative included a weekly 5−10 min DEI video-discussion
+activity focusing on building awareness and basic knowledge such as DEI terminology, implicit
+bias, microaggression, gender, and systemic racism in STEM. The profile of several Black
+scientists as well as women scientists who have changed the world were also highlighted. The
+second initiative involved the design of five DEI-based extra credit assignments that connected
+course content (or concepts) with the historical achievements of a diverse set of chemists. Finally, DEI-based bonus questions were
+incorporated in three term exams as a formal assessment of student’s DEI learning throughout the semester. Pre- and post-DEI-
+related surveys were conducted, and students’ feedback about their DEI learning experiences were overall largely positive. Student
+scores and answers on the DEI-based activities were analyzed, and the results indicated an increase in the awareness and basic
+knowledge of DEI in STEM education.
+KEYWORDS: Second-Year Undergraduate, Organic Chemistry, Testing/Assessment, Minorities in Chemistry, Inclusive Teaching,
+Broadening Participation, Cultural Relevance
+■ INTRODUCTION
+Diversity, equity and inclusion (DEI) continues to receive
+increased attention in higher education institutions, as one of the
+primary goals is to foster a learning environment where all
+students succeed and thrive. As such, several DEI efforts have
+been integrated in various aspects in the academic institutions
+largely focusing on making their institutions more equitable and
+inclusive for all faculty, staff, and students. Within the chemistry
+education system, guidelines for advancing DEI in chemistry
+programs have been incorporated in an attempt to promote a
+DEI culture among chemistry programs.1 With the classroom
+population becoming increasingly diverse, there has been a rise
+in the need for and interest in emphasizing DEI in the chemical
+education sector.2 The use of inclusive pedagogies is becoming
+more common,3,4 and the infusion of DEI in teaching helps to
+deepen students’ understanding, create a sense of belonging, and
+thus allow a more inclusive educational classroom environment.
+As we are rapidly moving in an increasingly globalized and
+connected world, it is important to create DEI awareness among
+students so that they are better prepared to be global citizens.
+Recently, a number of DEI approaches have been identified to
+foster awareness and appreciation of DEI into undergraduate
+chemistry education. Some examples of these DEI strategies
+include the use of storytelling as a powerful educational tool to
+address equity in chemical education,5 engaging historically
+Black and underrepresented students in undergraduate research
+experiences,6,7 introducing diverse chemists in chemistry
+courses,8 embedding DEI into chemistry skills training for
+undergraduates,9 and designing activities that foster diversity,
+inclusion, and implicit bias.10 A recent study discussed the
+importance of a peer mentoring program, the infusion of
+research into the organic chemistry lab, funded research
+activities, undergraduate professional development, research
+group meetings, presentations at regional/national conferences,
+and publishing as coauthors on peer-review papers as crucial
+strategies for promoting DEI in organic chemistry education.11
+In an attempt to create an inclusive learning community, a team-
+based poster conference activity was designed to allow first-year
+Received:
+June 4, 2023
+Revised:
+September 26, 2023
+Accepted:
+October 3, 2023
+Published: October 20, 2023
+Article
+pubs.acs.org/jchemeduc
+© 2023 The Author. Published by
+American Chemical Society and Division
+of Chemical Education, Inc.
+4335
+https://doi.org/10.1021/acs.jchemed.3c00528
+J. Chem. Educ. 2023, 100, 4335−4342
+This article is licensed under CC-BY 4.0
+Downloaded via 68.65.175.96 on February 18, 2024 at 00:17:00 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+undergraduate students to discuss diversity and inclusion in
+chemistry.12
+Typical examples of chemistry courses that have introduced
+DEI-based activities in the classroom are General Chem-
+istry,8,13−17 Analytical Chemistry,18,19 and Biochemistry20 with
+limited studies on DEI-related strategies for undergraduate
+Organic Chemistry courses,21,22 despite the latter being a
+popular course for both Chemistry majors and nonmajors.
+Organic Chemistry course content includes fascinating mole-
+cules that can be easily linked with interesting stories to highlight
+the historical and intellectual achievements of women and
+chemists of color. Herein, this work features three DEI-related
+strategies that were incorporated in a first-semester Organic
+Chemistry course at a primarily undergraduate institution. The
+DEI-based strategies entailed an in-class weekly video-
+discussion activity to build basic knowledge on DEI terminol-
+ogy, implicit bias, microaggression, gender, and systemic racism
+in science, technology, engineering and mathematics (STEM).
+The design of five DEI-based extra credit assignments that
+connected course content with the historical achievements of a
+diverse set of chemists was implemented as well as DEI-based
+bonus questions in three term exams as a formal assessment of
+student’s DEI learning throughout the semester.
+■ METHODS
+Demographics and Participants
+The State University of New York (SUNY) at Plattsburgh is a
+primarily undergraduate institution located in a small city
+around the beautiful New York’s Adirondacks region. Current
+enrollment comprises 4323 undergraduate students and 415
+graduate students with an overall of 39% male and 61% female.
+32% students are identified as minoritized racial identities
+(Black, Hispanic/Latino, and two or more races). Participants
+for this study included students (N = 44) enrolled for the first
+semester of Organic Chemistry (CHE241) for the Spring 2022
+semester. Among the participants, 30% reported being first-
+generation college students with 60% as White race and 40% as
+non-White race or ethnicity (Black African-American, Asian,
+Hispanic). While only 2% of the class were Chemistry majors,
+the majority of the students were non-Chemistry majors with
+62% Biomedical Science, 18% Biology, 9% Nutrition and others.
+Incorporating DEI Initiatives in an Organic Chemistry First
+Semester Course
+The objectives of incorporating DEI initiatives in the Organic
+Chemistry course were mainly to create an understanding of the
+importance of DEI in science, technology, engineering and
+mathematics (STEM) education and build an awareness of
+some common DEI issues such as implicit bias, racism,
+microaggressions, and gender issues in the STEM field.
+Ultimately, the main goal is to equip undergraduate students
+with basic DEI knowledge. For the full first semester of Organic
+Chemistry, three DEI initiatives were undertaken as follows:
+• A weekly 5−10 min DEI-related in-class video-discussion
+activity
+• Design of five DEI-based extra credit assignments that
+connect course content (or concepts) with the historical
+achievements of a diverse set of chemists
+• Design of three DEI-based exam bonus questions as a
+formal assessment of student’s DEI learning
+While the class met in two 75 min sessions per week during
+the semester, only one of the sessions was used to incorporate
+the weekly 5−10 min DEI related video-discussion activity. This
+will depend on the flow of the Organic Chemistry course
+materials as well as the instructor’s choice for which lecture
+session to complete the DEI activity. Table 1 illustrates a typical
+course structure and timeline for the DEI materials that were
+covered on a weekly basis. On the first day of class (week 1),
+students were introduced to the instructor’s DEI statement as
+part of the course outline (refer to Supporting Information for
+the instructor’s specific DEI statement). The incorporation of a
+DEI statement in course syllabi is now common in academia,
+and the calls for its inclusion are increasing.23,24 A recent
+publication indicated that including a DEI statement on the
+course syllabus can support a strong sense of belonging for the
+students and the placement of the DEI statement within the
+syllabus is also crucial. In general, DEI statements that display
+earlier in the syllabus are more likely to be recalled by students.25
+On the first day of classes, students were engaged in an in-class
+activity called “Picture a Scientist” where they were required to
+write down the name of any scientist they knew or have heard
+about. Then, in week 2, the results of the activity were shown to
+the students with the data being analyzed and discussed. The
+profile of a Black scientist (George Washington Carver) was also
+highlighted, which coincided well with the celebration of Black
+History month. Week 3 introduced the students to the basic
+terminology of DEI supported with examples using a
+combination of a YouTube video and in-class discussion.
+Week 5 further enhanced on DEI terminology concepts by
+focusing on the difference between equity and equality. The
+other weeks (Table 1) followed a similar strategy to discuss key
+DEI issues such as implicit bias (week 6), systemic racism (week
+10), gender issues (week 11), microaggressions (week 13), and
+the benefits of embracing DEI (week 14). In addition, the profile
+Table 1. Overview of DEI Course Materials and Timeline
+Week #
+DEI Video-Discussion In-Class Activity
+Video (Time)a
+1
+DEI Statement
+In-Class Activity: Picture a Scientist DEI
+Precourse Survey
+2
+Data Analysis: Picture a Scientist Highlighting a
+Black Scientist
+3
+Definition of DEI with Examples
+YouTube (3.12
+min)26
+4
+Five Black Chemists Who Changed the World
+YouTube (2.54
+min)27
+5
+Equity vs Equality with Examples
+YouTube (1.16
+min)28
+6
+Unconscious (Implicit) Bias in Action Implicit
+Bias Activity
+YouTube (1.45
+min)29
+7
+Spring Break
+8
+DEI Bonus Question in Exam 1
+9
+Three Black Scientists (Past, Present, and Future)
+You Should Know
+BBC (4.13
+min)30
+10
+Racism in STEM
+YouTube (5.18
+min)31
+11
+Women in Science Who Changed the World;
+Sexism/Gender Issues in STEM
+YouTube (4.55
+min)32
+12
+DEI Bonus Question in Exam 2
+13
+Microaggressions
+YouTube (3.42
+min)33
+14
+Benefits of Embracing DEI
+15
+DEI Bonus Question in Exam 3
+DEI Postcourse Survey
+aReference links to videos.
+Journal of Chemical Education
+pubs.acs.org/jchemeduc
+Article
+https://doi.org/10.1021/acs.jchemed.3c00528
+J. Chem. Educ. 2023, 100, 4335−4342
+4336
+of several Black scientists as well as women scientists who have
+changed the world were highlighted (weeks 4, 9, and 11).
+The second DEI initiative involved the design of five DEI-
+based extra credit assignments that aligned course content with
+the historical achievements of a diverse set of chemists. Five
+chemists (African-American or people of color) were chosen,
+and their backgrounds and discoveries were first briefly
+highlighted, followed by the graded extra-credit assignment
+questions. The questions were framed based on the organic
+molecules that were part of their historical scientific achieve-
+ments, and at the same time, they were related to common
+organic chemistry concepts taught in the lectures such as
+hybridization, functional groups, resonance, acidity, stereo-
+chemistry, and IR spectroscopy (Table 2). A typical example of a
+DEI-based extra-credit assignment is shown in Figure 1 (refer to
+the Supporting Information for the remaining four DEI-based
+extra credit assignments). The first part of the assignment
+required the students to read a brief biography of the chemist
+and then answer the questions that followed.
+The third initiative entailed the design of three DEI-based
+exam bonus questions with the goal to further motivate students
+to keep abreast of the DEI materials discussed in class but also as
+a formative assessment of students’ DEI learning (Table 3 and
+Supporting Information). Exam 1 DEI-based bonus questions
+included basic DEI terminology questions and the contributions
+of five Black scientists who changed the world (Percy Julian,
+Mae Jemison, Patricia Bath, Betty Harris, George Washington
+Carver). Exam 2 DEI-based bonus questions focused on DEI
+issues such as racism in STEM and the achievements of five
+women scientists (Lise Meitner, Jocelyn Bell Burnell, Emmy
+Noether, Caroline Herschel, Rosalind Franklin). Finally, Exam 3
+DEI-based bonus questions were linked with the five DEI-based
+graded assignments to assess the overall knowledge of the
+scientific contributions of women and Black African-American/
+people of color scientists. Students were asked to name and
+briefly discuss the scientific contributions of two women
+chemists/scientists (other than Marie Curie and Rosalind
+Franklin) and two Black African-American chemists/scientists.
+■ RESULTS AND DISCUSSION
+The data obtained from the first day in-class activity about
+“picture a scientist” was analyzed and the results indicated that
+75% of the class (N = 44) responded with the name of men
+scientists with Albert Einstein and Neils Bohr being the two
+Table 2. Design of the Five DEI-Based Extra Credit Assignmentsa
+aEC#1: Percy L. Julian; EC#2: Asima Chatterjee; EC#3: St Elmo Brady; EC#4: Marie M. Daly; EC#5: Alma H. Hayden.
+Journal of Chemical Education
+pubs.acs.org/jchemeduc
+Article
+https://doi.org/10.1021/acs.jchemed.3c00528
+J. Chem. Educ. 2023, 100, 4335−4342
+4337
+most common ones (Figure 2). This was not too surprising
+given that students are often exposed to the work of Albert
+Einstein in high school and Neils Bohr in their general chemistry
+classes. Interestingly, only one student responded with the name
+of a Black African-American scientist, namely, George
+Washington Carver. 16% of the responses were women
+scientists with only the names of Marie Curie and Rosalind
+Franklin, while 9% of the responses were unaware of the name of
+any scientist. This quick in-class activity on the first day of class
+further provided the instructor with the class dynamics regarding
+student’s lack of awareness and knowledge about a diverse set of
+scientists. As such, DEI-based activities that highlighted the
+contributions of Black African-American/people of color and
+women scientists were reinforced throughout the semester
+(Table 1).
+Pre- and postcourse DEI-based surveys (IRB #1698) were
+administered in order to gain insight into students’ general
+awareness and knowledge of DEI in general as well as DEI-based
+issues in the STEM field (Supporting Information). In the
+precourse survey, students were initially asked if they had
+previously heard about DEI (Yes/No question style), and if the
+answer was yes, they were further prompted to answer how or
+where they have heard about it. Questions regarding their
+awareness of DEI issues in STEM education and if they would
+like to learn about those DEI issues were also asked, and the
+results are shown in Table 4 below. 55% (N = 44) responded
+that they have not heard of DEI, and the remaining who
+responded positively indicated that they heard about DEI
+through other courses, on-campus flyers, school emails, sorority
+clubs, and tv shows or from a friend. About 83% of the class
+displayed an interest in learning about DEI issues in STEM
+education.
+In a postcourse survey question, students were asked to
+compare their general awareness of DEI issues in the STEM field
+prior and after the course, and the results are shown in Figure 3.
+Prior to the course, about 73% of students’ ratings were in the
+range of fair to very poor, which aligned well with a similar
+precourse survey question where 76% responded “No” for their
+awareness of DEI issues in STEM (Table 4). However, after
+completion of the course with the incorporation of the three DEI
+initiatives, students felt more confident about their awareness of
+DEI issues in STEM with more than 90% of students’ ratings
+ranging from good to excellent (Figure 3, right).
+Students’ performances in the five DEI-based extra-credit
+assignments that linked course content were assessed as shown
+Figure 1. A typical example of a DEI-based graded assignment depicting a brief biography of the scientist followed by questions connecting course
+content such as hybridization and functional groups for the organic molecule cortisone.
+Table 3. Selected Examples of DEI-Based Bonus Questions in
+Term Exams
+Exam #
+DEI-Based Bonus Question
+1
+What do you understand by the terms (i) diversity; (ii) inclusion?
+Explain briefly the key difference between equity and equality.
+2
+Racism in STEM education or the workplace has been a major
+problem for many years. Can you briefly explain how racism is
+affecting STEM education? What is the root problem and how can
+one alleviate the issue?
+3
+Can you name two women chemists (or scientists) other than Marie
+Curie and Rosalind Franklin? Briefly describe their scientific
+contributions.
+Can you name two African-American chemists (or scientists) other
+than the ones you already mentioned in part 1 above? Briefly
+describe their scientific contributions.
+Journal of Chemical Education
+pubs.acs.org/jchemeduc
+Article
+https://doi.org/10.1021/acs.jchemed.3c00528
+J. Chem. Educ. 2023, 100, 4335−4342
+4338
+in Figure 4a. Despite being an extra-credit assignment, the
+percentage of students who attempted all five extra-credit
+assignments was high (about 90% on average). Students who
+scored in the range 0−20% were mainly those who did not
+attempt the extra-credit assignment. Students performed well in
+the extra-credit assignments #1 and #4, which dealt with basic
+concepts such as hybridization, functional groups, and stereo-
+chemistry. Some students struggled with difficult concepts such
+as resonance effect (EC#2) and acidity of organic molecule
+(EC#3), as displayed by the varying % grade distribution (Figure
+4a). While the overarching goal of this activity was to connect
+the historical achievements of a diverse set of chemists, students
+were required to first read the brief biography of the chemists
+prior to attempting the follow-up questions. One way to assess if
+students were actually retaining the DEI knowledge about those
+chemists was to link it with Exam 3 DEI-based bonus questions,
+which evaluated students’ knowledge about the scientific
+contributions of women and Black African-American/people
+of color scientists. In general, the DEI-based exam bonus
+questions were used as a formative assessment of student’s
+overall DEI learning throughout the semester. Student’s
+performance in the three DEI-based exam bonus questions are
+depicted in Figure 4b. The majority of students (91% for N = 43
+with a performance rating of 90−100% and 70−89%) had a
+good understanding about DEI terminology (diversity,
+inclusion, equity v/s equality) and the contribution of five
+black scientists (Bonus Exam #1, Figure 4b). In the DEI Bonus
+Exam #2, students scored fairly well on the question related to
+the root cause of racism in STEM education and workplace as
+well as the contribution of five women scientists. Finally, for DEI
+Bonus Exam #3, 79% of students were able to correctly cite the
+names and briefly discuss the scientific contributions of two
+women chemists/scientists (other than Marie Curie and
+Rosalind Franklin) and two Black African-American chemists/
+scientists (based on 35% for a score of 90−100% and 44% for a
+score of 70−89%).
+In addition to the general assessment of students’ DEI
+learning performances, the postcourse DEI survey included four
+Likert-scale prompts in order to assess the participants’ overall
+perceptions of the incorporation of the three DEI initiatives in
+the course (Figure 5). All participants agreed that the DEI videos
+were a good educational tool to learn the basics of DEI, and 97%
+responded they would like to learn more about DEI issues in the
+STEM education.
+97.7% agreed (including 69.8% strongly agreed) that they are
+now aware of a diverse group of scientists and their contributions
+in the STEM field. When responding to the statement “Addition
+of DEI component has a positive effect on my overall learning”,
+91.7% agreed (including 65.1% strongly agreed) and 9.3% had
+Figure 2. Students’ responses (N = 44) to the “picture a scientist” activity and data analysis of the responses toward the % of men and women scientists.
+Responses with no entries (9%) indicated students who did not know the name of a scientist.
+Table 4. Precourse DEI Survey Questions and Students’
+Responsesa
+Precourse DEI-Based Survey
+Question
+% of Students’
+Response (Yes)
+% of Students’
+Response (No)
+Have you heard about DEI before?
+45.0
+55.0
+Are you aware of any DEI issues in
+STEM?
+23.8
+76.2
+Would you like to learn about DEI
+issues in STEM education?
+83.3
+16.7
+aN = 44.
+Figure 3. Students’ responses (ratings from very poor to excellent) to the awareness of DEI issues in the STEM field before (left figure; N = 44) and
+after (right figure; N = 43) the incorporation of the three DEI initiatives in the course content.
+Journal of Chemical Education
+pubs.acs.org/jchemeduc
+Article
+https://doi.org/10.1021/acs.jchemed.3c00528
+J. Chem. Educ. 2023, 100, 4335−4342
+4339
+neutral responses. The postcourse DEI survey also included one
+open-ended question, namely, “What did you value most about
+this DEI component?”, and some of the selected student’s
+responses are depicted in Table 5. Overall, students highly
+valued the addition of a DEI component to the Organic
+Chemistry course.
+■ CONCLUSIONS
+This study entailed the design, implementation, and results of
+incorporating three DEI-based initiatives in a first-semester
+Organic Chemistry course at a primarily undergraduate
+institution. DEI-related activities that linked course content
+were introduced in addition to building awareness and basic DEI
+knowledge. Students’ surveys indicated that the majority of
+students agreed that the addition of the DEI-component had a
+positive effect on their overall learning and they would like to
+learn more about DEI issues in STEM education. Infusing DEI
+in the course content is crucial for promoting a respectful,
+inclusive classroom environment, and hopefully, it will better
+prepare students in a diverse world. While these three DEI-based
+initiatives were implemented in an Organic Chemistry lecture
+course, similar DEI strategies can be integrated in other
+chemistry courses. Future studies will need to focus on the
+impact of DEI initiatives or strategies in course curriculum
+toward students’ overall course performance and, also, how the
+DEI awareness helps students overcome challenges such as
+implicit bias, microaggression, gender, and systemic racism in
+STEM.
+Figure 4. Students’ performance in the (a) five DEI-based extra credit assignments (EC #1−5) and (b) DEI bonus exam questions 1−3 with scores
+ranging in each assignment/bonus questions from 90−100% to 0−29% (N = 43).
+Figure 5. Students’ responses to Likert-scale questions on the postcourse survey to gain feedback on the overall goal of adding DEI initiatives in the
+course (N = 43).
+Table 5. Selected Students’ Responses to the Postcourse DEI
+Survey Open-Ended Question
+Students’ Unedited Comments to Survey Open-Ended Question: “What Did
+You Value Most about This DEI Component?”
+“The inclusion of multiple perspectives of inequality in the STEM field”
+“I enjoyed the short but informative videos at the middle or end of lectures. It
+was a nice brain break and it was something I looked forward to”
+“Got to know about how unconscious bias can affect STEM, learned a lot about
+women scientists and struggles they faced”
+“Being able to be aware that as a person of color I may have to deal with the
+problems myself”
+“I value that I will feel more impacted in this field by my peers as a black woman
+now that they are aware of the disparities in the STEM field”
+“Getting to learn about the history of DEI in STEM so I can be educated enough
+to be [an] advocate and make a difference in the field”
+Journal of Chemical Education
+pubs.acs.org/jchemeduc
+Article
+https://doi.org/10.1021/acs.jchemed.3c00528
+J. Chem. Educ. 2023, 100, 4335−4342
+4340
+■ ASSOCIATED CONTENT
+*
+sı Supporting Information
+The Supporting Information is available at https://pubs.ac-
+s.org/doi/10.1021/acs.jchemed.3c00528.
+Pre- and postcourse surveys; instructor’s DEI statement in
+course outline; DEI-based extra credit assignments #1 to
+#5; DEI-based exam bonus questions #1 to #3 (PDF;
+DOCX)
+■ AUTHOR INFORMATION
+Corresponding Author
+Rajesh Sunasee − Department of Chemistry and Biochemistry,
+State University of New York at Plattsburgh, Plattsburgh, New
+York 12901, United States;
+orcid.org/0000-0003-2383-
+7228; Email: rajesh.sunasee@plattsburgh.edu
+Complete contact information is available at:
+https://pubs.acs.org/10.1021/acs.jchemed.3c00528
+Notes
+The author declares no competing financial interest.
+■ ACKNOWLEDGMENTS
+The author would like to thank Rochelle LaForest for the
+artwork of the pictures of the five scientists as part of the DEI-
+based extra credit assignments. Special thanks to SUNY
+Plattsburgh Office of Diversity, Equity and Inclusion and Centre
+for Teaching Excellence for their ongoing efforts in promoting a
+DEI culture in both teaching and the workplace environment.
+■ 

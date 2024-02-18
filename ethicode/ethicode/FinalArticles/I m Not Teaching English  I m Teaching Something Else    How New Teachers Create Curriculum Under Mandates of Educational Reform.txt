@@ -1,0 +1,1692 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=heds20
+Educational Studies
+A Journal of the American Educational Studies Association
+ISSN: 0013-1946 (Print) 1532-6993 (Online) Journal homepage: www.tandfonline.com/journals/heds20
+“I'm Not Teaching English, I'm Teaching Something
+Else!”: How New Teachers Create Curriculum
+Under Mandates of Educational Reform
+Arthur Costigan
+To cite this article: Arthur Costigan (2018) “I'm Not Teaching English, I'm Teaching Something
+Else!”: How New Teachers Create Curriculum Under Mandates of Educational Reform,
+Educational Studies, 54:2, 198-228, DOI: 10.1080/00131946.2017.1379809
+To link to this article:  https://doi.org/10.1080/00131946.2017.1379809
+Published online: 12 Oct 2017.
+Submit your article to this journal 
+Article views: 762
+View related articles 
+View Crossmark data
+EDUCATIONAL STUDIES, 54(2), 198–228, 2018
+Copyright C
+⃝ American Educational Studies Association
+ISSN: 0013-1946 print / 1532-6993 online
+DOI: 10.1080/00131946.2017.1379809
+“I’m Not Teaching English, I’m Teaching Something
+Else!”: How New Teachers Create Curriculum Under
+Mandates of Educational Reform
+Arthur Costigan
+Queens College – City University of New York
+This study presents how beginning teachers create and teach an English Language Arts (ELA) cur-
+riculum in urban schools in the context of an educational reform movement driven by mandates such
+as Common Core State Standards (CCSS), high stakes tests, and prescribed curricula. They serve
+in schools with each using unique and individual curricula due to frequent administrative turnover
+and reorganization. Through the use of participants’ classroom writings, interviews, and records of
+their classroom teaching, this study presents that the participants are neither teaching the content they
+wish, nor able to use pedagogies they see as effective. They experience confusion about the nature
+of the curricula imposed on them which differs significantly from their understanding of the ELA
+curriculum. The curricula they teach has little to do with either personal understandings of ELA, or
+how it is presented it in their educational coursework.
+I witnessed a lot of fake reading and writing. English wasn’t really taught in the classrooms I’ve
+observed, sadly. This led to many bored, disinterested students. All of the reading and writing
+that was done had an analytical approach to it … and it certainly wasn’t English. There was
+no realness to it, and students weren’t encouraged to feel. Rather, students were encouraged to
+pull facts and evidence to support their arguments. To be honest, even without understanding
+many teaching theories or practices, it was easy for me to learn that I don’t support that type of
+teaching … After observing so many fake English lessons, I became disheartened, that’s not the
+type of teacher I want to become. (Kristina’s journal entry for a required preservice classroom
+observation).
+THE CURRICULUM OF EDUCATIONAL REFORM
+Kristina’s words reflect a primary theme that emerges from almost all of the participants in this
+study: The English Language Arts (ELA) content they are teaching and the pedagogies they
+are using to teach it are not what they view as effective and are not seen as beneficial for their
+Correspondence should be addressed to Arthur Costigan, Queens College – City University of New York, 65-30
+Kissena Boulevard, Flushing, NY 11367. E-mail: arthurtcostigan@gmail.com
+EDUCATIONAL STUDIES
+199
+students. The participants in this study, who are preservice education students engaged in student
+teaching, as well as first to third year beginning teachers, present seven successive semesters’
+worth of teaching often taking place under high levels of curricular mandates in a city-sized
+urban area (Table 1). This study presents the understandings, thoughts, and feelings about the
+ELA curriculum through analysis of their reflective writings, through interviews, and through the
+records the kept of their teaching (Tables 2–5). These teachers are under considerable pressure
+to conform their teaching, both in content and pedagogy, to various types of mandates imposed
+because of the educational reform movement. Furthermore, these mandates are imposed in a
+range of intensities, from absolute adherence to scripted curricula to relative autonomy. These
+mandates most often come from their administrators’ interpretations of various national and state
+mandates, such as Common Core State Standards (CCSS) (Common Core State Exam Standards
+Initiative, 2014), high stakes tests, and test-based teacher tenure accountability systems.
+This article uses the concepts of myth and mythology to understand what is taking place as
+they design and implement ELA curriculum in their classrooms in an era of educational reforms
+(Berliner & Biddle, 1995; Berliner & Glass, 2014). As defined here, a myth is not simply an erro-
+neous, fictitious, or untrue set of beliefs or understandings. Rather, myth is used here as a way of
+creating a story or narrative about a number of related beliefs about a complex phenomenon such
+as the current educational reform movement (Costigan & Grey, 2014). In this framework, myth
+is the story or narrative which elites have created about contemporary educational reform. The
+“trueness” or validity of any given myth is not its ultimate purpose; rather, the primary purpose
+of a myth is a way of understanding, which is the creation of a “mental construct” or set of re-
+lated understandings, beliefs, assumptions, thoughts, and feelings about a complex phenomenon
+(Kelly, 1963).
+The political and economic elites who advocate, fund, and politically implement educational
+reforms have a coherent mythology that bears upon the urban student teachers and beginning
+teacher participants in this study. Their mythology maintains: Schools are failing; students are
+unchallenged; the curriculum is watered-down; teachers need to be forced into high standards
+by authorities; neoliberal ideology including privatization and competition should be applied to
+schooling; rigorous testing and strict accountability to authorities raises academic achievement;
+social and economic realities such as poverty are irrelevant to student achievement and can be
+improved by a curriculum that develops “grit; the purpose of schooling is primarily to enhance
+personal economic advancement; and, without schools with rigorous standards our national econ-
+omy is in jeopardy (Berliner & Glass, 2014; Costigan & Grey, 2014). Those who are critical of
+this mythology have documented that this is a “manufactured crisis” which has changed pub-
+lic schooling in harmful ways (Gabbard 2008; Hursh, 2007, 2008a, 2008b, 2014). The study
+presented here adds to this critical understanding and shows the impact that the mythology of
+educational reform has on the content and pedagogies in urban 7–12 ELA classrooms.
+The research presented in this paper asks the following questions of student teachers and first
+to third year beginning teachers who are serving populations of urban students who live in com-
+munities which are primarily poor or working class, immigrant, non-native English speaking, and
+of color and whose classrooms are subject to various educational reforms:
+r How do these preservice student teachers and beginning teachers conceptualize, create, and
+implement an ELA curriculum for their students?
+TABLE 1
+Distribution of Participants
+Data
+Set
+Year
+Semester
+Course Title
+ELA Course
+Type
+Teaching/
+Certification
+Status
+Level
+Enrollment
+Written
+Narratives
+Analyzed
+Participant
+Records of
+ELA
+Pedagogies
+Used
+Participant
+Records of
+Concepts
+Taught
+Participant
+Records of
+Literature
+Used
+Interview
+Data
+Analyzed
+1
+2012
+FA
+1
+The Teaching
+of Reading
+Adv Curr.
+Prof/Begin T
+GR
+18
+16
+—
+—
+—
+0
+2
+2012
+FA
+1
+Research
+Seminar in
+ELA 1
+Research 2
+Prof/Begin T
+GR
+21
+0
+—
+—
+—
+7
+5
+2013
+SP
+2
+Curriculum
+and
+Assessment
+Methods 2
+Init/Stud T.
+UG
+21
+11
+—
+—
+—
+1
+6
+2013
+SP
+2
+Curriculum
+and
+Assessment
+Methods 2
+Init/Stud T.
+GR
+24
+20
+—
+—
+—
+1
+7
+2013
+SP
+2
+Research
+Seminar in
+ELA 2
+Research 2
+Prof/Novice T.
+GR
+21
+0
+—
+—
+—
+2
+3
+2013
+FA
+3
+Contemporary
+Issues in
+ELA
+Research 2
+Prof/Begin T
+GR
+15
+11
+—
+—
+—
+2
+4
+2013
+FA
+3
+Research
+Seminar in
+ELA 1
+Research 1
+Prof/Begin T
+GR
+16
+0
+—
+—
+—
+0
+9
+2014
+SP
+4
+Curriculum
+and
+Assessment
+Methods 2
+Init/Stud T.
+UG
+16
+12
+—
+—
+—
+0
+8
+2014
+SP
+4
+Curriculum
+and
+Assessment
+Research 1
+Init/Stud T.
+GR
+23
+0
+—
+—
+—
+2
+10
+2014
+SP
+4
+Research
+Seminar in
+ELA 2
+Research 2
+Prof/Begin T
+GR
+16
+0
+—
+—
+—
+0
+200
+11
+2014
+FA
+5
+Curriculum
+and
+Assessment
+Methods 2
+Init/Stud T.
+GR
+20
+12
+—
+—
+—
+2
+12
+2014
+FA
+5
+Curriculum
+and
+Assessment
+Methods 2
+Init/Stud T.
+UG
+16
+5
+—
+—
+—
+1
+13
+2015
+SP
+6
+Methods of
+Teaching
+ELA
+Methods 1
+Init/Stud T.
+GR
+19
+—
+13
+—
+—
+2
+14
+2015
+SP
+6
+Teaching of
+Reading
+Adv Curr.
+Prof/Begin T
+GR
+25
+—
+12
+—
+—
+—
+15
+2015
+FA
+7
+Curriculum
+and
+Assessment
+Methods 2
+Init/Stud T.
+UG
+17
+—
+14
+—
+—
+—
+16
+2015
+FA
+7
+Contemporary
+Issues in
+ELA
+Adv Curr.
+Prof/Begin T
+GR
+15
+—
+12
+12
+12
+—
+Total:
+303
+87
+51
+12
+12
+20
+201
+202
+COSTIGAN
+TABLES 2–4
+Curricula Taught
+Table 3 Unit Themes
+Table 4 Literature Taught
+Table 2 Pedagogies Used
+Corresponds to Table 1, data sets
+Corresponds to Table 1, data
+Corresponds to Table 1, data sets 13-15
+13-15
+sets 13-15
+[Advance!] lesson plan format for lesson
+planning
+AIDS and stigma in YA novels
+A Long Walk to Water (2)
+accountable/accountability talk
+Argumentative essay (5)
+A Street Car Named Desire (3)
+active engagement
+Block Essays
+Call Me Maria
+aggressive monitoring
+Celebrating privacy
+Dracula
+aims
+Character traits
+Dreaming of Heidi
+alternative ending options, argumentative
+writing,
+Citing evidence
+Fences
+alternative plan for when things go wrong
+Collaborative annotations
+Frankenstein
+anticipatory set
+Comparing and contrasting
+characters
+Go Ask Alice
+art gallery walk with sticky note board
+Dealing with content
+Go Tell It On the Mountain
+attach the prompt
+Drama unit
+Greek Myths
+back pocket questions
+Emotional appeal
+Johnny Tremain
+Baseline assessment
+Explication writing
+Julius Caesar
+batch feedback
+Explorer unit
+Lyddie (3)
+CCSS standards on board
+How to analyze
+Maus
+character analysis
+How to research
+Might
+character chart
+Identifying Perspectives
+Monster
+check for understanding
+Independent reading
+Of Mice and Men
+citing evidence
+Individual poem unites for each class
+Romeo and Juliet
+class read
+Inferences
+Rules of the Game
+cold call
+Introduction to literary devices
+Sold
+compare and contrast assignments
+Introductions, ice breaker game
+The Addict
+critical lens perspective
+JFA: Journalistic Feature Article vs
+regular essay
+The Autobiography of Malcolm
+X
+Danielson Method lesson plan format
+Literary devices (2)
+The Color Purple
+debate a certain theme
+Literary essay
+The Great Gatsby
+differentiated instruction
+Marginalization
+The Hangman
+do now
+Memoir
+The Jacket
+do now inquiry starter
+MOSL test taking strategies
+The Naked Truth
+elicit the Aim
+Novels
+The Pearl
+entrance tickets
+Patriarchal Society Unit
+To Kill a Mockingbird (novel
+and film)
+entry point
+Persuasive strategies
+Tuesdays with Morrie
+exemplar responses
+Plot sequence
+Two Kinds
+exit tickets
+Poems
+four corners sharing
+Point of view
+Freytag triangle (2)
+Short answer response, how to
+goal: content
+Short Stories (7)
+goal: language
+Sonnets (2)
+graphic organizers: for every essay
+Spelling Bee
+graphic organizers: T-charts
+text to self connectionn (2)
+group discussions: cooperative
+The American Dream
+group work
+Thematic essay unit
+guided instruction
+Transitional phases
+guided practice (2)
+Understanding the theme of “visual”
+(Continued on next page)
+EDUCATIONAL STUDIES
+203
+TABLES 2–4
+Continued
+Table 3 Unit Themes
+Table 4 Literature Taught
+Table 2 Pedagogies Used
+Corresponds to Table 1, data sets
+Corresponds to Table 1, data
+Corresponds to Table 1, data sets 13-15
+13-15
+sets 13-15
+I will be able to (instead of students will
+be able to)
+Unusual language (in novel)
+independent practice
+informational texts
+jigsaw activities
+learning intentions
+learning objectives
+learning targets
+literature circles
+medial summary
+mini lessons
+modeling
+motivation
+multiple activities
+multiple ways of learning
+notice and note
+peer editing
+peer editing
+pivotal questions to lead discussions
+planned misconception
+popcorn reading
+prompts for writing
+prompts: sentence starters
+QRI 5 Inventory
+quick homework quizzes
+related quote to begin class by interpreting with class
+Rules and routines of a respectful classroom
+scaffolded questions
+scaffolding
+share out (2)
+show-call
+Socratic seminars
+standards based grading policies
+starter task
+stretch-the-question
+student led discussion
+Students will be able to … (swabat)
+teaching point
+the workshop model
+think-pair-share
+tiered instruction
+time stamps per section (of lesson)
+turn and talk
+vocabulary instruction, direct
+WITSI (Writing is Thinking with Strategic Inquiry)
+writing argumentative essay
+writing TIED paragraphs based on text
+204
+COSTIGAN
+TABLE 5
+Mandated to Autonomy Levels
+Table 5.1
+Manny
+High Mandates-Very Low Autonomy
+M
+A
+Cur.
+Days
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Content Taught
+A
+2
+x
+Rules and routines / successful classroom
+B
+1
+x
+Freytag Triangle / plot sequence
+C
+2
+x
+Baseline assessment / seventh grade
+D
+4
+x
+Notice and note / short stories introduction (2)
+[CCSS]
+E
+1
+x
+The Jacket / short story
+F
+2
+x
+Citing evidence [CCSS]
+G
+2
+x
+Qualitative Reading Inventory 5
+H
+2
+x
+Notice and note / A Long Walk to Water [short
+story] [CCSS]
+I
+1
+x
+Character traits / A Long Walk to Water [short
+story] [CCSS]
+J
+1
+x
+Inference / A Long Walk to Water [short story]
+[CCSS]
+K
+1
+x
+Spelling bee / Independent reading
+A vg.=
+2
+Table 5.2
+Sarah
+Mixed Mandates-Mixed Autonomy
+M
+A
+Cur.
+Days
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Content Taught
+A
+3
+x
+Introduction to ELA / Rules and expectations
+B
+3
+x
+Personal narratives
+(Continued on next page)
+EDUCATIONAL STUDIES
+205
+TABLE 5
+Continued
+Table 5.2
+Sarah
+Mixed Mandates-Mixed Autonomy
+M
+A
+Cur.
+Days
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Content Taught
+C
+3
+x
+How to create story ideas and characters
+D
+4
+How to write realistic fiction
+E
+5
+x
+How to write [a newspaper] lead / How to read
+analytically [CCSS]
+F
+2
+x
+How to self-assess [authentic assessment] using a
+checklist
+G
+2
+x
+Peer editing and review
+H
+2
+x
+How to develop analytical reading practices
+I
+2
+x
+How to create a companion book
+Avg.=
+3
+Table 5.3
+Ivana
+Somewhat Low Mandates-Somewhat High
+Autonomy
+M
+A
+Cur.
+Days
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Content Taught
+A
+3
+x
+Test, for student levels / essay and multiple choice
+B
+3
+x
+Annotation / Do and don’t, what is important
+C
+4
+x
+Argumentative essay / first and second draft
+D
+2
+x
+Id, Ego, Superego and relationship to dreams /
+Prep for Midsummer ND
+E
+4
+x
+Teacher given freedom to lead class on “student
+choice” argumentative essay
+(Continued on next page)
+206
+COSTIGAN
+TABLE 5
+Continued
+Table 5.3
+Ivana
+Somewhat Low Mandates-Somewhat High
+Autonomy
+F
+5
+x
+Malcolm X / Read, write, and think / Activists in
+today’s world
+G
+5
+x
+Malcolm X/ Activists in today’s world
+H
+5
+x
+Student choice literature / Guided free reading (A)
+I
+5
+x
+Student choice literature / Guided free reading (B)
+J
+11
+x
+Analyze intent of the author / article based
+K
+5
+x
+Hatred in the US: Why do we hate? / Class, race,
+gender
+Avg.=
+5
+Table 5.4
+Noor
+Low Mandates-High Autonomy
+M
+A
+Cur.
+Days
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Content Taught
+A
+3
+x
+School values / community
+B
+1
+x
+Welcome to English class
+C
+6
+x
+Elements of literature / Puddles [short story]
+D
+14
+x
+The Wrong Game / short story
+E
+4
+x
+Tombs of Ligeia [film] comparison to The Wrong
+Grave [short story]
+F
+3
+x
+The Nymphs Reply to the Shepherd [poetry]
+G
+5
+x
+Poetry writing / Haiku / Sistina / Villanelle
+H
+10
+x
+Gangs of New York / Author’s perspective [film]
+(Continued on next page)
+EDUCATIONAL STUDIES
+207
+TABLE 5
+Continued
+Table 5.4
+Noor
+Low Mandates-High Autonomy
+M
+A
+Cur.
+Days
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Content Taught
+I
+10
+x
+Snow, Glass Apples [short story]
+Avg =
+6
+Table 5.5
+Nadine
+Very Low Mandates = Very High Autonomy
+M
+A
+Cur.
+Days
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Content Taught
+A
+3
+x
+Bill de Blasio city introduction Curr.
+B
+2
+x
+Rules and classroom etiquette
+C
+2
+x
+Annabel Lee / poem
+D
+3
+x
+Mythology / Pygmalion [drama]
+E
+1
+x
+Greek Sculptures
+F
+3
+x
+The Gift of the Magi [short story]
+G
+1
+x
+“Good hair” article [CCSS]
+H
+2
+x
+“Stereotypes with hair” article [nonfiction]
+[CCSS]
+I
+1
+x
+Freytag Pyramid
+J
+1
+x
+“Good hair” article [nonfiction] [CCSS]
+K
+3
+x
+Test for Regents [state examination] preparation
+L
+1
+x
+“Defining moments” TED talk
+(Continued on next page)
+208
+COSTIGAN
+TABLE 5
+Continued
+Table 5.5
+Nadine
+Very Low Mandates = Very High Autonomy
+M
+A
+Cur.
+Days
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Content Taught
+M
+1
+x
+Anticipation guides for English / Button Button
+[short story] [CCSS]
+N
+1
+x
+Anticipation guides for English / Medea,
+Hercules, Pandora’s Box [myth] [CCSS]
+Avg =
+2
+r How do these participants understand and respond to the various types of, and levels of, cur-
+ricular mandates in designing and teaching ELA curricula?
+r How do the participants understand the effects their curricula have on their students?
+REFORMS UNDERMINING REFORM
+The idea of reform as a social, historical, political, and educational reality has been examined
+from a number of academic disciplines including: Political science and cultural studies (Scott,
+1998; Jacobs, 1961); social science methodologies in education (McNeil, 1988, 2000; Kennedy,
+2005; Costigan, 2013, 2014a; Costigan & Crocco, 2004; Crocco & Costigan, 2006, 2007);
+historical studies of schooling in the United State Exams (Katz, 1968; Ravitch, 2000, 2013a;
+Ravitch & Maris, 1995); social and philosophical foundations of Education (Berliner & Biddle,
+1995; Costigan & Grey, 2014; Gabbard 2008; Hursh, 2008a, 2008b; Hill, Macrine, & Gabbard,
+2008); and, in the context of ELA teaching and learning (Costigan, 2008a; Fleischer & Fox,
+2004; Kaufman, et al., 2002; Rex & Nelson, 2004; Rigsby & DeMulder, 2003; Smagorinsky,
+Lakly, & Johnson, 2002; Smagorinsky, et al., 2004).
+Though these studies come from varied academic disciplines and methodologies, several con-
+ceptual frameworks inform this study. These conceptual frameworks create a powerful myth,
+story, or narrative which is multilayered, and in which various themes overlap to create a powerful
+discourse of educational reform. The four that bear on this study are: mythology, authoritarianism,
+simplification, and idealism.
+Mythology
+The prevailing narrative since A Nation at Risk (ANAR; National Commission on Excellence
+in Education [NCEE], 1983) tells the story that education is essentially failing. This mythology
+EDUCATIONAL STUDIES
+209
+maintains that school failure is not caused by social and economic inequities, but rather by unchal-
+lenged students and deficient teachers (NCEE, 1983). The actual reality, however, is that given
+current social and economic inequities, even before our current era of educational reform, student
+achievement and school success has been steadily increasing as represented by historically high
+graduation rates and other valid assessments of student progress (Ravitch, 2013a). The following
+conceptual frameworks of authoritarianism, simplification, and idealism, build on the mytholog-
+ical narrative that public schooling is essentially defective and failing, and thus the educational
+system cannot be trusted to reform itself (Costigan, 2014a; Gabbard 2008; Hursh, 2008a, 2008b;
+Hill, Macrine, & Gabbard, 2008).
+Authoritarianism
+Reforms to social systems such as schools are almost always imposed by elites rather than through
+democratic processes. The local community, as well as the educational research community, are
+generally not a part of the discourse of educational reform (Costigan & Grey, 2014; Katz, 1968;
+Scott, 1998). The reform agenda has been defined and driven by such elites as Bill Gates and
+David Coleman (CCSSI, 2014), Eli Broad, The Walton Foundation, and leaders such as Rahm
+Emmanuel (Chicago), Mike Pence (Indiana), Rick Snyder (Michigan), among many others.
+Simpliﬁcation
+Reforms always impose a unified and simple vision on complex systems as if they were a com-
+plicated system (Scott, 1998; Jacobs, 1961). Complicated systems (a watch, an automobile, or a
+computer) are comprised of an additive construction of parts that have fairly self-evident func-
+tions. These individual parts can be fixed, replicated, and replaced. Complex systems, on the other
+hand, are systems in which the parts are interdependent (the brain, a bacterium, a neighborhood,
+a school) that cannot be fixed by a simple intervention as in a complicated system (like changing
+a carburetor in an automobile or a motherboard in a computer); each part is interdependent, and
+interfering in one part of the system affects the whole system (Cochran-Smith et al., 2014). As a
+participant in this study explained,
+You know of course Bill Gates is doing damage to schools. He’s a computer guy. If a part doesn’t
+work, you just fix it. His fix for us is Common Core. But schools don’t work like that. You try to do
+one repair and it affects everything else.
+Idealism
+Idealism is seen by reformers as the imposition of simple, clear, singular and unified remedies, on
+the complex, messy, practices of teachers and school traditions. This prescriptive stance discounts
+the grounded and practical craft knowledge of teachers as they are engaged in the complex prac-
+tical realities of day to day schooling (Densmore, 1987; Scott, 1998). Idealism works in tandem
+with the myth of failing schools; for, if schools are failing, then this is a direct result of the de-
+fective or deficient practices, and the defective current craft knowledge used by teachers (Hursh,
+2007; NCEE, 1983).
+210
+COSTIGAN
+Since the reauthorization of The Elementary and Secondary Education Act, commonly called
+No Child Left Behind (NCLB; US Congress, 2001), and over 5 years under the Race To The
+Top (RTTT) initiative (US Department of Education, 2009) and now continuing with the Every
+Student Succeeds Act (ESSA; US Department of Education, 2015), there have been many voices
+critical of educational reforms. The following general criticisms of the educational reform move-
+ment bear on this study; namely, ineffectiveness, reductionism, interference, decontextualization,
+and unintelligibility:
+Ineffectiveness
+The lack of evidence of real and beneficial educational improvements stems from nearly 2 decades
+of reforms (Gabbard, 2008; Hursh 2007; Ravitch, 2000). This includes the lack of demonstrated
+causality that the creation of high standards directly leads to the achievement of high standards
+(Ravitch, 2000; Ravitch & Maris, 1995). In particular, standards are especially ineffective in being
+met when they are imposed without consultation with teachers (Hursh, 2008a, 2014; Kennedy,
+2005).
+Reductionism
+The reduction in the quality and depth of the curriculum with a test preparation curriculum for
+high stakes tests (McNeil, 1988, 2000). The promulgation of large numbers of standards to be met,
+but the absence of instruction and assistance in how those standards are to be met and addressed
+(Costigan, 2008a, 2008b (Ravitch, 2000; Ravitch & Maris, 1995).
+Interference
+The reliance on “intentional disruption” as a corporate-style tactic of reform through threat of
+punishment and sanctions for non-compliance with imposed reform agendas, including closing
+“failing” schools, tying tenure and job security to student test scores, all of that has likely resulted
+to a growing teacher shortage (Christensen, Raynor, & Mc Donald, 2015; Ravitch, 2013b).
+Decontextualization
+The belief that social and economic ills of poverty, racism, and disenfranchisement are irrelevant
+and can be ignored or negated by the efforts of dedicated teachers using supererogatory efforts
+and curricula provided by the school or for-profit corporations (Brewer, 2014; Costigan, 2008a;
+Tell, 2014).
+Unintelligibility
+In the ELA curriculum in particular, the reality that educational reforms, as imposed con-
+structions by non-educators, are often not understood by educators, or are misinterpreted, or
+EDUCATIONAL STUDIES
+211
+found impossible to implement in actual classrooms. (Fleischer & Fox, 2004; Kaufman, et al.,
+2002; Rex & Nelson, 2004; Rigsby & DeMulder, 2003; Smagorinsky, Lakly, & Johnson, 2002;
+Smagorinsky, et. al., 2004).
+All these critical voices point strongly to the fact that it may be that the reformers themselves
+are creating goals and objectives that are simply unobtainable and unrealistic, and that the entire
+reform movement is an attempt to eliminate public schooling and to privatize it as a for-profit
+enterprise (Costigan & Grey, 2014; Ravitch, 2013).
+REFORMS CHANGE “ENGLISH”
+For the purposes of this study, content domain of English (a term used in postsecondary studies)
+is used interchangeably with ELA (a term used in 7–12 classrooms) because the focus of the
+participants’ own education, as well as what they want to teach, is primarily the study of English
+Literature (Applebee, 1993). Thus, it is important first to define how educators understand the
+study of English to properly examine the ways in which this is revised and integrated by the
+participants in light of the curricular demands.
+The Modern Language Association (MLA) defines English as follows: (a) To engage with
+artistic creation and expression imaginatively; (b) to work both independently and collaboratively;
+(c) to develop historical and comparative perspectives by studying the development of societies,
+cultures, literatures, and philosophies; (d) to become informed global citizens; (e) to engage with
+people across a range of languages, histories, traditions, and ways of seeing; (f) to experience
+people and places that are different and distant from those of their families or home communities;
+(g) to apply moral reasoning to ethical problems; and, (h) to understand environmental challenges
+(MLA, 2008, p. 2).
+There is nothing in the MLA that speaks of English as a tool for “college and career readiness”
+that are part of the Anchor Standards of CCSS (CCSSI, 2014). In fact, the MLA definition of
+English differs from how the CCSS conceives it, in that the reading of literature seems to be of
+less value than “reading for information”:
+The Common Core asks students to read stories and literature, as well as more complex texts that
+provide facts and background knowledge in areas such as science and social studies. This stresses
+critical-thinking, problem-solving, and analytical skills that are required for success in college, career,
+and life. (CCSSI, 2014, emphasis added).
+The ELA participants in this study overwhelmingly understand that this and other passages
+in CCSS have been interpreted as teaching in writing “the argumentative essay,” and in reading
+“informational texts.” These terms cannot be found in any basic text of literary criticism (see
+Eagelton, 2008; Guerin, et al., 2005; Scott, 1963).
+There is, however, a tradition in the domain of ELA studies where reading is on a continuum
+from reading for information, or efferently (Latin, effere, “to take away”) to reading aesthetically,
+or reading as a transaction or engagement with a text (Anderson & Rubano, 1991; Rosenblatt,
+1978, 1983). The CCSS, like almost all educational reforms, were created without any essential
+input from ELA researchers or practitioners, and they advocate that a substantial part of the ELA
+curriculum in reading and writing be informational, or fact-based. In the participants’ educational
+212
+COSTIGAN
+coursework, and in the critical texts used in these courses, informational (efferent) reading, that
+is reading for information without any aesthetic engagement, is understood to be the simplest,
+least engaging, and least rewarding parts of the ELA curriculum (Smith, 1984, 2004; Rosenblatt,
+1983, 1978).
+METHODOLOGY
+The data presented here are based on an ongoing study into how beginning ELA teachers un-
+derstand and are influenced by the educational reform movement (Costigan, 2002). The partic-
+ipants in the study presented here are enrolled in an undergraduate and graduate English Edu-
+cation leading to state certification. There were two types of participants: (a) Those taking one
+of two English methods courses for initial or provisional certification who were engaged in a
+two-semester program of student teaching with allied ELA methodology course work (Table 1,
+Init/Stud T) and (b) those who were taking advanced curriculum courses as beginning teachers
+seeking professional or permanent certification (Table 1, Prof/Begin T). Two types of partici-
+pants were each 50% (n = 8) of the data sets presented (Table 1). Although the new teachers
+have 5 years to complete their professional certification, the overwhelming majority of beginning
+teacher participants were in their first to third year of teaching. This study presents no differ-
+ences in the data between the undergraduate and graduate participants. Additionally, no differ-
+ence was seen in how the preservice student teachers and beginning teachers presented their ELA
+curricula content and pedagogies. This may be because the student teachers were teaching with
+cooperating teachers, of which 60% had graduated from the same educational program as the
+participants.
+This study contains two types of data. The first is an analysis of student course writings and
+interviews (Table 1, data sets 1–12). The student writings (n = 87) were used by the Principal
+Investigator (PI) to understand participants’ understandings of how they conceived, designed, and
+implemented their curricula when they were taking classes. These narrative writings provided
+interview questions for the interviews and do not appear in the data analysis. The interviews
+(n = 20) were conducted roughly half in person and half by phone, lasted from 20 to 40 min, and
+are presented in the Data Analysis of this article. The interview questions followed the following
+protocol:
+1. Tell me about your experiences teaching ELA in your school.
+2. How does the way you teach in your school compare with how you want to teach ELA?
+3. How are your students affected by the ELA curriculum you teach in your school?
+All written data were solicited, all interviews were conducted, and all teaching records were
+collected after the end of the class and after the course grades were given. All participants com-
+pleted a consent form registered with the college’s IRB. All identifiers were given pseudonyms,
+including participants, scripted curricula, and state examinations.
+The first set of qualitative data demonstrated that there were almost no coherent patterns
+emerging in the curricula content the participant teachers were teaching or in the pedagogies
+used to teach it (Table 1, data sets 1–12). In this light, The PI then asked his class members
+to record “what you are teaching” to see if there were any themes, trends, or patterns in
+EDUCATIONAL STUDIES
+213
+curricular design or implementation (Table 1, data sets 13–15). In this sense, the records were
+not used as quantitative data, but rather as a support of the qualitative data provided by writings
+and interviews. Tables 2–4 represent what three data sets of participants reported teaching
+during their coursework and these confirm the analysis of the previous data, namely that the
+ELA curricula had almost no commonalities. These lists were sorted into three categories of
+information provided: (a) pedagogical techniques, (b) ELA content taught other than specific
+literary works, and (c) specific literary works taught (Tables 2–4). After this data was collected,
+the PI asked his students who were beginning teachers in an advanced curriculum course to
+record not only what was taught, but on a Likert-type scale the level of intensity from strongly
+mandated (M) to almost completely determined by the teacher, or autonomous (A). Table 5
+shows five sample records ranging from heavily mandated curricula to almost completely
+autonomous.
+It is important to note that the data sought here are not necessarily for comparison with
+the theories and pedagogies that can be considered “best practices” by professional standards
+provided by National Council of Teachers of English (NCTE) (2012) or MLA (2008). What this
+study does do, however, is to present the “mental constructs” (Kelly, 1963), or the beliefs, or
+the understandings of these beginning teachers. These mental constructs are seen as comprising
+the participants’ autobiographical “storied lives” which assist the comprehension of contempo-
+rary education issues; that is, the thinking and stories they are presenting about their teaching
+(Calderhead & Robson, 1991; Clandinin & Connelly, 2000; Shafer, Downey, & Clandinin,
+2014).
+Trustworthiness of the data analysis was engendered by a layered research approach involving
+informal research during the PI’s classroom teaching in methods and curriculum courses for the
+same population as the participants of this study, as well as through participant interviews and
+the direct coding of participant-generated documents (Bogdan & Biklen, 1992; Ely, et al., 1991).
+Specifically, with three summative interviews, the PI participant checked that the research ade-
+quately reconstructed and presented the participants’ understanding (Ely et al., 1991; Lincoln &
+Guba, 1985) (Table 1, data set 13, Interview Data Analyzed).
+According to the college’s Office of Institutional Research, these participants and educa-
+tion students were 60% women and 40% men, and described themselves as living in ur-
+ban residential communities. They were 80% white, and considered themselves middle class
+or working class. In this they are typical of teachers nationwide in that they are predomi-
+nantly white, urban or suburban, female, working class, and they differ from a population of
+students who are increasingly self-identified as non-white, poor or working poor, non-native
+English speaking, immigrant, or of color (Feistritzer, 2001; Wideen, Mayer-Smith, & Moon,
+1998).
+The participants all were teaching in a city-sized area that one of the most populous city-
+sized area in the United States. This city-sized area is arguably one of the most diverse areas on
+in the world (Colangelo, 2009). In this area, there are 2.3 million residents and approximately
+48% of them foreign-born (Queens County Borough, 2014). The population consists of 27.6%
+non-Hispanic white; 27.5% Hispanic; 22.8% Asian; and, 17.7% African-American. The area
+has the locale’s largest share of Colombian, Ecuadorian, Guatemalan, Mexican, Peruvian, In-
+dian, Bangladeshi, Chinese, Filipino, Korean and Nepalese populations (Queens Public Library).
+The median household income is $53,054 and 15% of the population is below the poverty level
+(Queens Public Library, undated).
+214
+COSTIGAN
+DATA ANALYSIS
+Unsettled Schools—Unsettled Curriculum
+The participants in this study taught in urban schools that were in a constant state of adminis-
+trative instability. Principals and administrators left or were removed every few years, schools
+were closed or reorganized due to low test scores, and each new administration imposed different
+curricula and varied curricular mandates virtually every school year. Mary was a particularly ar-
+ticulate participant in explaining the relationship between administrative instability and curricular
+change as she chose to teach at another school after 2 years in her first teaching position:
+My new school is run a little better than what I was used to. It’s an established school that has been
+around about sixty or so years, and the principal has been there a while. That is really important to me,
+because the principal that I was working under was brand new, and every year it had been completely
+changed—the model of teaching … It was too chaotic for anyone to get their bearings, and … it was
+getting too ridiculous for me to continue working there.
+Mary explains the impact of rapid change had on her school’s curriculum:
+In my first year of teaching, we were a project-based school. So, everything that we did was projects.
+The class periods were really short, they were only 30 minutes long, and they have in independent
+project time for the rest of the day. And that didn’t work out at all. The kids were too young, and
+the teachers … didn’t know really how to handle it. So, my principal ended up getting removed
+before the end of the first year … And then they hired someone who had something like 15 years’
+experience teaching English. So, we were excited. We thought it would be a good thing. But, she had
+no experience as a principal. So, I left [for another school].
+Over the first 2 years in Mary’s first school, several curricula were implemented, none of
+which she found effective. One curriculum was designed by a teacher education institute at a
+local university:
+We had a lot of coaches because we were partnered with one of these learning institutions and …
+they had a lot of specific ideas about how they wanted everything to run, so, you know, every day we
+were hearing a lot about how we should be teaching. I was not a big fan of them. And so, the next
+year we go to 60-minute class periods and chop out a half hour for everybody’s [individual] lesson.
+So, just the constant changes have been a little bit ridiculous—for teachers and students alike.
+Mary understands that the imposed curricula had adverse effects on student learning, as well
+as their ability to pass the State Exam ELA high school exit examination:
+I don’t know how the kids can keep everything straight in their heads. And the kids are not passing
+the state exam, because of this inquiry model we were told that we can’t really do exam prep. We
+EDUCATIONAL STUDIES
+215
+have to do state exam prep after school, or during the day at other times, but then none of the kids
+would show up after school, so it’s counterintuitive to a certain extent.
+Mary also explains a theme that emerges many times in this study; namely, that the directives
+of CCSS were misunderstood, and the resulting curricular focus was incorrect (Kennedy, 2005):
+And the English Common Core Standards has narrative writing, it has research, it has a lot of different
+ways of reaching the students, but the only one that we’re focusing on ever is argumentative writing.
+You know, having students choose a side, and then citing relevant textual evidence. And the kids are
+reading no more than a paragraph [of informational texts] a day, and by the time they got to me the
+kids had no reading stamina. So, when I started teaching literature—I mean 15 pages into the book [Of
+Mice and Men], they wanted to be done with it … And luckily one of my colleagues about halfway
+through the year said [to the assistant principal], “No, I’m not going to do this. We’re not going to
+do this. We’re going back to doing literature.” So, he started teaching literature and the kids started
+really responded more to it.
+Near the end of her interview, Mary expressed a theme that emerges in this study, namely that
+what she is teaching is nothing like the literature curriculum she experienced in secondary and
+college-level English courses, nor was her pedagogy that which was advocated in her English ed-
+ucational course work: “I’m not teaching English, I’m teaching something else. It’s like teaching
+kids like the foundations of reading, or something. It’s not English!”
+The Idiosyncratic Curriculum
+In the first part of this study, during the first 5 years of analysis of the participants’ narrative writ-
+ings and interviews (Table 1, data sets 1–12), it became clear that each participant was teaching
+under many differing types of, and intensities of, curricular mandates. They responded to these
+different mandates in individual ways, and the result was that each was teaching almost com-
+pletely different curricula. This was true even though they were teaching in the same city-sized
+area with similar social and economic demographics, as well as the fact that almost all of the
+participants’ schools could be considered at risk for closure or reorganization because of low
+test scores on mandated high stakes tests. Nevertheless, despite these similarities, the participants
+revealed that each school, each English department, and each teacher, responded in very differ-
+ent ways. The term idiosyncratic curriculum is used in this study in the sense of its commonly
+accepted definition of peculiar to the individual teacher-participant.
+Because of the absence of commonalities in the participants’ curricula over the first five
+semesters of this study, in Spring 2015 the PI asked his pedagogy and curriculum classes to record
+on data sheets “what they taught” during his ELA pedagogy and curriculum courses (Table 1, data
+sets 13–15). These records reflect the participant’s creation of idiosyncratic curricula found in the
+more extensive and intensive data in the previous analysis of student class narrative writing and
+participant interviews (Tables 2–4).
+In Fall 2015, the PI asked one class of beginning teacher participants to record in greater
+detail not only what was taught, but to indicate on a Likert-type scale what levels of mandates or
+autonomy influenced their teaching of that particular curriculum (Table 1, data set 16). Table 5
+216
+COSTIGAN
+presents five representative samples of these records ranged from the most mandated (M) to the
+most autonomous (A). These again demonstrate (a) the great variability of what was taught, but
+also (b) the different levels of pressure the participants were under.
+For instance, one participant was required to teach a semester’s worth of Greek Myths. An-
+other participant’s English department committee had decided to teach Bram Stoker’s Dracula,
+and another Mary Shelly’s Frankenstein. In the case of the two novels mentioned, the two partic-
+ipants received no rationale for these choices, and they struggled with the difficulty of teaching
+novels that their urban students found difficult. Many classrooms were mandated to spend signif-
+icant time on test preparation. Many were required to be aligned with CCSS, and many required
+teachers to write standards on the board, and several administrators mandated students to copy
+the standards into their notebooks. Other schools required that a certain lesson plan format be
+used, or that pedagogical techniques such as “mini-lessons” or “think-pair-share” be included in
+lessons. Several participants reported a lock step curriculum in content and pedagogy, often in the
+first month of the semester as class sizes were adjusted, where all teachers per grade level were
+teaching the same content on the same day. Roughly 20% of the participants, such as Mary (pre-
+viously mentioned), responded to presumed CCSS mandates to teach “the argumentative essay,”
+and “informational texts” (see Table 5.1). Paradoxically, about 10% of the participants reported
+almost complete autonomy to teach whatever they wanted (see Table 5.5). Supervision systems
+ranged from almost daily roughly 3 min walk throughs, to full period observations ranging from
+one to six times a semester, to mandated bulletin board formats in middle schools, and regu-
+larly submitted samples of student work to be reviewed by administrators. In short, among all
+the participants there was no commonalty of the content that was mandated to be taught, nor the
+pedagogies used to teach it.
+Educational researchers have long concluded that most ELA classrooms across the United
+States are relatively similar in content and pedagogy (Kennedy, 2005; Cuban, 1984). However,
+this was not the case with this study’s participants. For instance, it is unlikely that Dracula is taught
+in many, ELA classrooms; yet, even if it were an occasional part of the ELA curriculum—and it
+is not—it is not clear at all to this particular participant why it was chosen and mandated, or what
+are the benefits to students. Furthermore, it is not clear to the PI, who has observed classrooms as
+a teacher educator for 17 years, and is a former urban high school teacher of almost 14 years, what
+are the following pedagogies presented in curriculum records: “attach the prompt,” “cold call,”
+“Do Now inquiry starter,” “show-call,” “batch feedback,” “stretch the question,” and “teaching
+point,” among many others (Tables 2–3; Table 1, data sets 13 and 14). What was clear is that the
+participants were not conceiving of the curriculum in any way they had experienced it as students,
+nor in any essential way as advocated in their educational coursework, nor as comparable to NCTE
+or MLA standards.
+The Wash-Out of Educational Coursework
+In their educational coursework the conceptual framework of curricular design was presented
+as centered on conceptual units that are cohesive, extensive, and able to be clearly assessed
+(Smagorinsky, 2007). These units should possess a thematic focus on an important concept
+in ELA studies, should contain integral works of literature and writing related to that theme,
+should use appropriate pedagogies to engage students with concepts and literature, and should be
+EDUCATIONAL STUDIES
+217
+appropriate to the students and meaningful for them. The units should be extensive, intercon-
+nected, and integrated with each other (Applebee, 1993; Costigan, 2008a; Gaughan, 2001; Pirie,
+1997). This is the conception of curriculum design in the text used in both methodology courses
+the participants were taking or had taken (Smagorinsky, 2007).
+Such a conception of the curriculum typically requires an intensive and extensive one to three-
+week units with specific pedagogies to support that unit that include reading strategies and writing
+processes, including time for editing and revision (Costigan, 2008a; Smagorinsky, 2007). How-
+ever, the average curricular units presented in this research are short units of only a few days that
+were not thematically interconnected with each other, and that varied greatly in objectives, con-
+tent, and pedagogy. This is clearly represented in Table 5 where the average unit is 3.3 days, and
+where there are only four curricular units out of 51 units presented that are longer than one week.
+The units do not seem to progress in any logical fashion, they do not seem related to each other,
+and there does not appear to be any cohesion of focus in the units presented (Table 5). Marissa
+explains why this may be so:
+They come at me from all angles, each and every day. Common Core, lesson plan formats, getting
+them ready for the state exams, submitting my lesson plans to the AP for review, getting my
+bulletin boards in order with exemplar student works, being observed by the principal on his walk
+throughs … It’s too much.
+In educational research, to oversimplify somewhat, wash out theory applies to beginning
+teachers and explains the ways in that their educational coursework that is usually progressive,
+constructivist, inquiry-based, or student-centered is washed out by the everyday realities of the
+classroom and the rituals, traditions, and requirements of daily schooling (Calderhead & Robson,
+1991; Zeichner & Tabachnik, 1981). In other words, this theory holds that within the context of
+the quotidian realities of schooling, new teachers typically revert to their “implicit institutional
+biographies,” (Britzman, 1986) and replicate the traditional schooling they experienced when
+they were students, effectively washing out what is learned in educational coursework (Lortie,
+1975). After a few years, however, once they become more comfortable teaching, new teachers
+may then apply some of the more constructivist, student-centered practices recommended in
+their educational coursework (Rust & Orland, 2001).
+Wash out theory was a research conversation that emerged before the current educational re-
+form movement was formally implemented with NCLB in 2001. However, the participants in this
+study support this theory in that the conflicting demands placed upon them wash out possibili-
+ties for curricula which they see as personally and professionally rewarding, and beneficial for
+their students. The result is a praxis shock when new teachers are stymied in making the transi-
+tion between their university coursework and the test- and accountability-driven realities of urban
+schools (Smagorinsky et al., 2004). Note that Nadine in Table 5.5 reports that her curriculum was
+highly autonomous, yet she is responding to what she perceives as the demands of CCSS by teach-
+ing informational texts. In Table 5.5, curricula G and H are clearly guided by perceived CCSS
+demands, but many other curricula may also be her interpretation of what needs to be taught for
+the perceived demand for students to process informational texts.
+The participants indicated that what was primary in creating their own curricula was the type of,
+and intensities of, mandates they were given in designing and implementing their own conceptions
+218
+COSTIGAN
+of the ELA curriculum. They identified the following issues as primary. They are ranked from the
+most restrictive to the least restrictive:
+(M) Curricular Mandates
+r Scripted lessons and curricula purchased from educational publishers, corporations, or univer-
+sity think tanks
+r Curricular demands due to perceptions of CCSS demands (reading informational texts, writing
+argumentative essays)
+r Student assessment systems by for-profit organizations
+r Authorized and unauthorized use of elements of scripted lessons and curricula promulgated by
+school supervisors
+r Mandated lesson plan formats, designed by school or adapted from scripted programs
+r Mandated formal lesson plan elements (e.g. mini-lessons, the workshop model, copying the
+Aim or CCSS standards)
+r Lock step curriculum per grade level (for at least one month per semester)
+r Administrative mandates for specific ELA content (literature, informational tests), or pedago-
+gies (inquiry-based learning, tiered instruction)
+r Texts assigned per level or grade for thematic unity
+r Texts assigned per level or grade for equal distribution and availability
+r Bookroom text availability
+r Teacher choice
+(A) Curricular Autonomy
+The aforementioned issues superseded the participants considering: (a) the assessed academic
+needs of each class of students, (b) the personal curricular interests of the teacher in teaching
+certain texts, (c) using preferred pedagogies to teach, and (d) applying methodologies advocated
+in educational coursework.
+Individuality
+Each of the participants were each telling their own stories, and these stories seldom overlapped
+with the stories of other participants (Clandinin & Connelly, 1996; Shafer, Downey, & Clandinin,
+2014). The stories were unique or because the schools, and the teachers in them, were all
+responding to various curricular mandates in various individual ways without consultation with
+each other. As Patrick summarized in an interview:
+They tell me what to do, they tell me what books are available to teach. They tell me how I have to
+teach it based on the state exam and the critical lens essay. They tell me what texts I have to use and
+how long I have to teach it. The rest is up to me to try to keep the kids’ interest enough to get all this
+through [to them].
+Furthermore, each participant had individual and idiosyncratic curricula within the context of
+her own workload, and different curricula and pedagogies were often applied to the same grade
+level in different class sections. As Diana explains:
+EDUCATIONAL STUDIES
+219
+Well, yes, I have two English 10 classes [freshman second semester], but one is on level, and the other
+is not on track. So I have to teach them differently. With the on level I’m teaching Lyddie, which is what
+the [English] Department wants, but with the other I’m allowed to use a mix of “All Can Succeed!”
+[a scripted curriculum] that is short informational texts supplanted by readings [literature] from the
+class library I’ve developed.
+It is important to add that almost all the participants had classes arranged by academic ability,
+but in no case was the classification based on exactly the same criteria. Sometimes it was a grade-
+level reading score based on various assessment systems, sometimes overall GPA, and most often
+a test score on various mandated tests. One participant had “low functioning” students in her ninth-
+grade “remedial English” class based on failing scores on a standardized state math examination.
+When Diana was asked why the curriculum committee of her school had chosen a particular
+semester long curriculum for all students, she responded:
+I never thought to ask why …. You know, I’m new at the school, so I’m just trying to juggle so many
+things that I was glad in a way that I was given the [scripted] curriculum … but, no, I don’t know
+why they chose Lyddie for the sophomores.
+One participant, Steve, explained that he based his curriculum on teaching for the state
+exam because he had to attain tenure within three years based on the Department of Educa-
+tion’s Measures of Student Learning Basics (MOSL) scores. In MOSL, Steve’s teaching ef-
+fectiveness is rated based 40% on “student learning” (as represented on state exams), and
+60% on “measures of teacher practice” (through school authorities’ classroom observations; see
+http://schools.nyc.gov/Offices/advance/). He summed up the situation succinctly and directly:
+You know raising the MOSL scores so I can keep my job is like a blind [person] searching for a black
+cat in a dark room. I just do whatever the fuck I have to—to get these kids to do well on the tests.
+Every class is a prep for the state exam. That’s not [me] being totally selfish, because if I’m out, then
+who will they get next year to teach them?
+It is important to note that Steve was only one of a handful of participants throughout the study
+who even mentioned MOSL, and those few who mentioned it were not as concerned as they felt
+sure that the 60% measure of teaching practice would be based on a history of positive supervisor
+evaluations which would grant them tenure. With MOSL as with various curricular mandates,
+each participant was teaching under radically different interpretations of standards, with different
+demands and accountabilities placed upon them, and with varying levels of accountability.
+Creativity
+As the data was coded, it became clear to the PI that there were three categories or “mental
+constructs” (Kelly, 1963) by which the participants understood the ELA curriculum.
+1. Pedagogies. The techniques of teaching and learning that were used to present ELA
+content to their students (graphic organizers, peer editing, popcorn reading, think-pair-
+share) (Table 2).
+220
+COSTIGAN
+2. Concepts. The overarching ideas, themes, or mental constructs by that ELA is organized,
+differentiated, and understood (Kelly, 1963). These could be (a) thematic (The American
+Dream, Explorer Unit, Patriarchal Society), (b) genres (short story, drama, poetry); (c)
+elements of reading (finding theme, point of view, independent reading); or, (d) elements
+of writing (argumentation, citing evidence, literary essay). (Table 3)
+3. Literature. The texts that were thought worthy of presenting to their class (A Street Car
+Named Desire, The Naked Truth, “The Nymph’s Reply to the Shepherd”) (Table 4)
+Although some categories overlapped—for instance Raleigh’s “The Nymph’s Reply to
+the Shepherd occurred in a poetry unit—this is not how the participants listed their curricula
+(Table 5). They chose to focus their units and their teaching on one of the above categories on
+only infrequently combined categories. That is, Noor, the teacher of “Shepherd” poem could
+conceive of teaching this poem in several possible ways:
+1. A short 1 or 2 day unit of teaching this particular poem (this is what she did);
+2. As teaching a 3 day unit on the three “Shepherd” poems, Marlowe’s original poem and
+Donne and Raleigh’s variations on Marlowe’s poem (or several other variations on the
+poem by modern poets);
+3. As a thematic unit on the pastoral poetic tradition, whether as literature in translation or
+not;
+4. As a thematic unit on love, or as a gender based expression of love (some critics think
+that the male speaker/suitor in Marlow’s poem is addressing another male); or,
+5. As an example of a poem of persuasion (Koch, 1990, pp. 224–225)
+However, this is not how this participant, or any participant, conceived of their curricula. With
+few exceptions, they taught either based on (a) pedagogies, or (b) ELA content and themes, or (c)
+individual works of literature. The participants did not present curricular units as organized by
+a theme, overarching concept, or theoretical framework (Smagorinsky, 2007; Costigan, 2008a).
+They created curricula that addressed one pedagogy or way of knowing, one ELA concept, or one
+work of literature (Table 5). These were not presented as conceptual units (Smagorinsky, 2007).
+It is worth noting, that from the perspective of the critical traditions in the study of English as
+found in college bulletins, there are several categories that are not present in these participants’
+responses: (a) Literary periods (Romantic Poetry, The Modern Novel, Contemporary Drama),
+(b) cultural themes (Women’s Literature, Queer Studies, Post-Colonial Literature), or (c) literary
+theory (New Critical Approaches, Reader-Response Criticism) (Eagelton, 2008).
+The participants’ creation of a singular focused curriculum, however, is not through inspiration,
+nor is it casual, nor is it automatic; rather, it is a careful and complex process. It is fair to say,
+paradoxically, that the higher level of curricular mandates the more creativity and construction of
+the curriculum was required. Thus, mandates that are designed for high conformity result in the
+very opposite of standardization and conformity as they require a creative, individualistic, and
+even idiosyncratic response.
+Manny, in Table 5.1 is one of the few participant teachers to combine a pedagogically-based
+unit with a literature based unit (A Long Walk to Water and notice and note). Notice and note
+is a term for close reading, a technique that is perceived to be demanded by CCSS in reading
+informational texts (Beers & Probst, 2012). As this Table 5.1 indicates, he chose to base almost
+the entire semester on this novel-based unit, but broke the weeks down to 3 weeks of variously
+EDUCATIONAL STUDIES
+221
+defined literary elements (notice and note, character traits, inferences). Such combining of ele-
+ments, again, was rare. This table indicates that Manny is trying to integrate what he or school
+authorities interpret as effective for the CCSS’s apparent demand for developing skills in reading
+informational texts. This is coupled with his personal and professional interest in two particular
+short stories.
+The curricula that teachers created was creative, individual, and idiosyncratic because even
+when participants were teaching under high levels of supervision and accountability, they still
+had individually interpret the curricular mandates. They still had to create a curriculum. Even
+scripted lessons did not just get taught. Stephanie was mandated to teach Walter Dean Meyer’s
+Monster, a young adult novel she considers “a great book.” However, Stephanie explains her
+difficulties with a scripted program she is mandated to use:
+Stephanie: I can’t just teach what I want. I have to tweak it all the time. Like teaching Monster
+according to [a scripted program], that is really difficult because [in the novel] some is written like a
+movie script and some like a narrative and this is way too difficult for my low level ninth graders to
+keep shifting the point of view.
+PI: So, how do you do it?
+Stephanie: Well, ah, first I have to figure out what they want me to do, then I have to interpret how I
+can do this with my kids, and you know, it’s difficult to do.
+PI: How so?
+Stephanie: If I only had to face Monster with my low level kids, bad enough, I’d figure out how to do
+it, but it’s like there’s an extra mountain there and I have to link it all up with the [Advance!] program,
+how they want me to do it step by step.
+Further discussion with Stephanie revealed that the Advance! program was not designed for
+a classroom that included students with learning disabilities, many with IEPs who required the
+presence of a paraprofessional in the class for academic support. Thus, the participants under
+the highest levels of accountability had to do more creative thinking to figure out how to teach
+content not of their own choosing, and to teaching it in ways they would not do so if given
+autonomy.
+The Internal and the External Curriculum
+All the participants came to their teaching with a deep and complex understanding of what is
+ELA or English, and that is that this is the teaching of literature. This is not, however, what they
+are asked to teach. A comparison of Tables 3 and 4 indicate that teaching the concepts of ELA is
+a much more significant part of their curricular thinking than teaching literature. Maria spoke of
+this conundrum in an early interview:
+All I have spent my time doing in college was reading literature. You know Virginia Wolf, multicul-
+tural literature, Shakespeare, and that’s what I thought I would be teaching. But now all this crazy
+stuff is coming at me. I have to constantly teach the argumentative essay, which I suppose is alright.
+But when I started teaching it, I used a five paragraph theme [as in college]. So I was blissfully figur-
+ing out to do this when my buddy teacher came in and said to me after he observed me, “You know,
+222
+COSTIGAN
+that makes sense from what you know, but here we have to do it in four paragraphs, so you’d better
+do it the way the AP wants and the way it’s found on the state exam.”
+Apparently the “internal” understanding of what comprises ELA, and the university-based
+understanding of what comprises ELA is not what these teacher participants are explicitly asked
+to teach. The participants’ internal curriculum does not match the external curriculum demanded
+of them.
+Students
+Although students were not a direct focus of this article, a theme that emerges is that the over-
+whelmingly white, working class and female participants understand that their urban students
+have different academic perceptions and expectations than they do (Feistritzer, 2001). They con-
+sistently report that they are trying to bridge the gap to understand and “reach” their students.
+The mandates they are under are generally seen as a factor that interferes with the difficult task
+of bridging the gap between the teachers’ ideas about the ELA curriculum and their students’
+willingness to accept it. Chandra explains this interference:
+It’s hard enough to try to reach the kids, to get them interested in it, to get them to like reading and
+writing—like I do. Now I have the assistant principal coming down on me about having target samples
+of student work in their portfolios for when the district [supervisors] come in. And that’s all they care
+about.
+Ivana also explains this phenomenon:
+Missing is if the kids like reading, if I can get them to read. They hate reading, and I think it’s the way
+they’ve been taught it in school that makes them hate it. They hate the literature journals I have to
+make them do according to the [school’s mandated] format. They hate reading 10 books a semester.
+But that’s what I have to do. I’m asked to teach in a way that makes them hate reading.
+Nevertheless, it seems clear that both teachers and school authorities are confused about what
+CCSS and other mandates ask them to do, and that in response both authorities and teachers
+create individualistic and idiosyncratic curricular responses to those actual or perceived demands.
+Ultimately this process of addressing mandates hinders an already difficult process of reaching
+their students.
+DISCUSSION
+The experience of these participants is similar to the explanation that Ravitch (2000, 2013b),
+among others, gives explaining why attempts at educational reform fail, despite the popular
+and political power of the mythology of educational reform: (a) Mandates are imposed by
+non-teaching authorities without consideration of the actual situations of teachers; (b) the
+EDUCATIONAL STUDIES
+223
+mandates are hard to understand, hard to interpret, and are easily misunderstood because they are
+counter-intuitive and disruptive of teachers’ craft knowledge; and (c) the mandates themselves
+may be impossible to implement as given the actual ecology of the ELA classroom (Fleischer &
+Fox, 2004; Kaufman, et al., 2002; Smagorinsky, Lakly, & Johnson, 2002).
+This study, however, finds that something more radical is happening. The very substance and
+nature of the ELA curriculum has been altered to something that is not recognized by the partici-
+pants essentially as English. The only way the participants can implement the literature curricula
+they know is to find small pockets of time in their mandated schedule to teach it. The rest of the
+time is teaching a curriculum that is strange, counterintuitive, confusing, disheartening, and inef-
+fective. Close reading is not used in any way which is advocated in New Criticism texts (Eagelton,
+2008); aesthetic transactions with literature are seen as prohibited; the so-called argumentative
+writing that students produce is of a style not found in a newspaper, magazine, or blog post; and,
+writing is done in in forms and by processes which authors do not use in the real world (Costigan,
+2008a).
+The reason for such an unusual curriculum need not be mysterious at all. The mandates the
+participants experience come from educational reforms which are focused not on the teaching of
+English as English, but the teaching of English as a means for so-called college and workplace
+readiness (CCSSI, 2014). The development of ELA reading and writing competencies, as defined
+by MLA or NCTE, is of no concern to educational reformers who come from the corporate world
+(Costigan, 2014a). The notion of English as the aesthetic appreciation of works of literature,
+or as engagement with authentic writing processes to create genuine writing artifacts, is of no
+concern of the Bill and Melinda Gates Foundation and David Coleman who have created, sponsor,
+and promulgate CCSS, nor has it been on the agenda of the recent United State secretaries of
+education, nor is it a concern of the new ESSA, nor of state governors and mayors who currently
+privatizing public education in through advancing charter schools (Network for Public Education,
+2016).
+This study has, of necessity, limited its focus to teachers, not students. Nevertheless, the ef-
+fects of educational reform mandates on students is a primary concern of the participants. The
+participants are concerned that the curricular mandates are detrimental to their students in several
+ways, as is shown in particular in Mary’s narratives at the beginning of the Data Analysis section:
+First, curricular mandates prohibit the participants from creating a personalized and meaningful
+curriculum for their students; second, the curriculum bores the students and creates resistances to
+English; and third, students unfairly do not experience the true literature curriculum (see MLA,
+2008). Students only read for “textual evidence” in short samples of text which is, as Mary states,
+“like teaching kids like the foundations of reading, or something. It’s not English!”
+Considering that these students are from communities which are urban, poor or working poor,
+non-native English speaking, immigrant, or of color, an issue arises which was not originally a
+direct part of this research; namely, that as is typical across the United States, these participants
+come from very different residential neighborhoods than their students. Unlike their students, the
+participants typically live in more residential or suburban neighborhoods, consider themselves
+working or middle class, are native-born, and are native English speakers (Colangelo, 2009;
+Queens County Borough, 2016; Queens Public Library, undated). This cultural and economic
+discontinuity, and the issues that arise from it, are an important strand of educational research
+because many studies show that teachers want to teach, and are only comfortable teaching,
+students similar to themselves (Wideen, Mayer-Smith, & Moon, 1998; Feistritzer, 2001).
+224
+COSTIGAN
+The participants in this study are obviously concerned with the ELA curriculum as an objec-
+tive curriculum; that is, teaching literature as a presentation of human issues and human values.
+However, previous studies with this specific population of participants have documented the dis-
+connect between these participant-teachers who value school as a means for social advancement,
+and their students who often are disengaged form the formal schooling they experience. In other
+words, research shows that this population of participants struggles to reach students who are
+different than they are (Costigan, 2004, 2005a, 2005b, 2008b). Given the disconnect between the
+home communities of the participants and the home communities of their students, how to bridge
+such gaps is an important consideration for further investigation.
+Teaching for equity is one of the key components in the mission statement of the school of
+education in which the participants are enrolled, but this is not expressed in any of the data other
+than their attempt to engage students academically in the best and most effective ways possible.
+If the participants could develop a curriculum that they thought was meaningful, beneficial, and
+effective for their students, there could be hope that they could begin building bridges between
+their home cultures and their students’ home cultures to address the manifest social and economic
+disadvantages presented in local schools. What the myriad and ever changing mandated curricula
+do is to prohibit the time and energy which can be applied to building these bridges. It is an integral
+conceptual framework of all educational reforms that they are designed to be valueless. This
+assumes that, through the imposition of mandates, standards, and rigorous tests, issues of class,
+economic background, cultural capital, gender, sexuality, access to resources, and the discourse of
+the home communities, simply do not matter (Costigan, 2014a). The educational reform culture
+not only prohibits the teaching of the content and pedagogy of English, it also prohibits teachers
+exploring it as an agency of equity and social justice.
+This disconnect between the goals of reformers and their reforms and the craft knowledge
+of the communities on whom they are imposed is a longstanding phenomenon in all reform
+movements, whether the reforms are social, economic, geographical, agricultural, or educational
+(Jacobs, 1961; Scott, 1998). In a study of local educational reforms in nineteenth and twentieth
+centuries, Katz explains:
+We still have to see a movement driven by a desire to bring a joy to the life of the individual, to
+enrich experience solely for the purpose of making life more full and lovely. The goals of [reform]
+movements, quite to the contrary has been extrinsic; they have stressed the needs of society and
+the economy. They have also been utilitarian, stressing the concrete value of schooling to the
+individual … Goals have been formulated with scant regard to the indigenous culture, even the
+aspirations, of the working-class groups to be reformed … The reformers have determined to foist
+their innovations on the community, if necessary by force. (Katz, 1968, p. 214).
+When teachers have to address curricular demands designed for the utilitarian needs of so-
+called college and career readiness, the reforms ignore the professional understandings of the
+people on whom reforms are imposed. In turn, the reforms themselves violate the very purposes of
+ELA studies as defined by the ELA profession, particularly in the objectives of enhancing student
+engagement with the artistic creations of literature, with enhancing the imaginative expressions
+of writing, and with the development of critical perspectives about the ethical issues of our time
+(MLA, 2008, p. 2).
+EDUCATIONAL STUDIES
+225
+As for the content domain of ELA, to their regret, what they are now teaching in their class-
+rooms has become a violation of English. This occurs through the seemingly deliberate process
+of removing all critical thinking, personal engagement, and adherence to the traditions of ELA
+content and pedagogy, and replacing these values and objectives with an emphasis on a deval-
+ued, decontextualized, and uncritical reiteration of prepackaged information and facts, without
+any meaningful engagement with the important issues they represent. This is precisely the cur-
+riculum that the political and corporate elite have created through their powerful mythology of
+educational reform. It is an English curriculum devoid of all substance and meaning. For the
+preservice and beginning teachers in this study, this is a curriculum which is not English.

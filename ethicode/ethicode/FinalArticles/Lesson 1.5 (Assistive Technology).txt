@@ -1,0 +1,130 @@
+CSCL: Unit 1 Grade 5
+Lesson 1.5: Assistive Technology
+Objectives
+In this lesson, students will:
+❖ Gain an awareness of people with
+different abilities and disabilities and
+how it affects their ability to use a
+standard computer
+❖ Learn about assistive technologies
+and their applications to help
+students with different needs use
+standard computers
+Preparation
+❏ Computer with an internet
+connection ( teacher only)
+❏ Projector and speakers for video
+Agenda
+1. Different Abilities
+2. Assistive Technology
+3. Student Activity: Who
+Uses which Assistive
+Technology
+4. Class Discussion and
+Wrap Up
+5 mins
+15 mins
+20 mins
+10 mins
+Resources & Links
+❏ Reference video covering a
+multitude of assistive
+technologies:
+https://tinyurl.com/y2s9fqwp
+❏ Video link for CC
+https://tinyurl.com/ycgaoq2t
+© Code for fun
+Released under the Creative Commons By Attribution license
+1
+CSCL: Unit 1 Grade 5
+1. Different Abilities
+Lead students in a discussion about people with disabilities:
+Many people have a wide range of abilities and disabilities. Some people have disabilities that
+you can see right away. For example, some people use a wheelchair to help them get around.
+Can you think of other disabilities people have?
+●
+People with hearing problems might need to use a hearing aid.
+●
+People who have trouble seeing might need to use a cane or a guide dog.
+But some people have disabilities that you can’t see right away. Some kids have learning
+disabilities like dyslexia. People with dyslexia often have a hard time with words and reading.
+2. Assistive Technology
+Because many people have different abilities, not everyone can use the standard
+computer. However, with a little extra hardware or software, computers and the
+Internet can be accessible to people with a wide range of abilities.
+Assistive Technology is any device or software that is customized to make life easier for a
+person who has a disability or special needs. Examples of assistive technology:
+❏ A keyboard with large keys for people with low vision
+❏ Software that converts speech to text
+❏ A printer that converts a website content, for example,
+into a braille print out so a blind person can read it on
+their own (explain what braille is ).
+© Code for fun
+Released under the Creative Commons By Attribution license
+2
+CSCL: Unit 1 Grade 5
+❏ Software that reverses the screen to light text on to a dark background for people that
+are very sensitive to light.
+Image source: https://uxmovement.com/content/when-to-use-white-text-on-a-dark-background/
+Let’s take a look at an example of a simple assistive computing technology for people with
+hearing impairment:
+Play a few seconds of the following video:
+https://tinyurl.com/ycgaoq2t
+Prompt students to name some people who might not be able to know what the video is saying.
+Possible answers could be people that don’t understand English, people that are too young to
+understand and of course people who cannot hear.
+Then prompt students to suggest changes to the video that would help people with hearing
+impairments.
+Replay the video, but this time turn on closed caption (CC) by clicking on the CC icon at the
+bottom of the screen. Point out and explain this feature to students.
+Closed captioning (CC) refers to the text version of the spoken words that accompany videos or
+movies so that deaf and hard of hearing people can also enjoy watching movies.
+3. Student Activity: Who Uses Which Assistive Technology
+Explain the activity and distribute the activity worksheet to students. Allow time to go
+over the answers.
+4. Class Discussion and Wrap Up
+Discussion Points
+●
+What are some examples of how software and hardware can help people with certain
+disabilities?
+●
+Why is it important to have assistive technology?
+●
+In which ways do you think technology will continue to improve to help more people
+with disabilities?
+© Code for fun
+Released under the Creative Commons By Attribution license
+3
+CSCL: Unit 1 Grade 5
+Student Activity: Who Uses Which Assistive Technology
+A group of students are able to use a computer with some help from assistive technology.
+Check out these assistive technology devices and software.
+Can you figure out which device or software each student uses?
+Image source: lucykeyboard.com
+Image source: aliexpress.com
+A keyboard on a computer screen that
+A one handed keyboard
+can be operated by a laser pointer attached
+to a pair of glasses.
+Screen reader software to read the content of a computer
+screen to the user.
+Image source: https://www.eduinreviewblog.com/
+© Code for fun
+Released under the Creative Commons By Attribution license
+4
+CSCL: Unit 1 Grade 5
+(Fill in the letter next to each name)
+1.
+Mateo broke his right arm and will have to be in a cast for 2 months.
+_________________
+2. Lucy has trouble using her hands and is not able to speak very clearly.
+________________
+3. Nidhi can’t see very well, even with eye glasses.
+___________________
+Francisco loves watching videos, but can’t hear. Can you think of an assistive technology
+that would help him enjoy his video watching?
+__________________________________________________________________________
+__________________________________________________________________________
+© Code for fun
+Released under the Creative Commons By Attribution license
+5

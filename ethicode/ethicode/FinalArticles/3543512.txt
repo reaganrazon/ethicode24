@@ -1,0 +1,1328 @@
+50
+Early Findings on the Impacts of Developing Evidence-Based
+Practice Briefs on Middle School Computer Science Teachers
+MONICA M. MCGILL and ANNI REINKING, CSEdResearch.org, USA
+Problem. K-12 teachers face many challenges when teaching a new subject like computer science (CS). They
+are often far removed from the research being conducted to identify evidence-driven solutions to these chal-
+lenges. Likewise, researchers are also often removed from the challenges of classroom practices that teachers
+face when teaching CS.
+Research Questions. To create a collaborative process for teachers and researchers outside of a research
+practice partnership, we piloted a facilitated process in which CS middle school teachers and CS education re-
+searchers collaboratively created CS teacher practice briefs. Our research question for this study was: In what
+ways are teachers impacted by the process of creating teacher practice briefs in collaboration with researchers?
+Methodology. We conducted a qualitative study, using a semi-structured interview protocol to interview
+five teachers and three researchers to gain an understanding of how this process impacted the participants. We
+used thematic content analysis to identify several subthemes across our pre-established themes: motivation
+for teachers to participate, impacts on teachers, perceived impacts on students, and impacts on researchers.
+Findings. We found that the impact on teachers mirrored impacts found on teachers who engage in Re-
+search Practice Partnerships, including increased self-efficacy, expanded professional networks, and changed
+classroom practices.
+Implications. By bringing researchers and educators together with a clear focus on equity-based prob-
+lems of practice in CS education, the results display a multitude of positive impacts. Teachers indicate that
+they are are positively impacted, researchers develop a clear understanding of realistic practices, and students
+are peripherally impacted through changed practices in the classroom. Therefore, the most significant con-
+tribution to advance the disciplinary understanding is the potential for this new process to decrease the gap
+between research and practice.
+CCS Concepts: • Social and professional topics → Computing education; Computing education pro-
+grams; Computer science education;
+Additional Key Words and Phrases: Qualitative, teacher practice briefs, middle school, teachers, challenges,
+computer science, computational thinking, researchers, research and practice, practice, impacts
+ACM Reference format:
+Monica M. McGill and Anni Reinking. 2022. Early Findings on the Impacts of Developing Evidence-Based
+Practice Briefs on Middle School Computer Science Teachers. ACM Trans. Comput. Educ. 22, 4, Article 50
+(December 2022), 29 pages.
+https://doi.org/10.1145/3543512
+This material is based upon work supported by a Google Computer Science Education Research (CS-ER) grant.
+Authors’ address: M. M. McGill and A. Reinking, CSEdResearch.org, Peoria, IL 61615; emails: {monica, anni}@csedresearch.
+org.
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee
+provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and
+the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored.
+Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires
+prior specific permission and/or a fee. Request permissions from permissions@acm.org.
+© 2022 Association for Computing Machinery.
+1946-6226/2022/12-ART50 $15.00
+https://doi.org/10.1145/3543512
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:2
+M. M. McGill and A. Reinking
+1
+INTRODUCTION
+Although practitioners (e.g., teachers, counselors, administrators) and researchers are both out-
+come focused and interested in increasing academic achievement among students, the gulf be-
+tween the two has often been (and still is) very wide [66]. Typically, when research concludes, the
+findings are disseminated to other researchers and are often out of practitioners’ reach. Further,
+research is often conducted in silos—it may not meet the critical problems and challenges that
+practitioners face or adequately consider the context of the practitioners’ work [34, 52].
+Collaborations between researchers and practitioners (including K-12 teachers) is a rapidly
+growing way to bridge the gap between classroom reality and research studies or theory. One prac-
+tice to connect teachers and researchers is known as Research Practice Partnerships (RPPs). In
+the past, RPPs have primarily focused on bridging the research and practice gap in K-12 computer
+science (CS) education by connecting CS teachers and CS researchers. Although the term practi-
+tioner in RPPs implies an array of practice-organization roles [38], in the context of partnerships,
+teachers are often regarded as a special population because they occupy a dual space as both the
+recipient of project interventions and a critical voice within the project. Teachers invested in RPPs
+can participate in the design of classroom materials or take on leadership roles within the RPP,
+acting as conduits to their colleagues and representing the classroom perspective.
+Previous research has shown that collaboration between researchers and practitioners (such as
+RPPs) can have specific impacts, including positive changes in teachers’ self-efficacy and a sense
+of ownership by asking and answering questions that matter to their immediate and long-term
+practice as an educator [36, 44]. Additionally, outcomes of RPPs have been shown to improve the
+quality of teaching, including improvement of student engagement and learning, have replicabil-
+ity to scale new teaching approaches, expand professional learning communities/networks
+(PLC/N), and build bi-directional knowledge between researchers and practitioners [13, 63]. Fi-
+nally, researchers’ ability to expand their knowledge of current practices is essential to future
+researchers; therefore, in RPPs researchers are able to gain a deeper understanding of school con-
+texts, including policies and procedures [38, 56].
+Although RPPs have been shown to have positive impacts, RPPs are multi-year projects that can
+require significant resources and time commitments from all involved parties. Even when RPPs are
+able to receive appropriate levels of funding, the intensity and longevity of RPPs can be a barrier
+for practitioners to participate. Thus, the meaningful process of researchers collaborating with
+teachers to achieve a shared goal of improving classroom practices (as well as the benefits from
+such participation) are limited to only a small percentage of teachers.
+To share research with teachers in an RPP, Bell and Rhinehart created a framework to engage
+both researchers and practitioners in collaboratively creating practice briefs [7]. Defined as a con-
+densed document designed to support teachers with research-based information, practice briefs
+are often focused on teachers’ problems of practice, particularly as they relate to equity [7]. As
+further defined by Hatch-Tocaimaza and Hu, a practice brief “. . .is an article that provides em-
+pirically based, conceptually coherent recommendations and guidance using the best and most
+current research to tackle a specific, urgent challenge in everyday language that practitioners can
+use in immediate, real-world scenarios they face every day” [27].
+Given the impacts of RPPs on teachers, our overarching research question for our pilot study
+was: In what ways are teachers impacted by the process of creating teacher practice briefs in collabo-
+ration with researchers? Our goal was to use the Bell and Rhinehart framework outside of an RPP
+to facilitate teacher-researcher collaborations and then to determine if there are similar or differ-
+ent impacts on teachers as those found in RPPs. We primarily focused specifically on the impact
+that the development of Teacher Practice Briefs (TPBs) has on teachers, but also the tangential
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:3
+impact on researchers and students. We engaged in a qualitative study that used a thematic con-
+tent analysis of data obtained through semi-structured interviews.
+In this article, we provide a description of the research literature in Section 2. We provide
+an overview of our research design and methodology in Section 3. We present our results in
+Section 4, followed by a Discussion in Section 5.
+2
+BACKGROUND AND CONTEXT
+In this section, we provide the background and context for our study, including collaborative ac-
+tivities to bridge the researcher-teacher divide, impacts of researcher+practitioner collaborations,
+general challenges of these collaborations, practitioner motivation to collaborate with researchers,
+and the importance of practitioner self-efficacy. We also dedicate a section to equity, since this is
+a primary goal of the practice briefs.
+2.1
+Collaborative Activities to Bridge the Researcher-Teacher Divide
+Research shows multiple ways this problem of division has been addressed, specifically through
+school-university partnerships, teacher researcher communities, researcher-teacher roles, and
+coaching.
+2.1.1
+School-University Partnerships. Partnerships between schools and universities are one
+way to connect practitioner and researchers to reach a common goal of researching and then dis-
+seminating best practices. This collaborative work needs to focus on full participation of practition-
+ers. Their full participation can mitigate the chasm and ensure that practitioners’ voices, contexts,
+and experiences are considered. Additionally, researchers sharing their knowledge of reading and
+leveraging research with practitioners could impact future instructional decisions within a par-
+ticular context [14, 42, 51, 54, 64]. As a way to mitigate the problem of connecting research to
+practice, School-University Partnerships, similar to Professional Development Schools (PDSs),
+were established over 40 years ago to solve problems that arise from the deep separation between
+research and practice [10, 12, 24, 57].
+In one study, researchers utilized a PDS model to “effectively support teacher preparation,
+teacher professional development, and research to meet the needs of at-risk students” [67, web].
+Through these partnerships between a school and university, teachers are able to take ownership
+of their learning and growth, while also engaging with researchers to provide evidence-based in-
+formation for future use in school settings. The National Association for Professional Development
+Schools identifies five Essential Elements of a PDS [11]. The five elements are as follows:
+— A comprehensive mission that is broader in its outreach and scope than the mission of any
+partner and that furthers the education profession and its responsibility to advance equity
+within schools and, by potential extension, the broader community.
+— A school–university culture committed to the preparation of future educators that embraces
+their active engagement in the school community.
+— Ongoing and reciprocal professional development for all participants guided by need.
+— A shared commitment to innovative and reflective practice by all participants.
+— Engagement in and public sharing of the results of deliberate investigations of practice by
+respective participants.
+2.1.2
+Teacher–Researcher Communities. Teacher–researcher communities have been used by
+several researchers as a way to create interdisciplinary curricula, investigate student learning, and
+overall develop professional learning networks (PLNs) [25, 33, 35, 46, 61]. One way to con-
+ceptualize teacher–researcher communities is through the implementation of communities of
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:4
+M. M. McGill and A. Reinking
+research practices (CoRPs). A community of practice, within the context of a teacher–researcher
+community, is based on the community of practices that are often embedded into the professional
+practice of scientists. Essentially, it is a “small group of scientists who meet regularly to help each
+other and promote good practices” [62, p. 1]. In the context of education, a teacher–researcher
+community, or community of research practices, is a group of teachers working with researchers
+to investigate and eventually implement best practices.
+More recently, teacher-researcher partnerships have been studied as a way to foster teachers’
+professional learning. The goal of this type of partnership is to foster “autonomous and expert
+professional learning among teachers in order to implement change” [37, p. 625]. In one specific
+study, researchers and teachers focused on researching a change in science classroom practices,
+specifically implementing practice-based learning. As part of this process, researchers acknowl-
+edged that “teacher and researchers should trust that all ideas and concerns will be acknowledged
+and that there will be room for the free generation of ideas and positive feedback on all ideas” [37,
+web]. While this research did not focus specifically on researching the partnership, but rather the
+impact on students, the concepts shared in the research are important for this collaborative work
+to continually grow.
+2.1.3
+Teacher as Researcher Role. Not only is there the teacher and researcher model, but there
+is also the researcher teacher role in which one person serves in both capacities simultaneously [4,
+33]. Ideally, the person filling this dual role uses their classroom experiences as a teacher to conduct
+research around topics that may be of importance to other teachers and researchers. Typically,
+an individual filling this role has “. . .a primary appointment in a university context and use their
+university teaching (Duckworth, 1987) or seek out experiences teaching in PK-12 schools (Lampert,
+2001) to use as primary data for their work.” [33, p. 77] This type of work, where a teacher takes on
+the role of a researcher in their classroom, mirrors what is known as action research and can be very
+beneficial. In general, action research is the process where participants (i.e., teachers) “examine
+their own educational practice systematically and carefully” [21].
+2.1.4
+Coaching. Finally, coaching is another form of teacher-researcher collaboration and can
+take many forms. However, in literature, coaching is presented as mostly uni-directional with
+(1) researchers coaching teachers on instructional practices involving new curricula and pedagogi-
+cal practices and (2) other more experienced teachers coaching teachers with less experience [6, 48].
+In the coaching process, teachers identify their own goals for improving their practice. Then, teach-
+ers often fill the role of researcher/evaluator in their own classrooms while coached by researchers
+and other teachers to help them achieve their self-identified goals.
+2.2
+Factors that Influence Collaborations’ Success
+While there are positive impacts of partnerships between researchers and practitioners, there are
+also challenges that can influence the process and end goal. Some of the challenges focus on differ-
+ing priorities, conflicting visions and approaches, and power imbalances [8–10, 17, 23, 32, 41, 60, 66].
+Being aware of these challenges, as both the researcher and practitioner, are important in moving
+forward with collaborations of this nature.
+2.2.1
+Differing Priorities. When researchers and practitioners collaborate there are often dif-
+ferent, sometimes conflicting, priorities, which can impact the overall end goals. Researchers are
+often focused on addressing gaps in existing theory or research, while teachers are more focused
+on immediate problems of practice in the classroom [14]. However, as teacher–researcher part-
+nerships continue to become more prevalent, it has been found there are shared priorities with
+sometimes different paths to that end goal [37].
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:5
+2.2.2
+Power Imbalances. Another challenge for researcher and practitioner collaborations are
+power imbalances, which often occur based on an implicit perception of a hierarchy between
+researchers and practitioners. This imbalance is often referred to as a power hierarchy and can
+inhibit reaching overall project goals [8, 9, 17, 23, 30, 32, 41]. This is further complicated by the
+complexities of communication between researchers and practitioners [66], including issues of
+shared language or content-specific jargon [56].
+Knowledge sharing between researchers and practitioners is often difficult, including sharing
+knowledge that is gained from experiences and sharing knowledge that connects research findings
+to lessons learned [55, 56]. Equitable knowledge sharing that includes the practitioner voice in the
+overall partnership is often blocked. The difficulty of equitably sharing both the researcher and
+teacher voice is focused on the equitable dissemination for future use in practice and research.
+The artifacts from the partnership are often shared at academic conferences. However, due to
+lack of time and monetary resources, practitioners are often unable to commit or attend such
+dissemination platforms [23].
+2.2.3
+Trust. Positive impacts often rest on the firm foundation of trust—a key element of a
+successful collaboration. Building and maintaining trust among and between practitioners and re-
+searchers can require significant time and commitment [10, 17, 31, 32, 66], which can be difficult
+when time is a known burden [47]. Reliance on roles and responsibilities that are established up-
+front help ensure that proper boundaries are set and trust is maintained. This trust is built upon
+the discourse around the problems of practice, which the parties within the partnership seek to
+solve mutually and for similar interests [34].
+In the context of RPP-specific collaborations, once trust is established, other important tenets
+need to be developed. These include establishing equitable norms to follow while engaging in the
+group process [15, 68], creating rules of engagement to help lay the groundwork of expectations,
+establishing clear roles and responsibilities [41], collaboratively identifying the pressing problems
+of practice [68], establishing shared language [22, 56], and developing ways to ensure the work is
+shared equitably [34, 47].
+Developing trust and the other norms, as well as paying close attention to the components of a
+successful collaborative researcher–practitioner experience, is important because researchers and
+practitioners often have diverse roles. Researchers can provide research plans, take a leadership
+role in structuring the shared learning, establish roles and responsibilities, support teachers’ devel-
+opment of pedagogical content knowledge through balancing researcher and practitioner needs,
+collaborate with district leaders, put effort into being of service to practitioners, and provide ev-
+idence to support a strong model [19, 31, 58]. Additionally, researchers may act as knowledge
+brokers, connecting practitioners to other knowledge in real time as needed [16]. Researchers also
+often bring connections to external supports for implementation, evaluation, and dissemination
+of findings [15, 20, 63].
+2.3
+Known Impacts of Researcher and Teacher Collaborations
+By the very nature of collaborative relationships, the researchers and practitioners work is a more
+equitable and ethical way since they leverage ideas, assets, and “. . .community stakeholder ex-
+periences and perspectives to inform research questions, methods, and meaning-making” [9, p.
+1], [8, 31]. Engaging in equitable and ethical ways of working together, the group has the poten-
+tial to discover interventions that have a higher adoption rate due to their usability and relevance
+in the local context [9, 13, 31, 34, 63, 69] since the rigorous research often provides better assur-
+ance that the new practices solve the targeted problem and are institutionalized [9, 15, 63]. This
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:6
+M. M. McGill and A. Reinking
+Table 1. Known Impacts of RPPs on Teachers and Researchers as Indicated in Previously
+Published RPP Literature
+Group
+Impacts
+Teachers
+Confidence [20, 36, 63]
+Knowledge and awareness of important advances in scholarship [13, 20, 63]
+Creating opportunities to develop and apply new knowledge [13]
+Access to usable research [63]
+Self-efficacy [36]
+Classroom practices [63]
+Leadership capability related to STEM improvement [63]
+Engagement in professional learning [63]
+Sense of ownership [36]
+Personal Identity [22]
+Professional Renewal [22]
+Affirmation for long-term collaboration [22]
+Expanded professional communities [63]
+Researchers
+Deepen their understanding of realities of school contexts and practices
+[38, 63]
+Expanded professional communities [63]
+Increased confidence in the value of their work [63]
+Increased confidence in the outcome of their research [38]
+Personal Identity [22]
+Receipt of yearly feedback to support improvement [31]
+Professional Renewal [22]
+collaborative partnership also provides the platform for participants to “. . .self-reflect about how
+their own expectations influenced the RPP [which] has resulted in an honest description of the
+challenges that must be negotiated” [17, p. 10], including the challenges that district leaders face
+“. . .when attempting to make system wide improvements in complex education settings, particu-
+larly in high-needs priority schools” [31, p. 26].
+The outcomes from all of these positive impacts include improved academic achievement among
+students [13, 58, 63], improved student engagement [63], and improved metrics for other social-
+emotional factors that impact learning [63]. The improved academic impact is primarily attributed
+to the networked community of the RPP accessing research and interpreting the data, which in-
+evitably impacts decision making in the learning community [10, 13, 31]. Further, tools and re-
+sources for improving curriculum can be provided and shared more widely [63] and this general-
+ized knowledge can extend beyond those involved in the RPP [38, 53]. The adaption of the continu-
+ous improvement model, as a whole, helps to ensure the continued use of “social resources” via con-
+tinued networking as well as the continued sharing of ideas, processes, materials, and tools [13, 38].
+In addition to the overall general benefits, researcher and practitioner partnerships have been
+shown to have a positive impact on individual researchers and teachers (see Table 1). Benefits
+to teachers include increased confidence and self-efficacy [20, 36, 63], improved classroom prac-
+tices [63], increased sense of ownership of research [36], and more awareness of advances in schol-
+arship to improve teaching [13, 20, 63]. Researchers also share in benefits, including a deeper un-
+derstanding of the realities of school contexts and practices [38, 63] and an increased confidence
+in the value of their work [63].
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:7
+2.4
+Practitioner Motivation to Understand Research
+It has been found that, overall, researchers are motivated by decreasing or closing gaps in existing
+research and theory [14], while practitioners’ motivation is twofold: knowledge sharing to future
+generations of the teaching profession and personal professional growth.
+Teachers’ motivation to engage in research or collaborative work is often centered in the knowl-
+edge sharing of best practices. This can occur through collaborative endeavors such as RPPs or it
+can be accomplished through practitioners mentoring a pre-service teaching during student teach-
+ing [65]. Overall, there is a research-based goal to provide knowledge and expertise to the next
+generation of educators [43, 65].
+Personal professional growth also motivates teachers to participate in research. Built into the
+fabric of the teaching profession is the valued process of continual reflection toward growth. There-
+fore, participating in professional growth activities, such as practitioner and researcher collabora-
+tions, is sought out by educators due to the identity most practitioners claim of life-long learn-
+ers [18, 28, 40]. Overall, teachers engaging in researcher and practitioner collaborations focused
+on research and future professional impact is often motivated by their own desire for professional
+growth [3].
+2.5
+Practitioner Self-Efficacy
+Engaging in professional learning has also been attributed to developing a teacher’s self-efficacy,
+which is a term coined by Bandura [5]. Self-efficacy, in the context of educators, describes a
+teacher’s confidence in their ability to complete a task or achieve a goal. It has been found that
+teacher self-efficacy is not linear, but rather develops over time with ebbs and flows depending on
+the availability of resources and collegiate relationships. Additionally, vicarious experiences can
+impact a practitioner’s self-efficacy [70]. Vicarious experiences can be anything observed, heard,
+or read, such as collaboration while developing research practice briefs.
+In one research study, researchers investigated the relationships between teacher self-efficacy
+and teacher effectiveness [59]. In this study, the researchers found that teacher self-efficacy has a
+positive association to teacher’s delivery of content, teacher’s role in facilitating peer learning, and
+teacher’s role in regulating students’ learning [59]. The researchers also found that collaboration
+is positively related to a teachers’ self-efficacy.
+2.6
+Equity
+As previously stated, the goals for RPPs, TPBs, CoRPs, and other similar practices focused on
+researcher and practitioner collaboration often lead to power imbalances between researchers and
+practitioners. These power imbalances can often result in the silencing of individuals. Therefore,
+the concept of equity within the partnership is not only a matter of ensuring everyone is able
+to share their voice, but it can also impact partnership goals focused on equity and inclusivity.
+Additionally, these partnerships introduce a multi-party problem, which is amplified when the
+practitioners and researchers have no or only a limited history of interactions [32] and have not
+been trained to work together [66].
+One study [26] focused on defining equity in the context of RPPs. In a collaborative effort be-
+tween K-12 administrators and university researchers across the state of California, equity was
+defined in the context of CS and RPPs. The definition developed by the group of professionals is
+as follows:
+Equity is accomplished when every student is provided with what they individually
+require to learn and succeed in fulfilling their personal, academic, and social advance-
+ment, and when success and achievement is not predicted by any demographic factor.
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:8
+M. M. McGill and A. Reinking
+This requires continually interrupting inequitable practices, examining biases, and cre-
+ating inclusive environments for all, while discovering and cultivating the unique gifts,
+talents, and interests that every student possesses. Equitable practices are based in the
+belief that every child’s educational experience should be rigorous and relevant, and
+that everyone is capable of learning. These beliefs require providing a learning envi-
+ronment that is safe and respects every student [26, p. 1].
+Grounding the collaborative work in this shared definition can impact the current and future
+progress of the partnership and research.
+Finally, entering the research and partnership with an open mindset is important because the
+research may bring to the forefront cultural gaps and differences, including those practices and
+policies that are inflexible, yet detrimental to the overall being of those impacted. Policies and
+practices that can be changed as a way to create an equitable environment for all individuals in a
+learning context may also be recognized through this process [17, 29, 32]. Overall, equity within
+various aspects of the research, including the students, can be addressed through research practi-
+tioner partnerships. However, as noted, there are often “. . .complex and interrelated problems of
+practice” [39, p. 6].
+3
+METHODOLOGY
+3.1
+Research Design Overview
+To answer our research question, In what ways are teachers impacted by the process of creating
+teacher practice briefs in collaboration with researchers?, we first conducted a literature review to de-
+termine if any published studies examined impacts of teachers engaging in the creation of teacher
+practice briefs. While there were several studies that were adjacent to this work, none of the evi-
+dence was clearly connected. Therefore, it was important for us to choose a research method that
+was centered on our inquiry-focused research question. We chose a qualitative approach to explore
+potential impacts based on a semi-structured interview (see Appendix A) and artifacts from the
+process. Specifically, we chose a utilization-focused qualitative research approach, which focuses
+on the process, from beginning to end, and the impact of the process on the intended users [50].
+In the case of this study, the intended users are researchers and teachers.
+Additionally, we used the Bell and Rhinehart Framework for Creating Teacher Practice Briefs,
+which is a stepwise method that provided structure for implementation. The framework defines
+important elements of the process, including:
+— Integrate a focus on equity throughout each tool.
+— Focus on a specific, broadly felt problem of educational practice.
+— Gather the best knowledge from both research and practice to help readers more fully understand
+each issue.
+— Highlight what people in different roles can do to address this problem of practice, providing con-
+text, actionable advice, strategies, and tools, all of which should connect to educators’ everyday
+work.
+— Suggest ways to take action with respect to the problem of practice by linking off to other tools,
+articles, websites, and resources.
+— Prompt further reflection and support discussion among colleagues [7].
+The framework documentation1 provides three parts: a description of how to launch a brief de-
+velopment initiative, a description of how to research and write the brief, and an example of a brief.
+1http://stemteachingtools.org/assets/landscapes/How-to-Develop-Practice-Brief-Initiative.pdf.
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:9
+Fig. 1. The Bell and Rhinehart Framework for developing teacher practice briefs. The framework was devel-
+oped for disseminating knowledge gained within an RPP. This work is provided for educational use under Cre-
+ative Commons Attribution NonCommercial ShareAlike 4.0 International license by the Research+Practice
+Collaboratory 2016.
+Launching a brief development initiative has several steps to prepare for the design, development,
+and dissemination of the brief, including the identification of teachers and researchers who will
+participate and of an editorial team for polishing the final product.
+The process engages both teachers and researchers working together to create the briefs. The
+Practice Brief Development Process is shown in Figure 1.
+While the process does not define who is engaged in the first step (Identify Problem of Practice),
+we chose to let the teachers define the problem in order to ensure their voice was heard early and
+remained prominent throughout the development process.
+3.2
+Study Participants or Data Sources
+In this section, we describe the researchers’ backgrounds that inform their approach to this study,
+the participants involved, and the researcher-participant relationship.
+3.3
+Researchers’ (Authors’) Reflexivity Statements
+Using the Bell and Rhinehart Framework, one of the authors of this article created the research
+design and multi-week plan for piloting this process and served as its facilitator. The author has
+a strong CS education research background with a particular focus on K-12 and pathways for
+broadening participation in computing. They have received formal training in and has conducted
+several qualitative studies. They particularly appreciate the nuances of qualitative studies and how
+they reveal underlying attitudes, behaviors, and impacts. The author is familiar with the impacts
+of researcher-practitioner initiatives, particularly with how they impact teachers. However, this
+was the first time they implemented this process, and they relied on their understanding of the
+literature and the Bell and Rhinehart Framework to guide her in the creation and implementation
+of the pilot. They were unsure how the process would be perceived by the researchers and teachers
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:10
+M. M. McGill and A. Reinking
+and whether or not the practice briefs would be meaningful to other teachers while also being
+based on the evidence. They were equally interested in learning about the impacts of the process
+on teachers, what they thought about the process, and how they thought the process could be
+improved in future iterations. Further, the author is a white woman who has teaching experience
+in post-secondary and adult education institutions and in industry and has conducted research
+across a broad range of diversity interventions.
+The other author was brought in during the data analysis phase of the study. They have a strong
+background in qualitative research. Supporting the work of the first author, they analyzed the data
+without having knowledge of or interacting with the participants. Supporting the experience of
+the first author, they have experience as an elementary classroom teacher, education professor in
+higher education, and action researcher embedding herself in the work of teachers in the field. Fi-
+nally, the author is a white woman who has focused her work on equity practices and transforming
+PK-12 classroom environments to be fully inclusive of all identities and intersectionalities.
+To help mitigate researcher limitations in data interpretation, data analysis was conducted by
+both researchers. More details are provided below in Section 3.6.
+3.4
+Participant Recruitment
+The study, including the recruitment process, received institutional review board (IRB) ap-
+proval from the facilitator’s institution. In addition to learning more about research, incentives
+for the study included a $1,000 stipend for participating teachers who completed the initiative and
+$850 for the researchers who engaged in the process.
+In this section, we describe the recruitment and participation selection processes.
+3.4.1
+Recruitment Process. To recruit participants, we worked with the Computer Science
+Teachers Association (CSTA) to create a screening questionnaire that informed teachers about
+the study and asked for key information, including the following:
+— Teachers’ demographic characteristics, years teaching middle school teaching, years teach-
+ing computer science in middle school, and the name and location of the school where the
+teacher currently teaches.
+— Three most important problems of practice that the teachers face in their classrooms when
+teaching computer science in our classroom.
+— Whether or not they had engaged in any research studies before
+— Whether or not they would be available to meet at a preset time each week for up to
+4 consecutive months (January through April).
+The screening questionnaire was emailed (December 2020) to all middle school teachers in the
+United States who taught CS or Computational Thinking (CT) and were CSTA members, with re-
+sponses requested within 2 weeks of receiving the email. From the initial emailed call, we received
+83 entries in total. Given that this was a pilot study that would be conducted virtually, we wanted
+to scope appropriately and therefore limited the number of problems of practice to three areas and
+decided to form three teams of two teachers and one researcher, each focused on one problem of
+practice.
+3.4.2
+Participant Selection. To choose the teachers who would participate in the study, and to
+identify the overarching problems of practice for each of the teacher groups, we first narrowed the
+list of teachers by removing those who had or potentially had conducted research in the past. We
+wanted to include teachers that were new to formal education research in order to study the impact
+of closing the gap between classroom educators and researchers. This left 43 teachers. Then, one
+entry was removed from a teacher who was not located in the United States, one duplicate entry,
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:11
+and two entries in which teachers indicated involvement with an RPP in computer science. This
+left 38 teachers from which to select for this study.
+Using the school name and location for each entry, the researcher identified the school demo-
+graphics for each teacher’s school, including whether or not it was a Title I school2 and composi-
+tion of the student body race/ethnicity. This information was added to the overall data spreadsheet.
+Included on the spreadsheet were the applicants’ identified problems of practice from the initial
+call for participation.
+The researcher shared the information with two staff members at CSTA to determine what
+problems of practice to target and which of the teachers expressed interest in these problems of
+practice. We carefully considered the phrasing of the problems of practice as posed by the teachers,
+which provided some indication as to their understanding of the problem and their interest in
+seeking a solution. Additionally, we considered our interest and goal in developing teacher practice
+briefs heavily rooted in equity. Through this process, we narrowed the applicant pool down to nine.
+Through discussions with CSTA, we chose the following three broad problems of practice as
+the focus of this work:
+— Meeting the needs of emergent bilingual/multilingual students learning English.
+— Recruiting for and retaining girls in CS classes.
+— Teaching in ways which attract and retain students identifying as members of marginalized
+groups.
+Of the remaining nine teachers, four were interested in addressing gender equity, three in equity
+of marginalized students, and three in instruction of English language learners.3 From these, we
+chose six based on their personal demographic and their school’s demographic information with
+an effort made to have a diverse set of teachers (location, race/ethnicity, gender, and Title I status).
+Of the six, only five could participate in the month-long activity and, despite our efforts reaching
+out to additional teachers, a replacement for the sixth participant could not be found.
+For the emergent language group, only one of the teachers was available to join the study. The
+five selected teachers consented to this study, including researchers’ review of artifacts from the
+study and an interview scheduled at the project’s conclusion.
+3.5
+Our TPB Implementation Process
+Our process first involved gaining a better understanding of the overall process by considering
+the guiding principles as well as the infrastructure needed to deliver it. Once we gained a better
+understanding, we planned our 4-month schedule (see Table 2), estimating 2–3 hours per week for
+participants.
+Since we were not working within an RPP (for which the process was originally designed), we
+changed the beginning of the process by interacting with only the teachers in the first 5 weeks.
+This gave the teachers time to establish rapport, gain an understanding of what a research article
+contains, and carve out the specific problems of practice they wanted to focus on for their brief.
+This also ensured that the teachers and their problems of practice were uniquely centered within
+this process and that their voices were integrated into the draft sections of the practice brief. During
+this time, the teachers worked in pairs and started tackling sections of the brief, including what
+the topic for the brief entailed and why it was important.
+2In the United States, “Title I, Part A (Title I) of the Elementary and Secondary Education Act, as amended by the Every
+Student Succeeds Act (ESEA) provides financial assistance to local educational agencies for children from low-income
+families to help ensure that all children meet challenging state academic standards” (https://nces.ed.gov/fastfacts/display.
+asp?id=158).
+3One teacher was interested in more than one topic.
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:12
+M. M. McGill and A. Reinking
+Table 2. Schedule for the Practice Brief Development
+Week 1
+(T)
+Kick-off and icebreakers
+Discuss the reason for this project
+Reflect on problems of practice the teachers experience in their classrooms (Jamboard exercise)
+Week 2
+(T)
+Discuss the structure of a K-12 CS education research article
+Teachers define the following in their groups: the focus of their problem of practice within their student groups; the
+primary issue; why it matters
+Week 3
+(T)
+Teachers refine answers to questions from week 2
+Facilitator reviews the structure of an education research article
+Action item for next week: Read research article assigned and add findings to the spreadsheet
+Week 4
+(T)
+Review what you learned from the articles as a whole group
+Reconsider the problems of practice you focused on
+Action item for next week: Read assigned research articles and add findings to spreadsheet
+Week 5
+(T)
+Review what you learned from the articles within your groups
+Reconsider the problems of practice you focused on
+Action item for next week: Read assigned research article assigned and add findings to the spreadsheet
+Week 6
+(T&R)
+Meet the teachers icebreaker
+Review the TPB development process
+Teachers discuss their problem of practice and what they have learned so far with researchers
+Researchers provide feedback to the title, problem of practice, and why it matters
+Action item for next week: Researchers provide one article for teachers to read
+Week 7
+(T&R)
+Next five sections (overview): Things to Consider, Reflection Questions,
+Attending to Equity, Specific Guidance, Links to Related Resources
+Things to Consider (breakout): Create a list of five to seven things to consider
+Reflection questions (if time or if they surface from discussion on things to consider)
+Action item for next week: Researchers provide two articles for teachers to read
+Week 8
+(T&R)
+Discuss articles read (breakout)
+Refine and finalize: Things to Consider and Reflection Questions (breakout)
+If time, work on Specific Guidance
+Action item for next week: Researchers provide two articles for teachers to read
+Week 9
+(T&R)
+Share out of Things to Consider and Reflection Questions (all)
+Work on Specific Guidance, Links to related articles, and Equity (breakout)
+Action item for next week: Researchers provide two articles for teachers to read
+Week 10
+(T&R)
+Refine and finalize the following sections: Specific Guidance, Links to related articles, and Equity
+Week 11
+(T&R)
+Share out of entire brief with all teachers
+Facilitator sends briefs for internal and external researcher review
+Week 12
+(T&R)
+Refine materials based on reviewer feedback
+Action item for next week: Facilitator sends modified briefs to external teachers for review
+Week 13
+(T&R)
+Refine materials based on reviewer feedback
+Cover next steps of the publication
+We identified the three external researchers in week three by searching through literature to
+determine who is conducting the research that teachers were interested in. Once the researchers
+agreed to participate, we briefed the researchers on what the teachers have done so far and shared
+the materials that they developed with the researchers. We then introduced the researchers in
+week six, starting with an icebreaker and having the teachers share what they had learned so far.
+From there, the researchers and teachers worked together, guided by the facilitator, to refine and
+complete each section of the brief.
+3.5.1
+Participants. Five teachers and three researchers engaged in the pilot initiative, with
+all five teachers participating in the study (100% participation rate) and all three researchers as
+well. The teacher demographics were two Black women, two white women, and one Latino/His-
+panic man. One teacher had 1–2 years of experience teaching CS, two had 3–6 years, one had 7–
+10 years, and one had over 10 years (see Table 3). Teachers were from across the country with vary-
+ing state standards for teaching CS (Colorado, Maryland, New York, Tennessee, Virginia). School
+demographic information is provided in Table 4.
+The three researchers were all women. One researcher identified as white and Jewish with
+20 years of researching experience and 12 years of CS-specific research experience. The second
+researcher self-identified as white/non-Hispanic with 12 years of researching overall, which all
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:13
+Table 3. Middle School Teaching Experience Across the Five
+Teacher Participants
+Experience Teaching
+Experience Teaching CS
+1–2 years
+1–2 years
+3–6 years
+1–2 years
+7–10 years
+3–6 years
+Over 10 years
+3–6 years
+Over 10 years
+Over 10 years
+Table 4. Demographics of Schools where the Teacher
+Participants Teach
+Title I
+School Demographics
+Yes
+22% Black, 19% Hispanic, 51% White
+Unknown
+13% Black, 6% Hispanic, 74% White
+No
+1% Black, 14% Hispanic, 77% White
+Unknown
+81% Black, 11% Hispanic, 2% White
+Unknown
+94% Black, 6% Hispanic, 1% White
+(In the United States, “Title I, Part A (Title I) of the Elementary and
+Secondary Education Act, as amended by the Every Student
+Succeeds Act (ESEA) provides financial assistance to local
+educational agencies for children from low-income families to help
+ensure that all children meet challenging state academic standards”
+(https://nces.ed.gov/fastfacts/display.asp?id=158).
+has focused on CS. Finally, the third researcher is a self-identified white with 5 years of total re-
+search experience all of which has focused on CS.
+3.5.2
+Researcher–Participant Relationship. During the pilot initiative, the author-facilitator was
+in regular contact with the participants, guiding them through the brief creation process. Although
+the researcher had great interest in the impacts of this process on teachers, they were focused on
+walking the teachers through the brief creation process with the end goal of having three shareable
+practice briefs. The facilitator did not know any of the teachers prior to the start of this pilot. The
+other author did not have any relationships with the participants and did not engage in any of the
+pilot project meetings with the teachers.
+3.6
+Data Collection and Analysis
+Data collection took place throughout the initiative (January–May 2021), including artifacts (i.e.,
+collaborative virtual brainstorming boards and virtually shared note taking documents) produced
+by the teachers during the project and semi-structured interviews after the initiative concluded.
+The interview protocol was developed by one researcher and reviewed by an experienced external
+researcher who conducted the interviews. We audio recorded the interviews, then transcribed
+them using a transcription service.
+For data analysis, the researchers are formally trained in coding and generating themes from
+the codes and have conducted qualitative data analysis. Using a process described by [49], the
+external researcher was brought in to ensure a greater measure of objectivity so that the researcher/
+facilitator did not present unknown biases into the interview process. Each interview averaged 47
+minutes in length, with a range from 29 to 72 minutes. The semi-structured interview questions
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:14
+M. M. McGill and A. Reinking
+Fig. 2. Major themes and emergent subthemes from the teacher interviews.
+can be found in Appendix A. To understand the participants’ thoughts about impacts and about
+the initiative, we let coding categories emerge from the analysis.
+We engaged in the data analysis process by independently conducting three passes of a
+traditional open coding process across all five interview transcripts using Dedoose software. We
+coded sentences and/or phrases that indicated impacts on the participant, their state of mind, their
+thought process, and their motivations for participating in the study. Once completed, rather than
+compare and only accept those where we had identical codes, we intentionally merged our codes
+to identify overlaps and differences using the rationale that we would likely find different codes
+given our backgrounds and experiences with the project. We then created themes from these
+codes, the findings of which are presented in the next section. Data from the artifacts was used to
+cross-check the interview findings and support the manner in which we interpreted the interview
+findings. For example, we could see through the historical capture of the writing of the briefs that
+teachers started to write, and the researchers reframed the writing to be better situated in research
+findings.
+While we asked questions about the implementation of the brief development process, those
+findings are not included in this specific article. Rather, process-specific findings and recommen-
+dations for future implementation are outlined in [45].
+4
+FINDINGS
+The major themes embedded into the interviews included motivation for teachers to participate,
+impacts on teachers, perceived impact on students, and impacts on researchers (Figure 2).
+4.1
+Teacher Motivation to Participate
+As a way to provide context around teachers’ motivation to participate in this initiative, we asked
+them why they signed up to participate. Teachers mentioned both intrinsic and extrinsic motiva-
+tions in their responses.
+4.1.1
+Intrinsic Motivation. Within the subtheme of Intrinsic Motivation, four categories
+emerged: a desire to (1) improve their practice (and themselves), (2) improve strategies to reach
+underserved/underrepresented students, (3) engage in research, and (4) collaborate with others.
+Improve their practice (and themselves). With respect to intrinsic motivation, the teachers had
+various reasons for participating. One teacher stated three times in the interview their desire to
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:15
+grow as a teacher and as a person, stating “I’ll sign up for anything that’s going to make me better
+as a teacher, as a person.”
+Improve their strategies to reach underserved/underrepresented students. Three of the teachers
+stated that they wanted to participate due to reasons related to the lack of equity that they have
+seen in their classrooms. Two teachers wanted to recruit more underrepresented students in their
+CS classes, with one stating that in “one class right now I have 27 boys and two girls. It is re-
+ally a problem and that’s why when I saw [the invitation to participate] in an email I was super
+interested.”
+Another has seen a significant shift in their student population and has felt ill-prepared to be
+able to teach the students effectively, stating that “I felt like it was important that I needed to
+address all of those children’s needs. I see my classes, computer science as one of the breakaway
+classes for the kids, that if they can learn this information, that gives them job opportunities, and
+it’s a life-changer.”
+Engage in research. One of the teachers stated that “I was looking to possibly do an [Doctorate of
+Education] in the next year or two. I wanted to make sure that I was. . .capable of participating and
+writing and being okay, academically.” Another teacher stated that “I started the tech program at
+my school and [this study] seemed a really cool opportunity to get a chance to do some supported
+guided work. It’s been a while since anybody has helped me do research. That takes a lot of time,
+finding quality articles, and a lot of the stuff.” Both comments are closely related to them wanting
+to improve their practice, but these particular comments showed a specific interest in engaging
+with research for different reasons.
+Collaborate with others. One teacher stated that they signed up, because “this type of opportunity,
+I thought, was a great chance to learn from others that’s already been way more experienced and
+still be able to give my experiences as well.” As a novice teacher, they wanted to spend time in
+collaboration with other teachers.
+4.1.2
+Extrinsic Motivation. With respect to extrinsic motivation, two categories emerged: the
+stipend and the potential to attend the CSTA conference for free. One of the teachers mentioned
+the $1,000 stipend for participation, stating that “I thought that [the process] was going to be great.
+Of course, there was the mention that we would get paid the stipend of the $1,000 stipend, and
+that was, I was like, sure, I will do work that’s important to me and get paid for it. That sounds
+awesome. That’s a great deal.” The same teacher also mentioned the potential for attending the
+CSTA conference for free, since they had never been and had always wanted to go.
+4.2
+Perceived Impacts on Teachers
+As we considered the codes related to the process’s impacts on teachers, five subthemes emerged:
+Renewed focus on equity, changed classroom teaching strategies, changed perspectives/beliefs,
+expanded professional networks, awareness of resources, and sharing the knowledge gained.
+4.2.1
+Renewed Focus on Equity. In the teacher interviews, the focus on equity was evident,
+specifically when teachers reflect on their own process of discussing their mindsets regarding
+historically absent populations from CS. “The whole goal of the teacher brief was to find equity
+and really identify what those challenges are as we focused on the black and brown community
+and the Latino with the X. We wanted to make sure that we identified what were some of the issues,
+and we wanted to make sure we highlighted some of the strengths and really pushed forward.”
+Most of the teachers were also aware of the practice of creating an equitable and transforma-
+tive environment for students often marginalized in CS education. For example, one participant
+noted that equity is more than “just throwing some couple of posters of Black people who have
+contributed, and then talking about them like one-off situation in the midst of teaching tech. . .
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:16
+M. M. McGill and A. Reinking
+kids need to feel connected to the content” regardless of their culture, which is more than race.
+In essence, one participant reiterated the importance of truly understanding the term “culture”
+throughout their interview. “I have some kids who come from different family structures and dif-
+ferent economic backgrounds. There are so many different things that are culturally contributing
+to how they identify and how they interact.” Additionally, it was stated, “It’s really important that
+if we’re making sure to demonstrate and commit to valuing a woman’s voice in the development
+of technology or valuing all the contributions that brown and Black people have contributed to,
+it should not only be in the (under-served schools)—White kids should also see the importance of
+this.”
+Finally, throughout the interviews, it was communicated that many of the strategies provided
+in the teacher briefs are also “just good teaching,” but usually it is mindsets that need to change.
+Overall, educators need to “actively work against White dominant culture within my (their) class-
+room because I (many) always went to school with a White dominant. That’s how all schools at
+this point have been structured.” “I have to deprogram myself and it’s very hard to do that if you’re
+only getting information from this one source (white dominant culture).”
+4.2.2
+Changed Classroom Teaching Strategies. The process of working with researchers to
+develop briefs had an immediate impact on the teachers. Specifically, one participant stated, “Oh
+yes, using [what I’ve learned] with my students” in answer to a question about how the TPB
+development process impacted their classroom practices. We found four primary areas of change,
+becoming more student centered, sharing more about the lack of representation in the field
+and the importance of changing that, the recognition that their changed Pedagogical Content
+Knowledge (PCK) transferred to other subject areas that they teach, and a continued reflection
+on their classroom practice through the lens of equity.
+Became more Student-Centered. Through this process, participants reflected on increasing their
+understanding of needed factors to be more student centered. One participant stated that “I have
+more of an understanding of [students] needing that encouragement from family. . .maybe the
+families need more information about why this would maybe be a good field to encourage your
+daughter to go into.”
+Not only did the participants reflect on including families as a way to be more student centered,
+but they also reflected on implementation practices. For example, one participant stated, “Instead of
+telling them what they’re going to do, I listen to them, I give them a voice and ask them [questions].
+Just mainly giving them a voice and a choice because that’s what the research says.” Furthermore,
+participants reflected on evaluating if the curriculum is engaging or not to students. Through
+reading the research and interacting with partners, one participant stated that this experience
+was helpful because it made them “aware of how unengaging the curriculum was. . . I was just
+following the letter, I want to make sure I get it right.”
+Additionally, participants discussed checking in with students more as a way to become more
+student centered. For example, one participant reflected that since engaging in this process they
+are more likely to check in with their students by asking, “What can I do to help you? Do you need
+anything?” Diving even further into this check-in, one participant stated that since reading the
+research during this project, “I do pay closer attention to my girls [in class] and I listen to them.”
+These concepts under the larger theme of becoming more student centered also go hand in hand
+with the theme of integrating more culturally relevant activities for students of all backgrounds to
+be more engaged. One participant made the point that checking in and understanding the curricu-
+lum at a deeper level has wider impacts. “This [TPB] is not for people who want to teach Black
+kids. This is for people who are teaching, period. If we’re only using a culturally responsive and
+culturally relevant and inclusive curriculum for girls and minoritized students, then. . . [we’re]
+perpetuating the issues. We’re missing the bigger picture here is that is the whole group of people
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:17
+who are in control and are very comfortable and confident that things are how they’re supposed to
+be.” Essentially, motivating and engaging all students in culturally rich CS instruction will improve
+learning experiences.
+Through the process of putting into practice what they learned through reading and learning
+about student-centered practices, one participant reflected that the students reacted positively to
+changed teaching practices. Specifically, the teacher reported the students saying, “Oh, okay, now
+this makes sense” after implementing a [particular activity] learned about through this process.”
+Increased motivation to retain underrepresented students into CS. It became apparent that partici-
+pants were able to focus on how to retain students not only through motivation and engagement,
+but also through the specificity of relationship building. “When they’re in my class, I can show
+more about how this would be something good in your future. Not just teaching them the con-
+cepts in my class and not just working on having projects where girls might like them better or
+not, or anybody might like them. I think getting to understand more of that why, is going to help
+me more with the how or the what I can do. Building those relationships.”
+Desire to address the lack of participation of underrepresented groups in CS. The lack of represen-
+tation and participation of underrepresented populations in the field of CS was recognized and dis-
+cussed throughout the process of developing the TPBs. One participant reflected on speaking with
+their students about who is a role model in CS for underrepresented populations. After talking with
+their students, “I just broke down the numbers, how it’s not that diverse and the reason for being
+is, how many people do you know that work in tech? You don’t see any role models, you don’t see
+people that’s push forward. When you ask anybody else where they want to be, they’ll see some-
+thing in sports because that’s what they see. It’s basically talking about that exposure to them.”
+One participant also discussed her motivation to get more women into CS fields. “After doing
+this research, I was feeling I’m so motivated. I want to get [more people from underrepresented
+populations] in CS fields to come into my classroom and show and talk. I have talked to my admin-
+istrator, my evaluator about my desire to do all these things. She was like, ‘Yes, we’re so hoping
+for next year’.”
+Knowledge in CS equity transferred. One participant expressed that they were applying new
+strategies that they learned to engage a particular group of marginalized students to a different
+group of marginalized students. When the interview asked, “Do you think some of the things you
+learned about—The strategies you got [for working with a group of marginalized students], do you
+think some of them will transfer?”, to which one of the teachers responded “Absolutely. Especially
+being that [one particular student from marginalized group] enrolled this late in the school year,
+just basically trying to communicate with [student] and giving [student] a voice and a choice and
+things that [student] can do with the short time we have left, so absolutely.”
+Improved practice through ongoing reflection. Acquiring resources (e.g., Telenova activities, us-
+ing Scratch) and reflecting on current practices influenced teachers’ classroom implementation.
+Aside from already shared quotes, one of the teachers who taught inner-city students at a school
+attended by predominantly Black students discussed how reflecting and intentionally changing
+their classroom practice during this process influenced them to “integrat[e] things a little bit more,
+whether it being music, using items such as Flipgrid, having students act out certain movie scenes
+that they like. Just making it more hip, but still, helping them move somewhere that’s lucrative
+because what this does is prepare you. Maybe they want to go ahead and make a YouTube channel
+because all of these things are lucrative.”
+4.2.3
+Changed Perspectives/Beliefs. The impact on teachers’ changes in perspectives and be-
+liefs was immediate and, according to participants’ statements, may be long-lasting. This can be
+summarized by one participant who stated that this project “changed my teaching perspectives
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:18
+M. M. McGill and A. Reinking
+in the world of technologies, I want to say, 1000%.” Another participant stated, “we want to make
+sure that we just continue to work on the engagement, that’s why I’m saying this practice has just
+helped me just open my eyes more on how important that engagement is.”
+Self-efficacy. Self-efficacy, or an individual’s confidence in their ability to complete a task or
+achieve a goal, was evident in statements made by all of the teachers. As stated by one participant,
+“It [the TPB process] has improved my confidence dramatically. The main thing, like I said, I went
+and really had to look myself in the mirror. I was like, ’You’ve got to teach to style to your children’.”
+Other participants also reflected their increased confidence due to the TPB process, including one
+that stated “I think just the more you know. The more you know about everything, the more confi-
+dent you are. I’ve always focused on what I need to teach these students to get them to be successful.
+Now I’ve seen through research and through collaborating with others, in my same field of why
+this is so important, or how can we make it even better? Not just teaching in the moment of in the
+class of, oh, we’re learning these concepts or whatever but just getting to, I think making me more
+educated and more well rounded. . . is huge.” And, “I think it gave me some more confidence that I
+was doing what I needed to do for the kids because some of the things that we looked at were things
+that I was already doing and using. It reinforced for me because I don’t have peers in my county
+to fall back on, so I’m an isolated island. Sometimes I question, ‘Am I getting too cocky in thinking
+I’m doing the right thing and I’m totally off on the left field, or am I going in a direction that’s
+good for the students?’ It gave me the feeling that yes, I was doing the right thing with my kids.”
+Another participant stated, “It has actually increased my confidence because I actually feel like I
+know a little bit about what I’m trying to do. I know what the goal is, and now I feel more confident
+in pursuing the goal.”
+It increased other participants’ confidence writing more academically. “When you don’t write
+academically all of the time, it’s hard to put things that don’t have the incorrect nuance sometimes.
+[Researcher] was able to help me hone that and tweak it so that it made more sense for a broader
+audience than me looking at it from a narrow focus of being here.” Another participant stated, “it’s
+[TPB process has] given me confidence to step out there and write a little bit more.”
+Participants also felt more confident in reading research for future practice. One participant
+stated, “It’s also helped me expand my research a little bit as well because one of the things that
+I’ve noticed while I’m reading articles for this research project, I started reading other articles of
+interest.” Another participant stated, “would love to almost take a sabbatical and really focus on
+this and get to use all my brainpower and maybe pop into the classroom once a quarter to do a
+project just to inform my research but. . . I would love to yes, work on other projects but I also
+would love to find somebody who’s I guess, looking to add—Google wants to add more resources
+so that teachers have someplace to go to.”
+Increased interest in and awareness of research. Participants becoming more aware of research
+and the impact research can have in policy development and implementation was clear in the
+findings. For example, one participant stated, “I’m now aware of some resources that I’ll be able to
+look at as I’m trying to continue to design. I’m only three years into writing curriculum, and I’m
+doing it for the most part from scratch.” Overall, it can be summarized by one participant, “it [this
+process] has made me want to learn more.”
+Excited about research findings. The participants reflected on their excitement about their re-
+search findings. They were sharing their knowledge with others and were able to share their ex-
+citement with others. One participant stated, “I need to start watching what I say because I’m
+going to lose some friends if I keep saying, ‘The research says.’ They’re tired. I can tell a few of
+them are tired of hearing me say that but oh well, I was excited about it.”
+Excited about being a published author. The participants shared the the common reflection that
+they were excited to be a published author, which is providing knowledge sharing to the future of
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:19
+the profession. One participant stated that “Just looking back at the whole thing, every step that
+we did, and now I’m a published author, like, ‘What?’ I never thought I would say that. I’ve always
+just read other people’s things.”
+Awareness of their growth. Participants were aware of their immediate and continued growth.
+One participant stated, “I’m a better teacher. I’m a better person. I looked at this experience as
+personal growth as well as professional growth. I’m at a point in life where I just I’m still trying
+to grow, and so this is something that I will continue to work on.” As is evident in other themes,
+participants also grew in writing skills and gleaning information from research.
+4.2.4
+Expanded Professional Network. By the end of the process, teachers felt connected to their
+partner. This was evident through teacher statements such as “We just had a lot of really good
+conversations where we got to just really bounce off each other’s energy.” Additionally, one of the
+teachers stated that they felt as if they were part of “a powerhouse team.”
+Bonding not only took place between the teachers, but also expanded to their broader profes-
+sional learning network (PLN). Not only were the teachers able to bond and connect, they were
+also able to collaborate with like-minded colleagues. This was especially important for CS educa-
+tors who are the lone CS teacher in their school and/or district. When discussing the expansion of
+their PLN and collaboration, one teacher stated “I don’t have peers in my county to fall back on,
+so I’m an isolated island.” This process enabled the teachers to be able to brainstorm, research, and
+develop resources for other teachers who are in similar settings.
+4.2.5
+Sharing of Knowledge. Once knowledge was gained through this process, participants be-
+gan sharing this new knowledge with colleagues, expanding their PLNs, and providing resources
+to individuals in and out of their school districts. The noted places our participants shared their
+knowledge was with professional development groups or at their local professional development
+days with colleagues, through CSTA professional learning, and at Girls Who Code, where at least
+two participants volunteered. One participant stated that their network did not change at all. How-
+ever, this participant then went on to say how much they learned from their new colleague.
+Connecting with professionals from all over the country through the TPBs also created per-
+sonal connections for future networking. One participant stated, “[The researcher] has just a huge
+plethora of resources. [Researcher] was telling us that [researcher] could connect us with people.”
+4.2.6
+Awareness of Teaching Strategies and Resources from other Teachers. Becoming more stu-
+dent centered, as outlined in an earlier theme, supports this theme of learning new strategies
+by gaining access and knowledge of resources. For example, Telenova activities and videos on
+YouTube and TikTok focused on best practices. One participant reflected on their use of social me-
+dia as a way to connect but also learn new teaching strategies. “I read a lot. I follow things on Twit-
+ter and Instagram, TikTok wherever I can find.” Further, the direct connections with team members
+provided ideas around new teaching strategies. “[Researcher] just has the wealth of knowledge and
+resources. That has definitely expanded my learning community [and resources].”
+4.3
+Perceived Impact on Researchers
+Although not a primary focus of our study, we also interviewed the researchers in a focus group
+setting to ascertain some of the impacts on them. The focus group interview protocol primarily
+focused on the overall process implementation and ways to improve it in the future. However,
+one question focused on their impacts of this collaborative process. The three researchers agreed
+that the overall engagement, learning, and process was “super grounding.” While the TPB imple-
+mentation process did not have a direct impact on their future research, the researchers saw this
+collaboration “impact[ing] future teaching” and “professional development design.” Importantly,
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:20
+M. M. McGill and A. Reinking
+this process reminded the researchers of the “varying teacher perspectives, mindsets, and locales”
+around the country.
+4.4
+Perceived Impact on Students
+While the students were not interviewed or part of this project overall, the participants did reflect
+on some peripheral impact on students from this project. For example, when a teacher participant
+immediately changed classroom practice based on their engagement in the process, students re-
+acted in a positive way. One participant said, “Oh yes, (I’m already) using (learned practices) with
+my students.” Some of the concepts or lessons implemented immediately included making students
+more aware of representation, or lack thereof, in the technology field for historically marginalized
+individuals and women. Another participant stated, this process has “changed my teaching per-
+spectives in the world of technologies, I want to say, 1000%.”
+4.5
+Overall Process
+Participants reported challenges and positive feedback about the overall process [45]. Challenges
+included participants’ fears and anxieties around the unknown nature of the work and time or
+scheduling constraints, while other feedback centered on the organized structure of the process
+and the ability to work directly with researchers. Since these findings are reported in more detail
+in [45], we summarize them briefly here.
+4.5.1
+Challenges. One challenge was the teachers’ initial feelings of fear and anxiety, which
+was shared by nearly every teacher participant. There was a reported fear around writing, the
+misconception that teachers would need to find the research to review, and the overall fear of the
+unknown. Anxieties about writing were stated by three of the five teachers. One teacher stated, “I
+told my partner I am not a strong writer, but I’m going to do everything that I have to do in order
+to prepare.” Another teacher stated, “I was always thinking about the writing process. It was a fear
+of the unknown.”
+A fear of the unknown supported the specific theme of time commitments and scheduling. When
+the teachers were asked to participate, they were told it would take approximately 20–25 hours in
+total, including weekly meetings. However, most teachers invested a total of 25–30 hours across the
+4 months, averaging 2.5 hours per week. Teachers reflected that at points during the process they
+did not have enough time to read and take notes on one pre-selected article prior to the meeting.
+One teacher stated in the interview, “For me, it’s just a time balance. There was no challenge in the
+work we had to do. I enjoyed coming together and meeting with my team. We met once a week
+every Thursday, then we would have to read the article in between. It wouldn’t seem like just to
+have to read a 20-page article or a 10-page article in a week’s time would be hard or something
+that you should be able to expect from a person, but sometimes it was.”
+4.5.2
+Positive Feedback. While there may have been some challenges, the teachers also noted
+positive feedback to the whole process. These experiences may in part have been due to the facil-
+itated process, which teachers described as well-structured and organized. This includes how the
+facilitator set up readings of current research, created time for engagement with their teams, and
+enabled the writing of the briefs. As one teacher noted, “This has been a very wonderful experi-
+ence for me. Like I said, very, very organized. [Facilitator] facilitated very well.” This concept of
+the entire process being well-structured can be summarized by one teacher who simply stated, “It
+was all planned out.”
+Not only was the researching and writing process planned out, but there was intentionality of
+adding researchers into the groups later in the process, which gave teachers an opportunity to
+reflect on their problems of practice. One of the teachers noted that the researchers entry was
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:21
+Fig. 3. Edited teacher practice brief cycle.
+perfectly timed, stating that “[Researcher] just came in at the right time and everything came
+full circle.” They further clarified that the teachers somewhat struggled to interpret the research
+through their teacher lens, since research articles were so new to them. They were unsure how
+to parse through the various content that they were reading. When the researcher joined, the re-
+searcher brought the clarity and shaping that the teachers needed to connect the various findings.
+5
+DISCUSSION
+5.1
+Comparing Prior Theories and Research Findings
+Overall, the basis for this project focused on the need to improve equity-focused teaching practices.
+As found in other research focused on impacts of RPPs on teachers, we also found positive impacts
+based on mutual knowledge building and the development of professional networks to potentially
+continue the collaborative learning process past the constraints of the project [56]. Similar findings
+around self-efficacy were also found and expanded upon through this study, including teachers’
+confidence in their classroom practices. This increased self-efficacy increased teacher effectiveness
+through self-reported interviews, which supports other previous work [59, 70].
+While many of the comparisons were similar, the one main difference was the edited process
+for developing the TPB. While it was based on previous work [7], the framework in this study was
+expanded (see Figure 3).
+5.1.1
+Motivation. We investigated teacher motivation to participate in the study to under-
+stand how we can motivate teachers to participate in creating teacher practice briefs in the fu-
+ture. Though we specifically built into the project a $1,000 stipend for teachers who completed
+the study, teachers’ motivation to participate were found to be both internally and externally fo-
+cused. Teacher participants were interested in their own personal growth, aligning with previous
+research [3, 18, 28, 40]. Impacting the profession on the common good is also a motivating fac-
+tor and aligns with previous research [43, 65, 65], and this was further confirmed in the teacher
+participants’ sharing of the knowledge they gained during the TPB process.
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:22
+M. M. McGill and A. Reinking
+The external value of monetary stipends was also a motivation. Historically teachers in the
+United States are a low-paid profession [1], therefore participation in work that simultaneously
+benefits personal professional practice and provides monetary benefits may be an appreciated
+activity for teachers.
+5.1.2
+Equity. Ensuring that equity is at the forefront of a collaboration process is arguably the
+bedrock of this work. This includes grounding the work in teachers and researchers studying eq-
+uitable practices within a program or learning environment, ensuring equitable practices are em-
+bedded into the partnership itself by engaging with an open mind, and finally sharing the findings
+through an equity-focused lens. This was completed through the RPPs and the TPBs developed
+and disseminated.
+The goal of the three TPBs was to focus on creating more equitable environments for the three
+identity groups that were selected for this project: historically marginalized students (HMGs),
+bi/multilingual students, and girls. In research it shows that oftentimes girls, HMG students, and
+bi/multilingual students are absent from CS classes due to a variety of reasons, one of which stems
+from the microaggressive language often used, such as “boys are more natural at math and science
+than girls.” While this statement does not have any scientific backing, it is said in schools around
+the world. This then decreases populations of students from entering the CS classroom. However,
+when students do enter CS classrooms, it is important that the deficit jargon and mindsets are
+absent from the learning environment.
+Although the TPBs were developed and disseminated successfully, the process of developing a
+singular and clear topic was discussed at length due to the “complex and interrelated problems
+of practice” [39, p. 6]. These interrelated problems of practice, with the focus of equity, were de-
+cided before the researchers entered the partnership. This led to some disconnections between the
+teacher-decided focus and the need that researchers saw in the research. However, collaborating
+to find a common definition and understanding of the problem of practice was completed and
+beneficial for setting trust, ownership, and belonging within the group dynamic.
+5.1.3
+Impacts. Four of the five major impacts on teachers of the TPB process align with previous
+research on the impacts of research and practice collaborations (see Table 5).
+— All five teachers expressed that they changed their classroom teaching strategies, including
+more awareness about reflecting on their CS teaching practices to teach their students more
+effectively. This aligns with [63], which found that RPPs led to classroom practice changes.
+Finding this larger theme was not surprising—baked into the profession of teaching is the
+process of constant reflection and growth. Each year teachers around the United States are
+evaluated, which includes an embedded course of action for reflection to improve their prac-
+tice [2].
+— Teachers expressed changed perspectives and beliefs, which included increased self-efficacy
+teaching CS, increased confidence engaging with research, increased interest in and aware-
+ness of research, excitement about research findings and being a published author, and self-
+awareness of their growth in this process. With the exception of increased interest in re-
+search, which was not found in the literature we reviewed, our findings supported or par-
+tially supported results from the impacts of RPPs.
+— Teachers expressed that they had expanded their professional network, both with re-
+searchers and with other teachers, again aligning with findings reported in [63].
+— Teachers expressed their excitement in sharing of knowledge with others and, though they
+shared their knowledge at a conference, this additional knowledge-sharing was not built into
+the TPB process. It appears that they shared this knowledge because they believed that it
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:23
+Table 5. Known Teachers Impacts of Teachers who are Engaged in RPPs Compared to our Findings
+Impacts
+RPPs
+Our Study
+Access to usable research
+[63]
+Supported
+Affirmation for long-term collaboration
+[22]
+Not supported
+Awareness of their own growth through the process
+Unknown
+Supported
+Changed classroom practices
+[63]
+Supported
+Creating opportunities to develop/apply new knowledge
+[13]
+Partially supported
+Engagement in professional learning
+[63]
+Partially supported
+Excitement about being a published author
+Unknown
+Supported
+Expanded professional communities
+[63]
+Supported
+Increased confidence
+[20, 36, 63]
+Supported
+Increased interest in research
+Unknown
+Supported
+Knowledge and awareness of important advances in scholarship
+[13, 20, 63]
+Supported
+Leadership capability related to STEM improvement
+[63]
+Partially supported
+Personal Identity
+[22]
+Partially supported
+Professional Renewal
+[22]
+Partially supported
+Renewed focus on equity
+Unknown
+Supported
+Self-efficacy
+[36]
+Supported
+Sense of ownership
+[36]
+Supported
+Sharing of knowledge learned (voluntary)
+Unknown
+Supported
+Transfer of new equity-practices knowledge
+Unknown
+Supported
+was rooted in evidence and could help other teachers improve their classroom practices—and
+thereby reach more students.
+A somewhat pleasant and surprising finding is teachers’ statements reflecting a renewed focus
+on equity and the ability to see connections for transferring their new equity-focused practices
+(e.g., culturally relevant practices) to other subjects that they teach. Though we have not found
+this in our literature review of the impact of RPPs on teachers, we can imagine that this might be
+an area of interest for RPPs to investigate further.
+Through the embedded, natural, and continual reflection process in which teachers are trained
+to engage, teachers in our study realized how their engagement with the TPB process will ben-
+efit and be used in their future learning environments. This includes immediate implementation,
+reevaluating their CS curriculum, and sharing their newly gained knowledge and resources with
+colleagues.
+5.2
+Alternative Explanations of Findings
+As with any qualitative research, the findings are based on the backgrounds and experiences of
+the researchers who undertook this study. Therefore, alternative explanations for the findings
+could be the impact of COVID-19 on the teaching field. This project took place at the start of the
+pandemic, which could have greatly impacted the challenges outlined in the findings. Additionally,
+the positive impacts from this study could be attributed to the constant structure of collaboration
+during a time of high uncertainty.
+Further, the teachers who engaged in this study self-selected by sharing their equity-focused
+problems of practice in their screening questionnaire. On the one hand, the teachers already have
+a predilection for solving problems of practice related to equity and this may partially explain why
+they were engaged so highly throughout the entire activity—which in turn could explain why the
+activity had the impact that it did on the teachers. On the other hand, our team specifically selected
+researchers that were engaged in research that teachers were interested in. In this case, we focused
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:24
+M. M. McGill and A. Reinking
+on equity; however, in the future, we could find researchers that study any topics that teachers are
+interested in.
+5.3
+Central Contributions to the Discipline
+The most significant contribution to advance the disciplinary understanding is the focus on de-
+creasing the gap between research and practice through a new collaborative practice that engages
+researchers and teachers. Through the process of bringing researchers and educators together,
+with a clear focus on equity-based problems of practice in CS education, the results indicate that
+there is early evidence for a multitude of positive impacts. In essence, the central contribution of
+this work to advancing researcher-teacher collaborations, as well as impacting the future of CS
+education, is clear in the data. Teachers are positively impacted, researchers develop a clear under-
+standing of realistic practices, and students are peripherally impacted through changed practices
+in the classroom.
+A second contribution is the process itself, which we have defined in Figure 3. This process can
+now be used with a larger group of teachers and researchers to vet it further and more clearly
+understand impacts on a variety of teachers.
+5.4
+Types of Contributions Made by Findings
+Previous research has shown numerous positive impacts through the collaborations between re-
+searchers and educators, particularly participants involved in RPPs. Our findings display some of
+the same impacts, while also addressing previous challenges.
+One of the challenges addressed in this research study, as compared to RPPs, is the decrease in
+time spent on the project. RPPs are designed in a way that often spans multiple years. However,
+time barriers often impact the overall projects. Therefore, we designed this partnership to span
+one semester, which therefore decreased, however did not eradicate, the time commitment barrier.
+The findings from this study can be utilized in future collaborative efforts between researchers and
+educators.
+5.5
+Strengths and Limitations
+The overall process and collaboration between and among participants was one of the strengths
+in the study design and overall project. Additionally, beginning the project with only teachers
+ensured that their voices were heard and that their problems of practice were leading the way
+when researchers entered for the TPB development.
+As with most research projects, participation attrition was a limitation. Out of the eight educa-
+tors who were invited to participate, only five were able to commit to the project. This created a one
+teacher–one researcher partnership in one of the groups, which led to input from only one teacher
+in that group (compared to two in the others) and likely a less rich experience for the teacher and
+for our resulting set of data. Likewise, we sought teachers with an interest in equitable CS educa-
+tion, which also may have biased the impacts. Future research that includes teachers with various
+interests could help define more generalized impacts.
+The quality of the materials was solely based on qualitative data, which provides a story of
+the project overall. However, in future studies adding in reflective journaling from the facilitator
+and/or researchers and teachers would add to the overall data. This information would also pro-
+vide context for the development process rather than focusing solely on the end reflection of the
+entire process. Regardless of the perceived limited amount of data from the one-on-one interviews,
+the analysis process was thoughtful by bringing in outside researchers to provide validity to the
+process.
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+Early Findings on the Impacts of Developing Evidence-Based Practice Briefs
+50:25
+It should be noted that this project was completed in the United States with middle school teach-
+ers and is context sensitive [49]. Outside of this population, problems of practice may look different;
+however, the process to discover, investigate, and eventually write the TPBs are highly transfer-
+able to anywhere in the world with any grade level teacher. This is evident from our replicating
+previous work based on the RPPs designed by Bell and Rhinehart.
+Further, the TPB process was a catalyst for these impacts; however, what remains unclear is
+whether the researcher-teacher collaborative meetings led to these impacts or whether the creation
+of the TPBs did—or a combination of both. However, we note that none of the RPP studies that
+discuss impacts differentiate whether or not it was due to being part of the collaboration or the
+actual RPP that had those impacts. The end result, however, increased teachers’ self-efficacy, which
+is a desirable outcome regardless of what was the specific or combined catalyst. These are early
+findings, and future research would enable researchers to differentiate this.
+One of the ethical dilemmas and challenges of this project was the publication of the teacher
+briefs with participants’ named as authors. Therefore, we were limited to general indications from
+this study to help maintain some level of confidentiality. Future researchers can conduct a differ-
+ent style of study that includes a larger number of participants or uses a different methodology
+(e.g., quantitative) to capture impacts on teachers that further protects their identity while also
+identifying more specific challenges for each group.
+5.6
+Future Research
+This is a pilot study with early indications that the teacher-researcher TPB creation process has
+an impact on teachers that is similar to those found in teachers that participate in RPPs. Future
+research requires more teachers involved in this process and greater datasets (both quantitative
+and qualitative) collected to see if the impacts align with these early findings. Our future research
+work also includes having teachers participate in action research to explore the impact of this
+process on teachers and on their students.
+Further, there is ample room for investigating the impact on researchers, since that was not a
+focus of this particular study.
+6
+CONCLUSION
+Connecting educators and researchers is a known need in the field of education and more specif-
+ically in the field of CS education research. Piloting the process of teachers and researchers col-
+laboratively developing TPBs has wide-reaching implications for future research, policy changes
+based on the collaborative future research, and overall practice both in research and the classroom.
+It can even provide a way for stakeholders to leverage this process to achieve similar teacher and
+researcher impacts (e.g., increased self-efficacy) and close the teacher-researcher gap. This project
+demonstrates the implications for future research practice to engage with and involve educators
+who are in the classrooms daily and know the ins and outs of their problems of practice. Addi-
+tionally, collaborating with CS teachers also provides a foundation for teachers to conduct their
+own research, understand how to address problems of practice, and implement classroom practices
+based on their findings. While this work was conducted in the United States, the implications for
+future research and practice around the globe is evident.
+This is just one study in the small pool of studies focused on the impact these collaborative
+relationships can have for researchers, educators, and students. The implications for this study are
+wide-reaching because the process of developing publicly available TPBs not only impacts those
+participants involved, but can impact students around the world. Empowering teachers through
+this work and helping researchers to understand the realistic problems of practice is essential and
+integral to the future of CS education research.
+ACM Transactions on Computing Education, Vol. 22, No. 4, Article 50. Publication date: December 2022.
+50:26
+M. M. McGill and A. Reinking
+APPENDIX
+A
+SEMI-STRUCTURED INTERVIEW PROTOCOL
+(1) In late 2020, you received an invitation to submit your information to participate in this
+study. Reflecting back to that time, to the best of your recollection, why did you choose to
+sign up to be a part of this study?
+(2) Which problem of practice did you focus on for your brief? How did you decide on the focus
+for your practice brief? (probe: What was your thought process?)
+(3) How much have you used research to guide your teaching practices in the past? How have
+you used it?
+(4) Reflect upon the process that you went through in creating the practice briefs.
+— What were the best parts of the process for you?
+— What were the most challenging parts?
+— During the process, how did you keep a focus on equity? Tell me more.
+(5) In what ways has going through this experience impacted your teaching? (or you think will
+impact your teaching in the future?)
+(6) How has going through this experience impacted you?
+— Do you feel more or less confident in teaching CS to your students? Explain.
+— What do you think about CS education research and researchers after this experience?
+— How has your professional community expanded, if at all?
+— Did you share your experiences in this process with others? If so, what did you share?
+— In what ways, if any, can you see yourself participating in a similar project in the future?
+— In what ways, if any, can you see yourself engaging with research in the future? Would
+you consider being involved in a research project in the future?
+(7) Looking back, are you glad you signed up for this study? If so, why? If not, why not?

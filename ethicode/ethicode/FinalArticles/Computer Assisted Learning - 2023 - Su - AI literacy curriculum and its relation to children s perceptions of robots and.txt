@@ -1,0 +1,1351 @@
+A R T I C L E
+AI literacy curriculum and its relation to children's perceptions
+of robots and attitudes towards engineering and science: An
+intervention study in early childhood education
+Jiahong Su1
+|
+Weipeng Yang2
+1Faculty of Education, The University of
+Hong Kong, Hong Kong SAR, China
+2Department of Early Childhood Education,
+The Education University of Hong Kong,
+Hong Kong SAR, China
+Correspondence
+Jiahong Su, The University of Hong Kong,
+Room 219, Runme Shaw Building, Pokfulam
+Road, Hong Kong SAR, China.
+Email: maggiesu@connect.hku.hk
+Abstract
+Background: The number of artificial intelligence (AI) literacy studies in K-12 education
+has recently increased, with most research focusing on primary and secondary education
+contexts. Little research focuses on AI literacy programs in early childhood education.
+Objectives: The aim of this mixed-methods study is to examine the feasibility of an
+AI literacy program called “AI4KG” and explore how it might affect kindergarteners'
+perceptions of robots and attitudes towards engineering and science.
+Methods: A total of 26 child–parent dyads recruited from a Hong Kong kindergarten
+were involved in this study, consisting of 26 children (Mage = 4 years, SD = 0.28) and
+their parents. Quantitative and qualitative data were collected through surveys and
+interviews designed to explore children's perceptions of robots and attitudes towards
+engineering and science, and parents' perceptions of the AI4KG intervention.
+Results: It is found that children have increased their perceptions of robots after the
+AI literacy program, but the AI4KG curriculum had no significant effects on kinder-
+garten children's engineering and science attitudes. Most parents (22 out of 26)
+agreed that their children's AI knowledge, AI skills, and AI attitudes have been
+enhanced after learning through the AI4KG curriculum.
+Conclusions: This study suggests that the AI4KG curriculum is potentially effective in
+promoting early AI literacy and favourable attitudes towards the technology, but
+further research is needed to develop age-appropriate measures and assess its long-
+term impact on children's education and career paths.
+K E Y W O R D S
+AI literacy, Curriculum, Early Childhood Education, Feasibility, Parental Perception
+1
+|
+INTRODUCTION
+Artificial intelligence, or AI, is a technology that mimics human intelli-
+gence to perform cognitive tasks, including learning and problem solv-
+ing based on sets of rules and environment (Wang, 2019). As AI
+transforms the way we communicate, work, and live with each other
+and with machines, AI literacy becomes a crucial skillset for the future
+(Long & Magerko, 2020). AI literacy education frameworks have been
+developed for primary, secondary, and higher education to enhance AI
+literacy (Kong et al., 2021; Su & Yang, 2022; 2023; Su et al., 2023).
+Received: 29 April 2023
+Revised: 26 June 2023
+Accepted: 6 August 2023
+DOI: 10.1111/jcal.12867
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2023 The Authors. Journal of Computer Assisted Learning published by John Wiley & Sons Ltd.
+J Comput Assist Learn. 2024;40:241–253.
+wileyonlinelibrary.com/journal/jcal
+241
+However, few studies have focused on AI literacy programs in early
+childhood
+education
+(Su
+&
+Zhong,
+2022;
+Williams,
+Park,
+&
+Breazeal, 2019; Williams, Park, Oh, & Breazeal, 2019). This could be
+due to the difficulty for young children to use existing AI learning plat-
+forms, such as Teachable Machine, independently. To address this
+issue, parents can be involved as learning partners to facilitate their
+children” learning about AI. This study aims to fill this knowledge gap
+and advance social equality and sustainable development goals by
+developing an AI education program for early childhood education
+and evaluating its feasibility in terms of promoting young children's
+perceptions of robots and attitudes towards engineering and science.
+1.1
+|
+AI literacy for K-12
+An increasing number of educational programs have been developed
+with the aim of imparting the fundamental concepts of AI to students
+in primary and secondary school education (K-12) (UNESCO, 2022).
+For example, Rodríguez-García et al. (2020) designed a program called
+“LearningML” to teach students about programming applications
+based on a subfield of AI—Machine Learning. In terms of grounding
+these AI education programs, there are several frameworks of refer-
+ence. The AI for K-12 initiative has developed guidelines for AI educa-
+tion in K-12 schools, with the emphasis on five big ideas in AI:
+(1) perception, (2) representation and reasoning, (3) learning, (4) natural
+interaction, and (5) societal impact (See more details in http://ai4k12.
+org/). Wong et al. (2020) also proposed a three-dimensional AI literacy
+framework, covering AI concepts (e.g., machine learning, deep learn-
+ing, and neural networks), AI applications (e.g., speech recognition,
+robotics, and smart assistants), and AI ethics. Likewise, Lao (2020) pro-
+posed a Machine Learning (ML) Education Framework to highlight
+three categories of AI learning, including knowledge (e.g., general
+knowledge about ML methods, bias, and societal implications), skills
+(e.g., ML problem scoping, ML project planning, ML artefact creation),
+and attitudes (interest, self-efficacy, persistence, and identity). Based
+on a systematic review (Ng et al., 2021), these AI education programs
+can enhance K-12 students' AI literacy through four main aspects,
+including (1) knowing the fundamentals of AI and AI applications;
+(2) applying AI in various contexts; (3) evaluating and creating AI; and
+(4) ethical considerations related to AI. While AI can bring many bene-
+fits, it can also have negative effects on children. For example, expo-
+sure to AI algorithms that perpetuate biases can lead to children
+internalizing and perpetuating those biases (Melsion et al., 2021).
+Additionally, excessive screen time and dependence on technology
+can negatively impact children's social and emotional development
+(Radesky & Christakis, 2016). Furthermore, AI can raise ethical con-
+cerns, such as privacy and security issues, that may be difficult for
+young children to understand and navigate (Ali et al., 2019). These
+potential negative effects of AI on children should be taken into
+account when designing and implementing AI literacy programs. How-
+ever, due to the distinction of developmental characteristics and
+learning needs, these AI education programs for K-12 cannot be
+simply used in the context of early childhood education. It remains
+rarely known whether AI curriculum for pre-K children can bring ben-
+efits to their learning and development.
+1.2
+|
+Introducing AI to young children: why
+and how
+Yang (2022) summarizes that there are three strong reasons for
+introducing AI to young children. First and foremost, AI literacy should
+be learned as early as possible. This aligns with the movement of
+democratizing AI for education (Druga et al., 2019), as well as the
+emphasis
+placed
+on
+developing
+digital
+citizenship
+(Lauricella
+et al., 2020). Notably, AI can bring adverse effects on children if it is
+used in an unethical way. For instance, algorithmic bias or bias in the
+data input can cause racial and sexual discrimination. To ensure that
+children will not be impacted by unfair AI systems, they need to
+develop their AI literacy, which covers knowledge about the bias that
+may be caused by AI (Yang, 2022). To achieve this goal, the research
+literature has suggested to promote age-appropriate learning activities
+that can teach fundamentals of AI to preschoolers. These learning
+activities can use intelligent agents such as robots (Williams, Park, &
+Breazeal, 2019; Williams, Park, Oh, & Breazeal, 2019) and machine
+learning platforms (Lane, 2021), and be supported with effective
+pedagogies such as project approach (Lane, 2021), storytelling
+(Kandlhofer et al., 2016), and embodied instruction (Yang, 2022). This
+is more important given that AI is exacerbating digital divide in the
+society. Children from less advantaged backgrounds tend to have less
+quality
+exposure
+to
+digital
+learning
+experiences
+(Su,
+Yang,
+&
+Zhong, 2022; Su, Zhong, & Ng, 2022), and they may have difficulties
+in forming a strong foundation in understanding AI. Druga et al.
+(2019), for example, investigated how children reported their concep-
+tions of AI and found that children from low socioeconomic back-
+grounds would have difficulty advancing in the use of AI devices due
+to their lack of experience in interacting with AI. Hence, there exists
+an imperative to advance the dissemination of AI education to all chil-
+dren, particularly to those in their early childhood, with the aim of
+minimizing the digital divide.
+Furthermore, teaching AI to preschoolers can promote their inte-
+grated learning. And only with teachers' guidance, preschoolers can
+effectively acquire AI knowledge and skills. Druga et al. (2017; 2018)
+found that children lacked the means to understand the AI knowledge
+underlying AI-related devices such as smart assistants and social
+robots, if without the guidance from adults. Children's learning about
+AI can further increase their reasoning skills (Vartiainen et al., 2020)
+and adaptive behaviours (Prentzas, 2013). With a clear understanding
+of AI, children have the capability to form a more nuanced under-
+standing about digital technologies. Su and Yang (2022) have
+conducted a scoping review on AI in early childhood education and
+shown that AI can improve children's conceptions about AI, machine
+learning, computer science, and robotics.
+The third reason to promote AI education in the early years is
+linked to the nature of children's learning. AI devices as a daily
+object can appeal to children's curiosity and interests, thus lying the
+242
+SU and YANG
+ 13652729, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jcal.12867, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+foundation for further learning. An early exposure to AI-related edu-
+cation can encourage children to develop creative inquiry skills
+through their playful learning about AI with teachers and peers
+(Kewalramani et al., 2021). More importantly, AI education can help
+children form a healthy appreciation for the power and limitations of
+AI technologies (Williams, Park, & Breazeal, 2019; Williams, Park,
+Oh, & Breazeal, 2019). As a long-term agenda, promoting AI in early
+childhood education will allow the sustainable development of
+humankind through the development of a digital inclusion ecosystem.
+However, there is a scarcity of research on how to effectively inte-
+grate AI literacy into early childhood curriculum.
+In terms of how to engage young children in learning AI, there are
+some interesting studies exploring the pedagogical strategies and
+tools. For instance, Kandlhofer et al. (2016) designed 10 learning
+activities to teach various AI topics to children using stories, inquiry
+projects, and educational robots. Sakulkueakulsuk et al. (2018) used
+AI challenges to engage children in the game-based projects of
+designing machine-learning models. Williams, Park, and Breazeal
+(2019) and Williams, Park, Oh, and Breazeal (2019) developed a
+robotic platform called “PopBot” and used it in a curriculum of
+teaching children about knowledge-based systems, supervised
+machine learning, and generative music AI. Vartiainen et al. (2020),
+instead, used Google's Teachable Machine as an intelligent agent
+to interact with young children, who have learned to reason about
+machine learning systems. Kewalramani et al. (2021) used AI-
+interfaced toys to promote meaningful interactions between chil-
+dren and these smart toys, which further promoted children's crea-
+tive inquiry skills. Some of the latest research showed that AI
+literacy in ECE programs can enhance children's comprehension of
+basic AI concepts (e.g., Lin et al., 2009; Su & Yang, 2023; Williams,
+Park, & Breazeal, 2019; Williams, Park, Oh, & Breazeal, 2019), with
+some researchers recommending that children should learn AI
+(e.g., Su & Zhong, 2022; Williams, Park, & Breazeal, 2019; Williams,
+Park, Oh, & Breazeal, 2019). These intervention studies also show
+that AI education programs or curricula can engage children in
+acquiring AI literacy and develop their high-order thinking skills.
+However, all these studies were conducted in Western countries,
+without any evidence from the non-Western contexts such as
+China.
+1.3
+|
+Effects of AI literacy education on children's
+perceptions of robots and engineering and science
+attitudes
+AI literacy education, which is the education and training of individ-
+uals in the field of AI, can help children develop a positive attitude
+towards the technology and its potential applications. Studies have
+shown that children who receive AI literacy education have a more
+positive view of robots. For instance, a study by Williams, Park, and
+Breazeal (2019) found that children who participated in AI literacy
+education programs were more likely to view robots as helpful and
+intelligent. Furthermore, they were more likely to believe that robots
+could be used in a variety of different settings, such as in homes,
+schools, and hospitals.
+AI literacy education can also help children develop a positive
+attitude towards engineering and science. For example, a study by
+Zhang et al. (2022) found that middle-school students who partici-
+pated in AI literacy education programs were more likely to view engi-
+neering (AI) as a desirable and rewarding career choice. They were
+also more likely to view science as important and relevant to their
+lives. This is important, as children who have positive attitudes
+towards engineering and science are more likely to pursue careers in
+these fields, which can help to address the shortage of skilled workers
+in these areas. The age of the students and specific content of the
+AI/robotics curriculum may influence whether such education trans-
+lates to changes in attitudes or career interests.
+In summary, while studies on the effects of AI literacy education
+are limited, available research suggests that the nature of children's
+experiences with AI and robots can influence their views of the tech-
+nology and that AI/robotics curricula may potentially boost attitudes
+towards engineering, depending on the age group and program con-
+tent. More studies are needed to generalize findings across ages, cul-
+tures, and types of AI education. Researchers should also explore how
+attitudes or perceptions might translate to eventual choices or behav-
+iours around AI and technical fields. AI literacy is a growing area of
+interest, and better understanding its impacts could help maximize
+benefits and minimize risks as it becomes more prevalent in educa-
+tion. Additionally, future research should consider the implications of
+AI literacy education, such as which types of AI education are most
+beneficial for different age groups, and which types of AI education
+are most likely to lead to positive attitudes and behaviours related to
+AI and engineering.
+1.4
+|
+The present study
+As argued by Yang (2022) in his conceptual article, AI curriculum for
+young children should at least address three fundamental challenges
+to early childhood education, including (1) what to learn—the learning
+content, (2) how to learn—the learning approaches, and (3) why to
+learn—the expected learning outcomes. Since AI education can inte-
+grate various disciplines of knowledge to enrich children's learning in
+this digital era, we aim to know how AI curriculum can be used to
+intentionally support children's learning and development, especially
+in a non-Western context. This will help contribute to the learning
+resources and curricula for early childhood education in non-Western
+countries, since most of the existing programs are designed for K-12
+students in the Western countries. Besides evaluating the feasibility
+of AI literacy education on promoting children's learning using quanti-
+tative data, we also obtained parental perceptions to better under-
+stand the learning experience of children. The following Research
+Questions (RQs) guided this design-based study:
+RQ1. Did the AI learning activities develop child partic-
+ipants' perceptions of robots?
+SU and YANG
+243
+ 13652729, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jcal.12867, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+RQ2. Did the participation in an 8-week AI4KG curric-
+ulum affect children's attitudes towards engineering and
+science?
+RQ3. What were the perceptions of parents towards
+the AI4KG intervention?
+2
+|
+METHODS
+2.1
+|
+Participants
+An AI4KG education program was launched in a Hong Kong kinder-
+garten. A total of 52 participants (26 parents and their 26 children
+aged between 3 and 5) participated in the study. Among the 26 chil-
+dren, 15 were girls and 11 were boys (Table 1). The average age of
+the participants was 4 years old, and the Standard Deviation (SD) was
+0.28 years. None of the children had any prior experience with AI in
+kindergarten or outside of kindergarten. The AI4KG curriculum was
+delivered to both children and parents, with each learning activity last-
+ing approximately 35 min. Due to young children's limited attention
+skills, we did not engage children in a lesson longer than 35 min.
+However, because the activity was provided to child–parent dyads,
+parents were encouraged to continue doing AI activities with their
+children at home.
+2.2
+|
+The intervention: the AI4KG curriculum
+The AI4KG curriculum is implemented using the three AI learning
+tools and a curriculum designed and revised by researchers. The three
+learning tools are Teachable Machine (https://teachablemachine.
+withgoogle.com/), AI for Oceans (https://studio.code.org/s/oceans/
+lessons/1/levels/2), and Quick, Draw! (https://quickdraw.withgoogle.
+com/), which enable children to learn basic machine learning concepts
+and knowledge. Teachable Machine, AI for Oceans, and Quick, Draw!
+are three learning tools used in the AI4KG curriculum to enable pre-
+schoolers to learn basic machine learning concepts and knowledge.
+Teachable Machine is a web-based tool developed by Google, which
+allows users to create their own machine learning models by training
+them with images, sounds, and poses. AI for Oceans is a game-based
+learning tool developed by Code.org, which teaches children about
+the role of AI in protecting marine life. Quick, Draw! is a web-based
+game developed by Google, which challenges players to draw differ-
+ent objects while an AI model guesses what the object is.
+Figure 1 demonstrates the model of using intelligent agents such
+as Teachable Machine to teach machine learning to young children
+(Yang, 2022). The AI4KG curriculum is designed to introduce basic AI
+concepts and knowledge to preschoolers through different learning
+activities, such as play-based and story-based learning. Each of the
+eight lessons in the curriculum focuses on a specific learning objective,
+such as understanding the principles of AI inference or learning about
+the functions of AI robots. The research team has developed an AI
+story (see more details in Lesson 3 below) for children, which facili-
+tates children's understanding of AI robots (their functions and types).
+Also, the program uses a project-based learning method to help
+children better understand the basic machine learning knowledge. For
+example, in Lesson 6, children learn about the classification of recy-
+cling garbage and how to create and train a machine-learning model
+to classify different recycling garbage images. In Lesson 7, children
+learn about the classification of different poses and create a machine-
+learning model based on poses. More details about the activities of
+this AI4KG program can be found below.
+2.2.1
+|
+Lesson 1: The learning journey of little
+AI robot
+Lesson 1 introduced basic AI concepts in a playful way. Two AI activi-
+ties were designed, which aimed to allow children to learn the princi-
+ples of AI inference based on key data/features and identify different
+types of robots used in daily life. Play-based learning method was
+adopted to help children better understand the basic AI knowledge.
+At the end of Lesson 1, children answered the questions “what
+did you learn in this class? and “describe the activities in your own
+words”.
+2.2.2
+|
+Lesson 2: Is AI always right?
+Lesson 2 introduced situations that AI robots may not have encoun-
+tered to illustrate that robots must continue to learn and improve
+through two learning activities. Children were asked to draw their
+own AI robots and give a sharing on their work at the end of
+Lesson 2.
+2.2.3
+|
+Lesson 3: Story activity: My Robot Robbie
+In Lesson 3, children listened to an AI robot story to understand the
+functions of AI robots and how AI robots can help us. And also design
+their own AI robots.
+Children were asked to answer the following questions—“Amy
+found that Robbie was motionless, what should she do?”, “Why is the
+TABLE 1
+Distribution of participants' backgrounds.
+Participants' background
+Number (percentage)
+Gender
+Boys
+11
+Girls
+15
+Age
+3 years old
+1
+4 years old
+24
+5 years old
+1
+244
+SU and YANG
+ 13652729, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jcal.12867, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+robot not able to speak?”, “What kind of help did Robbie the robot
+bring to Amy?”, “Do you like this cute robot?”, “Do you want to have
+it? Why?”
+Story pictures were placed on the desk to help children under-
+stand the different uses and functions of intelligent robots and guide
+them to design symbols that represent robot functions. Children then
+took part in a role-playing activity to experience the fun of intelligent
+robot functions. First, children played the roles of intelligent robots
+Robbie and Amy and acted out the story together. Second, children
+were encouraged to design their own dialogues and actions in the per-
+formance to guide intelligent robots to interact with people in an
+interesting way.
+2.2.4
+|
+Lesson 4: AI for oceans
+Lesson 4 introduced basic machine learning knowledge to children
+through
+playing
+the
+“AI
+for
+Oceans”
+game.
+In
+this
+activity,
+children could differentiate fish from garbage, understand what
+should be found in the ocean, and that human input is required as AI
+robots are not able to classify objects themselves. All children will be
+given a certificate issued by CODE at the end of the activity.
+Children also answered the questions “what did you learn in this
+class? and “do you like to play this game using the AI for
+oceans tool?”
+2.2.5
+|
+Lesson 5: Quick, Draw!
+Lesson 5 introduced children to machine learning concepts and
+their current limitations through games. Children discussed the
+following questions—“what did you learn in this class?”, “do you
+like to play this game using the AI for oceans tool?”, and “how
+many
+correct
+guesses
+did
+AI
+make
+regarding
+the
+pictures
+you drew?”
+2.2.6
+|
+Lesson 6: Teachable machine (images)
+Lesson 6 introduced the classification of recycling garbage, ways of
+creating and training a machine learning model. Children will under-
+stand how to teach a model to classify different recycling garbage
+images in this activity. A project-based learning method was used to
+help
+children
+better
+understand
+the
+basic
+machine
+learning
+knowledge.
+2.2.7
+|
+Lesson 7: Teachable machine (poses)
+Lesson 7 introduced the classification of different poses and provided
+children with an opportunity to create a machine learning model
+based on poses.
+Children answered the questions “what did you learn in this
+class?” and “do you like to play this game using the AI for
+oceans tool?”
+2.2.8
+|
+Lesson 8: Summary
+Lesson 8 summarized all learning modules and invited children to
+share their ideas about AI4KG intervention. For example, children
+talked about their favourite activities.
+2.3
+|
+Instruments
+Quantitative and qualitative data were collected through surveys and
+interviews designed to explore children's perceptions of robots, engi-
+neering and science attitudes, and parents' perceptions of AI4KG
+intervention. Prior to conducting the child assessment, the research
+team provided training to the research assistants (RAs) and subse-
+quently, the first author and RAs read the assessment questions aloud
+FIGURE 1
+The model of
+using intelligent agents to
+demonstrate machine learning to
+young children. © Weipeng
+Yang, 2022. Reproduced with
+permission.
+SU and YANG
+245
+ 13652729, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jcal.12867, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+to the kindergarten children, with either the first author or RAs
+individually presenting each question orally to each child, followed by
+the child's response to each question.
+2.3.1
+|
+Perceptions of robots questionnaire
+The robot perception questionnaire was adopted from Williams,
+Park, & Breazeal, 2019; Williams, Park, Oh, & Breazeal, 2019. This
+study used pre- and post-tests to assess children's perceptions of
+robots. The robot perception questionnaire included five questions
+(pre- and post-tests), such as “Do you agree that robots should follow
+rules or are you neutral about this?”. Druga et al. (2017) and Park
+et al. (2017) have piloted and validated this questionnaire in their
+research with children aged 3–10 years.
+2.3.2
+|
+Engineering and science attitudes
+assessment
+Sullivan's (Sullivan, 2016) study provided the basis for the engineering
+and science attitudes assessment, which was originally developed as
+the “Engineering and Science Attitudes Assessment” by Cunningham
+and Lachapelle (2010) as part of the Engineering is Elementary (EiE)
+program. The assessment has been found to be reliable, with a
+Cronbach's alpha coefficient of 0.798, by the EiE team who developed
+it (Cunningham & Lachapelle, 2010). This study used pre-and post-
+tests to assess children's engineering and science attitudes. For exam-
+ple, the question “Would you like to become an engineer or are you
+neutral about this?” was asked. In this study, questions were asked
+through the Monster Game (Druga et al., 2017). The research team
+initially assessed the children's knowledge of the concept of an “engi-
+neer” by asking them if they were familiar with the term, and if so, to
+describe the role of an engineer, with many children providing
+responses such as “repairing things” which suggests their understand-
+ing of the profession. In cases where children expressed unfamiliarity
+with the term, the team provided examples of professionals who
+could be considered engineers, such as maintenance technicians in
+areas like elevator maintenance and those involved in designing and
+repairing robots. Additionally, the concept of neutrality was explained
+to the children in context of the assessment, wherein they were
+provided with an example of a statement, “I like apples,” and the
+meaning of neutrality was elucidated to indicate a position that is
+neither strongly in favour of, nor opposed to the statement.
+2.3.3
+|
+Parent interviews
+The goal of interviewing is ‘to access the perspective of the person
+being interviewed’ (Patton, 1990, p. 278). In order to achieve this
+goal, the interviews were conversational in tone and consisted of
+standardized open-ended questions. Parents were invited to attend
+the individual interview after class. All parents/guardians were also
+invited for a 15–25-min post-class interview to understand their
+perceptions about AI4KG intervention. The following questions were
+asked: ‘which AI activity do you and your child enjoy the most?’, ‘which
+AI tool do you and your child enjoy playing with the most?’, ‘you and your
+children participated in this K2 AI activity. Which parts do you think need
+improvement or support?’, ‘after your child participated in the AI4KG
+activity, what improvement did they show and what knowledge did they
+gain?’, and ‘if the researchers continue to work on AI activities, will you
+let your child be involved?’
+2.4
+|
+Data analysis
+In order to better understand the three research questions, a mixed-
+methods approach was used to conduct this research study. The
+quantitative instruments include perceptions of robots and engineer-
+ing and science attitude surveys. The qualitative instrument includes
+interviews with parents to understand their perceptions of the AI4KG
+program.
+2.4.1
+|
+Quantitative data analysis
+Statistical analyses were conducted in SPSS. Chi-square was used to
+analyse quantitative data.
+2.4.2
+|
+Qualitative data analysis
+NVivo was used for qualitative data analysis. The first author and
+one RA conducted the interviews and transcribed them. The inter-
+view data was coded separately using the codebook. Discussions
+were held each time after nine interviews had been coded to ensure
+validity.
+The first author and one RA analysed the interview data based on
+thematic analysis. A thematic analysis method was subsequently
+adopted to identify themes from coded segments. According to
+Meuser and Nagel (2009), thematic units were examined rather than
+the order of the participants' statements. An inter-rater agreement
+rate of 0.82 (Cohen's Kappa) was identified in this study, which is
+considered as high.
+3
+|
+RESULTS
+3.1
+|
+Change in children's perceptions of robots
+The pre- and post-tests of kindergarten children's perception exam-
+ined kindergarten children's views of Al robots and how those views
+might
+have
+changed
+after
+AI4KG
+intervention.
+A
+Chi-square
+goodness-of-fit test was used to compare the distribution of children's
+replies in the three options, Agree, Disagree, and Neutral, in order to
+examine their responses in the pre- and post-tests.
+246
+SU and YANG
+ 13652729, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jcal.12867, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+3.1.1
+|
+Pre-test
+A Chi-square goodness of fit test was used among the three groups:
+agree, neutral, and disagree. It was found that kindergarten children's
+responses on four out of five pretest questions were significantly dif-
+ferent from an even distribution (Table 2). Most kindergarten children
+agreed
+with
+the
+statements
+“I
+am
+smarter
+than
+robots”
+(15 children) (χ2 = 9.769, p = 0.008***) and “robots are like toys”
+(15 children) (χ2 = 7.000, p = 0.030**). One child said that unlike
+humans, robots are toys which cannot think. Half of the children dis-
+agreed that robots are like adults (χ2 = 4.692, p = 0.096). Twelve chil-
+dren
+agreed
+that
+robots
+can
+learn
+new
+things
+(χ2 = 7.692,
+p = 0.021**). One child recalled an experience of visiting the science
+museum and finding out that AI robots can chat with people, which
+led to his belief that robots can learn language.
+Most children were neutral about whether or not robots follow rules
+(χ2 = 0.538, p = 0.764). They explained that robots are like toys, which
+do not follow rules. They also thought that robots are not like adults.
+More than half of the children believed that they are smarter than robots.
+3.1.2
+|
+Post-test
+Kindergarten children's post-test views on whether or not robots can
+learn new things (χ2 = 10.692, p = 0.005***) and are like adults
+(χ2 = 8.615, p = 0.013**) significantly changed (Table 3). Most chil-
+dren agreed that robots are like adults after they learn AI. Most
+children said that they want an AI robot that can chat with them, play
+with them, and teach English with them in AI4KG activities. They
+wonder if AI robots can do these things, like adults. However, 11 chil-
+dren still believed that robots are like toys (χ2 = 0.615, p = 0.433)
+after AI4KG intervention. Fourteen children believed that robots
+could learn new things (χ2 = 10.692, p = 0.005). In the AI4KG
+curriculum, children understand AI has limitations and encounters
+new situations it cannot handle. Furthermore, 12 children agreed that
+robots follow rules (χ2 = 2.846, p = 0.241). They think that although
+robots are like adults, they do not need to cross the road.
+3.1.3
+|
+Changes in answers: pretest to post-test
+To examine changes in children's responses between the pretest and
+post-test, a Wilcoxon signed-rank test was conducted for each item.
+The largest changes were observed in children's perception of
+whether or not robots are like adults (χ2 = 8.615, p = 0.013), with
+11 children moving from disagree to agree on this statement, as
+shown in Table 4. Some of the children, especially those aged 4 years
+old, believed that robots are like adults because they can chat and
+play with them like their parents. However, some 3-year-old children
+thought robots are like toys because they cannot pick them up from
+school. The second largest changes were observed in children's opinions
+about robots' ability to learn new things (χ2 = 10.692, p = 0.005), with
+10 children moving from disagree to agree on this statement after the
+AI4KG intervention. During the AI ocean world activity, it was evident
+that the AI robot required human input to recognize different objects as it
+could not perform the task independently. However, eight children
+moved from agree to disagree on this statement as they believed that
+robots are like adults who do not need to learn new things.
+3.2
+|
+Change in children's attitudes towards
+engineering and science
+The pre-and post-tests investigated children's attitudes and ideas
+about
+engineering
+and
+science,
+and
+how
+those
+attitudes
+and
+ideas have changed after AI4KG intervention.
+TABLE 2
+Pretest result (perceptions
+of robots).
+Questions
+Agree
+Neutral
+Disagree
+χ2 (df = 2)
+p
+B1: Robots follow rules
+10
+9
+7
+0.538
+0.764
+B2: I am smarter than robots
+15
+2
+9
+9.769
+0.008**
+B3: Robots are like toys
+15
+6
+5
+7.000
+0.030*
+B4: Robots can learn new things
+12
+2
+12
+7.692
+0.021*
+B5: Robots are like adults
+9
+4
+13
+4.692
+0.096
+*p < 0.05; **p < 0.01.
+TABLE 3
+Post-test result
+(perceptions of robots).
+Questions
+Agree
+Neutral
+Disagree
+χ2 (df = 2)
+p
+B1: Robots follow rules
+12
+9
+5
+2.846
+0.241
+B2: I am smarter than robots
+8
+5
+13
+3.769
+0.152
+B3: Robots are like toys
+11
+0
+15
+0.615
+0.433
+B4: Robots can learn new things
+14
+1
+11
+10.692
+0.005**
+B5: Robots are like adults
+14
+2
+10
+8.615
+0.013*
+*p < 0.05; **p < 0.01.
+SU and YANG
+247
+ 13652729, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jcal.12867, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+3.2.1
+|
+Pretest
+The pre-test results showed that kindergarten children wanted a job
+building new things (χ2 = 3.769, p = 0.152), that they know what engi-
+neers do (χ2 = 1.462, p = 0.482) and that science is closely related to real
+life (χ2 = 0.077, p = 0.962), as shown in Table 5. When being asked the
+question “do you want a job building new things?”, 11 children answered
+in the affirmative. Some children reported that “I went to the science
+museum and saw some interesting robots. I want to build robots to play
+with me.” Nine children reported that they know what engineers do
+(χ2 = 1.462, p = 0.482). Child Choi said his father is an engineer. How-
+ever, children's definitions of what engineers do were very different, rang-
+ing from being responsible for home repair to being a train driver. It is
+rather surprising that a large number of kindergarten children reported
+knowing what engineers do. Nine children reported that science is inextri-
+cably related to real life. It may be that STEM education is an integral part
+of Hong Kong education and that more kindergartens have conducted
+research about STEM in recent years. Only six children agreed that they
+would like a job figuring out how things work (χ2 = 1.231, p = 0.540). It
+is possible that this question was too hard for children to comprehend.
+3.2.2
+|
+Post-test
+In terms of post-test, chi-square analysis showed that most children
+reported
+wanting
+a
+job
+building
+new
+things
+(χ2 = 22.231,
+p = 0.000***). More children knew what engineers do (χ2 = 5.846,
+p = 0.054*) and want to be an engineer after AI4KG intervention
+(χ2 = 0.538, p = 0.764), as shown in Table 6. When asked to describe
+the job of engineers, most children said engineers build AI robots, with
+some of them even expressing that they want to build an AI robot on
+their own. It can be seen that the AI4KG curriculum increased
+children's interest in AI robots.
+However, fewer children (from six to five) said that they would
+like a job figuring out how things work (χ2 = 2.846, p = 0.241). Some
+children mentioned that they did not understand this question since it
+was too complex.
+3.2.3
+|
+Changes in answers: pretest to post-test
+The Wilcoxon signed-rank test did not reveal any significant differ-
+ences between pretest and post-test due to the small sample size of
+only 26 children. However, some noticeable changes were observed
+in the children's desire to pursue a job that involves building new
+things and their understanding of engineers' job duties, as indicated in
+Table 7. Although the AI4KG curriculum did not specifically focus on
+educating children about what engineers do, the intervention seemed
+to have improved their understanding to some extent. However, their
+understanding was limited to the misconception that engineers only
+build AI robots, which might be the reason why some children claimed
+to understand engineers' job nature after the intervention. The most
+noticeable change was observed in the children's desire to pursue a
+job that involves building new things, with 20 children expressing
+interest in doing so after the intervention (only 12 expressed interest
+before the intervention). This may be because the AI4KG curriculum
+exposed them to AI robots, allowed them to create their own robots,
+and taught them about the functions of different robots. Activities
+such as storytelling about AI robots playing, chatting, and teaching
+English to children could have also sparked their interest in pursuing a
+job that involves building new things. However, there were no signifi-
+cant differences in children's responses to the five questions before
+and after the AI4KG curriculum, as shown by the p-values which were
+all above 0.5. Therefore, the AI4KG curriculum did not have any sig-
+nificant effects on kindergarten children's engineering and science
+attitudes.
+TABLE 4
+Changes in answers: pretest to post-test (perceptions of robots).
+Questions
+Agree, neutral
+to disagree
+Disagree neutral to agree
+n
+z
+p
+B1: Robots follow rules
+4
+9
+26
+0.651
+0.515
+B2: I am smarter than robots
+10
+6
+26
+1.031
+0.302
+B3: Robots are like toys
+13
+5
+26
+1.858
+0.063
+B4: Robots can learn new things
+8
+10
+26
+0.455
+0.649
+B5: Robots are like adults
+8
+11
+26
+1.148
+0.251
+TABLE 5
+Pretest results (engineering and science attitudes).
+Questions
+Agree
+Neutral
+Disagree
+χ2 (df = 2)
+p
+A1: Would like to be an engineer
+8
+7
+11
+1.000
+0.607
+A2: Would want a job building new thing
+11
+11
+4
+3.769
+0.152
+A3: Science has a lot of to do with real life
+9
+9
+8
+0.077
+0.962
+A4: I would like a job figuring out how things work
+6
+10
+10
+1.231
+0.540
+A5: I do know what engineers do
+9
+11
+6
+1.462
+0.482
+248
+SU and YANG
+ 13652729, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jcal.12867, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+3.3
+|
+Perceptions of parents towards AI4KG
+To know parents' perceptions of AI4KG intervention, 26 parents
+were invited for a 10- to 15-minute individual interview in
+order to gain insights into their perceptions of the AI4KG
+intervention.
+3.3.1
+|
+The AI activities children and parents
+enjoyed
+Several
+AI
+learning
+activities
+for
+kindergarten
+children
+and
+parents were designed. We asked kindergarten children and
+their parents ‘which learning activities you enjoy most?’. Most
+kindergarten children and their parents answered they preferred
+“AI for Ocean” (13 families), followed by “AI robots' story”
+(six families) and “Teachable Machine” (six families), as shown in
+Table 8.
+Child Ng: I realized that besides being a toy, AI robots
+can also help us do different jobs.
+Child Ko: I like AI robots' story activity because I want
+to have a robot that can play with me.
+3.3.2
+|
+The AI tools children and parents enjoyed
+playing with
+Three AI learning tools were selected for kindergarten children and
+parents, who were asked to explain what their favourite tool was.
+Most kindergarten children and their parents indicated that they
+preferred “AI for Oceans” (13 families), followed by Quick, Draw!
+(11 families), as shown in Table 9.
+3.3.3
+|
+Parents' perceptions about how to improve
+the AI4KG program
+Parents suggested that three areas be improved: curriculum content,
+interaction with children, and Apps (Table 10). Six parents believed that
+the curriculum content required improvement since some of the learning
+content was either too challenging for K2 children or not interesting
+enough. Two parents suggested that the interaction with children needs
+improvement. Two parents suggested the improvement of AI learning
+tools. Examples of parents' statements can be found in Table 10.
+3.3.4
+|
+Improved knowledge, skills, and attitudes
+after the AI4KG program
+Most parents (22 out of 26) agreed that their children's AI knowledge,
+AI skills, and AI attitudes have been enhanced after learning the
+AI4KG program (Table 11).
+TABLE 7
+Changes in answers: pretest to post-test (engineering and science attitudes).
+Questions
+Agree, neutral
+to disagree
+Disagree neutral
+to agree
+n
+z
+p
+A1: Would like to be an engineer
+2
+4
+26
+1.396
+0.163
+A2: Would want a job building new thing
+3
+11
+26
+1.618
+0.106
+A3: Science has a lot of to do with real life
+0
+2
+26
+0.577
+0.564
+A4: I would like a job figuring out how things work
+1
+1
+26
+0.000
+1.000
+A5: I do know what engineers do.
+2
+7
+26
+1.563
+0.118
+TABLE 8
+Kindergarten children and parents enjoying the most
+artificial intelligence (AI) activity.
+Activity
+Frequency
+AI for ocean
+13
+AI robots' story
+6
+Teachable machine (images)
+6
+TABLE 9
+The artificial intelligence (AI) tools children and parents
+enjoy playing with.
+AI tools
+Frequency
+AI for oceans
+13
+Quick, Draw!
+11
+Teachable machine
+2
+TABLE 6
+Post-test results (engineering and science attitudes).
+Question
+Agree
+Neutral
+Disagree
+χ2 (df = 2)
+p
+A1: Would like to be an engineer
+10
+9
+7
+0.538
+0.764
+A2: Would want a job building new thing
+20
+3
+3
+22.231
+0.000***
+A3: Science has a lot of to do with real life
+10
+8
+8
+0.308
+0.857
+A4: I would like a job figuring out how things work
+5
+12
+9
+2.846
+0.241
+A5: I do know what engineers do
+14
+8
+4
+5.846
+0.054
+SU and YANG
+249
+ 13652729, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jcal.12867, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Seventeen parents reported that their children deepened their AI
+knowledge after AI4KG intervention, as shown in Table 11. AI knowl-
+edge includes knowledge about AI robots (eight parents), basic con-
+cepts of AI (seven parents), and AI applications (two parents).
+Three parents mentioned that their children's understanding of
+how AI tools are used has improved through the AI4KG curriculum.
+Examples are shown in Table 11.
+Three parents mentioned that their children's AI attitudes have
+improved after AI4KG intervention. See examples shown in Table 11.
+3.3.5
+|
+Course satisfaction
+The last question in the interview with parents was “if the researchers
+continue to conduct AI activities in kindergarten, will you let your children
+attend this project?”. Many parents (22 parents) answered in the
+affirmative.
+Parent Ng: AI is now an important topic, so I hope my children
+can learn more about this.
+Parent Cheng: My child likes AI robots so I will let him join the AI
+project again.
+Parent Choi: My son realized that robots are not only toys, but
+also tools that can help us do many things.
+4
+|
+DISCUSSION
+The popularity of AI literacy programs has been growing recently.
+Most AI literacy programs focus on secondary and higher education.
+Few research studies examined AI literacy education in early child-
+hood contexts (Su & Zhong, 2022). The AI4KG education program,
+which is believed to be the first AI literacy program in Hong Kong kin-
+dergartens, was launched in this study. A total of 26 child–parent
+TABLE 11
+Improved knowledge, skills, and attitudes after the AI4KG program.
+Theme
+Sub-theme
+Examples
+Frequency
+AI knowledge
+Knowledge about AI robots
+Parent Lee: My child understands various types of AI
+robots through the AI4KG course.
+8
+Parent Ou: My children understand that robots can
+perform various functions of learning, cleaning, and
+entertainment.
+Parent Ng: My child knows that AI robots are not only
+toys, but also tools that can help us do different jobs.
+Basic concepts of AI
+Parent Huang: My child knows more about what AI is,
+such as how it works, after attending the AI4KG
+course.
+7
+Parent Choi: My children know what AI is and have a
+preliminary understanding of AI knowledge after
+learning AI.
+AI applications
+Parent Ding: My child understands many AI
+applications in daily life, such as self-driving cars
+and Siri.
+2
+AI skills
+AI tools
+Parent Xian: My child understands that inputting data
+helps robots distinguish objects.
+3
+Parent Choi: My child is able to teach computers to
+recognize recycled materials after the AI4KG course.
+AI Attitudes
+Bias
+My kids know that AI has biases (Parents Ng and
+Cheng).
+2
+TABLE 10
+Parents' perceptions about how to improve the AI4KG
+program.
+Theme
+Examples
+Frequency
+Curriculum
+content
+I think you need to design more
+interesting activities to attract
+children to participate. (Parent Lee)
+6
+I think more support is required to carry
+out more AI courses and more
+outdoor AI activities can be held to
+provide real-life learning experience.
+(Parent Lam)
+AI content can be richer and more
+interesting. For example, more
+cartoons can be put on the PPT,
+which can attract children to learn.
+(Parent Lee)
+Interaction
+with
+children
+I suggest more interaction with
+children. Explanations might also be
+made simpler (Parent Chong).
+2
+Increased interaction can make
+activities more fun (Parent Xian)
+Apps
+I recommended that the app be used
+on different devices, because
+teachable machine apps are not
+supported on my iPad (Parents Chan
+and Wong).
+2
+250
+SU and YANG
+ 13652729, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jcal.12867, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+dyads were involved. This is a mixed-methods study that includes
+quantitative (interviews with parents) and qualitative methods (per-
+ceptions of robots and engineering and science attitudes assessments)
+to explore the feasibility of an AI literacy curriculum in the early child-
+hood settings.
+In response to RQ1 and RQ2, children's opinions about whether
+robots are like adults changed the most drastically (χ2 = 8.615,
+p = 0.013), with significantly more children explaining that they
+believe robots are similar to adults in the post-test than the pre-test.
+This change may be attributed to the AI robot story children read dur-
+ing the program, which introduced robots that can not only play with
+and cook for children, but also teach them English and pick them up
+from school. It is believed that these actions are comparable to those
+performed by adults in real life. Likewise, Williams (2018) reported
+that the most significant attitudinal change was associated with the
+statement “robots are smarter than me.”, with 11 children selecting
+their question from disagree, neutral to agree. However, in a study
+with older children (fifth grade), children's reported perceptions of
+robots tended to over expect the ability of robots (Lin et al., 2009). In
+the engineering and science attitudes assessment, the most remark-
+able change was found to be related to the statement “I want a job
+that involves building new things.”, with 11 children selecting this
+statement from disagree, neutral to agree. This shows that children
+became
+interested
+in
+AI
+robots
+and
+engineering
+after
+AI4KG
+intervention.
+In relation to RQ2, the finding that the AI4KG curriculum had no
+significant effects on kindergarten children's overall engineering and
+science attitudes is a surprising result. It is possible that the curriculum
+was not designed specifically to target these attitudes, and therefore
+was not effective in changing them. Alternatively, the curriculum may
+have had some impact on children's attitudes, but the measurement
+tool used in the study was not sensitive enough to detect these
+changes. In a study with older children, students who completed the
+Engineering is Elementary (EiE) curriculum showed significantly more
+interest in engineering jobs and skills, and reported a higher likelihood
+of pursuing an engineering career than students who were not
+exposed to the EiE materials (Cunningham & Lachapelle, 2010).
+Further research is needed to develop measurements that are age-
+sensitive, valid, and reliable for assessing kindergarten children's engi-
+neering and science attitudes and to identify potential areas for
+improvement in the AI curriculum.
+Despite the lack of significant effects on engineering and science
+attitudes, the positive feedback from parents is encouraging. The
+results of the RQ3 indicated that the AI4KG program was successful
+in educating children about AI and fostering favourable attitudes
+towards the technology, as 22 out of 26 parents agreed that their chil-
+dren's AI knowledge, skills, and attitudes had improved after partici-
+pating in the program. This is an important outcome, as it indicates
+that the AI4KG curriculum may be an effective tool for promoting
+children's AI literacy and preparing them for future careers in STEM
+fields, as supported by Yang's (2022) theoretical arguments. Early
+exposure to AI concepts and skills can increase children's digital liter-
+acy and STEM habits of mind, which would further enhance the digital
+equity in education and the society (Yang, 2022). Further research is
+needed to confirm these positive effects and to explore the long-term
+impact of the AI4KG program on children's education and career
+paths.
+4.1
+|
+Implications for future research
+The curriculum design of this study provides concrete examples for
+early childhood researchers as a reference. The results of the three
+assessment methods could serve as a reference for researchers who
+want to evaluate the effectiveness of AI education programs in early
+childhood settings. Furthermore, parents' perceptions about AI4KG
+intervention often point to some challenges of developing an AI liter-
+acy program. An understanding of these impediments could facilitate
+the creation of a quality AI literacy program which caters for students'
+needs and addresses parents' concerns.
+4.2
+|
+Implications for policymaking
+Policymakers should consider incorporating AI literacy courses into
+the kindergarten curriculum. Given the complexity of AI knowledge, it
+is understandable as to why people take the view that kindergarteners
+should not be expected to understand AI concepts. Yet, this study
+shows that young children are able to understand basic AI concepts
+and deepen their understanding of AI through the AI4KG curriculum.
+Not only do they gain AI knowledge, positive changes in their atti-
+tudes towards engineering and science, as well as perceptions of AI
+robots are also noted. Learning about AI in kindergartens is not a com-
+mon practice in Hong Kong as there are currently no policies requiring
+the implementation of AI education in ECE contexts. In view of the
+findings of this study, changes to the curriculum may need to be made
+to nurture a generation that is able to cope with the demands in the
+21st century, an era in which the use of technology is ubiquitous.
+4.3
+|
+Limitations
+There are several limitations in this study. First, this preliminary study
+has a relatively small sample size to evaluate the feasibility of the
+AI4KG program. Therefore, the findings regarding the significant
+effects of the intervention on children's perceptions and/or attitudes
+should be generalized to other populations with caution. Second, this
+intervention study did not include a control group for comparing the
+effects on children's perceptions and attitudes. In the future, a more
+rigorous experimental design employing a comparison group should
+be used to verify the findings of this preliminary study, which has
+been also argued by Li et al. (2021) for researching and promoting
+good practices in early STEM education. Third, the data was only
+derived from assessments and interviews. Researchers may consider
+conducting observations with children to understand whether their
+social and communication skills can be enhanced through an AI
+SU and YANG
+251
+ 13652729, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jcal.12867, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+literacy program. Fourth, the study is limited by the fact that the valid-
+ity and reliability of the two instruments used to evaluate children's
+engineering and science attitudes and robot perceptions need further
+evidence. Lastly, only kindergarteners were recruited as participants.
+Further research could be conducted to examine the effects of AI lit-
+eracy programs on the AI literacy of both kindergarteners and lower
+primary students. While the AI4KG curriculum is designed for pre-
+schoolers, it is important to note that each child's learning capabilities
+may differ. The suitability of the AI4KG curriculum for preschoolers
+may depend on their individual learning abilities and interests. How-
+ever, the use of play-based and story-based learning strategies, as well
+as project-based learning, can make it more engaging and accessible
+for preschoolers.
+AUTHOR CONTRIBUTIONS
+Jiahong Su: Conceptualization, Methodology, Formal analysis, Data
+curation, Writing - Original draft preparation, Writing - Review & Edit-
+ing, Visualization. Weipeng Yang: Writing - Original draft preparation,
+Writing - Review & Editing.
+CONFLICT OF INTEREST STATEMENT
+The authors declare no conflict of interest.
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available from the
+corresponding author upon reasonable request.
+ORCID
+Jiahong Su
+https://orcid.org/0000-0002-9681-7677
+Weipeng Yang
+https://orcid.org/0000-0002-8057-2863

@@ -1,0 +1,604 @@
+https://doi.org/10.1177/0044118X20982314
+Youth & Society
+2022, Vol. 54(4) 593 –610
+© The Author(s) 2020
+Article reuse guidelines:
+sagepub.com/journals-permissions 
+DOI: 10.1177/0044118X20982314
+journals.sagepub.com/home/yas
+Article
+‘It’s About the Way 
+I’m Treated’: Afro-
+Latina Black Identity 
+Development in the 
+Third Space
+Jomaira Salas Pujols1
+Abstract
+Through an ethnographic study of an afterschool program serving girls of 
+color in the New York City metro area, this study examines how girls who 
+are ethically Latina and racially Black embrace and articulate AfroLatinx 
+identity. It asks, what are the contexts and institutional processes that 
+facilitate the development of a Black identity among Latina youth? I find 
+that while the Latinx home and school contexts produce a mestiza identity 
+that erases and subjugates Blackness, study participants find viable and 
+affirming representations of Afro-Latinidad through their participation in 
+this afterschool program. Specifically, I argue that the programs’ Black staff 
+members and social justice-centered curriculum produces an increased 
+identification with Blackness among Latina youth. Understanding how 
+Afro-Latina girls learn to embrace their Black identity challenges us to 
+examine how to leverage curriculum and pedagogy to affirm the racial 
+identities of all Black girls.
+Keywords
+education, racial/ethnic identity, identity, race/ethnicity, Latino
+1Rutgers University, New Brunswick, NJ, USA
+Corresponding Author:
+Jomaira Salas Pujols, Department of Sociology, Rutgers University, 26 Nichol Avenue, New 
+Brunswick, NJ 08901-8554, USA. 
+Email: jomairasalas@gmail.com
+982314 YASXXX10.1177/0044118X20982314Youth & SocietySalas Pujols
+review-article2020
+594 
+Youth & Society 54(4)
+Introduction: On the Production of an Afro-Latina 
+Youth Identity
+The big chart paper in the front of the room read,
+“we don’t know what afro-latino is because schools only teach that there is 
+only black, white or latinos. They don’t teach where they intersect. There are 
+different types of Black, culturally (caribbean, african).”
+I must have been helping another group when the students wrote this 
+because by the time I saw it they had moved on to another prompt. It was a 
+typical hot summer day alleviated by the fact that we held our workshops in 
+a basement. Still, the lack of sunlight made it difficult to keep track of time. 
+“Alright let’s come back together y’all” I said, as the girls put down their 
+markers and made their way to a circle of chairs arranged in the middle of 
+the room. I had been leading a workshop where they could learn about 
+Black artists and activists that are seldom taught in schools. Among Black 
+figures like Audre Lorde I had included Miriam Jiménez Román, the co-
+founder of the Afro-Latin@ Forum, along with the prompt: “What do you 
+know about Afro-Latinidad?” As I watched them grapple with this ques-
+tion, it was immediately clear that the majority of nashers, as we call par-
+ticipants—all of them only a couple of days into our summer program—were 
+not familiar with the term.
+As a facilitator at the Sadie Nash Leadership Project, a community-based 
+organization serving high-school aged girls and gender-expansive youth of 
+color, I became curious about how the young people made sense of their 
+racial identity. Specifically, I began to wonder why some nashers who were 
+phenotypically Black and ethnically Latinx left the program self-identifying 
+as Afro-Latinx, even if they were not previously familiar with the term. 
+Miriam Jiménez Román and Juan Flores define Afro-Latinx identity as “those 
+Latin@s of visible or self-proclaimed African descent” (Jiménez Román & 
+Flores, 2010, p. 4). This suggests that regardless of whether Latinxs racially 
+identity as Black, those with visible Black phenotypes navigate the world as 
+Afro-Latinxs. This is increasingly important in the study of identity and 
+inequality within Latinx communities, since social scientists agree that 
+although race is socially constructed, its meaning has real consequences for 
+how people move through the world (Omi & Winant, 1994). After complet-
+ing Sadie Nash programming, the Latinx nashers in this study seemed to 
+adopt this definition of Afro-Latinidad and Black Latinidad—terms I use 
+interchangeably to refer to the embodied experience of navigating the world 
+as a Black Latinx.
+Salas Pujols 
+595
+Anti-Blackness is endemic to every institution in the United States 
+(Hartman, 1997; Wilderson, 2010). Yet, its pervasiveness is not restricted 
+to U.S. borders, as scholars have demonstrated how legacies of coloniza-
+tion and imperialism in Latin America have made anti-Blackness a foun-
+dational aspect of Latinx identity formation (Jiménez Román & Flores, 
+2010). Research has long documented how Latinx households maintain 
+the ideology of mestizaje, or race mixing (Wade, 1993), through practices 
+that encourage young people to reject Black identity (Hordge-Freeman & 
+Veras, 2019). Afro-Latinx youth then, encounter anti-Blackness every-
+where, from schools (Dumas, 2016), to the home (Cruz-Janzen, 2001), to 
+the neighborhoods they live in (Shedd, 2015). So, what is it about the 
+particular context of Sadie Nash that produces an increased identification 
+with Blackness among Latina youth?
+I take up this question in a study of how multiple educational contexts 
+inform the racial identities of Afro-Latina girls ages 15 to 20. Through an 
+ethnographic study of 20 Afro-Latinas at Sadie Nash, I examine how this 
+community-based educational space (CBES) promotes the Black Latinx 
+identity development of high school-aged Latinas. Specifically, I draw on 
+previous work on CBES (Baldridge, 2019; Brown, 2013; Ginwright, 2007; 
+Gutiérrez, 2008) to show how Sadie Nash’s position as a CBES, allows it 
+to contextualize and affirm Black Latinx identity in ways that Latinx fami-
+lies and NYC and Newark public schools often fail to do. I argue that the 
+development of a positive Afro-Latinx identity has critical implications for 
+the healthy adolescent development of these girls, as they learn to valorize 
+and celebrate an identity they already embody (Jiménéz Román & Flores, 
+2010; Llorens, 2018). Additionally, I argue that Afro-Latina girls who 
+embrace and are proud of their Black identity are better positioned to chal-
+lenge anti-Blackness and engage in their own projects of Black Latina 
+girlhood self-makings.
+Blackness as a Problem for Latinidad
+Mestizaje is a pervasive and enduring factor in Latin American racial ideol-
+ogy. Although narratives of mestizaje claim that Latinxs have “transcended” 
+race to become a “perfect mix” of white, Black, and “Indio,” it remains a 
+deeply hierarchical system, one where blanqueamiento or racial whitening, is 
+privileged (Wade, 1993, p. 21). Due to the privileging of the white mestizo, 
+Black Latinxs in Latin America often exist outside the borders of Latinidad. 
+For example, scholars have documented how Black Latinxs are often assumed 
+to be migrants who come from elsewhere (the coasts, the Caribbean, Haiti), 
+and never fully Latinx (Hernández, 2003; Llorens, 2018). As a result, studies 
+596 
+Youth & Society 54(4)
+show that many Latinxs reject Black/white racial categories in favor of a 
+racialized “Latinx” category even as the U.S. Census insists that Latinx is an 
+ethnicity (Roth, 2012).
+When trying to make sense of Latinx racial identity, it is important to 
+account for how colonial and imperial legacies have shaped racial projects in 
+Latin America. For example, in the Dominican Republic, national elites pur-
+posefully distanced the nation from Haiti in order to avert the sanctions and 
+surveillance enacted on the first free Black nation (Garcia-Peña, 2016). The 
+Dominican national project then, has relied on the covert and overt suppres-
+sion of Blackness for its full realization (Garcia-Peña, 2016). The conse-
+quences of mestizaje racial projects like those found in the Dominican 
+Republic make Blackness an often unviable, undesirable, and dangerous 
+racial category for Latinxs.
+In response, mestiza identity is carefully constructed in the Latinx home 
+through messages about “bettering the race” (Hordge-Freeman & Veras, 
+2019; Jiménez Román & Flores, 2010) and informal lessons about personal 
+grooming and relationship choices (Candelario, 2007; Cruz-Janzen, 2001). 
+Yet, despite these enduring practices, some Latinx do claim and value their 
+Blackness. Scholarship suggests that education, and in particular, conscienti-
+zation campaigns can help foster Black identity among Latinxs (Llorens, 
+2018). For some Latinxs, educational spaces like universities can be places 
+where they explore Black Latinidad and challenge the myth of mestizaje 
+(Haywood, 2017; García-Louis, 2020; Hordge-Freeman & Veras, 2019). Yet, 
+the realities of the U.S. education system suggest that Afro-Latinxs are also 
+likely to encounter these anti-Black messages at school.
+Anti-Blackness and Identity Development in 
+Schools
+Christina Sharpe argues that anti-Blackness is so inescapable that it is “as 
+pervasive as the climate” (Sharpe, 2016, pp. 104–106). Although non-Black 
+Latinxs confront racism in the United States, this racism is different from the 
+anti-Black racism experienced by Black people, including Black Latinxs, due 
+to the construction of Blackness as outside of humanity (Hartman, 1997; 
+Wilderson, 2010). This construction of Blackness as non-human means that 
+Black people are always assumed to be property that needs to be disciplined, 
+technologies that are disproportionately applied to Black youth in education 
+(Dumas & Ross, 2016; Shange, 2019). Black youth, for example, encounter 
+culturally irrelevant curriculums (Ladson-Billings, 1995) and disproportion-
+ate punishment and surveillance (Shange, 2019; Shedd, 2015) in schools, 
+facing so many insidious and alarming technologies of anti-Blackness that 
+Salas Pujols 
+597
+Dumas has theorized schools as “sites of Black suffering” where “the Black 
+is constructed as always already problem—as nonhuman; inherently unedu-
+cable, or at very least, unworthy of education” (Dumas, 2016, p. 16). This 
+positioning of anti-Blackness as foundational to educational policy and prac-
+tice has had devastating consequences for Black students, and as I later argue, 
+for the Black racial identity of Afro-Latina girls.
+If young people primarily draw from their home and schooling experi-
+ences to develop their racial and ethnic identities (Umaña-Taylor et al., 
+2014), what lessons about the meaning and value of Black identity are they 
+taught in schools? Ruth Nicole Brown argues that Black girls experience 
+“pervasive nonrecognition” in schools, where compliance is valued above 
+all else (Brown, 2013, p. 100). In this context, Black girls learn to attach 
+negative meaning to their Blackness, where their identities are always 
+dehumanized.
+Yet, Black youth don’t only navigate schools, they also draw from their 
+experiences in other spaces to make sense of their Blackness. In her study of 
+West Indian girls in New York City, Oneka LaBennett argues that participants 
+draw from their experiences in different museums to understand the racial 
+landscape of the city, where “white” museums are better resourced than the 
+ones in their Black neighborhoods (LaBennett, 2011). Anti-Blackness then, 
+becomes a primary lens through which Black youth are forced to make sense 
+of their Black identity, and yet, they can also draw from other experiences to 
+negotiate, resist, and developing affirming alternative narratives.
+Fostering Critical Consciousness in Third Spaces
+The “third space” refers to spaces where students and adults draw on their 
+own experiences to co-create positive learning environments centered on col-
+laboration (Gutiérrez, 2008). Typically envisioned as “third spaces” CBES 
+function differently than schools because they are not always subjected to the 
+same strict curriculums (Eccles & Gootman, 2002; Gutiérrez, 2008; Rogoff 
+et al., 2016). As a result, many youth of color turn to CBES as alternatives to 
+the racist and anti-Black practices found in schools (Baldridge, 2019; 
+Ginwright, 2007). Although the landscape of youth programs can vary 
+greatly, with some CBES engaging in neoliberal practices (Baldridge, 2019), 
+others attempt to disrupt racist patterns by fostering the “critical conscious-
+ness” of youth of color (Ginwright & Cammarota, 2002; Kwon, 2008; 
+Ventura, 2017). Freire (1996) defined “conscientizacao” or consciousness as 
+the ability to “perceive oppression not as a closed world from which there is 
+no exit, but as a limiting situation which they can transform” (p. 31). For 
+Black youth in particular, critical consciousness becomes an important 
+598 
+Youth & Society 54(4)
+pathway to critique systems of oppression and tap into their agency to pro-
+mote social change (Ginwright, 2007).
+CBES are uniquely positioned to function as third spaces because they 
+have more curricular flexibility than schools, offering staff members more 
+latitude in curriculum development, more time to dedicate to informal check-
+ins with young people, and less emphasis on controlling student movement 
+(Rogoff et al., 2016). CBES are also well-positioned to foster positive rela-
+tionships between peers (Wiggins, 2018) and to enact practices that allow 
+them to foster “authentic youth-adult partnerships” (Medina et al., 2020).
+When Black youth develop a critical consciousness, “politicized racial 
+identities” also emerge (Ginwright, 2007, pp. 412, 413). As they reframe 
+“personal challenges into political issues” Ginwright writes, Black youth feel 
+empowered to “critique and resist the status quo” (Ginwright, 2007, p. 413). 
+Considering the multitude of anti-Black messages and practices Black youth 
+encounter, CBES that foster critical consciousness can offer young people 
+affirming narratives about Black identity. For Afro-Latinxs youth who grow 
+up with the ideology of mestizaje at home and experience anti-Blackness at 
+school, these third spaces offer critical insight into how different educational 
+contexts produce specific racial identities.
+Methods
+Fieldsite
+As soon as you enter Sadie Nash, you realize that you’re not in school. The 
+walls are filled with posters from past workshops. An image with the words 
+“Free Bresha” referencing Bresha Meadows, a Black girl who was incarcer-
+ated for killing her abusive father, is prominently displayed in the Newark 
+office. The chairs are set up in a circle, with a few cushions and blankets 
+mixed in for those that prefer to sit on the floor. The Sadie Nash Leadership 
+Project, a CBES serving teenage girls and gender expansive youth of color in 
+New York City and Newark, New Jersey was founded with the goal of pro-
+moting leadership and social justice activism among high school-aged youth. 
+Through five core programs, Sadie Nash staff foster the critical conscious-
+ness of participants by conducting workshops where nashers learn about how 
+issues of power, racism, and heterosexism impact their lives. At the end of 
+every program, nashers create their own social justice projects where they 
+address these issues in their communities. Staff and volunteers are also 
+trained in these core principles of critical consciousness and activism through 
+workshops and professional development trainings. Most critically, these 
+adults are encouraged to tap into their own experiences so that they can 
+Salas Pujols 
+599
+co-foster an environment centered around the power and knowledge already 
+held by young people. This attention to critical consciousness and activism 
+places Sadie Nash among a small group of CBES that encourage young peo-
+ple to critique and dismantle the oppressive systems that shape their lives 
+(Baldridge, 2019; Ginwright & Cammarota, 2002).
+Data for this study come from weekly participant observations of Sadie 
+Nash programming in Newark and NYC. Specifically, I gathered data on its 
+Sisterhood and Summer Institute programs because they serve as nashers’ 
+first entry point into the organization. During the school year, a group of 15 
+to 20 young people who join Sisterhood meet once a week for 2 hours to dis-
+cuss topics related to power, inequality, and social justice. In the summer, 
+Summer Institute runs for 6-weeks but meets every weekday. Here two 
+cohorts of 15 nashers participate in a core class whose curriculum overlaps 
+with the Sisterhood curriculum. Although all Sadie Nash workshops have one 
+facilitator and a “dean,” who is a typically a college student, co-lead these 
+sessions, I became the third co-facilitator in these spaces while collecting 
+data for this study.
+Positionality
+As a young, Black, light-skin Latina with a Spanish accent, nashers often 
+came to me with questions or thoughts about Afro-Latinidad. This triple iden-
+tity of researcher, co-facilitator, and Black Latina had important implications 
+for my fieldwork. I knew that my identity coupled with my existing role as a 
+volunteer at Sadie Nash meant that I couldn’t, as Aimee Cox describes, “just 
+sit there and take notes” (Cox, 2015, p. 35). This meant being an active co-
+facilitator by helping lead activities, set up and clean up the room, and engag-
+ing in informal conversations with nashers. Additionally, recognizing how 
+often researchers enter field sites with the idea that they are “saving” com-
+munities, I paid close attention to how my weekly trips to Sadie Nash helped 
+me cope with and navigate my own graduate school experiences. As Ruth 
+Nicole Brown argues, my research wasn’t about “saving the girls” but about 
+“saving [my]self” (Brown, 2013, p. 43). Being in this in-between space of 
+researcher and Black girl, meant taking responsibility not only for accurate 
+data collection but also for co-creating a space where Black girls, including 
+myself, could authentically show up.
+Participants
+Taking up the definition of Afro-Latinxs as “those Latin@s of visible or self-
+proclaimed African descent” (Jiménez Román & Flores, 2010, p. 4), I 
+600 
+Youth & Society 54(4)
+recruited study participants through a two-tier process. First, I asked for con-
+sent and assent forms from all nashers. This allowed me to record observa-
+tions from Latina youth who did and did not identify as Black at the beginning 
+of the program. Months later, I recruited interview participants who self-
+identified as Black Latina or Afro-Latina. I use the terms Black Latina and 
+Afro-Latina interchangeably because they refer to people who are both Black 
+and Latinx and because these are the terms that nashers and staff members 
+used to refer to Black Latinx people.
+In total, 14 interviewees were current program participants while six were 
+recent Sadie Nash alumni. Additionally, 13 participated in Sadie Nash’s New 
+York City office while seven were from Newark. All but two participants had 
+parents who were both Latinxs (the others had one African American and one 
+Latinx parent) and eleven identified as Dominican, seven as Puerto Rican, 
+one Panamanian, and one Colombian. I use pseudonyms throughout this 
+paper to protect the anonymity of all participants, including nashers and staff 
+members.
+Data collection and analysis. In addition to ethnographic observations, I also 
+collected and analyzed workshop materials such as concept maps where 
+nashers brainstormed their ideas about race. Additionally, I conducted in-
+depth interviews with 20 Sadie Nash participants and alumni. These inter-
+views gave me an opportunity to inquire about observations or patterns 
+observed in the field. All field notes, workshop materials, and interviews 
+were analyzed using flexible coding methods in NVivo (Deterding & 
+Waters, 2018). I then categorized these codes into sub-themes based on 
+repetition and salience.
+Limitations
+Previous research shows how particular places “produce” certain types of 
+racial and ethnic identities and the NYC metro area is no different due to its 
+position as a place of encounter for many Black ethnic groups (Hunter & 
+Robinson, 2018; LaBennett, 2011). The NYC metro area boasts a vibrant and 
+diverse Latinx population. In addition to having significant Afro-Latinxs 
+(Jiménez Román & Flores, 2010), residential segregation also means that 
+these groups are likely to live amongst and go to school with African 
+Americans and West Indians, leading Afro-Latinx youth to grow up in diverse 
+Black cultural contexts (Ramos-Zayas, 2007). Because of these regional par-
+ticularities, I do not claim that this study is generalizable to all Latinxs. 
+Instead, my goal is to highlight the particular contexts in which Afro-Latinx 
+identity emerges in NYC and Newark and to examine why Latina youth who 
+Salas Pujols 
+601
+grow up in these cities do not articulate Black Latinx identity until they arrive 
+at Sadie Nash. Additionally, while this study is not generalizable to non-
+Black Latinx youth, it offers insight into the experiences of a group that has 
+been understudied in Latinx literature: Afro-Latina girls.
+Findings
+Becoming Mestiza in the Latinx Home
+The Latinx household is an important place where narratives of mestizaje and 
+anti-Blackness are constructed, as Latinx youth are taught to straighten their 
+hair, stay away from the sun, and choose romantic partners in ways that “bet-
+ter the race” (Hordge-Freeman & Veras, 2019; Llorens, 2018). For the nash-
+ers in this study, growing up in a Latinx household meant learning to become 
+mestiza through grooming practices and informal lessons about Blackness 
+always existing elsewhere. For example, many of the girls described feeling 
+pressure to style their hair in ways that hid their Black features,
+“Oh and when I decided that I wouldn’t straighten my hair anymore it was a 
+problem. Scandalous [laughs]. My mom told me that I was embarrassing 
+her. . . every time I would wear braids it was a problem.”
+When Julissa began wearing her hair natural, her mother framed it as a trans-
+gression of Latinx beauty norms. Because hair is a critical part of how 
+Latinxs “do” mestizaje (Candelario, 2007), the young women in this study 
+encountered extensive criticism from their families if they did not conform 
+to beauty practices that hid their Blackness. In these families, “doing” their 
+hair correctly meant, as Kara said, “hiding the kinks.” It is through these 
+grooming practices, a pivotal ritual in Black girls’ experiences growing up 
+that the Latina girls in this study learned that to become mestiza you had to 
+become non-Black.
+Interviews with nashers also reveal that disidentification with Blackness is 
+taught through informal family conversations where Latinxs youth learn to 
+distance themselves from Black identity. For example, Barbara, the daughter 
+of an African American mother and Dominican father recalls how some fam-
+ily members implied that she was not Latina enough because her mother is 
+African American,
+“My dad’s side has always just—they just identify as Dominican . . . And when 
+I would come around they would make comments about my hair, or like the 
+fact that my older sister is lighter skinned than me . . . even though some of 
+them are the same or even darker than me [laughs]”
+602 
+Youth & Society 54(4)
+Barbara illustrates how Black identity is framed as always outside of the 
+perimeters of Latinidad regardless of what one looks like (Llorens, 2018). 
+Dominican scholars have argued that colonial and imperial ideologies encour-
+age misidentification with Black racial identity even among Dominicans who 
+are phenotypically Black (Garcia-Peña, 2016). Hearing negative comments 
+about her racial features from family members who “were darker than [her]” 
+teaches young people like Barbara that you can look Black and still reject 
+Black identity.
+Jessica, a Dominican-American also described how her parents empha-
+sized racial distinctions between themselves and other Black ethnic groups, 
+“yeah my family was always very anti-Black. . .they always told me that I 
+was like [pause] separate from Haitians or other Black people on our block.” 
+Jessica’s reflection is representative of the mestizo ideologies that purpose-
+fully distance Dominicans from Haitians, even as these groups share many 
+phenotypical and cultural traits (García-Peña, 2016). Through these informal 
+lessons, Latina youth like Jessica and Barbara learn to create distance between 
+themselves and other Black groups, learning that Black Latinidad is an 
+impossible and unviable racial category.
+From the Kitchen Table to the Classroom: Invisibilizing Black 
+Latinidad in Schools
+Interviews with nashers reveal that schools reinforced these racial ideolo-
+gies through the silencing of Afro-Latinidad in the curriculum. Research 
+has long documented how the lack of culturally relevant curriculum in 
+urban schools (Ladson-Billings, 1995) and increased focus on testing 
+(Sojoyner, 2016) has deleterious effects on the academic engagement of 
+Black youth by erasing their own histories from the curriculum. I extend 
+these arguments by arguing that the lack of exposure to Black culture, his-
+tory, and identity in urban schools also has implications for Black racial 
+formation of Afro-Latina girls.
+Nashers in NYC and Newark reported never having learned about 
+Afro-Latinx figures, histories of Black people in Latin America, or Black 
+Latinx issues in school. It is through these silences of Afro-Latinx iden-
+tity in the curriculum that schools played a role in the production of a 
+de-racialized Latinx identity. For example, when I asked nashers to talk 
+about how their social justice perceptions might overlap with those of 
+their peers at school Marisa, a light skin Afro-Latina, and Farah, the 
+daughter of West African immigrants, quickly jumped in to recount an 
+argument between her peers,
+Salas Pujols 
+603
+“yeah, they told [our friend] that she can’t speak on colorism or racism cause 
+she’s Dominican. . .and like that kinda stuff makes me so mad because her 
+nationality has nothing to do with her race.”
+Farah mentions that nationality “has nothing to do with [] race” to argue 
+that her peers should understand why her Dominican friend has the author-
+ity to speak about racism. Probing further, I asked why they thought that 
+their peers had different viewpoints on race and ethnicity than they did, 
+Marisa responded,
+“[students] are taught to just focus on the strict curriculum and to avoid thinking 
+outside of the lines. . . [the curriculum] is not flexible. . . so[students] don’t 
+engage with the type of stuff (implying social justice issues) that we do here.”
+Marisa critiques the narrow school curriculum for not exposing her peers to 
+social justice issues that might promote more nuanced understandings of race 
+and ethnicity. Specifically, she emphasizes that her school has not taught 
+them to recognize that you can be Black and Dominican. By differentiating 
+what they learn at Sadie Nash (social justice) from what they learn at school 
+(“strict curriculum”), Farah and Marisa underscore previous research that 
+argues that CBES can affirm the racialized identities of young people through 
+more flexible and culturally-aware curriculum (Ginwright, & Cammarota, 
+2002; Kwon, 2008).
+Even when schools do engage with the histories and contexts of Black 
+identity, they tend to do so through dehumanizing lenses (Dumas & ross, 
+2016). “All we learned about was slavery” Chanice, an NYC nasher said, “we 
+never learned about like the activists and the people who created change.” 
+Here Chanice uncovers an important process through which schools dehu-
+manize Black students’ identities. When schools barely incorporate Blackness 
+into the curriculum except for a few token stories of Black oppression, they 
+teach students that Black identity is undesirable and marginal. For Afro-
+Latina girls, these lessons underscore the invisibility and negation of 
+Blackness that they encounter at home further promoting their disidentifica-
+tion with Black Latinidad.
+Articulating Afro-Latinx Identity at Sadie Nash
+In New York City alone more than 10.2 million children and young adults are 
+involved in CBES, with Black and Latinx students being more likely to enroll 
+than other youth (Afterschool Alliance, 2019; Afterschool Alliance, 2013). In 
+what follows I analyze how Sadie Nash’s position as a third space enabled it 
+604 
+Youth & Society 54(4)
+to foster the Black identity development of Afro-Latina youth. I argue that 
+two elements of Sadie Nash were particularly important in these racial iden-
+tity constructions: the racial identities of its youth workers and the curriculum 
+and pedagogical strategies of the program.
+Youth workers and the multiplicity of Black identity. Unlike too many urban 
+schools, Sadie Nash has a very diverse staff with all youth workers identify-
+ing as people of color and over 75% as members of the Black diaspora—
+including African American, Caribbean, African, and Afro-Latinx. Research 
+shows that when youth workers and youth share racial identities, they are 
+able to develop more positive relationships (Nygreen et al., 2006). As I argue 
+in this section, these benefits extend to racial formation where, through expo-
+sure to Black staff members who embody the multiplicity of Black identity, 
+Afro-Latina nashers find affirming models of Black Latinidad.
+From Bushwick, Brooklyn to north Newark, the NYC metro area is full 
+of Black people who speak Spanish. Yet, nashers reveal that Sadie Nash 
+youth workers were often the first adults they met who articulated and cel-
+ebrated Afro-Latinx identity. Amanda, a Puerto Rican nasher from New 
+York City, says,
+“[Afro-Latina staff member] was really helpful in [pause] in how I identify 
+because she was always so proud of being Afro-Latina and she wasn’t like 
+ashamed of it. . .so I realized that if she could be proud of who she was, I could 
+too.”
+Witnessing an Afro-Latina staff member be proud of her Black identity 
+encouraged Amanda to identify with her own Blackness. Similarly, Amaya 
+also recalled how her interactions with an Afro-Latina youth worker helped 
+her understand and contextualize this identity,
+“One of the staff members [when I was a nasher] was big on [Afro-Latinidad] 
+and identified as an Afro-Latina and she was always talking about it . . . so she 
+explained it to me but also the oppression of how we’re taught to hate that 
+aspect of it. How we’re taught to hate our race . . . and that helped me 
+understand why my family was always so against [self-identifying as Black]”
+Amaya recalls how this Afro-Latinx staff member not only embodied Black 
+Latinidad but also helped her understand why she grew up in family that 
+discouraged this racial identity. Much like how developing a critical con-
+sciousness helps young people reframe personal failures into political analy-
+ses (Ginwright, 2007), Afro-Latinx staff members like the ones Amaya 
+encountered, provided nashers with the tools to make sense of her family’s 
+Salas Pujols 
+605
+(and perhaps her own initial) rejection of Afro-Latinidad by exposing her to 
+knowledge about colonialism and racism in Latin America. As a result, Sadie 
+Nash youth workers served as mentors who used curriculum and pedagogy to 
+highlight the centrality of race in nashers’ lives.
+Promoting critical consciousness and Afro-Latinx identity through curriculum. “As you 
+can see, there are pieces of paper around the room that name one of our identi-
+ties. I’m going to read off a prompt and I want you to stand next to the identity 
+that answers that prompt for you.” Sam, an African American facilitator, was 
+leading the group through one of the foundational activities in the Sisterhood 
+curriculum: social identity walk. In this activity, nashers are asked to move 
+around the room and select social identities that answer prompts like: “stand 
+next to the identity that you think about the most” or “have the most questions 
+about.” After reading each of the social identities out loud, Sam asked the group 
+if they had any questions, but as the room fell silent, she (like all facilitators did) 
+defined four terms: gender and sexuality, and race and ethnicity. “Race is about 
+what you look like. It’s like the physical features that make someone ‘look’ 
+white, or Black.” Sam continued, “ethnicity is like your culture, what you like to 
+eat, what language you speak. So, for example, you can be racially Black, ethni-
+cally Latinx, and from the Dominican Republic.” Although social scientists 
+agree that race is socially constructed, there’s also widespread consensus that the 
+arbitrary meanings attached to phenotype have real consequences (Omi & 
+Winant, 1994). What Sam, Sadie Nash, and social scientists convey in saying 
+that race is “about what you look like” is a sense of the lived experience of race, 
+one that is grounded in how others perceive someone’s racial group membership 
+and how they treat them based on this perception (Jiménez Román & Flores, 
+2010; Omi & Winant, 1994). The social identity walk, then, as one of the first 
+workshops in the Sisterhood and Summer Institute curriculums, sets the founda-
+tion for a conceptualization of race and ethnicity that opens up space for reflect-
+ing on the lived experience of Afro-Latinx identity.
+In workshops, nashers learned terms, definitions, and facts about social 
+inequality that made them increasingly aware of the lived experience of race 
+and anti-Blackness in their lives. By developing “politicized identities” 
+(Ginwright, 2007) where they connected their experiences to those of their 
+Black non-Latinx peers, Afro-Latina nashers began to articulate their racial 
+experiences. Nami, for example, said that learning about the school-to-prison 
+pipeline helped her see herself as a Black girl,
+“when [pause] when I think about the way I’m treated at school, [pause] I was 
+always treated like my African Americans friends. . .like I was overly-
+disciplined and overly like watched”
+606 
+Youth & Society 54(4)
+Nami makes an explicit connection between her experience at school—that 
+of being disciplined at similar rates as her African American peers—and her 
+Black identity. She continues, “and that helped me understand that like yeah 
+I can be Latina but I’m also Black. Because race is about how we’re treated.” 
+In emphasizing that racial identity is an embodied experience, nashers like 
+Nami used their treatment in school to think about what racial category they 
+occupy. Research by Oneka LaBennett and Carla Shedd demonstrate that 
+Black youth’s experiences in multiple educational spaces give them insight 
+into their position in society (LaBennett, 2011; Shedd, 2015). Latinx nashers 
+at Sadie Nash extend these racialized meanings to the very racial categories 
+that have been made (un)available to them at home and school by creating 
+and embracing Black Latinx identity.
+Importantly, Latinx nashers also encountered affirming narratives about 
+Black girlhood and Black Latinidad at Sadie Nash. In particular, Sadie Nash 
+youth workers were intentional about exposing participants to a diversity of 
+women of color activists who created change in their communities. For 
+example, workshops included activities that introduced nashers to artists like 
+Audre Lorde and Carrie Mae Weems, scholars like Miriam Jiménez Román 
+and Kimberlé Crenshaw, and activists like Alicia Garza and Shirley Chisholm. 
+These Black women not only represented the diversity of the Black experi-
+ence but also served as examples of Black women who pursued their passions 
+and worked toward creating better worlds. Through multiple representations 
+of Black women, Sadie Nash’s curriculum and pedagogy not only encour-
+aged Afro-Latina nashers to embrace their Black Latinidad but also to see it 
+as something to be proud of and celebrate.
+Conclusion
+Scholarship about young people’s educational experiences tends to 
+emphasize their school-based academic outcomes. Yet, young people 
+learn a lot about who they are and how the world sees them through their 
+educational experiences in and outside of schools. These racial identities 
+and meanings have important implications for their identities and sense of 
+belonging as well as their orientations towards challenging injustice 
+(Ginwright, 2007; Ginwright & Cammarota, 2002). Hence, for the Afro-
+Latina girls in this study, who experience anti-Blackness in school and 
+mestizaje ideologies at home, CBES like Sadie Nash are powerful sites 
+where they can explore and develop affirming narratives about their racial 
+identity.
+I have argued that Sadie Nash’s position as a third space enables Afro-
+Latina girls to see and valorize Blackness as an increasingly central part of 
+their lives. Specifically, I have identified two program strategies and practices. 
+Salas Pujols 
+607
+First, I find that the racial makeup of its staff is significantly different than that 
+of urban public schools. As a result, youth workers mirror the racial and ethnic 
+backgrounds of nashers and model the diversity of the Black diaspora in 
+important ways. Second, because Sadie Nash’s curriculum is centered on criti-
+cal consciousness, participants are encouraged to explore and reflect on their 
+racialized experiences. This attention to the lived experience of race fosters 
+Afro-Latina girls’ reflections on how they move through the world. 
+Additionally, because its curriculum incorporates overlooked Black women 
+from the diaspora, Afro-Latina nashers learn to see themselves as part of a 
+lineage of Black changemakers who celebrate and embrace their Blackness.
+For Black Latinx youth who encounter anti-Blackness as “the climate,” 
+(Sharpe, 2016) this is important for several reasons. First, I contend that 
+Afro-Latina girls encounter invisibility and subjugation regardless of 
+whether they self-identify as Black. This is often a source of dissonance 
+for Afro-Latinx youth, who grow up with the emotional impact of anti-
+Black policies and practices but without the concepts to name this experi-
+ence (Hordge-Freeman & Veras, 2019). Thus, I suggest that Afro-Latina 
+girls who see themselves as Black subjects are better positioned to make 
+sense of these lived experiences. Second, Afro-Latina girls who embrace 
+and celebrate their Afro-Latinidad may find community and healing along-
+side other Black girls. Through these communities of care, Afro-Latina 
+girls may be encouraged to challenge anti-Black racism, carrying mes-
+sages of Black pride to their homes, schools, and other spaces they inhabit. 
+Perhaps most critically, Afro-Latinas who know and embrace being Black 
+are also positioned to create alternative narratives about Black Latina girl-
+hood; thereby engaging in Black girl self-makings that reimagine a world 
+that celebrates all that they are.
+Acknowledgements
+The author would like to thank Zaire Dinzey-Flores, Ali Chaudhary, Naa Oyo Kwate, 
+Mario Mercado-Diaz, Miari Stephens and the anonymous reviewers for their thought-
+ful feedback on various drafts of the article.
+Declaration of Conflicting Interests
+The author declared no potential conflicts of interest with respect to the research, 
+authorship, and/or publication of this article.
+Funding
+The author(s) disclosed receipt of the following financial support for the research, 
+authorship, and/or publication of this article: This research was supported by National 
+Science Foundation Graduate Research Fellowship Program.
+608 
+Youth & Society 54(4)
+ORCID iD
+Jomaira Salas Pujols 
+ https://orcid.org/0000-0002-7584-2507

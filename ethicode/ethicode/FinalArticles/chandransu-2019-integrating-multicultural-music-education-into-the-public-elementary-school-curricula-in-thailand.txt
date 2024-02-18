@@ -1,0 +1,627 @@
+https://doi.org/10.1177/0255761419855827
+International Journal of
+Music Education
+2019, Vol. 37(4) 547 –560
+© The Author(s) 2019
+Article reuse guidelines: 
+sagepub.com/journals-permissions
+DOI: 10.1177/0255761419855827
+journals.sagepub.com/home/ijm
+Integrating multicultural music 
+education into the public  
+elementary school curricula  
+in Thailand
+Nantida Chandransu
+Mahidol University, Thailand
+Abstract
+This article reflects on various challenges encountered during a pilot action-based research 
+“Integrating Multicultural Music Education into the Elementary School Curricula of Public Schools 
+in Thailand.” This project was set up to develop lesson plans, activities, teaching tools and 
+evaluation methods for music teachers. As a pilot-curriculum model, it pays particular attention 
+to cross-cultural understanding for helping Thai children gain a sense of cultural conceptualization 
+and the skills necessary for growing up in a racially, religiously, and culturally diverse society.
+This research attempts to explore possibilities for various music cultures introduced to 
+the formal education system in Thailand, which had previously restricted music education to 
+nationalist-based Thai music and certain samples of Western classical music. Once children 
+discover multiple music cultures, their perspectives are broadened. The outcomes of this research 
+will also be beneficial for future instruction designs. The attempt to update music education 
+in the Basic Education level to accommodate changing social and cultural contexts affected by 
+globalization and urbanization will raise awareness of cultural diversity and the direction of music 
+education curriculum development. Music education through the Thai formal education system is 
+one method of preparing children to grow up in a culturally diverse world.
+Keywords
+multicultural music education, cultural diversity, cross-cultural understanding, elementary 
+school, pedagogical approach
+Introduction
+The idea of cultural diversity has not been given much attention in Thailand’s past. Due to 
+political and social policies since the change of the governing system in 1932, the then military 
+Corresponding author:
+Nantida Chandransu, Research Institute for Languages and Cultures of Asia, Mahidol University, 999 Budhamonthon Sai 
+4, Salaya, Nakhon Pathom, 73170, Thailand. 
+Email: nantida.cha@mahidol.ac.th
+855827 IJM0010.1177/0255761419855827International Journal of Music EducationChandransu
+research-article2019
+Article
+548 
+International Journal of Music Education 37(4)
+coup’s nationalism-driven concept of “the single Thai culture” was institutionalized as a tool to 
+consolidate Thai citizenship (Connors, 2005 cited in Arphattananon, 2012). Before the emer-
+gence of the nation state, there were as many as seventy ethnic groups found across Thailand 
+(Premsrirat, 2006). It is also argued by many scholars that Thais have never been inculcated to 
+realize that their country is multicultural (Aewsriwong, 2012 cited in Arphattananon, 2013; 
+Hayami, 2006; Jory, 2000).
+Nationalist ideology and the idea of a singularized Thai culture has shaped the people’s values, 
+lifestyle, and behavior. The Thai authorities instilled these ideas through public education until it 
+became deeply ingrained in the Thai consciousness (Arphattananon, 2013). At the turn of the 21st 
+century, awareness of and movement towards cultural diversity was increasingly addressed in Thai 
+politics and the academic arena due in part to the intervention of the United Nations Educational, 
+Scientific and Cultural Organization and its Universal Declaration of Cultural Diversity adopted in 
+2001. In general, the declaration, which addresses the importance of appreciating cultural diversity, 
+imposed obligations on the 188 country members, and consequently affected the operation of 
+Thailand’s Ministry of Culture, formed in 2002. The country’s educational organizations have 
+since placed great emphasis on cultural diversity. However, the initial stage of cultural diversity-
+related campaigns was mainly about giving more space to local cultures from different regions and 
+those of the ethnic inhabitants of Thailand in the government’s public cultural activities and 
+education.
+Quickly changing global contexts and the relocation of people are the two driving factors 
+of change in lifestyle and interactions of groups around the world (Appadurai, 1993). Thai 
+society has also seen an influx of culturally different groups such as laborers from neighbor-
+ing countries and foreign investors. These people have brought with them various cultural 
+traditions including lifestyle, language, food, dress, and beliefs, raising the awareness of 
+cultural diversity in Thais. Evidently, the so-called cultural diversity not only means differ-
+ences in ethnicity or tangible artifacts but encompasses idiosyncratic lifestyles and beliefs 
+(Chandransu, 2017). As such, it is worth considering how children should learn to adapt to 
+live in the midst of this diversity.
+By the same token, the idea of educational reform, which emphasizes cultural diversity, has 
+been put forward since the turn of the 21st century to reflect the government’s stance through 
+determining learning standards for the Basic Education in a centralized manner. Arphattananon 
+(2012), after surveying textbooks used in the Basic Education, found that cultural diversity 
+was addressed in social studies and history subjects in prathom 1 through 6 or elementary 
+level (Bureau of Academic Affairs and Educational Standards, 2010). Through the presenta-
+tion of cultural diversity in Thailand, the textbooks’ behavior-based objectives expected that 
+students understand various behaviors of the people in a society and the reasons behind these 
+behaviors.
+The significance of this research thus is directed at teaching a group of students with culturally 
+diverse backgrounds through a multicultural music education approach. The researcher believes 
+that multicultural skills can be honed through multiple means which are not necessarily confined 
+to the teaching of tangible cultural artifacts but also include intangible ones such as values, per-
+spectives, and practices. As a music educator, the researcher argues that the music subject can 
+potentially bring out the student’s musicality and conceptions as well as enable them to appreciate 
+the beliefs and values of other human beings. Learning to understand cultural difference in music 
+makes us understand fellow human beings (Elliott, 1996). As such, multicultural music education 
+is meaningful especially in the classroom, as well as in society.
+Today, Thai children from elementary to secondary school levels are given a half an hour once 
+a week for the music subject. There are two indicative standards for the subject known as A 2.1 and 
+Chandransu 
+549
+A 2.2. The first standard includes the ability to: understand and express music creatively; analyze, 
+critique and comment on musical values; convey musical thoughts with freedom; and appreciate 
+and apply the concepts in this into daily life. The second standard includes the ability to understand 
+the relationship between music and history and culture; and appreciate music as a cultural heritage, 
+including local, national, and universal wisdom (Bureau of Academic Affairs and Educational 
+Standards, 2010).
+Upon reviewing various music textbooks that are used in elementary schools, the author found 
+certain commonalities: elements of Thai and Western classical music; familiarity with musical 
+instruments; and singing and playing instruments. In terms of cultural aspects, the textbooks mostly 
+emphasize the characteristics of Thai regional folk music and that of selected Western music 
+ensembles, as in, for example, marching bands, big bands, and orchestras. The presentation of 
+content and related learning activities is based on a monocultural notion in which court music of 
+Central Thailand is perceived as a high art form that possesses unique characteristics and reflects 
+the national identity. Although the national curriculum encourages the inclusion of regional music, 
+only mainstream regional music cultures are recognized: Northern salaw (a two-stringed fiddle); 
+klong sabudchai (large single-headed drum); Northeastern maw lum; and Southern nora (a folk 
+dance) and nung talung (shadow puppets). Ethnic music, popular music, local community music 
+around the school and other music cultures that exist in Thailand are rarely mentioned in Thai 
+music education. On the other hand, over the past two decades, other subjects, such as the social 
+subject, in the socio-cultural strand have begun to shift the educational paradigm, towards more 
+multicultural education approaches. This is perhaps due to the fact that the philosophy of music 
+education has always been tied with Thai classical or court music as a symbolic representation of 
+the country’s musical identity.
+Such domination has long been transmitted down through the Thai education system. Also, 
+institutes responsible for producing music educators are neither prepared for nor have developed a 
+curriculum for multicultural music educators (Hirunrux & Chandransu, 2016).
+Inspired by the global movement towards multicultural music education, the author devel-
+oped a set of lesson plans for multicultural music education applicable to elementary schools 
+in Thailand. The module is suitable for classrooms whose students are culturally diverse in 
+terms of hometown, lifestyle, and learning capacity – a common situation in Thai schools. 
+This study also attempts to introduce non-classical/court musical cultures into the formal edu-
+cation. Students of Prathom 4 (grade 4) were chosen as test subjects for the curriculum. The 
+aims of this curriculum are to develop musicianship, musical skills, and cultural knowledge. 
+Students are expected to acquire basic cultural relativism by analyzing the idiosyncratic and 
+social worldview of other cultures. It is hoped that by using music as a bridging conduit, chil-
+dren will develop cross-cultural understanding and learn to appreciate cultural diversity in 
+their society as they grow up. The goal of this research is to propose reform to the pedagogical 
+approach used for multicultural education in Thai Basic Education so that the music subject is 
+brought up to date with changing social and global trends. From a broader perspective, this 
+research represents the first stage of multicultural music education reform in Thailand by pre-
+senting new ideas that underline and address the importance of cultural diversity and innova-
+tion from which all will benefit.
+Background literature
+It was found from numerous sources that music educators have to a certain extent been interested 
+in the music of different cultures over the past ten decades (Campbell, 1997; Jordan,1992; 
+550 
+International Journal of Music Education 37(4)
+McCarthy, 1997; Volk, 1993, 1994 all cited in Kang, 2016). The work of Sangmi Kang even articu-
+lated that the perspective and practice of “multicultural music education” has been used inconsist-
+ently according to the political and social norms of various eras. On the other hand, it is clear that 
+other scholars have shown an interest in the music of other cultures, but from an ethnocentric 
+standpoint (Ellis, 1885; Gilman, 1909; Hornbostel, 1928 all cited in Kang, 2016). These ideas 
+inevitably affected the philosophy and pedagogy of music education which values the differences 
+of music across cultures. As Cox and Steven stated regarding a principle of multicultural music 
+education, “there are numerous types of music in this world, and each manifestation has an equally 
+valid musical system and exists within their culturally constructed contexts, and that music educa-
+tion must reflect the multicultural nature of music” (Cox & Steven, 2010). Their idea, however, 
+may be applied differently depending on factors, restrictions, and political policy regarding educa-
+tion in each country.
+Partnership for 21st Century Skills proposed a scheme for preparing youth to become global 
+citizens, who are identified as those who possess prompt cultural adaptability and can thrive any-
+where (Panich, 2012). In Southeast Asia, one of the five objectives listed in the ASEAN [Association 
+of Southeast Asian Nations] Course Guide Learning Resources for Elementary and Secondary 
+Education for Promoting Being ASEAN Community Member with Prosperity, a guideline teaching 
+resource for the region, is appreciation of cultural identity and diversity. Students are encouraged 
+to explore, connect, and appreciate the cultures and beliefs of various countries and thereby under-
+stand and admire community strength and identity (Bureau of Academic Affairs and Educational 
+Standards, 2014).
+Following the education trend, the author studied concepts related to multicultural music 
+education and found numerous definitions and applications. Despite elements such as scope 
+and method, still being the subject of debate and needing more research, multicultural music 
+education can nonetheless be successfully incorporated into the music subject in Thai Basic 
+Education. Five multicultural music education approaches, on which the projected curriculum 
+was based, were chosen by the author. The first is the intercultural approach instruction invented 
+by Cushner, McClelland, and Safford (2015). This model has four goals: to recognize social and 
+cultural change; to understand culture, learning, and the culture-learning process; to improve 
+intergroup and intragroup goals; and to transmit intercultural understanding and skills to stu-
+dents. This approach holds that students cannot view other cultures analytically unless they 
+know their own first. Thus, cultures closer to students should be studied before teachers offer 
+an activity that connects established knowledge outwards to other cultures. For the scope of this 
+research, the author will focus only on the first three goals and, due to limited time, will omit 
+the fourth.
+The second approach was taken from Banks’s contributions approach in which various ethnic 
+and cultural groups are introduced to students (Banks, 2008). The most popular topics taught are 
+festivals, celebrations and important days practiced or observed by each group. This approach is 
+widely used in elementary schools. The third approach was Grant and Sleeter’s method which 
+encourages students to appreciate cultural diversity by creating positive attitudes towards cultures 
+including empathy, understanding, and tolerance (Grant & Sleeter, 2007). Through this model, new 
+lessons are integrated into an existing curriculum’s structure, without imposing changes. Elliot’s 
+modified multiculturalism was the fourth approach used in this study (Elliott, 1996). This model 
+requires a curriculum that includes diverse musical instruments based on students’ ethnic, racial, or 
+cultural backgrounds. The pedagogy considers similarities and/or differences in elements, uses, 
+and functions of music from each culture. The last approach used in this study was Gibson’s three 
+educational goals, which are to: understand cultural diversity; expand learning opportunities of 
+Chandransu 
+551
+cultural diversity; and promote conservation of multiculturalism. This method aims to maintain 
+each cultural identity found within the school’s locale. In addition to the five approaches, the syn-
+thesized pedagogy for multicultural music education adopts the methods of Elliott and Reimer by 
+first breaking down musical multiculturalism into three parts: music elements; instruments and 
+ensembles; and cultural considerations (Elliott, 1996; Reimer, 2003). Each part is then addressed 
+independently.
+The author then organized a seminar to brainstorm with twenty-two individuals who were mul-
+ticultural education scholars, child and youth scholars, educational policy-makers, music educa-
+tors, school administrators, and student representatives to determine the instruction that enables 
+students to acknowledge differences and diversity in a society. The results of the seminar suggest 
+that the teaching method should not involve a comparison between musical cultures in a conde-
+scending manner but rather should address the significance of cultural symbiosis through musical 
+and cultural competency. Instruction should also aim to reduce cultural biases and establish inter-
+cultural connection. An ideal starting point for this instruction is one’s own culture before branch-
+ing out to that of other cultures using common elements/characteristics of interest to children of 
+both cultures.
+Choosing the topics to be taught in schools based on a literature review and the seminar, the 
+researcher has summarized the multicultural music education approach to be tested in this 
+study as follows: (a) knowing the roots of local music cultures and seeing the need for preser-
+vation with pride; (b) reducing ethnic and cultural prejudice; (c) learning the roles and func-
+tions of the music of each culture; (d) learning and understanding cultural diversity through 
+their festive songs on various occasions and creating an appreciative attitude towards tradi-
+tions and beliefs; and (e) instilling attachment and ownership, and creating a sense of preser-
+vation and inheritance of local music cultures while embracing change, adaptation and 
+acceptance of various music cultures.
+Research design and participants
+The sample group used in this research comprised prathom 4 students who were selected 
+through purposive sampling. The group contained sixty-three students from 
+Boonyasrisawad School and fifty students from Wad Makluea (Kanjanalugwidthaya) 
+School. Both schools are in Klawng Yong sub-district of Puhtthanonthon District, in 
+Nakhon Pathom province – an outskirt of Bangkok. The total number of the participants 
+in the sample group was 113.
+This study is research and development, using experimental methodology in which the 
+author reviewed related literature that led to creating tools for this study. The pilot study was 
+used to test the tools for content validity under the supervision of seven specialists from the 
+fields of multicultural education, education, music education, and anthropology. The tools 
+were approved with advice that it should be implemented within the time constraints. The 
+author then tested the new curriculum using a post-test only before conducting a ten-hour 
+lesson with the sample group. This study used only the post-test because the students had no 
+background in music due to the fact that there was no music teacher in the school. Moreover, 
+the content in the developed curriculum was not familiar to the students. The researcher 
+developed multicultural music content from two indicative standards in order to test whether 
+the students gained the knowledge following the purposes or research hypotheses after using 
+the curriculum.
+552 
+International Journal of Music Education 37(4)
+The data collection was separated into two sections: quantitative; and qualitative. The 
+quantitative data included students’ performance that was assessed during and after the les-
+son. The qualitative data included students’ cross-cultural understanding skills assessed from 
+their workbooks and classroom observation as well as interviewing teachers and school 
+directors. Regarding the analysis, the quantitative data, the learning outcomes, were assessed 
+and then subjected to statistical analysis (percentage). The qualitative data were presented 
+using descriptive analysis.
+Research hypotheses
+This research is based on two hypotheses constructed on the academic indicators of the pro-
+posed curriculum: musicianship; and cross-cultural understanding. For the first aspect, stu-
+dents are expected to have an average score above 70% of the total score in each lesson, and 
+80% for the second. The author determined the passing score to be 70% because not all stu-
+dents had equal prerequisite musical training and the assessment was skill-based. Based on 
+Edwards’s four steps of learning (perception, awareness, cultural sensitivity, and sensitivity), 
+the students’ cross-cultural understanding is expected to reach the awareness step (Edwards, 
+1994). This step can be viably attained with cultural knowledge and does not require a great 
+amount of time.
+Community context, school context, and student backgrounds
+The school selected for this study is located at Phutthamonthon, a recently established district 
+in Nakhon Pathom province, Thailand. The district’s administration is divided into three sub-
+districts and eighteen subordinate villages. Over the past ten years, the district has seen con-
+siderable physical expansion and has become a location for academic institutes, government 
+offices and important agricultural sites in central Thailand, and thus a target destination for 
+people from around the country. Due to heavy migration, the district has also become highly 
+multicultural. There is an assortment of residences for students in the district, 10% of whom 
+are from rural families, 60% the children of immigrant laborers from the Northeast, 28% 
+migrants from other parts of Thailand (note: their parents’ occupations could not be specified 
+but they mostly earn a living as miscellaneous employees or vendors), and about 2% are 
+children of workers from outside Thailand (Hirunrux & Chandransu, 2016). In the midst of 
+this locality, the school provides a representative example of a typical Thai school whose 
+surrounding community consists of culturally diverse people.
+Integrating multicultural education into the subject of music in 
+Thailand’s Basic Education
+Education Core Curriculum: limitations and opportunities
+Upon analyzing the core lesson units of the Basic Education Curriculum, it was found that mul-
+ticultural music education can be integrated within its two academic indicators: musicianship; 
+and cultural knowledge. Cross-cultural understanding remained unaffected. The model shown in 
+Table 1 is designed based on the proposed ideas and the school’s locale.
+Chandransu 
+553
+Table 1. Model of integrated multicultural music education.
+Lesson unit
+Learning objectives
+Related
+multicultural
+education concepts
+Musicianship
+Cultural
+knowledge and cross-cultural 
+understanding
+Unit 1
+“Putthamonthol:
+Our Home”
+1 hour
+(1) Listening and learning, local music cultures
+Media
+Audiovisual presentation of Phutthamonthol district 
+and its local music cultures; audio samples of folk songs, 
+lullabies, pleng lae and pleng tam kwan
+(1) Familiarity with local music and 
+famous musicians
+(2) Know nearby music cultures and 
+know oneself before knowing others
+Knowing the roots
+of local music
+cultures and seeing
+the need for
+preservation with
+pride
+Unit 2
+“Our Neighbors”
+1 hour
+(1) Singing, reading musical notation, and using body 
+parts to make rhythm
+(2) Music elements, that is, rhythmic levels and melodic 
+phrases
+Cognition that classmates may come 
+from different parts of the country, or 
+even from different country; but all are 
+friends
+Reducing ethnic and
+cultural prejudice
+Unit 3
+“Happy Birthday”
+1 hour
+(1) Singing, reading, musical notation, and using body 
+parts to make rhythm
+(2) Understanding the meaning and function of birthday
+Learning roles and functions of music, 
+celebration of birthday in various 
+cultures, building cultural receptiveness, 
+understanding
+Learning the roles
+and functions of the
+music of each
+culture
+ 
+songs in different countries
+(3) Music elements, that is, rhythmic levels, song structure, 
+melodic phrases, melodic pattern, diatonic scale, 
+pentatonic scale, musical dynamics, ching rhythm, and 
+composers.
+Media
+“Happy Birthday”
+song, Thailand’s
+“Happy Birthday”
+song, Porn wan koed
+(by King Bhumibol)
+similarities, differences and diversity 
+of culture, and exercising culture 
+appropriately
+ 
+(Continued)
+554 
+International Journal of Music Education 37(4)
+Table 1. (Continued)
+Lesson unit
+Learning objectives
+Related
+multicultural
+education concepts
+Musicianship
+Cultural
+knowledge and cross-cultural 
+understanding
+Unit 4
+“Festive Songs”
+2 hours
+(1) Listening to festive songs of different countries
+(2) Singing, reading musical notation, using body parts to 
+make rhythm, group music activities using idiophones
+(3) Cognition of festive songs and of music elements 
+found in festive songs
+Cognition of roles and functions of 
+music, humans’ celebrative use of 
+music in various festivals, each of which 
+contain different sets of beliefs and 
+practices
+Learning and
+understanding
+cultural diversity
+through their festive
+songs on various
+occasions and
+creating an
+appreciative attitude
+towards traditions
+and beliefs
+ 
+Media Examples
+“We Wish You a Merry Christmas,” “Jingle Bells,” “Gong 
+XI,” “Chinese New Year” song, Porn pee mai (by King 
+Bhumibol), and idiophone instruments
+ 
+Chandransu 
+555
+Table 1. (Continued)
+Lesson unit
+Learning objectives
+Related
+multicultural
+education concepts
+Musicianship
+Cultural
+knowledge and cross-cultural 
+understanding
+Unit 5
+“Klong Yao: From
+Phutthamonthol
+music culture to
+international music”
+(1) Klong Yao 
+processions in 
+Phutthamonthol
+(2) Klong Yao 
+processions in various 
+regions of Thailand
+(3) Trae Wong 
+procession and 
+marching band
+(4) Morphology of 
+membranophones 4 
+hours
+(1) Listening and watching audiovisuals of different types 
+of klong yao processions
+(2) Reading and listening to rhythmic patterns of klong 
+yao
+(3) Performing klong yao, individually and in group
+(4) Musical elements, that is, 4/4 meter, musical 
+dynamics, rhythmic patterns, morphology of world’s 
+membranophones, form of klong yao procession from 
+past to present and its preservation
+(1) Cognition of roles and functions of 
+music
+(2) Learning past, present, and different 
+ensembles in various regions of Thailand, 
+including marching band
+(3) History of klong yao procession, 
+cultural sustainability and change, 
+adaptation of local music to fit social 
+currency
+(4) Organology/similarities and 
+differences of international 
+membranophones
+Instilling attachment
+and ownership, and
+creating a sense of
+preservation and
+inheritance of local
+music cultures while
+embracing change,
+adaptation and
+acceptance of
+various music
+cultures
+ 
+Media
+ Audiovisuals: klong yao introduction, klong yao 
+demonstration; procession repertory of various 
+communities/Central, North, Northeast, South, 
+marching band, and other procession music from 
+various countries; Klong yao/pictures of different kinds of 
+membranophones
+ 
+556 
+International Journal of Music Education 37(4)
+Assessment and evaluation
+In designing an assessment and evaluation scheme, the author used a rubric assessment so that the 
+process is included as a part of learning (assessment as learning) where learning outcomes are 
+evaluated by students and for students (Earl, 2003). The criteria were designed collaboratively by 
+teacher and students, allowing the latter to plan their lesson and realize what it takes to achieve 
+intended scores (Brookhart, 2013). Rubric evaluation is divided into two schemes: general; and 
+task-specific. Today it is preferred to incorporate both schemes in designing evaluation (Hirunrux, 
+2003). Similarly, this research used the combined method which is broken down into assessment 
+and evaluation during the course for aggregated score and post-course assessment and evaluation. 
+Music subject-wise, the scheme contains, for example, tests of musical performance, tests of listen-
+ing and understanding of music and its elements, evaluation of singing combined with using body 
+parts to complement sound, all assessed by teachers and classmates. For the culture portion, the 
+scheme consists of, for example, multi-choice tests and diary logs of music culture activities. 
+Teachers are responsible for explaining to students the evaluative criteria in the first class. More 
+importantly, on-course evaluation is necessary so that students can improve, develop musical skills 
+and exchange cultural diversity without them becoming bored.
+Results, discussion, and conclusion
+The mean average of learning outcomes of students in terms of musicianship (performing, singing, 
+listening, and knowledge about musical elements) was calculated to be 83.06%, which was greater 
+than the hypothesized score of 70%. In terms of cultural knowledge and cross-cultural understand-
+ing, it was calculated to be 79.31%, which was less than the hypothesized score of 80%. Regarding 
+the assessment of musicianship, evaluation of the five lesson units showed that students’ average 
+performance exceeded the hypothesized score which was 70% . The researcher set the score as 
+such because the students’ music background did not meet the standard criteria due to the lack of a 
+dedicated music instructor. After the experiment, it was found that students had done unexpectedly 
+well. Unit One, “Putthamonthol: My Home,” was designed to provide opportunities to listen to and 
+learn local music cultures to build an interest in various musical traditions and culturally important 
+people in the vicinity of the school. Since the lesson context in this unit could be found within the 
+students’ own environment, interest could be stimulated easily.
+As an introduction, this unit corresponded to the multicultural music education principle that it 
+should facilitate learning, and students should learn what is close to them and reflect their true 
+everyday lives (Campbell, 2004; Elliott, 1995). For Unit Two, “Our Neighbors,” the researcher 
+selected musical compositions and contents related to elements of music that are developmentally 
+appropriate to students. This enhanced activities, such as singing, physical movement, notation 
+reading, and assimilation of music elements, as demonstrated by students’ responses. The same 
+results were found in Unit Three, “Happy Birthday,” Unit Four, “Festive Songs,” and Unit Five 
+“Klong Yao” where the respective evaluations showed significant improvement of the students’ 
+musicianship. When the students could perform, sing, and listen comfortably, it was no longer dif-
+ficult to stimulate interest in music-related lessons such as roles and functions, comparison, and 
+organology. When music performance was assessed against analytic rubrics, students were able to 
+set their goal for music practice because they were clearly informed as to what was expected of 
+them and how they should perform to earn a decent score (Earl, 2003; Stiggins & Chappuis, 2008). 
+Peer-evaluated activities played an important role in creating a relaxed learning atmosphere and 
+training students to exchange and accept the opinions of others. Regarding cultural knowledge and 
+music cultures, the class average performance in each lesson unit was below the hypothesized 
+Chandransu 
+557
+score but not so much as to be statistically significant (79.31/80). However, the interviews with 
+students further revealed that most of them could verbally articulate the cultural knowledge associ-
+ated with music to their instructor. The evaluation from their workbook offered a weaker result 
+because the students, being in prathom 4 were perhaps less eloquent in their written expression and 
+effective descriptions were beyond their ability. Answering open-ended questions also seemed to 
+be a difficult task for them and thus did not accurately reflect their learning outcomes. The research 
+results show that students’ awareness of musical diversity whether in terms of instruments or reper-
+tory have greatly improved throughout the course.
+Moreover, observation of and conversation with students before and after the lessons revealed 
+that they had developed an understanding of the notion of cultural diversity not demonstrated 
+before the lessons. Recognition of the concept was evident following the introduction of and their 
+exposure to various music traditions as part of their multicultural music education. However, 
+reaching cultural sensitivity and appreciation of its diversity is a task that requires more time as 
+well as systematic inculcation. The research results showed the viability of practical application of 
+the multicultural music education pedagogical approach even without significant policy changes.
+The pivotal factors for the realization of the model were raising cultural awareness and compe-
+tency among children, which can be accomplished through a variety of ways, for examples, estab-
+lishing research-driven teachers’ organizations and a seminar/workshop. In terms of the larger 
+picture, it is still premature to determine exactly how far away Thailand’s education is from fully 
+realizing multicultural music education. Nevertheless, this study will serve as an initial step 
+towards reaping benefits from diversity of music cultures.
+Suggestions for multicultural music education instruction: from 
+ideas to practical implementation
+Ideas and possible guidelines for instruction based on multicultural music education, obtained 
+while reviewing concepts and theory for lesson design and learning activities include:
+1. Knowing the “root” of music culture within one’s community and knowing self before get-
+ting to know others.
+2. Learning the dynamics of music culture within one’s community.
+3. Learning functions of music in different cultures, creating cultural receptivity, understand-
+ing similarity, differences and diversity of culture, and expressing culture appropriately.
+4. Instruction that fosters an understanding attitude, accepts similarity and difference while 
+not holding fast to a conceptual frame of a specific culture.
+5. Instruction that reduces prejudice on cultural ethnicity (knowing others, knowing self, and 
+equity).
+6. Instruction that instills a fondness for and appreciation of music cultures, which will in turn 
+result in preservation and inheritance of one’s music and in nullifying bias against music 
+genres outside one’s habitual culture.
+Suggestions for an academic follow-up plan through application of 
+the concept of multiculturalism to music instruction or learning 
+activities taking notice of the school’s neighboring communities
+1. Lesson unit and activities design should consider cultural context of the communities in the 
+school’s vicinity, music cultures and other related cultural information such as communal 
+history, performing arts, traditions, and values.
+558 
+International Journal of Music Education 37(4)
+2. Lesson unit and activities design should consider learners’ linguistic, ethnic, socio-cultural, 
+and migration background; parents’ backgrounds, such as learning ability, and physical 
+characteristics; and mundane cultural settings.
+3. Lesson unit and activities design should study, abstract, and select appropriate pedagogic 
+schemes and content whilst also considering the goal of musicianship and multicultural 
+music education and integrate them within the academic indicators set by the Core 
+Curriculum.
+4. Determine cultural learning objectives starting by enabling students to know themselves, 
+the roots of their own music cultures and of the communities within their school’s vicinity. 
+Once accomplished, the content will expand to deal with understanding the culture of 
+others.
+5. Organize learning activities to raise students’ understanding of the cultures of others. This 
+should be done through an analytic, comparative thinking process rather than traditional 
+lectures or rote learning. It should be based on cultural facts. Students should be taught to 
+look for similarities, as well as differences which will lead to an authentic understanding in 
+terms of cognition of cultural knowledge and cross-cultural understanding.
+6. Musicianship instruction should be developmentally appropriate and conform to the stand-
+ard content set out in the Basic Education Core Curriculum B.E. 2551 [A.D. 2008)] (Bureau 
+of Academic Affairs and Educational Standards, 2010).
+7. Each lesson for elementary school students should be designed in such a way that it con-
+tains a series of rotational activities, each lasting about 15 minutes. Such division promotes 
+students’ learning efficiency and boosts stimulation without them becoming bored. Each of 
+the activities can be undertaken again but with the caveat not to allow any particular lesson 
+to become too long or repetitive.
+8. Selection of media must be done based on cultural information close at hand, be it music 
+culture familiar to students or local music culture. The information is to be modified to suit 
+students developmentally as a point of departure towards association with other music cul-
+tures. Either way, the media should preferably be in the form of pictures, sound clips, 
+audiovisual, or online resources to facilitate teaching and learning.
+9. Evaluation of students’ learning outcomes should be carried out quantitatively as well as 
+qualitatively. The former places emphasis on evaluating musical skills, musical knowledge 
+and culture knowledge using rubric criteria, which results positively as children can self-
+assess. Such assessment would lead to participatory learning or active learning and be 
+another way to develop active learners. The latter focuses on the skill of understanding 
+cultural diversity by which children learn to express themselves and participate in class-
+room activities through observation, conversation or interviews, or to write their thoughts 
+into diary logs. It is important that evaluative schemes be designed based on students’ age, 
+development and capabilities.
+However, developing the skills to understand culture diversity is not a lesson process. It is rather 
+a cumulative and continuous experience-based process. The aim of evaluating skills is to track 
+students’ progress rather than to judge them.
+Suggestions for instructing multicultural music education 
+challenges remaining in Thailand
+1. The Office of the Basic Education Commission should place emphasis on preparing bud-
+ding citizens for mutual coexistence in a multicultural society by integrating concepts of 
+multicultural education into subjects such as art and music, both formally and informally.
+Chandransu 
+559
+2. The Ministry of Education should provide a complementary center in which cultural diver-
+sity databases are stored, including music (Thailand’s ethnic music and world music). 
+These databases could be used to develop or augment a cultural-diversity-based curricu-
+lum. Some countries such as the US and the UK have been successful in implementing such 
+a system and can serve as ideal models for Thailand to adopt and adapt to suit the country’s 
+needs.
+3. Academic institutes at the higher education level that are responsible for producing teach-
+ers should consider the aforementioned issues in the course of preparing and producing 
+future teachers that are suitable socially and globally informed. Also, institutes that offer 
+the advanced diploma programs should either introduce multicultural music education to 
+potential music teachers nationwide or incorporate concepts of multicultural music educa-
+tion into their undergraduate courses majoring in music, in order to produce future music 
+teachers who are cognizant and capable of teaching multicultural music as part of Thailand’s 
+Basic Education Program.
+Funding
+The research received support from The Thailand Research Fund.
+Research Ethics
+The Committee for Research Ethics (Social Sciences), Faculty of Social Sciences and Humanities, Mahidol 
+University approved all interview guidelines, the assent form, participant information, and informed consent 
+form for this project (MU-SSIRB NO.2015/375 B2).
+ORCID iD
+Nantida Chandransu 
+ https://orcid.org/0000-0002-4475-2701

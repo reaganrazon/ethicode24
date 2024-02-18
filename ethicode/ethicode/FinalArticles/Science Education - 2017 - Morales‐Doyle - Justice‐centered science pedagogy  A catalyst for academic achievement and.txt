@@ -1,0 +1,1255 @@
+Received: 9 November 2015
+Revised: 20 June 2017
+Accepted: 24 July 2017
+DOI: 10.1002/sce.21305
+L E A R N I N G
+Justice-centered science pedagogy: A catalyst
+for academic achievement and social
+transformation
+Daniel Morales-Doyle
+Department of Curriculum and Instruction,
+University of Illinois at Chicago, Chicago, IL,
+60607, USA
+Correspondence
+DanielMorales-Doyle,DepartmentofCurriculum
+andInstruction,UniversityofIllinoisatChicago,
+1040W HarrisonStreet,M/C147,Chicago,IL
+60607.
+Email:moralesd@uic.edu
+Abstract
+Longstanding inequities in science education across the lines of
+race and class remain the most intractable problem in the ﬁeld.
+Justice-centered science pedagogy is introduced as a theoretical
+framework built on the traditions of critical pedagogy and cultur-
+ally relevant pedagogy to address these inequities as components
+of larger oppressive systems. This study examines how a justice-
+centered advanced chemistry class in an urban neighborhood high
+school supported students to succeed academically while taking up
+urgent issues of social and environmental justice identiﬁed by their
+communities. The ﬁndings include evidence that curriculum orga-
+nized around an issue of environmental racism supported academic
+achievement that exceeded the expectations of a typical high school
+chemistry course. The ﬁndings also document how the curricu-
+lum provided opportunities for students to move beyond academic
+achievement to position themselves as transformative intellectu-
+als. As transformative intellectuals, students demonstrated complex
+thinking about science and social justice issues, cultivated their com-
+mitment to their communities and cultures of origin, and developed
+credibility as local youth knowledgeable in science. These ﬁndings
+have implications for teachers, teacher educators, and educational
+researchers who wish to engage with science education as a catalyst
+for social transformation.
+K E Y W O R D S
+critical pedagogy, culturally relevant science, equity in science edu-
+cation, secondary chemistry, social justice
+1
+INTRODUCTION
+In 2001, William Tate issued, “…an open invitation to the science education community to engage in social justice
+issues and to treat the opportunity to learn science as a civil rights construct” (p. 1016). Tate's invitation was cou-
+pled with warnings about the pitfalls of “raising standards” and “increasing accountability” as methods for engaging
+Science Education. 2017;101:1034–1060.
+wileyonlinelibrary.com/journal/sce
+c
+⃝ 2017 Wiley Periodicals, Inc.
+1034
+MORALES-DOYLE
+1035
+in these issues. More than 15 years later, science teachers are faced with unprecedented levels of standardization and
+accountability. Meanwhile, recent science education research acknowledges that the concept of social justice remains
+undertheorized in the ﬁeld (Rivera Maulucci, 2012). More importantly, inequity across race, class, and gender remains
+the most prevalent and persistent problem in science education.
+Educational inequity is built into the politics, economics, and ideology of our society, so issues of equity in schools
+are inextricably entangled with broader issues of social justice (Duncan-Andrade & Morrell, 2008; Noguera, 1996).
+Given this reality, science educators have suggested engaging students in challenging social inequality through science
+teaching and learning that prioritize social transformation (Barton, 2003; Rodriguez, 1998). In other words, equity
+in science education will not be achieved through technical or isolated means, but by transforming it as one part of
+the unjust societal context in which it occurs. Unfortunately, the literature lacks empirical analyses of socially trans-
+formative science education enacted effectively in urban secondary schools. This study contributes such an analy-
+sis by introducing justice-centered science pedagogy, a framework that addresses inequity in science education as
+one component of oppression by challenging larger structures such as white supremacy, neoliberal capitalism, and
+heteropatriarchy. While justice-centered science pedagogy encompasses curriculum, teaching practices, and class-
+room structures, the focus of this study is an analysis of the development of “curricula with community members
+that speak to local political, social, and economic conditions” and an analysis of student outcomes, including “criti-
+cal academic skills that equip youth to create change” (Pulido, Cortez, Aviles de Bradley, Miglietta, & Stovall, 2013,
+p. 85).
+This study grapples with the complexities and contradictions of this work through a case study of a class I taught
+at La Lucha High School.1 La Lucha is a public neighborhood school that was founded by a hunger strike protesting
+an urban district's neglect of West Ridgevale, an economically marginalized Mexican community in a large city in the
+Midwest United States. The school's design process and attendance boundaries also included East Ridgevale, an adja-
+cent economically dispossessed African American community. Given the “subtractive schooling” (Valenzuela, 1999)
+and “mis-education” (Woodson, 1933/2006) that has characterized the role of schools in communities like Ridgevale,
+thisstudyisguided bythe following question:Howcancurriculum inanadvanced highschool chemistrycourse support
+marginalized urban students to succeed academically while taking up urgent issues of social justice identiﬁed by their
+communities? Answering this question requires consideration of whether and how a community identiﬁes a particular
+problem as an urgent issue of social justice. I take up this consideration empirically, along with academic achievement
+and other outcomes that emerged from the data.
+1.1
+Theoretical framework: Justice-centered science pedagogy
+This study applies justice-centered science pedagogy, a framework that I put forth to build on critical pedagogy and cul-
+turally relevant pedagogy, which are related traditions that theorize antioppressive education as a “catalyst” for social
+transformation. In a chemical reaction, a catalyst provides an alternate mechanism that requires less activation energy,
+so that the reaction proceeds more quickly or under conditions that are less severe. A chemical catalyst can also pro-
+vide for greater selectivity with respect to products. Justice-centered science pedagogy extends the catalyst metaphor,
+aiming to support alternate pathways for social transformation through science education. Due to the scarcity of sci-
+ence education studies that rely on critical and culturally relevant pedagogies, I begin with a brief overview of the two
+traditions that undergird my framework.
+1.2
+Two related transformative pedagogies
+Ladson-Billings (1994) coined the term, “culturally relevant pedagogy,” to describe the work of effective teachers of
+African American students. Justice-centered science pedagogy draws on Ladson-Billings’ (1995) concise deﬁnition of
+culturally relevant pedagogy as “rest[ing] on three criteria or propositions: (a) students must experience academic
+success, (b) students must develop and/or maintain cultural competence, and (c) students must develop a critical
+consciousness through which they challenge the status quo of the current social order” (p. 160). The third criterion,
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1036
+MORALES-DOYLE
+critical consciousness, sets culturally relevant pedagogy apart from other frameworks that consider the role of culture
+in learning. In this way, Ladson-Billings (1995, 1997) points out that culturally relevant pedagogy has much in common
+with critical pedagogy, which is most often associated with the work of Paulo Freire. She notes that Freire's literacy
+work in northeast Brazil was not unlike the work of African American freedom schools in the segregated south of the
+United States. In his proliﬁc work, Freire emphasizes conscientização (best translated as conscientization), which aligns
+with Ladson-Billings’ third criterion.
+Conscientização is a process by which people come to view themselves as capable of transforming reality by elimi-
+nating oppression. This process involves people understanding the historical and political conditions that created the
+present inequitable social circumstances. The development of critical consciousness as an outcome of education con-
+trasts sharply with schooling as the transmission of a canon of accepted knowledge or as the narrow development
+of technical skills associated with economic development (Freire & Macedo, 1987). Conscientization occurs through
+praxis, “the action and reﬂection of men and women upon their world in order to transform it” (Freire, 1970/2001, p.
+2001).
+Culturally relevant pedagogy and critical pedagogy are related traditions, one rooted in the Black freedom struggle
+in the United States and the other emerging from revolutionary contexts in Latin America. Both theorize teaching as
+a means to disrupt the historical function of schools as producers of social inequality. Justice-centered science peda-
+gogy draws heavily from both traditions because of their varied emphases. By focusing on the praxis of social transfor-
+mation and the development of critical consciousness, critical pedagogy guards against the tendency of many science
+education frameworks to omit these concepts. Conversely, while critical pedagogy clearly values content teaching and
+skill development, its emphasis on social transformation has led to frequent misunderstandings of critical pedagogy as
+rejecting these aspects of schooling (Darder, 2002). By explicitly foregrounding academic achievement, culturally rel-
+evant pedagogy avoids such misinterpretation and highlights the importance of equipping students to navigate main-
+stream institutions. Considering these traditions in light of issues that have been examined in recent critical scholarship
+in science education, justice-centered science pedagogy also draws on work that cautions against equity efforts that
+do not value various ways of knowing and thus ultimately reproduce forms of assimilation and compliance (Bang and
+Vossoughi, 2016).
+1.3
+Social justice science issues
+Despite its promise for theorizing science education as a force for social change, very few science educators have taken
+up critical pedagogy. An earlier issue of this journal provides an important exception as Brazilian science educator Dos
+Santos (2009) provides a framework for Freirean scientiﬁc literacy. Dos Santos describes his framework as a radical
+extension of the humanistic approach articulated by Aikenhead (2006). Dos Santos brings Freire's problem-posing edu-
+cation into science education by positioning socioscientiﬁc issues (SSI) as analogous to generative words. For Freire,
+generative words were the starting point for literacy instruction. These words emerge from generative themes, which
+are issues of social injustice that are important to students and their communities. Problem-posing educators use gen-
+erative themes to organize curricula that “re-present” these themes as problems for students and teachers to address
+together. Thus, Dos Santos suggests that science curriculum development may begin from key social issues in students’
+lives as they intersect with natural, scientiﬁc, or technological phenomena.
+Problem-posing education is different from “problem-based learning,” which was developed by medical educa-
+tors and has been extended to other school contexts, including secondary science education (Barrows, 1986; Hung,
+Jonasssen, & Liu, 2008). In a similar way, Dos Santos’ work is a departure from previous SSI frameworks (Zeidler,
+Sadler, Simmons, & Howes, 2005). All of these approaches contextualize science learning within “real world prob-
+lems,” but problem-posing education is explicitly political and seeks to understand and eradicate social domination
+and inequality by addressing it in local contexts. In this view, problems cannot be fully understood or addressed
+apart from understanding and addressing oppression. To make this distinction, justice-centered science pedagogy
+uses the term “social justice science issues” (SJSI) to describe SSI that are also generative themes in a given
+context.
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+MORALES-DOYLE
+1037
+1.4
+Antiracist and equitable science education
+In making the politics of SJSI explicit, justice-centered science pedagogy leans heavily on Freire's work while also fol-
+lowing other critical pedagogueswhoemphasize the centralityofrace and racism, gender and sexism, and the economic
+exploitation of capitalism in structuring society and schools (Cammarota & Romero, 2014; hooks, 1994; Stovall, 2006).
+Developing an analysis of white supremacy is important because science is often positioned as objective even as the
+“theoretical retroﬁtting of scientiﬁc racism” has worked to justify oppression from slavery and colonialism through
+current educational inequality (Brown & Mutegi, 2010). While it may be tempting to think of these issues as historical
+relics, a recent popular book provides evidence that scientiﬁc racism endures (Wade, 2014) and recent research sug-
+gests that mainstream science education continues to subtly perpetuate the misunderstandings of race that undergird
+it (Donovan, 2014).
+It is within this context that Mutegi (2011) considers curriculum reforms that aim to achieve “science for all” as rep-
+resentative of the prevailing curricular approach, which he identiﬁes as a cultural transmission model. He argues that
+this approach is inadequate and potentially harmful for African American students because the culture transmitted,
+that of Western science, has worked to maintain their oppression. As an alternative, Mutegi also draws on Freire's work
+to describe a “socially transformative curriculum” for African American students, which has ﬁve goals: mastery of West-
+ern science standards, critical awareness, racial awareness, conscientization, and praxis. While Mutegi emphasizes that
+the social circumstances of people of African descent are unique, the theoretical stances in his work illuminate the
+application of critical pedagogy to science education more broadly. Speciﬁcally, by valuing the mastery of Western sci-
+ence standards, Mutegi addresses a common misunderstanding of critical pedagogy as not preparing students to nav-
+igate sanctioned forms of knowledge and formal educational institutions (Darder, 2002). At the same time, Mutegi's
+prioritization of racial awareness addresses a common critique of critical pedagogy as failing to deal with issues of race
+(Ladson-Billings, 1997). Justice-centered science pedagogy draws on and extends these emphases of socially transfor-
+mative curriculum to theorize their relationship to the educational outcomes of youth who learn science by addressing
+SJSI. Understanding SJSI requires both teachers and students to develop an analysis of racism in manifestations such
+as environmental racism (Bullard, Mohai, Saha, & Wright, 2008), scientiﬁc racism (Brown & Mutegi, 2010), and medical
+apartheid (Washington, 2006), among others.
+1.5
+Youth as transformative intellectuals
+It is important for students to master and critique sanctioned forms of scientiﬁc knowledge to fully participate in edu-
+cational institutions and society as they currently exist. But imagining science education as a catalyst for social change
+suggests more than simply engaging with science as it currently exists. Bang and Vossoughi (2016) posit that social
+change:
+involves the interweaving of structural critiques with the enactment of alternative forms of here-and-now activ-
+ity that open up qualitatively distinct social relations, forms of learning, and knowledge development, and con-
+tribute to the intellectual thriving and well-being of students, teachers, families, and communities. (p. 175)
+In this quote, Bang and Vossoughi, imply a relationship between the academic, cultural, and critical in Ladson-
+Billings’ framework. But they also suggest that “Without expansive views [of epistemic heterogeneity], equity work
+becomes directed towards more effective forms of compliance and participation in inequitable systems and forms of
+life” (p. 175). Bang and Vossoughi build on previous work (Bang & Medin, 2010; Rosebery, Ogonowski, DiSchino, &
+Warren, 2010) to argue that valuing Indigenous and other subaltern ways of knowing is necessary if science education
+is to engage marginalized students in ways that are transformative rather than assimilative.
+Justice-centered science pedagogy draws on these assertions and the work of other critical pedagogues in posi-
+tioning youth as transformative intellectuals. This notion is an extension of the working class “organic intellectual,” or
+a thinker who remains grounded in the working class (Gramsci, 1971/2014). Practitioner researchers in U.S. urban
+schools have conceived of working class students of color as transformative intellectuals capable of leading social
+transformation (Duncan-Andrade and Morrell, 2008; Romero, 2014). One of the strategies for developing youth as
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1038
+MORALES-DOYLE
+transformative intellectuals is to engage in Youth Participatory Action Research (YPAR) (Cammarota & Fine, 2008).
+YPAR relies mostly on social science research methodologies, but recent work suggests that opening the tools of other
+disciplines to more participatory approaches is a promising strategy for science education (Bang and for addressing
+Vossoughi, 2016) and for addressing problems of public and environmental health (Balasz & Morello-Frosch, 2013;
+Corburn, 2005). YPAR is difﬁcult to enact in the context of a science course for various reasons, including that:
+In the everyday world of a community, science emerges not as a coherent, objective, and unproblematic body
+of knowledge and practices. Rather, science often turns out to be uncertain, contentious, and unable to answer
+important questions pertaining to the speciﬁc (local) issues at hand. (Roth & Barton, 2004, p. 7)
+Therefore, an authentically participatory science requires the sort of epistemic heterogeneity espoused by Bang
+and Vossoughi, which involves valuing local knowledge and the ways of knowing that Indigenous or marginalized peo-
+ple bring to the process of research. YPAR challenges notions of objectivity and expertise that have been central to
+Western science. It also rejects knowledge generation for the purposes of dominating nature or even for its own sake.
+Instead, it reframes the goal of understanding the world as part of creating more just and sustainable social conditions.
+Bang, Warren, Rosebery, and Medin (2013) argue that fostering transformative science experiences for marginalized
+youth is essential to creating new types of knowledge and viewpoints that will be required to address the most vex-
+ing SJSI. Justice-centered science pedagogy is aligned with this belief in marginalized youth to be the transformative
+thinkers who can help us imagine alternate mechanisms for social change.
+2
+METHODS
+This article presents a case study of an AP chemistry class that I taught at La Lucha High School. In a departure from
+case study methods typically found in educational research, this study applies the extended case method, a reﬂexive
+ethnographic approach that deﬁnes the case and considers the context differently from more positivistic case method-
+ologies. The extended case method relies on four extensions (Burawoy, 2009) that guided this project. First, by con-
+ducting teacher research, I extended myself beyond the role of observer to being a full participant. The role of my own
+worldview and actions were explicitly considered as important factors throughout the study. Second, the retrospective
+design of this case study extends observations across space and time. I have deﬁned the case simply as one AP chem-
+istry class, but this second extension prompted me to analyze relevant events and reﬂections that occurred before this
+class began and after it ended, from the origins of the curriculum to the students’ reﬂections looking back on the class
+as college students. Third, rather than looking for common patterns across multiple cases, phenomena were extended
+from the case and out into the larger context to understand the impact of external forces. As described below, the
+school context was especially important to consider explicitly. The fourth and ﬁnal extension is the reconstruction of
+theory based on conﬁrmations, disconﬁrmations, and nuances in the data.
+Rather than universal knowledge, teacher research generates lessons-learned, context-speciﬁc possibilities, and
+frameworks that are useful in other contexts (Cochran-Smith & Lytle, 2009). Similarly, case studies do not general-
+ize to populations, but rather produce in-depth knowledge that allows for “analytic generalization” (Yin, 2009). Bura-
+woy (1998) warns of the limitations of the extended case method, which he attributes to the unavoidable effects of
+power between the researcher and other participants in the case. The retrospective design of this mitigated some of
+the effects of power because I was no longer the students’ teacher (with power to assign grades) at the time of the
+interviews. Of course, conducting the interviews after the conclusion of the class and after students graduated intro-
+duces other limitations with respect to time and memory. Students’ reﬂections on the class are thus tempered by time
+but also contextualized by their experiences since. Keeping in mind limitations of power and time, my aim is to provide
+sufﬁcient context, thick description, and disclosure of my own viewpoint so that the concrete examples and recon-
+struction of theory presented here may inform the reinvention of justice-centered science pedagogy in other contexts.
+Practitioner research validity criteria (Anderson & Herr, 1999) were used to maximize the trustworthiness of this study
+with an eye toward local and broader impact.
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+MORALES-DOYLE
+1039
+TABLE 1
+Demographic comparison of school, case study class, and participants
+Demographic Group
+La Lucha High School
+(325 Students) (%)
+AP Chemistry Class
+(29 Students) (%)
+Study Participants
+(Nine Students) (%)
+African American students
+10
+10
+11
+Latinx students
+89
+90
+89
+Students receiving free or reduced lunch
+96
+100a
+100a
+Female students
+51b
+59
+56
+Male students
+49b
+41
+44
+aAs determined by students who received a fee waiver for the AP exam, which requires eligibility for free or reduced lunch.
+bGender demographics for the school represent an average of state report card information, which only includes 11th Graders,
+for the year of the case study class and the year prior, which captures all of the students eligible to enroll in the case study class.
+2.1
+School and class context
+In a design process that followed the hunger strike that founded La Lucha High School, the Ridgevale community explic-
+itly charged the school with upholding the values of that struggle. These values are spelled out in the mission and vision
+statements of the school that align with the tenets of critical and culturally relevant pedagogies. La Lucha High School
+has been an exception to U.S. schools that have systematically failed to provide equitable access to AP classes for
+African American and Latinx students (Solorzano & Ornelas, 2004). At the same time, tension exists between the highly
+prescribed AP chemistry curriculum and the ﬂexibility required by the community-responsive charge of the hunger
+strike. Thus, an AP chemistry course at La Lucha High School represented a revelatory case (Yin, 2009) to examine
+and theorize about tensions between standards and locally responsive science education (Aikenhead, Barton, & Chinn,
+2006). The syllabus for the class was approved by the College Board's AP audit process. But unlike many AP classes,
+students were not excluded from this class based on GPA or test scores. The 20 11th Graders and nine 12th Graders
+in the class mirrored the demographics of the school as a whole. The demographics of the school, the class, and the
+students who participated in this study are summarized in Table 1.
+2.2
+Data sources and participants
+The data sources fell into three categories: interview data, student-submitted artifacts, and my archival data. Partic-
+ipants were recruited through emails sent to all 29 students and a handful of community members approximately 15
+months after the conclusion of the class. Semistructured interviews (recorded and transcribed) were conducted with
+nine students and three other stakeholders approximately 18 months after the conclusion of the class. There were 63
+items in the interview protocol, not all of which were asked of every participant. Items included general prompts about
+students’ lives, communities, and the meanings they attached to terms like “social justice” and “environmental justice.”
+Some examples of more general prompts include: “Tell me about your family and community,” and “What do you think
+is the role of science in our society?” There were also more speciﬁc questions about the course, the curriculum, and stu-
+dents’ experiences in and preparation for college, such as: “What work are you most proud of from the course? What
+about this particular assignment or project made you proud?”
+The nine student participants include one African American woman (Jade), four Latina women (Marisol, Cristina,
+Raquel, and Odette), and four Latino men (Francisco, Curtis, Gabriel, and Jackson). Among these nine participants, ﬁve
+were in 11th Grade and four were in 12th Grade during the case study class. Seven also took an introductory chem-
+istry class with me during their 10th-grade year. All of the participants had graduated from La Lucha at the time of the
+study and eight of the nine student participants were enrolled in selective 4-year colleges or universities when they
+were interviewed. Cristina was enrolled at a local community college and later transferred to a large state university.
+Student participants submitted work artifacts from the class, with four students (Cristina, Francisco, Odette, Raquel)
+submitting complete collections of course artifacts.
+The composition of the pool of participants presents some strengths and limitations with respect to this study.
+The composition of the participant pool in terms of race, ethnicity, socioeconomic status, and gender mirrored the
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1040
+MORALES-DOYLE
+composition of the class and the school. But this does not suggest that the pool of participants is representative of
+these larger groups. All nine of the student participants were enrolled in college at the time of the study. I do not have
+speciﬁc data about college enrollment for the other 20 students who took the class but did not participate in the study.
+I know from informal contact that most, but not all, of them enrolled in college after graduating from La Lucha. The
+lack of participants who did not attend college excludes one important set of perspectives from this study. In a study
+that is concerned with access to higher education as one of the goals of equitable science teaching, this limitation is
+counterbalanced by the fact that the participants were able to compare their experiences in the case study class with
+their experiences in college classes. Similarly, there is an overrepresentation of science majors among participants with
+two chemistry majors, one physics major, one biology major, and one student who has her sights set on medical school.
+The overrepresentation of science majors and college students among participants suggest that these nine participants
+may have been among the most academically successful in the class. It is difﬁcult to make a fair comparison between
+these students and the 20 students who did not participate, but it is safe to say that the nine participants were all
+successful in the class. While no students failed the case study class, there were others who were less successful.
+The three stakeholders who participated include two community members and one parent. Ms. Juarez and Ms.
+Avila are both Latina women who participated in the hunger strike that founded the school. They are long-time West
+Ridgevale residents who are college-educated and work as educators. Ms. Epps is an African American woman and
+Jade's mother. Ms. Epps has lived in East Ridgevale for most of her life. She is a military veteran who currently works as
+an electrician. All three of these stakeholders were recruited to participate because of their involvement in the school
+during the year of the case study class. Speciﬁcally, all three were involved in a community struggle over the ﬁring of the
+principal that year. Ms. Avila attended a community event related to the class and Ms. Epps was familiar with the class
+through her participation on the Local School Council and relationship with her daughter. Teaching artifacts included
+extensive planning documents, curricular materials, and journal entries.
+2.3
+Data analysis
+To organize the data, I began with a content analysis of student interview transcripts to identify the curricular units
+that were most salient for students as they reﬂected on the class. This initial content analysis narrowed my focus to
+four curricular units. The second phase was a time-series analysis of my archival records to reconstruct the origins and
+planning process for each of the curricular units that emerged as salient from the initial content analysis. The third
+phase was to code all 12 student and stakeholder interview transcripts using a priori codes that were developed from
+theoretical propositions of both critical pedagogy and culturally relevant pedagogy. For example, the code “SSI as gen-
+erative themes” was developed from propositions in Dos Santos (2009) and was used to code interview data where
+students or stakeholders spoke of SSI in the curriculum as central community concerns. The concept of students as
+transformative intellectuals from Morrell (2008) and Romero (2014) was also used to develop codes like, “students
+intervene in their lives and communities,” and “students as producers of knowledge and culture.” The prominence of
+“academic achievement” in the work Ladson-Billings (1995) and science educators who draw on critical and cultur-
+ally relevant pedagogies (Dimick, 2012) was also used to create codes like, “critique of traditional notions of academic
+achievement” and to code passages where students and stakeholders spoke of academic achievement in more tradi-
+tional ways by emphasizing grades and test scores. In the tradition of the extended case method, this phase of analysis
+also intentionally sought disconﬁrming evidence for my theoretical propositions.
+After coding interview transcripts, student work artifacts were selected based on the number of students who sub-
+mitted each artifact and how well the goals of each assignment aligned with the themes of the larger unit. These arti-
+facts were analyzed using codes from the interview transcript analysis and relevant learning standards from the Next
+Generation Science Standards (NGSS Lead States, 2013) and the College Board. The ﬁnal phase of data analysis con-
+sisted of pattern matching and triangulating within and across the three data subsets. One of the curricular units, the
+“soil project,” is emphasized in this article. The soil project was an attempt to understand the impact of two recently
+closed coal power plants on Ridgevale soil contamination as an issue of environmental justice. The soil project is the
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+MORALES-DOYLE
+1041
+focus of this study because it serves as an exemplar of justice-centered science pedagogy. While this single unit is used
+to illustrate the themes discussed here, the ﬁndings emerged from analysis of four units.
+2.4
+Teacher–researcher experience(s) and political clarity
+My reasons for teaching at La Lucha High School are connected with my experiences and the ways I understand social
+change to occur. I taught at La Lucha for 7 years, living in East Ridgevale for the ﬁrst 3 years and in a nearby community
+that is similar to West Ridgevale thereafter. Even as the story of the school's founding resonates with my beliefs and
+some of my experiences, it is important for me to acknowledge that I came to the school as a privileged outsider and
+an employee of a school system that has a long track record of neglect and miseducation in Ridgevale and other similar
+neighborhoods. In addition to my privilege based on race, class, gender, sexuality, and education, I also must acknowl-
+edge the power and privilege that comes with being a teacher. Darder (2002) notes that although teachers often feel
+powerless, we actually have signiﬁcant power to make decisions that have real implications for our students’ lives. In an
+effort to contextualize the ﬁndings that follow, here I share personal experiences and reﬂections that provide relevant
+context.
+When I was in second Grade, the neighborhood school I attended was physically falling apart and threatened with
+closure. Martin Luther King Jr. Elementary School was home to the only multicultural education program in that district
+at the time and its closure was unacceptable to parents. As a 7-year-old child, I canvassed the neighborhood with my
+parents circulating petitions to save our school. The success of this campaign taught me about the power of community
+organizing, but also about the lengths to which marginalized communities must go to control the education of their
+own children. When I heard the story of La Lucha, it resonated with these experiences. I was honored to be a founding
+member of the science department.
+Another formative and relevant experience came when I was a high school chemistry student and was another sit-
+uation where my parents and neighbors organized against injustice. This time the campaign was to force the closure of
+two medical waste incinerators located in the largely African American neighborhood where I grew up. As a teenager, I
+was a reluctant and marginal participant in this struggle. But this experience eventually led me to study environmental
+racism and I came to understand the evidence and frameworks that have established the centrality of race and racism
+in the unequal distribution of toxic pollution and its impact (Bullard, Mohai, Saha, & Wright, 2008). This understand-
+ing of environmental racism informed curriculum I developed as a novice teacher around the issue of childhood lead
+poisoning. Unfortunately, my own lack of teaching experience resulted in this previous curriculum being much less suc-
+cessful than the project analyzed here. Upon sharing this curriculum in several settings, I learned of an organization in
+the West Ridgevale community called Communities Organized Versus Environmental Racism (COVER).
+When I was hired at La Lucha, I contacted COVER to learn from them about the issues around that they were orga-
+nizing. In our ﬁrst meeting, COVER introduced me to the city's two coal power plants, located in West Ridgevale and
+an adjacent Mexican community. These two coal power plants were identiﬁed among the worst perpetrators of envi-
+ronmental racism in the country for their virtual lack of pollution controls and location within densely populated com-
+munities of color (Patterson et al., 2012). My notes from that meeting indicate that closing these plants was at the top
+of COVER's list of priorities. A protracted grassroots struggle led by COVER and a similar organization in the adjacent
+community ﬁnally won the closure of both plants just as the case study class began.
+The analysis of meeting notes, journal entries, and curriculum maps makes it clear that my extended involvement
+with various formations of politically active teachers and subsequently with COVER was crucial to developing my own
+political clarity and professional networks in ways that eventually made the soil project possible. I include these experi-
+ences to acknowledge the role of my own worldview in identifying coal power plant pollution and environmental racism
+as potential SJSI at La Lucha. Political clarity was necessary in order for me to hear the community voices that identiﬁed
+this SSI as a generative theme.
+As I accumulated experience at La Lucha, my colleagues and I continued to develop various curricular units con-
+nected with the coal power plants and other generative themes. During a decade of experience as a full time high school
+science teacher, I reﬁned my practice. With the support of mentors and collaboration with colleagues, I worked to hone
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1042
+MORALES-DOYLE
+TABLE 2
+The soil project as an example of justice-centered science pedagogy
+Timeline
+SJSI
+Antiracist Science
+Education
+Equitable Academic
+Expectations
+Youth as
+Transformative
+Intellectuals
+Summer
+Predict and explain
+chemical reactions
+Fall
+Investigate coal
+power plant
+pollution
+Understand
+environmental
+racism locally
+and as a larger
+phenomenon
+Understand spectroscopy
+and analyze data
+Read peer-reviewed
+articles
+Spring
+Write original lab reports
+Participate in an
+authentic scientiﬁc
+investigation in a
+community context
+Present at family
+science night
+Relevant data sources
+Notes from
+community
+meetings (prior
+to the class)
+Teacher plans and
+reﬂections
+(prior to and
+during the class)
+Community
+stakeholder
+interviews
+(after the class)
+Student
+interviews
+(after the class)
+Quiz problem
+about lead soil
+contamination
+in the city (Fall)
+Student lab
+reports (Fall)
+Homework
+problem about
+childhood lead
+poisoning
+(Spring)
+Homework
+problem about
+uranium mining
+on Navajo
+reservation
+(Spring)
+Student-created presentation at family science
+night (Spring)
+Sign-in sheet from family science night (Spring)
+Student interviews (after the class)
+Community stakeholder interviews (after the class)
+practices, classroom structures, and routines that made the soil project and other socially transformative science cur-
+riculum effective (Morales-Doyle, 2015). Besides the development of my own teaching practice, a strong partnership
+with university scientists was facilitated by COVER organizers. This partnership aided the successful completion of the
+soil project 9 years after my initial less successful attempt to implement similar curriculum at a previous school.
+3
+THE SOIL PROJECT
+In the soil project, students participated in a larger investigation of the lasting impact of the recently closed coal power
+plants on the community's physical environment by measuring the concentrations of lead and mercury in neighbor-
+hood soil samples. This project stretched across much of the school year as we worked on it intermittently between
+other units. Table 2 summarizes the components of the soil project chronologically and also includes relevant data
+sources, both organized in terms of the components of justice-centered science pedagogy outlined above. In the sum-
+mer session, we studied the various chemical reactions associated with coal mining and coal combustion, including
+many secondary processes like acid-mine runoff and the reaction of NOx and SO2 by-products in the atmosphere. In
+the fall, our class was invited by COVER organizers to participate in a larger study led by Dr. Héctor Reyes, a chemi-
+cal engineer and community college professor. Dr. Reyes used a sabbatical to conduct a study that involved collecting
+90 soil samples from randomly generated sites within a 5-mile radius of each of the two coal power plants. Ten stu-
+dents from the case study class volunteered to collect 33 of the 180 total samples outside of class time. The whole
+class took a ﬁeld trip to a research university in a nearby suburb where students used an undergraduate instructional
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+MORALES-DOYLE
+1043
+laboratory and procedure (Baker, Geiger, Hatch, Todebush, 2012) to perform a nitric acid digestion of the soil samples
+they had collected. Students submitted the samples they worked up to university researchers led by Dr. Shelby Hatch,
+who used an Inductively Coupled Plasma Atomic Emission Spectrometer (ICP-AES) to analyze them. Students used
+spreadsheet software to analyze the data sent by university researchers and compare the concentrations of lead and
+mercury in the soil samples with state regulations. In class, students read, discussed, and annotated a peer reviewed
+journal article on heavy metal soil contamination and remediation (Wuana & Okieimen, 2011). Students wrote individ-
+ual lab reports using this article and state environmental guidelines as a framework to understand the results of the
+study they conducted.
+Together with COVER and ofﬁcials from the US EPA, students helped to organize a family science night on a Thurs-
+day evening in the school cafeteria in March. The sign-in sheet from that evening includes 126 parents, teachers,
+students, and other community members. For most of the evening, the cafeteria (which accommodates about 350
+students) was slightly less than half full. The ﬁrst part of the event was organized like a science fair where students
+from several science classes at La Lucha presented projects from their classes on trifold boards and EPA ofﬁcials and
+COVER organizers presented about other projects and campaigns. After the fair-style portion of the event, the audi-
+ence sat in rows as EPA ofﬁcials formally presented the results from the various studies they were conducting in the
+neighborhood. Eight students from the case study class (including participants Cristina, Curtis, Odette, Marisol, and
+Gabriel) contributed their own 17-minute presentation of the results of the soil study. They were followed by Reyes,
+who expanded on their presentation by communicating the results of his larger study. Family science night garnered
+some local media attention as two outlets, including a daily Spanish-language newspaper, covered the event.
+Reyes’ (2013) larger study found alarmingly high levels of heavy metals outside of Ridgevale, further downwind
+from the power plants. The larger study also documented a statistically signiﬁcant increase in lead concentrations
+when comparing concentrations upwind from the plant in Ridgevale with concentrations between the two plants or
+downwind from both. Reyes had not completed his analysis at the time students wrote their reports, which focused
+only on the soil samples their small group or our class collected. Reyes presented his results as relatively inconclusive,
+but noted that they raised enough concern about the impact of the power plants to warrant further study. Of course,
+this approach represented one way of considering the residual impact of decades of coal power plant pollution and the
+methods were limited by various constraints.
+4
+FINDINGS
+Three major ﬁndings are presented here within the context of the soil project. These ﬁndings emerged from an analy-
+sis of the case study class as a whole, but the soil project provides an exemplar of justice-centered science pedagogy,
+which facilitates their presentation. These ﬁndings are linked with the components of justice-centered science peda-
+gogy outlined in the framework and Table 2 above. They also allowed for a theoretical reconstruction of the relation-
+ships between these components, as presented in the Discussion section. In this section, I begin with an examination of
+evidence about the relevance of environmental racism and coal power plant pollution in West Ridgevale. Then, I ana-
+lyze student work for evidence of academic achievement. Finally, I consider the ways in which students transcended
+standard notions of academic achievement to position themselves as transformative intellectuals.
+4.1
+Environmental racism as SJSI
+Within the context of the Ridgevale community, coal power plant pollution was a local place-based SSI. But was it also
+a generative theme? A generative theme “must be precisely at the level of the people's aspirations and dreams, their
+understanding of reality, and their forms of action and struggle” (Freire & Faundez, 1992, p. 27 as cited in Gutstein,
+2012, p. 26). An SJSI grapples with issues of social justice as it intersects with scientiﬁc phenomena and resonates with
+the hearts and minds of the students. To identify coal power plant pollution as an SJSI requires consideration of the
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1044
+MORALES-DOYLE
+way students and community members view this issue. This implies extending beyond the case study class to analyze
+the community context over time.
+The way students and community members spoke about the coal power plant indicate that it was a relevant issue
+in the community. Raquel said in an interview that the soil project was the unit during which she learned the most.
+She elaborated on the importance of the soil project with a story about how she and her cousins would include the
+coal power plant in their childhood games by pretending it was a giant robot. They would compete to see who could
+run the furthest distance between consecutive ﬂashes of the aircraft warning lights on top of the smokestacks to avoid
+capture by the evil robot. Rather than becoming part of childhood games, the coal plant often ruined playtime for Curtis
+and his siblings. Curtis’ mother would not allow them to play outside when the power plant was emitting particularly
+large plumes of smoke. Curtis was one of 10 students who volunteered to do extra work on the soil project outside of
+school. He attributed his involvement to a desire to learn whether his mother's concerns were supported by scientiﬁc
+evidence. Gabriel traced his curiosity about the plant to noticing it while accompanying his parents on errands as a child.
+He participated in the soil project after school because he wondered whether the coal power plant was to blame for his
+asthma. Jade, who grew up in the predominately African American neighborhood of East Ridgevale, also volunteered
+her time outside of class to work on the soil project. She remembered worrying about the plant on her way to school and
+mentionedthatstudyingitinenvironmentalscienceclasswasimpactful.Bothcommunitymemberswhoparticipatedin
+the study also identiﬁed the impact of pollution as a concern in the neighborhood. Ms. Juarez spoke passionately about
+environmental issues in the community that have climbed her list of priorities with the closure of the power plants.
+Ms. Avila said that she was “fascinated” by the impact of pollution on the community and stressed the importance of
+holding local industries accountable for their emissions.
+The students’ memories and community members’ assertions underscore the relevance of the coal power plant in
+students’ lives and in Ridgevale to make a strong case that it was indeed a generative theme and SJSI. But there was also
+disconﬁrming evidence that suggested that this was not the case for all students or community members. For example,
+in my notes from the ﬁrst meeting with students who volunteered to collect soil samples outside of school, I noted
+that several students ﬁrst learned about the plant in environmental science class at La Lucha. In an interview, Cristina
+conﬁrmed that this was the case for her. Also, most of the participants, including Ms. Juarez and Ms. Avila, identiﬁed
+the lack of economic opportunities, not pollution in general or the coal power plant in particular, as the central concern
+in Ridgevale.
+This raises an important tension for science educators when it comes to identifying SJSI. Communities are complex
+places where residents often have very different views. While there was widespread agreement among participants
+about the importance of economic opportunity, all students were not necessarily aware of or concerned about the coal
+power plant when they came to La Lucha. Still, some segment of the community, including residents who volunteer or
+work for COVER, had identiﬁed the closure of the coal power plant as a central concern and some of the students’ child-
+hood memories support that notion. Odette captured the complexity of the ways that SJSI may play out in communities
+that are economically dispossessed in our interview when she described her commitment to working for environmental
+justice and the relative privilege she feels as she studies to become a college-educated chemist:
+I mean I know a lot of families have trouble like paying the rent and stuff like that. But I really would like to
+focus on their environment because I feel like people do have rent paying issues and a bunch of other things that
+are piling up in their lives, and they don't have time to focus on their health and a lot of people don't focus on
+their health. And so, it would be nice to at least provide the community with a clean environment where they are
+healthy and they don't necessarily have to put their health at the top of the list because they don't have time to.
+(Odette, Interview, 18 months after class)
+In this quote, Odette captures the sad irony of environmental racism: those communities who can least afford to
+spend scarce time and resources on issues of environmental health are the same communities most afﬂicted with
+various forms of pollution. So, while the coal power plant or environmental racism may not have been at the top of
+the community's list of concerns, these issues are still important. This suggests that science educators must continue
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+MORALES-DOYLE
+1045
+TABLE 3
+Example homework and quiz problems related to heavy metal contamination
+Quiz Problem (September 4)
+Homework Problem (March 19)
+Homework Problem (March 26)
+(i) Write a balanced
+equation for the
+following reaction: Lead
+(II) acetate solution
+reacts with aqueous
+sodium carbonate.
+(ii) In our city's soil, lead is
+usually converted into
+lead carbonates or lead
+sulfates. Explain why
+lead contamination stays
+in the same place in the
+soil for decades.
+Applying Le Châtelier's principle to a real
+problem: When the concentration of Pb2+
+ions in a child's blood reaches a
+concentration of 10 𝜇g/dL, the child is
+considered by the Centers for Disease
+Control to be ofﬁcially lead poisoned. One
+of the treatments for lead poisoning is
+called chelation therapy. In this therapy, a
+chemical called EDTA is used to remove
+lead ions from the blood by forming
+water-soluble complex ions. While
+chelation therapy is very effective at
+removing lead from the blood, it cannot
+remove lead that has deposited in a child's
+bones. The lead in a child's bones is mostly
+in the form of PbCO3(s). If we think of
+blood as an aqueous solution, lead can
+diffuse from the blood into the bones or
+from bones into the blood by the following
+process:
+PbCO3(s) ⇌ Pb2+(aq) + CO3
+2−(aq)
+While chelation therapy decreases the
+concentration of lead in the blood, it
+usually rises again as soon as therapy
+ends. Use Le Châtelier's principle and the
+reaction above to explain this. In your
+answer, use the terms: equilibrium,
+reactants, products, concentration, and
+chelation therapy.
+Earlier in the year, we learned about a group
+called the Eastern Navajo Dine Against
+Uranium Mining (ENDAUM) that
+successfully prevented in situ leech mining
+on their reservation in New Mexico. In the
+documentary Homeland that showed their
+struggle, one of ENDAUM's founders and
+leaders named Mitchell Capitan talked
+about how in experiments he did in his job as
+a lab technician, all of the uranium could
+never be extracted from the water in this
+process.
+(b) In this process, uranium is often
+precipitated out of ground water as
+Na2U2O7. Write the dissociation equation
+for this compound as it dissolves in water.
+(c) The Ksp for this compound is 8.13 × 10–29.
+Calculate the maximum concentration of
+diuranate ions (U2O7
+2–) at equilibrium.
+(d) The EPA limit for uranium is 30 𝜇g/L of
+drinking water. Complete the calculations
+necessary to determine if the saturated
+solution in the previous part of this
+problem will exceed these limits.
+(e) People often add salt, NaCl, to their
+cooking water. Use LeChâtelier's principle
+to explain what this would do to the
+solubility of Na2U2O7 in water. Explain
+whether this would make the water more
+or less dangerous in terms of uranium
+content.
+(f) Calculate the mass of solid that would
+form if 0.10 moles of NaCl were added to
+1 L of the saturated solution from part (b).
+Assume no volume change.
+The parts of the March 26 homework problem begin with part (b) due to a typo in the assignment. There was no part (a).
+to grapple with what constitutes an SJSI and how to identify scientiﬁc issues that intersect with the genuine concerns
+of communities.
+4.2
+Equitable academic expectations and achievement
+The analysis of student artifacts provides evidence that the case study class supported students’ academic achieve-
+ment within the context of the soil project and beyond. The complete course binders submitted by four students con-
+tain dozens of examples of students meeting various NGSS and College Board expectations. Table 3 includes three
+example quiz and homework problems that illustrate how students moved toward and then beyond a particular NGSS
+performance expectation to solve problems typical of the AP chemistry exam and college general chemistry courses.
+These three problems come from various points across the school year and are contextualized by the theme of the
+soil project: environmental racism and heavy-metal contamination in economically dispossessed communities of color.
+These problems also demonstrate a progression of complexity in terms of chemistry and with respect to the SJSI.
+The ﬁrst problem (dated September 4) comes from the ﬁrst of six quizzes that were given monthly and modeled
+after a free response question format that appeared on each year's AP chemistry exam until 2013 (College Board,
+2012). This particular problem deals with the persistence of lead contamination in urban soil as it relates to the insol-
+ubility of the compounds that lead forms in the environment. In this problem, solubility is conceived in a simple binary
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1046
+MORALES-DOYLE
+TABLE 4
+Key content expectations related to chemical equilibrium
+NGSS Performance Expectations (NGSS Lead States, 2013)
+NGSS.HS-PS1-6: Reﬁne the design of a chemical system by specifying a change in conditions that would produce
+increased amounts of products at equilibrium. [Clariﬁcation Statement: Emphasis is on the application of Le
+Châtelier's principle and on reﬁning designs of chemical reaction systems, including descriptions of the connection
+between changes made at the macroscopic level and what happens at the molecular level. Examples of designs could
+include different ways to increase product formation including adding reactants or removing products.] [Assessment
+Boundary: Assessment is limited to specifying the change in only one variable at a time. Assessment does not include
+calculating equilibrium constants and concentrations.]
+AP Chemistry Course Description Topics (College Board, 2012)
+“Concept of dynamic equilibrium, physical and chemical; Le Châtelier's principle; equilibrium constants…Quantitative
+treatment [of]…Solubility product constants and their application to precipitation and the dissolution of slightly
+soluble compounds [and] common ion effect” (p. 7).
+“Knowledge of speciﬁc facts of chemistry is essential for an understanding of principles and concepts. These
+descriptive facts, including the chemistry involved in environmental and societal issues, should not be isolated from
+the principles being studied but should be taught throughout the course to illustrate and illuminate the principles.
+The following areas should be covered: Chemical reactivity and products of chemical reactions …” (p. 8).
+where compounds are either soluble or not and the framing of the SJSI is also straightforward as it focuses only on
+the persistence of lead compounds in the surface of the city's soil. The second problem (dated March 19) comes from
+a weekly homework assignment during the equilibrium unit. It asks about the same compound, but this time in the
+context of childhood lead poisoning, which remains a serious public health concern in urban communities of color that
+have been damaged by hypersegregation caused by discriminatory housing practices and postindustrial neglect. This
+problem asks students to move beyond an understanding of lead (II) carbonate as simply “soluble” or “insoluble” by ask-
+ing them to grapple with dynamic equilibrium. The framing of the SJSI also increases in complexity compared with the
+ﬁrst problem as it deals with the health implications of lead contamination. The third and ﬁnal problem (dated March
+26) comes from the subsequent weekly homework assignment and deals with uranium contamination of ground water
+by in situ leach mining on a Navajo reservation in New Mexico. This problem is linked with the previous two in that it
+deals with heavy metal contamination in a community of color that has been dispossessed and oppressed. The problem
+references a documentary ﬁlm about this issue that we watched in class (Grossman, 2005). By focusing on a similar
+SJSI, but with a different metal and in a different context, this problem asks students to consider this issue as it exists
+beyond the communities where they live. It also extends the concept of slightly soluble compounds by asking students
+to consider small amounts of dissolved solids conceptually and quantitatively.
+While learning standards can be problematic, they also represent the sanctioned forms of knowledge that are val-
+ued by educational institutions that have substantial impact on young people's lives. For this reason, my analysis con-
+sidered the extent to which student work provides evidence of meeting an NGSS performance expectation and proﬁ-
+ciency with associated College Board topics for AP chemistry in Table 4. Student responses to these three problems are
+depicted in Table 5, with some of my markings and responses only for part (e) for the third problem. Across these exam-
+ples of student responses, three of four students for whom data are available (Cristina, Odette, and Raquel) demon-
+strated an ability to apply Le Châtelier's principle, a point of emphasis in both the NGSS performance expectations
+(NGSS Lead States, 2013) and AP chemistry course description (College Board, 2012). For example, in the second prob-
+lem, Raquel showed her understanding of dynamic equilibrium by applying this canonical concept to a novel situation.
+She concisely explained why a poisoned child's blood lead level increases immediately following treatment:
+LeChâtelier's principle applies to the case of chelation therapy because in the process you add EDTA which is
+removing products, therefore the reaction would shift to the products side. This means that more of the solid lead
+from the bones, which is a reactant, dissolves to produce more products and get back to equilibrium. (Raquel,
+Homework, March 19)
+In this response, Raquel demonstrates the science and engineering practice of constructing an explanation to
+address the cross-cutting concept of stability and change and the disciplinary core idea of forward and reverse
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+MORALES-DOYLE
+1047
+TABLE 5
+Example student work artifacts from homework and quiz problems on heavy metal contamination
+StudentQuiz Problem on September 4
+Homework Problem on March 19
+Homework Problem on March 26 (Part e)
+Cristina
+Curtis
+Data not available
+Data not available
+Francisco
+Odette
+Raquel
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1048
+MORALES-DOYLE
+TABLE 6
+Summary of student responses to uranium problem
+Student
+(b) Wrote
+Dissociation
+Equation
+(c) Calculated
+[U2O7
+2–] at
+Equilibrium
+(d) Compared with
+EPA Limits
+(e) Explained
+Common Ion Effect
+(f) Calculated Mass
+of Solid Formed
+Cristina
+✓
+✓
+✓
+✓
+Francisco
+✓
+✓
+✓
+Odette
+✓
+✓
+✓
+✓
+Raquel
+✓
+✓
+✓
+chemical reactions in equilibrium. While the problem did not give her an opportunity to design a solution, she oth-
+erwise met performance expectation HS-PS1-6 (NGSS Lead States, 2013). Odette showed similar proﬁciency with this
+problem. Odette and Cristina's performance on the uranium problem provide similar evidence.
+Students also demonstrated, to varying levels of success, the ability to predict the products of a chemical reaction
+and express that reaction in a balanced equation. Cristina, Curtis, and Odette executed this skill almost ﬂawlessly on
+the ﬁrst problem, with the exception of Cristina omitting a charge on the carbonate ion. In the third problem on ura-
+nium mining, students extended beyond the assessment boundary articulated for the NGSS performance expectation
+to deal with chemical equilibrium quantitatively. This problem challenges the notion that dealing with issues of social
+justice somehow comprises academic rigor in science curriculum. All four students were able to successfully answer
+the ﬁrst three parts of the problem (b, c, d) with the level of supporting calculations, units, and attention to signiﬁcant
+ﬁgures required by the AP chemistry exam. This problem speciﬁcally addresses the AP chemistry course description's
+inclusion of “solubility product constants and their application to precipitation and the dissolution of slightly soluble
+compounds” (College Board, 2012, p. 7). In this way, student work artifacts provide evidence of meeting College Board
+expectations for AP chemistry. In other words, as 11th and 12th Graders in a neighborhood urban public school, stu-
+dents met expectations associated with a typical second semester college general chemistry course. A summary of stu-
+dent results is included in Table 6 along with Odette's response as an example in Figure 1. Some disconﬁrming evidence
+is provided by the fact that none of these four students successfully answered part (f). This is a challenging problem
+even in the context of a college chemistry class because it requires a sophisticated application of algebra to a chemi-
+cal system and an ability to manipulate extremely small numbers. Still, Francisco, Odette, and Raquel correctly set up
+a table to solve part (f). Odette came within an order of magnitude of the correct answer, but made a mistake in her
+interpretation of the ﬁnal row of the table as it translated into the equilibrium expression. Francisco correctly trans-
+lated the results from the table into an algebraic expression, but he used the value for the undisturbed equilibrium
+concentration of diuranate ions where he should have used the value for the solubility product (Ksp). Francisco also did
+not follow through with a ﬁnal subtraction or assumption that would have been required to arrive at an answer. Raquel
+did not attempt the ﬁnal algebra and Cristina did not attempt the ﬁnal part of the problem at all. Even given these dif-
+ﬁculties with the ﬁnal part of this problem, this student work provides evidence of substantial academic achievement
+contextualized by the SJSI of environmental racism.
+4.3
+Youth as transformative intellectuals: Complexity, commitment, and credibility
+The previous section provides evidence of high school students having success with concepts and skills that are
+typically taught in undergraduate chemistry courses. But science education as a catalyst for social change requires
+more than academic achievement among students from schools or demographic groups who have traditionally been
+marginalized or denied opportunities in science. Broadened participation in problematic academic or scientiﬁc insti-
+tutions does not address the root causes of oppression or exploitation, especially if this participation is contingent
+upon assimilation into dominant cultural traditions (Bang and Vossoughi, 2016). Often times, academic achievement is
+positioned as being at odds with, or at best in competition with, students’ commitments to their communities or cul-
+tures of origin. Academic achievement is similarly assumed to be at odds with curriculum that focuses on issues of
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+MORALES-DOYLE
+1049
+FIGURE 1
+Odette's full response to the uranium problem as an exemplar
+social justice. Transformative intellectuals transcend these tensions as they leverage their learning in service of their
+communities and struggles for social justice.
+The triangulation of data from interviews, student lab reports from the soil project, and family science night shows
+studentspositioning themselvesastransformative intellectualswhose academic achievementwasinterwovenwiththe
+development of critical consciousness and the cultivation of a commitment to their communities of origin in three ways.
+First, the messiness and uncertainty of engaging with authentic data in the soil project juxtaposed with the nuances
+of how environmental racism was manifested in Ridgevale prompted students to think in critical and complex ways
+about the relationships between scientiﬁc evidence and community self-determination. While this represents a chal-
+lenge when engaging in justice-centered science pedagogy, it also serves as evidence of students’ developing critical
+consciousness and willingness to engage with epistemic heterogeneity. Second, having the opportunity to present the
+ﬁndings of the soil project to their community reinforced students’ commitment to be engaged, culturally competent
+members of that community. Finally, students’ academic achievement in chemistry combined with their positional-
+ity as youth from Ridgevale to provide them with credibility that allowed them to take on the role of transformative
+intellectuals. Thus, in a justice-centered approach, these pedagogical goals were mutually supportive, rather than com-
+peting for class time or curricular space.
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1050
+MORALES-DOYLE
+4.3.1
+Complexity in science and social justice
+Engaging with curriculum organized around SJSI supported students to develop critical consciousness that came
+through in their work and interviews. For example, Francisco reﬂected on how his understandings from the soil project
+informed a project he completed the following year:
+I did my senior capstone project on environmental racism because I started realizing that if you really look at
+where these power plants are located, it's always in communities where it's mainly inhabited by minorities or
+low income families … it's unfair. My senior capstone project was basically to make more people aware of what's
+going on. (Francisco, Interview, 16 months after class)
+HereFranciscodescribeshisacademicworkinthesoilprojectascontributingtohisunderstandingofenvironmental
+racism, which in turn motivated him to engage in further academic work that was also intertwined with the action of
+“raising awareness.” This quote represents the development of critical consciousness because Francisco explains how
+his perspective was pushed beyond dominant narratives to understand the ways racism and economic forces unfairly
+inﬂuence environmental conditions.
+Despite focusing his senior capstone project on environmental racism, Francisco did not discuss the concept explic-
+itly in his soil project lab report, but ﬁve of the nine participants did. Their discussions ranged in tone from Cristina who
+described the company who owned the plants as having “invaded two predominantly Latino communities” to Odette
+who wrote, “The location of the power plants suggests environmental racism.” Infusing a discussion of environmental
+racism into a scientiﬁc lab report that was completed and evaluated according to an undergraduate chemistry rubric
+provides another example of the ways the soil project curriculum wove together academic achievement and critical
+consciousness.
+The soil project provided an opportunity for students to think in complex ways about science and social justice.
+Still, it would have beneﬁtted from greater attention to the principles of YPAR and epistemic heterogeneity to support
+students as they grappled with issues of inconclusive evidence and the limitations of scientiﬁc knowledge in their com-
+munity context. Only one of the soil samples collected by students showed levels of lead that violated state thresholds
+for remediation and none that violated the thresholds for mercury. While Reyes’ larger study found more alarming
+results downwind from Ridgevale, students struggled with the tension between the claims that their evidence sup-
+ported and their conviction that the power plant was an unwelcome polluter that damaged the local environment.
+Odette expressed frustration with this tension in the interview:
+But then as the science gets more deﬁned, it's kind of like it is more difﬁcult to make a claim and blame somebody
+for doing something wrong…Like with the lab report with the coal power plant, there's no deﬁnitive conclusion
+that the coal power plants did cause an increase in asthma attacks…you can't blame the people who owned the
+plant for that, so it does get more difﬁcult. I found that hard to accept. (Odette, Interview, 18 months after class)
+Odette expresses frustration with the complexity and limitations of the ﬁndings as they relate to the community's
+ability to advocate for environmental health and justice. These limitations include the focus on heavy metals rather
+than the air pollutants associated with asthma.
+Students dealt with this tension in several ways in their lab reports, including offering suggestions for improved
+scientiﬁc approaches and for alternate interpretations of their ﬁndings. In the ﬁndings section of his lab report, Jackson
+noted, “The power plants did not cause high levels of lead and mercury in Ridgevale soil. However, this does not mean
+that the power plants did not pollute communities.” Here Jackson acknowledges that the soil project attempted to
+measure the impact of the coal power plants in one very limited way. Indeed, given the airborne and more temporary
+nature of most pollutants emitted by the plants (like sulfur dioxide, nitrogen oxides, particulate matter, and carbon
+dioxide), the real damage of the plants may be better assessed by different means. In the conclusion of her report,
+Marisol suggested several possible follow-up studies that could clarify the results, including an isotope ﬁngerprinting
+study that Reyes originally proposed, increased use of statistical methods, and, “possibly looking at the health effects of
+the power plant through a different lens, a biological lens.” These reports show how the soil project prompted students
+to think in complex ways about the epistemology of science and the design of environmental studies.
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+MORALES-DOYLE
+1051
+In their reports, Cristina and Odette problematized typical assumptions about the relationship between scientiﬁc
+evidence and decision making. For example, Cristina wrote in her lab report:
+The safety limit should not determine whether or not we should move forward and clean the soil. Ridgevale has
+the right to be informed about what was found in their neighborhood soil. Lead and mercury are both very harm-
+ful if they are directly ingested. (Cristina, Lab Report, November 2)
+Cristina asserts in this statement that, with or without levels of heavy metals that exceed state regulations,
+Ridgevale residents should be in control of the land in their community, which requires being knowledgeable about
+contaminants. Given that federal agencies have declared “no amount of lead is safe,” (NIEHS, 2016), Cristina's chal-
+lenge to the state regulations is reasonable. Odette's lab report provides another argument for why local residents
+should have more say in determining safe levels of toxic metals in their soil:
+Though the [power] plants are located in a city, problems in agriculture can occur because many people in
+Ridgevale plant fruits and vegetables in their backyards. Those people will then be consuming fruits and veg-
+etables that may contain lead and mercury. (Odette, Lab Report, October 26)
+Odette's report questions whether typical residential soil standards are the appropriate measure for Ridgevale soil,
+given the agricultural activity not typically associated with urban neighborhoods. While students were assigned to
+compare the measured levels of lead and mercury with state guidelines, these excerpts from Odette's and Cristina's
+lab reports provide examples of students extending beyond a simple numerical comparison to engage in more nuanced
+thinking about SJSI. Odette's point about backyard gardens also underscores the ways that local knowledge informs
+studies of environmental health in important ways (Corburn, 2005). This idea also emerged in Cristina's interview as
+she spoke about her work with COVER after she graduated from La Lucha, “When we would do the community dinners,
+I saw a lot of people …who don't have a background in science, who were teaching me about science—stuff that I didn't
+know because they've been farming forever.” Here Cristina challenges the notion that scientiﬁc learning happens only
+in formal settings and expresses an admiration for the knowledge about plants her neighbors built through experience.
+In the conclusion of her lab report, Raquel brought some of these ideas together as she suggested a way that this
+local knowledge could be used to address the problem of heavy metal contamination. Drawing on the soil chemistry
+article that we read in class and content she learned in her environmental science class, Raquel proposed that the
+Ridgevale soil be decontaminated through phytoremediation by growing sunﬂowers and other plants that would be
+effective at removing lead and mercury. Taken together, these students’ ideas allow us to see how youth who value
+both scientiﬁc and local ways of knowing can begin to address complex SJSI in practical and transformative ways.
+Reﬂecting onthe soil projectprompted studentstoreconsider relationshipsbetweenknowledge and action. Gabriel
+referred to students’ presentation of the soil project results as “a kind of protest, but more academic,” although Odette
+repeatedly expressed frustration with the relationship between science and activism:
+When people were protesting the coal power plant, the rest of the community and people driving by saw the
+activism. And science wasn't – I mean, it was obvious, like let's shut this down because it's bad for our health
+and that's science, but it wasn't really the science that people noticed, it was the activism. (Odette, Interview, 18
+months after class)
+Although Gabriel considered the students’ practice of science to be “a kind of protest,” Odette's quote separated the
+effectiveness of community activism from the scientiﬁc reasoning that may (or may not) support their position. Justice-
+centered science pedagogy does not purport to know or espouse a simple or static relationship between science and
+struggles for social justice. Rather, it seeks to engage students in developing their scientiﬁc understandings and critical
+consciousness so that they can make sense of the various ways this relationship might manifest in their lives and com-
+munities. By engaging in this complexity within the context of SJSI, students in the case study class took on the role of
+transformative intellectuals.
+These examples of students’ complex thinking also highlight ways in which the soil project curriculum could be
+improved using principles of YPAR and epistemic heterogeneity. The soil project shares many of the features of YPAR
+in that young people investigated a real problem in their community and then chose to take some action, upon which
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1052
+MORALES-DOYLE
+they later reﬂected. However, youth were not involved in the initial formulation of the question and the design of the
+study. The examples from their work demonstrate that they were capable of thinking about alternate approaches to
+investigating the impact of the coal power plants. YPAR could have offered them an opportunity to do so.
+Cristina and Odette's assertions about the importance of local knowledge and community self-determination high-
+light an opportunity to foreground epistemic heterogeneity. This was not an explicit consideration in the soil project,
+even though it was in other parts of the curriculum. Cristina and Odette problematized the relationship between sci-
+entiﬁc evidence and community action. In raising the prevalence of grassroots urban farming in Ridgevale, they also
+highlighted relevant knowledge held by community members. Providing more support and opportunities to consider
+chemistry as only one among many ways of understanding the problem could have strengthened the soil project. This
+approach could have encouraged students to build on each other's ideas and even implement some version of Raquel's
+phytoremediation plan.
+4.3.2
+Commitment to community
+The soil project, as curriculum organized around an SJSI, also cultivated students’ already existing commitments to
+their communities and cultures of origin. Cristina repeatedly articulated connections between community relevance
+and academic achievement. As she was reﬂecting on writing the soil project lab report in our interview, Cristina empha-
+sized scientiﬁc knowledge production by and for the community:
+We're not just reading a report by other people. We're doing our own report by ourselves as people who live in
+the community and are exposed to the environmental issues here. And we're doing something – not necessarily
+to ﬁx it, but to understand it, which makes a huge difference. And I really liked it because I was taking what I was
+learning in class and applying it to my community. (Cristina, Interview, 16 months after class)
+While she recognizes that simply understanding issues of toxic contamination in the Ridgevale community is not
+a solution, Cristina expresses ownership and agency with respect to producing knowledge about the problem. As a
+young person living in a community impacted by environmental racism, Cristina's comments provide a glimpse into
+how justice-centered science pedagogy might act as a catalyst for social change by supporting students to take on the
+role of transformative intellectuals.
+Odette and Cristina explicitly discussed the ways that the soil project was an impetus for deeper engagement
+with their community and with issues of environmental justice. After graduation, both Odette and Cristina worked
+for COVER in some capacity and both chose to major in chemistry. Both young women attributed that choice to the
+connections between community and chemistry they developed in the soil project. Both of these women described
+their involvement in the soil project as interconnected with their involvement in other local causes, which deepened
+over time. In this way, Cristina and Odette provide evidence of the ways that problem-posing education can simulta-
+neously deepen intellectual understandings and commitment to important social justice issues in local communities
+(Freire, 1970/2001; Romero, 2014). Cristina and Odette's deep levels of engagement in chemistry and local issues of
+environmental justice are not representative of the class as a whole. In fact, Jackson provided some counterevidence
+in a reﬂection where he wrote that he was not motivated by the context of the soil project. But we would not expect
+uniform levels of (or reasons for) engagement in any science class. Cristina and Odette's stories are important because
+they provide a way to understand how students positioned as transformative intellectuals can synergistically achieve
+academically while deepening their commitment to their communities.
+This understanding is bolstered by several students who emphasized that having the opportunity to share their
+ﬁndings with their community at family science night was important for their own learning because of the academic
+challenge of preparing a presentation about which they cared deeply. The students presented bilingually in English
+and Spanish, which they noted in interviews as a considerable challenge. The following quote from Marisol's interview
+captures an idea that was also communicated by other students about how there was more to it than just translating
+their presentation to Spanish:
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+MORALES-DOYLE
+1053
+And so, I was just going back and forth not only in terms of [English and Spanish] but in terms of scientiﬁc lan-
+guage and taking away all this jargon. And so, I realized the importance of being able to go back and forth. I also
+realized the importance of having that connection with the community because I feel like when the people from
+the EPA spoke, I feel like a lot of people tuned out. (Marisol, Interview, 16 months after class)
+Marisol's comments here are important for two different reasons, the second of which is the focus of section 4.6.
+First, Marisol twice mentions how she “realized the importance” of cultural competence (linguistically and in terms of
+community membership) while presenting at family science night. Students were presenting bilingually, but were also
+trying to communicate complex scientiﬁc ideas with audience members, many of whom did not have access to formal
+science education. Marisol thus explains how her academic achievement and her commitment to her community and
+culture were mutually supportive in the soil project.
+4.3.3
+The credibility of transformative intellectuals
+Marisol's contrast between the receptions of the students’ presentation and that of the EPA ofﬁcials also speaks to
+the credibility students earned as scientiﬁcally literate members of a marginalized community. Marisol emphasized
+that she and her classmates were uniquely positioned to communicate the results of their study in a meaningful way
+because of their “connection with the community,” which is the essence of an organic intellectual who works in soli-
+darity with their social class. In justice-centered science pedagogy, this credibility is a key attribute of a transformative
+intellectual. The credibility of transformative intellectuals combines the credibility of a knowledgeable expert with the
+credibility that comes from being a trusted member of a marginalized community.
+Marisol said that the science night presentation was the work from the course in which she takes the most pride
+because of her ability to explain the soil project in terms the audience understood. She said that the most impactful
+lesson she learned from the experience was the importance of “code switching” or moving between academic and ver-
+nacular forms of communication. Marisol's comments underscore how content knowledge, community membership,
+cultural competence, and bilingualism are important for establishing credibility when communicating relevant scien-
+tiﬁc ﬁndings to a community that is marginalized by the dominant culture. The special credibility leveraged by students
+at family science night was a theme in other participants’ reﬂections. Some EPA ofﬁcials and Dr. Reyes also presented
+bilingually in English and Spanish, but still students and Ms. Avila agreed that students’ presentation had a different
+impact because of their status as youth from the community. Reﬂecting on the science night presentation in our inter-
+view, Cristina described the impact this way: “[Community members] weren't being told just by some PhD EPA ofﬁcials
+or city ofﬁcials what's in their neighborhood, but they were being told by their own kids, their own young people from
+the neighborhood, which is even more important or impactful.” Cristina's comments align with the principles of YPAR
+(Cammarota & Fine, 2008) and with research that asserts that the people living with the impacts of environmental
+racism have important contributions to make to the study and remediation of urban contamination (Balasz & Morello-
+Frosch, 2013; Corburn, 2005). Cristina also pushes one step further by arguing that the development of experts from
+within the community is a powerful way to understand and address these issues. Cristina stressed that her chemistry
+major earned her increased credibility when discussing issues of pollution in the context of her job as an organizer
+for COVER. By simultaneously embracing the credibility that comes with learning sanctioned forms of science knowl-
+edge and the credibility that comes with membership in a marginalized community, Cristina has positioned herself as a
+transformative intellectual.
+Odette speculated that by embracing their role as transformative intellectuals, students may have increased their
+community's sense of agency in science:
+It was cool to have the science out for the people and I feel that it was even more important that it was…high
+school students who live in the community doing the science …it makes the distance closer…So it's like people
+have the realization that they can do science. They don't have to necessarily work for the government like the
+EPA guys…in order to be able to do science. (Odette, Interview, 18 months after class)
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1054
+MORALES-DOYLE
+Ms. Avila, who was in the audience that night, also echoed Cristina and Odette's comments about the unique ability
+of local youth to communicate with their parents and neighbors: “When it's the youth doing it, I think that's incredi-
+bly powerful. They have this wonder about themselves…the excitement of being able to show something that is true,
+important, and vital for people that live in communities like Ridgevale.” Ms. Avila's comment captures how science as
+a catalyst for social change positions young people as producers of knowledge and culture who are capable of solving
+the problems facing our communities and our world (Duncan-Andrade & Morrell, 2008; Morrell, 2008; Romero, 2014).
+This further suggests that YPAR in a science context, or youth participatory science, may be a powerful tool for science
+education and social change. Students’ reﬂections on the importance of their presentation at family science night cap-
+ture the credibility that emerges from scientiﬁc knowledge combined with membership in a community impacted by
+SJSI like environmental racism.
+Still, the education of experts from within marginalized communities remains problematic. Curtis critiqued the fam-
+ily science night presentation speculating, “the educators that were there knew what the hell we were talking about.
+But the community members, the parents still needed some elaboration.” He blamed himself for failing to provide this
+elaboration. Curtis and Gabriel both recounted conversations with their parents about the soil project where they
+felt like their parents did not truly understand what they were saying. Curtis and Gabriel's reﬂections provide counter-
+evidence that troubles the notion of transformative intellectuals. Educational institutions often create tensions or divi-
+sions between students from marginalized communities and their parents or neighbors. Ultimately, these young men's
+reﬂections underscore the importance of science education that values epistemic heterogeneity and cultural compe-
+tence and that the work involved in this sort of undertaking is complicated and difﬁcult.
+5
+DISCUSSION AND IMPLICATIONS
+This study uses empirical evidence to extend previous applications of critical and culturally relevant pedagogies in sci-
+ence education with three important ﬁndings: (1) The environmental racism of coal power plant pollution was not just a
+local SSI, but was also a generative theme in the school community contextualized by larger forms of oppression, mak-
+ing it an SJSI. (2) The curriculum contextualized by this theme supported academic achievement. (3) The curriculum
+provided opportunities for students to move beyond academic achievement to position themselves as transformative
+intellectuals. As transformative intellectuals, students demonstrated complex thinking about science and social justice,
+cultivated their commitment to their communities and cultures, and developed credibility within their community as
+local youth who were knowledgeable in science. Still, the curriculum missed opportunities to engage some of the ideals
+of YPAR and epistemic heterogeneity.
+In this section, I build on the ﬁndings to elaborate the theory of justice-centered science education as a catalyst for
+social change. Through the exemplar of the soil project, which focused on environmental racism of coal power plant pol-
+lution, the ﬁndings of this study add empirical evidence to Dos Santos’ (2009) assertion that SSI may serve as Freirean
+generative themes. The ﬁndings emphasize that SSI as generative themes are both locally relevant and capture the
+hearts and minds of students. Justice-centered science pedagogy applies the term SJSI to distinguish these issues from
+SSI that do not meet these criteria. It was also important that the soil project was explicitly political in the way that it
+connected coal power plant pollution with the larger phenomenon of environmental racism. Students were supported
+to develop critical consciousness about environmental racism as they examined the distribution of heavy metal pollu-
+tion across a city divided by hypersegregation and economic inequality. Combined with academic achievement, critical
+consciousness allowed students to think in complex ways about scientiﬁc epistemologies, social justice, and community
+self-determination. Still, there is evidence that explicit support for epistemic heterogeneity and increased opportuni-
+ties for YPAR could have strengthened this aspect of the soil project.
+The students who presented at family science night were positioned as producers of scientiﬁc knowledge. Through
+this experience, students’ commitments to their communities and cultures of origin were strengthened as they recog-
+nized the value of their cultural competence. Meanwhile they also reﬂected upon their agency to impact issues in their
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+MORALES-DOYLE
+1055
+FIGURE 2
+Justice-centered science pedagogy, as a catalyst for social transformation, positions students as transfor-
+mative intellectuals who exhibit complexity, commitment, and credibility
+community and in the broader world. While presenting alongside EPA ofﬁcials and PhD scientists, students reﬁned
+their ability to communicate with their community in ways that these experts could not. They bridged content knowl-
+edge with cultural competence to translate scientiﬁc jargon and methodology into a bilingual summary of their study
+that was meaningful to their audience. Through this presentation, both students and audience members recognized
+the potential for youth to act as transformative intellectuals who draw credibility from their scientiﬁc knowledge and
+their position as culturally competent members of a marginalized community.
+5.1
+The catalyst metaphor revisited
+Figure 2 uses the imagery of a catalytic cycle from chemistry to further extend the catalyst for change metaphor intro-
+duced in this study. It illustrates the relationships described above between key components of justice-centered sci-
+ence pedagogy as a theory of critical pedagogy (in boldface), Ladson-Billings’ (1995) criteria for culturally relevant ped-
+agogy (in rectangular boxes), and outcomes associated with students acting as transformative intellectuals (in circles).
+In this diagram and analogy, justice-centered science pedagogy plays the role of the catalyst, creating alternate path-
+ways for social change. Its key components represent what chemists call starting materials or reactants. The criteria for
+culturally relevant pedagogy serve as reaction intermediates, or steps along the way as students self-actualize as trans-
+formative intellectuals. Unlike reaction intermediates in a chemical reaction, these qualities are not destroyed in route
+to the ﬁnal outcomes. The outcomes in this metaphorical reaction are the key characteristics of transformative intellec-
+tuals identiﬁed in the ﬁndings of this study. Transformative intellectuals exhibit complex thinking about SJSI, cultivate
+commitment to their cultures and communities, and earn credibility as members of a marginalized community who are
+developing scientiﬁc expertise while they also develop an appreciation for its limits as one way of knowing.
+Figure 2 elaborates justice-centered science pedagogy by clarifying and extending the interconnectedness of crit-
+ical and culturally relevant pedagogies in a science context. In the case study class, curriculum informed by the prin-
+ciples of critical pedagogy met the criteria for culturally relevant pedagogy. Rather than thinking of these criteria as
+separate aims, science education as a catalyst for social change theorizes the criteria for culturally relevant pedagogy
+as mutually supportive goals crucial to developing transformative intellectuals. Learning canonical science concepts
+in the context of SJSI leads students to develop critical consciousness while equitable academic expectations sup-
+port their academic achievement. These two criteria for culturally relevant pedagogy develop as interrelated parts
+of the same process. Through this process, students increase the complexity of the ways they think about scientiﬁc
+issues and issues of social justice. While their politics become increasingly explicit and sophisticated, they remain
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1056
+MORALES-DOYLE
+independent. The complexity supported by a justice-centered approach prevents students from adopting the political
+views of others and instead encourages them to develop their own.
+A justice-centered approach treats marginalized youth as producers of knowledge and culture and provides oppor-
+tunities, like family science night, for students carrying out this role. In this study, the opportunity to engage with a SJSI
+and present the results of the soil project supported students to deepen their commitments to engaging with both their
+communities and SJSI. This reinforced students’ commitment to maintaining their cultural competence as a means to
+communicate effectively with their neighbors and parents. Students earned credibility from their combination of cul-
+tural competence, academic achievement (scientiﬁc knowledge), and their status as community members.
+It is through these sorts of educational outcomes that justice-centered science pedagogy theorizes science educa-
+tion as creating alternate pathways for social transformation. Thinking in complex ways about science and social jus-
+tice allows students to address problems in ways that are informed by both scientiﬁc evidence and community values.
+Cultivating a deep commitment to their communities is important for youth to sustain the hard work associated with
+organizing for social change. The credibility that students garner as scientiﬁcally capable and grounded in their com-
+munities positions them as potential leaders in addressing SJSI. Community member Ms. Juarez captured this potential
+eloquently as she deﬁned social justice during our interview:
+The ﬁrst thing that comes to me is ﬁghting for things when we see injustices, right? But it's also about creating
+solutions and having autonomy, having a voice. Social justice is not just about ﬁghting…To have a community
+that is ﬂourishing, to have a community that doesn't oppress others…It's not just about a march and a protest.
+It's also about how do we create and ﬁnd our own solutions? (Ms. Juarez, Interview, 18 months after class)
+Ms. Juarez highlights that transformative intellectuals not only ﬁght back against injustices, but also construct more
+just and sustainable communities. In the catalyst for change metaphor, increased community self-determination, cross-
+community collaboration, and solidarity are theorized as the alternate pathways for social change that allow for more
+selective outcomes. This implies creating opportunities for students to work together to address SJSI that impact peo-
+ple differently across the lines of race, class, and gender. Some of these issues such as global warming, food and water
+shortages, or disease epidemics may ultimately threaten the well-being and survival, not just of marginalized communi-
+ties, but of humankind. In this way, justice-centered science pedagogy repositions youth, who are often viewed through
+deﬁcit lenses, as transformative intellectuals capable of leading social transformation.
+In chemistry, a catalyst is distinguished from reactants because it ultimately remains unchanged by the process it
+facilitates. Herein lies one important limit of the metaphor of science education as a catalyst for social transforma-
+tion. In Figure 2, rather than being distinct, the reactants represent some key components of justice-centered science
+pedagogy. Unlike a chemical catalyst, “education is…constantly remade in the praxis” (Freire, 1970/2001, p. 84). The
+tenets of critical pedagogy require its practices to be reinvented in local contexts (Freire, 1978). So, while a catalyst is
+unchanged by the process it facilitates, our approaches to education must change and evolve across time and space.
+The extension of this work requires reinvention in other contexts, so I conclude with implications for science teachers,
+teacher educators, and educational researchers committed to this reinvention.
+5.2
+Implications for educational researchers
+The goal of this study was to examine possibilities for secondary school science curricula capable of responding to
+inequity in science education as one piece of larger systematic oppression by simultaneously engaging ambitious learn-
+ing expectations and issues prioritized by the local community. The results imply at least two related lines of research
+to further our understandings in this realm. To truly understand science education as a response to larger issues of
+oppression, we need more case studies in a wide variety of contexts. These various case studies may take the form of
+teacher research or could involve partnerships between community members, educational researchers, and science
+teachers. Cochran-Smith and Lytle (2009) lament that the teacher research movement has not had much success in
+aggregating ﬁndings across studies. To that point, cross-case analyses (Yin, 2009) of science teachers enacting justice-
+centered science pedagogy in different contexts would contribute a great deal to our understanding of how to address
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+MORALES-DOYLE
+1057
+the seemingly intractable problem of inequity in science education. A second related line of research would examine
+the preparation of justice-centered science teachers and the development of in-service teachers as they gain experi-
+ence with justice-centered approaches. In both of these research trajectories, increased attention to supporting epis-
+temic heterogeneity and to the principles of YPAR will strengthen the praxis of justice-centered science pedagogy.
+5.3
+Implications for teachers and teacher educators
+Justice-centered science pedagogy calls on teachers to engage deeply and demonstrate solidarity with the communi-
+ties where we teach. The ﬁrst challenge of a problem-posing approach in school science is selecting SJSI. While this
+study does not provide a systematic approach to this selection process, it demonstrated that identifying SJSI requires
+substantial community engagement, content learning, and political clarity on the part of the teacher. The soil project
+emerged from my long-term relationships with a grassroots community organization. COVER organizers reached out
+to include our class in Dr. Reyes's larger study because I attended and volunteered at their events, served on their
+board, and regularly invited organizers into my classroom over a 7-year period. Once this opportunity emerged, the soil
+project forced me to revisit my own understandings of science content. Prior to the project, I was unfamiliar with the
+ICP-AES instrument that was used to analyze the soil. Writing the problems included in Table 3 required me to engage
+in substantial content learning about the chemistry of heavy metal compounds. Taking a justice-centered approach
+requires teachers to relearn and “re-cognize” (Freire, 2010, p. 11) the science content in which we have studied to be
+experts. In this case, it required deepening my own understandings about the solubility and impacts of heavy metal con-
+tamination. The need for us to relearn our science disciplines is intensiﬁed by the fact that most science teachers have
+learned science in reductionist isolation rather than in ways that are contextualized by SJSI. Building networks of com-
+munity organizations, scientists, and science educators may provide increased access for teachers to the community
+knowledge and scientiﬁc expertise necessary to develop curriculum from SJSI.
+Identifying issues that reside at the intersection of community concerns and canonical science understandings
+requires teachers to understand both of these components deeply in their own right, but they also have to be able to
+see how these concerns and understandings ﬁt into larger sociopolitical contexts. This implies understanding the ways
+health and environmental problems are shaped by white supremacy, neoliberal capitalism, and heteropatriarchy. It also
+implies valuing epistemic heterogeneity and critiquing the enterprise of science for the ways that it remains eurocen-
+tric, androcentric, and elitist (Brown & Mutegi, 2010). At the same time, this critique must still recognize the agency of
+ordinary people to wield the power of science (alongside other ways of knowing) to intervene in health and environ-
+mental concerns they face (Corburn, 2005). A critical understanding of race and racism was central to the development
+of both the soil project and other units in the case study class. Therefore, it is important to address sociopolitical con-
+siderations in science teacher education and to increase the representation of teachers of color.
+Finally, this study afﬁrms the importance of teacher experience. Improving science teacher retention in marginal-
+ized schools will allow more teachers to get the long-term experience required to hone a justice-centered approach.
+Teacher retention is difﬁcult in a political climate where resources are withheld and teachers and schools face ever-
+increasing top-down accountability measures driven by the standardized testing industry. By emphasizing grassroots
+community relevance, this study afﬁrms Tate's (2001) prediction that equity in science education will not be achieved
+by “raising standards” or “increased accountability” from the top down. Instead, accountability should come from the
+people for whom teachers really work: students, parents, and communities. To engage SJSI, justice-centered science
+pedagogy acknowledges and seeks to subvert schools’ historical roles as reproducers of social inequality. This implies
+reimagining schools (and science classrooms) that are constructed by communities working in genuine collaboration
+with educators.
+ENDNOTES
+1 Pseudonyms are used for the school, communities, organizations, students, and other participants.
+ 1098237x, 2017, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/sce.21305 by Duke University Libraries, Wiley Online Library on [17/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1058
+MORALES-DOYLE
+ORCID
+Daniel Morales-Doyle
+http://orcid.org/0000-0002-9425-2158

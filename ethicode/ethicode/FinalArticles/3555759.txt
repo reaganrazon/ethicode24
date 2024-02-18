@@ -1,0 +1,852 @@
+339
+Understanding Instructors’ Cultivation of Connectedness in
+K-12 Online Synchronous Culturally Responsive STEM and
+Computing Education
+JAEMARIE SOLYST, Carnegie Mellon University, USA
+TARA NKRUMAH, Arizona State University, USA
+ANGELA B. STEWART, University of Pittsburgh, USA
+JINA LEE, Carnegie Mellon University, USA
+ERIN WALKER, University of Pittsburgh, USA
+AMY OGAN, Carnegie Mellon University, USA
+Culturally responsive STEM and computing initiatives aim to engage and embolden a diverse range of learners,
+center their identity and experiences in curriculum, and connect learners to each other and their communities.
+With an abrupt pivot to online learning at the beginning of 2020, more educational experiences have taken
+place virtually. We ran a virtual synchronous culturally responsive computing camp and saw that establishing
+the right environment online to support a good sense of connectedness was challenging. To investigate this
+further, we interviewed eight K-12 instructors of culturally responsive STEM and computing programs. Three
+themes emerged on defining and cultivating connectedness in learning experiences, the role of equity in
+supporting community online, and affordances of being online specific to culturally responsive perspectives.
+We support our thematic findings with vignettes from the camp data. In this study, we address K-12 culturally
+responsive STEM and computing instructors’ beliefs, experiences, and approaches regarding cultivating
+connectedness online. This work fills a gap in understanding instructor perspectives on building in-program
+and broader community connections online from a culturally responsive STEM and computing lens.
+CCS Concepts: • Human-centered computing → Empirical studies in collaborative and social com-
+puting; Web-based interaction; • Applied computing → E-learning.
+Additional Key Words and Phrases: online community, online learning, culturally responsive teaching, K-12,
+computer science education, connectedness
+ACM Reference Format:
+Jaemarie Solyst, Tara Nkrumah, Angela B. Stewart, Jina Lee, Erin Walker, and Amy Ogan. 2022. Understanding
+Instructors’ Cultivation of Connectedness in K-12 Online Synchronous Culturally Responsive STEM and
+Computing Education. Proc. ACM Hum.-Comput. Interact. 6, CSCW2, Article 339 (November 2022), 19 pages.
+https://doi.org/10.1145/3555759
+1
+INTRODUCTION
+There remains a major lack of diversity in STEM and computing, with disproportionately fewer
+women, people of color, and women of color in professional positions [42, 51, 52]. Of the total U.S.
+Authors’ addresses: Jaemarie Solyst, jsolyst@andrew.cmu.edu, Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA,
+USA, 15213; Tara Nkrumah, tnkrumah@asu.edu, Arizona State University, 5000 Forbes Ave, Tempe, AZ, USA, 85281; Angela B.
+Stewart, angelast@pitt.edu, University of Pittsburgh, Pittsburgh, PA, USA, 15213; Jina Lee, jinal2@andrew.cmu.edu, Carnegie
+Mellon University, Pittsburgh, PA, USA, 15260; Erin Walker, eawalker@pitt.edu, University of Pittsburgh, Pittsburgh, PA,
+USA, 15260; Amy Ogan, aeo@andrew.cmu.edu, Carnegie Mellon University, Pittsburgh, PA, USA, 15213.
+This work is licensed under a Creative Commons Attribution International 4.0 License.
+© 2022 Copyright held by the owner/author(s).
+2573-0142/2022/11-ART339
+https://doi.org/10.1145/3555759
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+339:2
+Jaemarie Solyst, et al.
+STEM workforce, Black women represented 5.6% in 1995 and by 2015 had only increased to 5.7%. In
+2015, women comprised only 35% of the tech workforce, while Black and Latinx women represented
+7% and 5%, respectively [7]. Primary and secondary education is a core time for underrepresented
+learners to become introduced to STEM and computing in a way that impacts their perspectives on
+their opportunities to make long term contributions to the field [31].
+Our work adopts the framework of culturally responsive teaching and computing pedagogies
+[35, 58, 59]. To address inequities in education, culturally responsive STEM and computing initia-
+tives aim to engage and embolden a diverse range of youth learners, center their identities and
+experiences in the curriculum, as well as connect learners to each other, outside home communi-
+ties, and professional networks [32, 58, 59]. One critical underpinning for this work is facilitating
+connectedness, “a peer culture in which the participants feel linked to each other and their commu-
+nities” [59]. Connectedness is composed of a sense of internal connectedness (learner connections
+within program) and external connectedness (connections to self and society outside program).
+Culturally responsive pedagogy emphasizes establishing the right environment to support both
+aspects. Distinct in this framework from other definitions of community is an emphasis on both
+technology and social justice, as we will detail in related work.
+Typically, culturally responsive computing (CRC) programs have been run in person. However,
+the COVID-19 pandemic has caused a major change in how such synchronous educational experi-
+ences are delivered, necessitating a shift to online or hybrid models of delivery. While the initial
+pivot from in-person to remote learning was abrupt, it likely also marks a permanent change in how
+we view learning environments, and a broader variety of hybrid and synchronous online modes
+of educational options will carry into the future [33]. This presents particular challenges for CRC
+pedagogy. Connectedness is a crucial component of CRC, but establishing a sense of community in
+online learning is a documented challenge in recent prior literature from the CSCW community
+[12, 38], let alone community in service of advocacy and social change. We observed barriers
+and opportunities for community firsthand when we ran a fully virtual synchronous culturally
+responsive computing camp for middle school girls over three weekends in October 2020. Desiring
+to further investigate, we then interviewed eight instructors of culturally responsive K-12 STEM
+and computing programs. In this paper, we explore the viability of supporting connectedness in
+these types of educational experiences, as well as the unique challenges, new opportunities, and
+effective strategies that instructors experienced and deployed online.
+In our interviews, we specifically focused on culturally responsive STEM and computing pro-
+grams facilitated by instructors trained in culturally responsive practices to understand how they
+cultivate connectedness. Three themes emerged from our interviews on how instructors understood,
+experienced, and supported connectedness in online synchronous culturally responsive STEM and
+computing K-12 programs. We illustrate these themes with vignettes describing moments from the
+multi-day online synchronous CRC camp we ran. Interview findings and data from the camp study
+fill a gap in understanding instructor perspectives and approaches to building learner and broader
+community connectedness online from a culturally responsive teaching lens.
+2
+BACKGROUND AND RELATED WORK
+2.1
+Connectedness in Culturally Responsive Pedagogy
+Ladson-Billings [35] defines culturally relevant pedagogy as teaching practices that foster academic
+success, cultural competence, and critical consciousness, emerging from the imperative to (re) story
+the academic needs of African American students. As knowledge increased about culturally relevant
+(also known as responsive) practices on African American and Hispanic student engagement
+[10, 40], CRT’s application spread to the field of STEM education [37]. Our work falls within the
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+Cultivating Connectedness in Online Synchronous Learning
+339:3
+frame of culturally responsive computing (CRC), a “technology education that draws inspiration
+from the body of work on culturally responsive teaching” [58] to navigate the development of
+underrepresented learners into techno-social change agents [59]. The implementation processes of
+CRC are framed by three specific tenets – Asset Building, Reflection, and Connectedness (ARC). This
+pedagogy focuses on underrepresented learners’ development through asset building (integration
+of technological and content knowledge), reflection (challenging one another to self-examine
+topics, behaviors, and identities along various divides), and connectedness (knowledge application
+grounded in culturally responsive methods with peers and broader communities). In this paper, we
+specifically focus on the core component of connectedness.
+Similar to CSCW research, connectedness in CRC includes shared objectives and mutual bonds
+of a community. Differing and adding to the CSCW literature, connectedness is further built on a
+foundation of advocating for social justice, addressing power, and centering diverse learners.
+Connectedness as part of the CRC guiding tenets explicate that students practice coalition build-
+ing, advocacy, and empathy in a technology-based course. Because technology is not a neutral
+actor in the world, connectedness promotes student reflection and critical thinking. For example,
+in an environment for teaching computer science concepts, teachers may also facilitate student
+discussions on how technology has been wielded as a power tool to maintain majoritarian stereo-
+typical views of disenfranchised groups. As such, facilitators implement connectedness using a
+problem-posing model for technology instruction. They define the purpose of technology edu-
+cation as a medium for social change and an identifier of inequity. In both formal and informal
+learning environments, technology facilitators/teachers tend to employ connectedness that include
+these five characteristics: (1) encourage student voice [6], (2) normalize cultural differences (e.g.,
+acknowledging and celebrating individual differences) [39], (3) critique socio-cultural factors in
+technology education and workforce [51], (4) position the learner as producers of knowledge [26],
+and (5) equips the learner to disrupt technological inequities (e.g., racism, sexism, classism) [59].
+These five aspects of connectedness reinforce expectations of relationship building that fosters
+one’s personal responsibility to other learners and one’s external communities [59]. Connectedness
+can thus be internal, directed at forming learner-learner bonds. CRC instructors aim to co-create
+classroom norms with students that value diversity, equity, and inclusion. The anticipated learner
+outcomes are reflected in examples, such as peer mentoring [68], sharing of lived experiences, and
+being a critical friend [16]. Connectedness is also therefore external, involving evidence of concern
+beyond the self to the participants’ own communities. We next expand on the definitions of internal
+and external connectedness.
+2.2
+Internal Connectedness
+Connectedness includes learners’ bonds to one another within the culturally responsive computing
+and STEM environment. It relies on the building of internal community, which can be described
+as, “a feeling that members have of belonging, a feeling that members matter to one another, and
+a shared faith that members’ needs will be met through their commitment to be together” [43].
+While we focus on Scott and White’s definition of connectedness [59], there is a significant body of
+related CSCW research on building community in learning that can take place virtually, yielding
+frameworks such as Moore’s interaction taxonomy [44], communities of inquiry (CoI) [24, 25],
+communities of practice [67], and Rovai’s concepts of community in distance learning [54].
+Prior literature shows a number of academic and personal benefits to having a good sense of
+community in a learning environment, which include less attrition and greater student persistence
+[54, 56, 63], higher rates of learner satisfaction [27], as well as more participation and learning
+gains [55]. However, whether chosen out of necessity or for certain conveniences, learners who are
+in online learning environments face multiple challenges to experiencing a sense of community,
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+339:4
+Jaemarie Solyst, et al.
+especially related to social presence and teaching presence, such as lack of feeling connected to the
+instructor and establishing peer rapport [46] or feeling isolated often, since there exist few social
+cues to build on in comparison to in-person learning [54, 56].
+A commonality therefore between most work on community in online learning which relates to
+internal connectedness is an emphasis on social presence within the environment: the ability to
+virtually project oneself [23] and be aware of others[64], as well as on teaching presence, which
+is the instructors’ design and facilitation of learning experiences to promote a good sense of
+connection among community members [1, 54]. In this paper, we examine how within the online
+CRC context, learner-learner and learner-instructor interactions foster a sense of connectedness and
+how this might differ from non-CRC contexts that are less concerned with learner empowerment
+or non-online contexts.
+2.3
+External Connectedness
+Connectedness from the perspective of self and society incorporates the learner’s specific external
+community connections, extending beyond traditional learning spaces such as classrooms. Our
+distinction within the CRC framework of internal and external community is similar to how the
+community of practice literature differentiates between the internal community of school-based
+educational experiences and an external community that students may connect with when engaging
+in actual practice beyond structured school activities [67]. However, the CRC idea of external
+community involves both an exploration of the home communities with which a learner identifies
+and how the learner can act to effect meaningful change within those contexts. External community
+in education is not defined by dominant norms that establish the guidelines for knowledge sharing
+and learning [20]. Instead, the external community expands science content knowledge to the
+people and places not governed by policies implemented in schools. Pedagogical understandings of
+external communities contextualize learning that is relevant and connected the learner.
+One area where researchers have examined external community is through science education
+initiatives that focus on social change outcomes for student engagement [47]. Citizen science
+projects, for example, supplement science instruction with real-life experiences to expose and
+deepen scientific literacy for students [8, 29, 30, 45, 53]. Unlike classroom-based science education,
+citizen science projects occur in various places and have been found to provide opportunities for
+students to interact with community members from different cultural backgrounds [45, 53, 60].
+Localized citizen science project origins appeal to students’ interests, because content derives
+from their community. Mueller and Tippins [45] and Zoellick et al. [69] include evidence about
+curricula outcomes’ claim to raise environmental consciousness, increase civic responsibility,
+scientific literacy, social interaction between schools and professional scientist, advance scientific
+performance, and provide an added voice through international minority perspectives to the
+field of science. However, the scope of this approach to democratize science is vulnerable to
+limited participation by racial and ethnic groups [8], because of factors such as economics, family
+engagement, blocked access to natural settings, limited science knowledge, fear, and time constraints
+[49].
+In this work, we explore how external connectedness in CRC manifests in an online context.
+2.4
+Promoting Connectedness
+Prior work has mostly explored promoting connectedness in communities of minoritized indi-
+viduals that may not be in an online context or in online contexts without focus on minoritized
+individuals. In prior work on promoting online community, Thomas’s case study [62] presented how
+children learned and built community together through role play in a synchronous virtual world
+and asynchronous forum, showing that through online discussion and experience-taking, they
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+Cultivating Connectedness in Online Synchronous Learning
+339:5
+could learn communication skills. Sanders and Lowkey-Vega [57] described how high school social
+studies teachers moved their classrooms to be synchronous and online, finding that they facilitated
+engagement and learner-learner discourse by using interactive tools (e.g., Kahoot, Quizlet, polling)
+and exciting educational videos followed by small group discussions. Drysdale [21] further articu-
+lates how assigning mentors or “shepherds” to smaller groups of learners could greatly enhance
+a virtual program’s sense of community. More research is needed to understand the approaches
+instructors take in a culturally responsive context.
+CSCW researchers have additionally created novel technologies to encourage positive social
+interactions online. One way technological interventions do is by creating new opportunities for such
+positive interactions. For example, systems have been built to automatically identify opportunities
+for connection [41] or prompt people to offer social support to their peers [28]. In addition to
+creating new opportunities for social interaction, technological interventions have been built to
+improve the interactions themselves. For example, in virtual spaces, technological interventions
+have facilitated joint awareness through shared eye gaze [34] or emotion management via chatbots
+[4]. However, many such existing technology supports or interventions were not designed to center
+learners with a specific focus on equity, in alignment with the aims of CRC. It is unclear if these
+may be appropriate for these contexts, and more exploratory work is needed.
+While few papers discuss intervention strategies specifically for minoritized groups, there
+are some notable exceptions. For example, while not online, [13] outlines strategies for creating
+an inclusive environment within nursing education for underrepresented minorities. Taking a
+psychological safety perspective, their suggestions range from asking students’ directly about their
+preferences and backgrounds, ensuring that students are exposed to learning environments and
+materials that represent the experiences of diverse populations, and pointing students to additional
+resources as necessary.
+While technology for virtual learning could support equity, minoritized learners may also face
+more challenges in online learning environments [22]. The five characteristics defining the work
+for facilitator/teacher implementation of CRC curriculum could therefore improve this support.
+For instance, while CRC implementation depends on inclusive learning environments for critical
+conversations, individual and group reflections, and equal power sharing, online platforms limit
+styles of teacher-student engagement [50]. The work space online, for example, with the four
+corners of the zoom window, restricts participation to the standardized audio and video control
+settings. Even with features like the whiteboard, breakout rooms, or video effects, engagement is still
+regulated by dominant norms. Teacher adjustments for online CRC implementation requires that
+one re-imagine teacher-student and student- student methods of relationship-building. Therefore, to
+effectively support suitable interventions, we can draw on the beliefs and experiences of culturally
+responsive instructors.
+CRC programs aim to uphold the 5 core tenets of the framework in any setting. With the
+transition to virtual learning, it is essential to understand how programs have facilitated this
+shift. Little research has explicitly explored instructors’ understanding of and actions to facilitate
+connectedness online in culturally responsive computing and STEM programs. We strive to address
+the following RQs. In an online CRC environment, what are instructors’:
+• RQ1: Experiences of how connectedness did or did not manifest?
+• RQ2: Beliefs about how connectedness should manifest virtually?
+• RQ3: Approaches to supporting the cultivation of connectedness?
+We believe that addressing these questions will contribute novel insights into culturally respon-
+sive STEM and computing perceptions, practices, and gaps when these programs move online. We
+later discuss technology recommendations to support these gaps and better facilitate practices.
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+339:6
+Jaemarie Solyst, et al.
+3
+METHODS
+In this section, we cover information about the online synchronous culturally responsive computing
+camp we ran, detail interview recruitment and analysis, and include descriptions of culturally
+responsive STEM and computing programs. We first ran our own computing camp, finding that
+there were barriers to cultivating connectedness. This prompted us to conduct semi-structured
+interviews with instructors of other programs offering similar online synchronous experiences in
+order to understand their perspectives and approaches to supporting connectedness.
+3.1
+Online Culturally Responsive Computing Camp
+Fig. 1. Two de-identified, recreated snapshots of the CRC camp are shown. On the left is a group-wide activity
+on power and identity. On the right is a coding activity in a breakout room.
+Our informal CRC camp study took place over the span of three consecutive weekends in October
+2020 and were 2-3 hours in duration. The camp was held on Zoom (http://zoom.us), and all sessions
+were recorded. Ten middle school girls, aged 12-14 years old, participated in the virtual synchronous
+camp. One identified as American Indian, one identified as Asian and White, two identified as
+Hispanic/Latina, four identified as White, and one preferred not to answer. The camp was run
+by three instructors and contained a mix of introductory activities on robotics, computer science,
+and identity and power, e.g., learners reflected on whether certain images represented power and
+what factors make up their identity. Learners connected these ideas to computer science through
+tasks to program a virtual robot, e.g., in one activity, learners wrote code to make the robot discuss
+problems they see in their community and how they would solve them (Fig. 1). Activities took
+place in a mix of a large group (all learners) and small groups (breakout rooms). Small groups had
+five learners each (mix of having cameras on and off), one main instructor with their camera on,
+and another observing researcher with their camera off.
+3.2
+Instructor Interviews
+We first researched culturally responsive STEM and computing programs that held educational
+opportunities virtually to ensure alignment with culturally responsive goals and practices, taking
+into account mission statements and program offerings. We reached out via email to organizations
+for K-12 learners with mission statements and programs that were particularly aligned with the
+tenets of culturally responsive teaching to invite instructors to participate in the interview study.
+Due to the high stress and activity levels during the COVID-19 pandemic, we had most success
+in recruiting from programs with which we had previously been in contact for recruiting for our
+own program. We were able to conduct seven semi-structured interviews with instructors from
+three different programs (names anonymized): GirlTech (3), YouthComp (2), and ScienceGirls (2).
+Instructors from GirlTech and YouthComp had formal understandings of culturally responsive
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+Cultivating Connectedness in Online Synchronous Learning
+339:7
+Table 1. Program details. Programs had a range of ages with mostly girls as the intended learners.
+Program
+Informal
+Age Range
+Learner Demographics
+GirlTech
+Yes
+Secondary (high) school
+Girls
+ScienceGirls
+Yes
+K-12
+Girls
+YouthComp
+No
+Secondary (high) school
+Mixed gender
+CRC Camp
+Yes
+Middle school
+Girls
+Table 2. Instructor demographics. Instructors represented a variety of backgrounds and programs.
+ID
+Program
+Yrs. Teaching
+Other Teaching Description
+Self-Described Racial Identity
+I1
+GirlTech
+16-20
+Elementary school
+Black
+I2
+GirlTech
+11-15
+Secondary computer science
+Asian Pacific Islander
+I3
+GirlTech
+6-10
+Elementary & preschool
+Japanese
+I4
+YouthComp
+16-20
+Secondary computer science
+White
+I5
+YouthComp
+6-10
+Secondary English
+White
+I6
+ScienceGirls
+1-5
+None
+White
+I7
+ScienceGirls
+11-15
+None
+White
+I8
+CRC Camp
+21-25
+Secondary life sciences & math
+African American
+computing through professional development opportunities offered through these programs, while
+the instructors from ScienceGirls had knowledge specifically from practice. We additionally in-
+terviewed the second author (I8) of this paper who facilitated the CRC camp we ran for a total of
+eight interviews. Including an author as a participant has a tradition in education research through
+research-actor and [65] interacting educator-researcher [19] frameworks.
+GirlTech is an informal CRC camp for girl-identified learners in high school, which took place over
+9 weeks. Sessions last 2 hours each and primarily took place over Gather.town (https://gather.town/),
+a web-conferencing platform with a virtual world in which each users have avatars. Curriculum
+content focuses on cybersecurity and information technology, with the goal being to introduce and
+prepare participants for futures in tech. YouthComp is a formal CRC high school course (gender
+inclusive) that is for one academic year in duration. The 120-hour curriculum was moved to be held
+online over Zoom and includes four quarters focused on technology and social issues, with the goals
+of positively impacting underrepresented students’ attitudes toward and self-efficacy in computing,
+plans for STEM coursework, and computational thinking skills. ScienceGirls is an organization that
+offers informal culturally responsive STEM and computing programs for girl-identified participants
+in K-12. Different camp offerings include robotics, physics, computing, and engineering. Online
+multi-hour sessions held over Zoom range from one-day workshops to spanning multiple weeks.
+All programs had the overarching goal of emboldening learners as techno-social change agents to
+position them to be problem solvers in communities beyond the program.
+We asked about instructors’ perspectives on connectedness in the programs they facilitated.
+Interview questions specifically covered what a good sense of community looked like to them
+online, challenges and obstacles for cultivating connectedness, and approaches used to support
+connectedness in online culturally responsive STEM and computing programs. Instructors inter-
+viewed were female, and five had other teaching backgrounds beyond instructing the camps and
+were also K-12 teachers. Interviews ranged from 45 minutes to 70 minutes in duration and were
+conducted virtually over Zoom. Instructors were compensated for their time with a $25 gift card.
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+339:8
+Jaemarie Solyst, et al.
+3.3
+Data Analysis
+We conducted thematic analysis of the instructor interview data using an inductive open coding
+process [15]. The first and third author discussed literature definitions of connectedness in culturally
+responsive pedagogy [35, 59] to ensure they had similar understanding and then independently
+reviewed and characterized initial codes from the interview data. Because the definition of con-
+nectedness from CRC has both internal and external aspects, this showed in the initial set of codes.
+They then discussed and combined initial codes supported by data from multiple instructors into
+themes using an affinity diagramming approach [5]. Then the first author iterated the thematic
+analysis to further collapse themes and checked in regularly with the other researcher. If there
+were disagreements in the themes, the authors would discuss, review the data, and confirm or
+iterate the theme until reaching agreement. Next, member checking (i.e., confirming interview
+findings with a member of the group being studied) [2] of the resulting main themes was performed
+with the second author, who ran our online culturally responsive computing camp. Lastly, all
+other authors came together to discuss and finalize the three themes we present below. To further
+support and supplement the themes, two researchers reviewed video data of the online synchronous
+camp sessions and developed vignettes that were illustrative of the themes that emerged from the
+instructor interviews.
+4
+FINDINGS
+Here we describe the three main themes of our findings across programs and instructors, em-
+phasizing elements that are specific to our instructor population and context while noting some
+findings which are in line with prior work on non-culturally responsive teachers’ challenges to
+facilitating educational experiences and supporting community. Supplemental vignettes support an
+understanding of how the thematic findings occur in practice. Throughout the findings, we reflect
+on how connectedness is displayed, through the lens of the five components described in related
+work: (1) encourage student voice, (2) normalize cultural differences (e.g., valuing uniqueness), (3)
+critique socio-cultural factors in technology and STEM education and workforce, (4) position the
+learner as producers of knowledge, (5) equips the learner to disrupt technological inequities (e.g.,
+racism, sexism, classism).
+4.1
+Cultivation of a connected learning environment as a journey
+4.1.1
+Internal community best when learner-led. Instructors characterized a good sense of internal
+community as being socially learner-led, meaning that learners initiated and carried on social
+interactions with one another. Accordingly, instructors described their roles as being supportive
+cheerleaders in the background and not wanting to be perceived as overpowering or authoritarian
+by the learners. “As soon as they are kind of leading the way, and I’m just there to click the mouse,
+they’re doing amazing,” (I6, ScienceGirls). The importance of learners being heard (via voice chat or
+typed) was particularly emphasized, in line with characteristic #1 in Connectedness.
+Furthermore, instructors saw self-disclosure as a sign of and contributing to learners’ comfort in
+being vulnerable with peers and developing friendships, a finding also in prior work [3, 18, 66].
+In particular, this often took place through learner-learner side conversations (either on or off
+topic). Aided by visuals and common space in a virtual world, I2 (GirlTech) described what side
+conversations look like between learners with good rapport in Gather.town, “I can see their [avatar’s
+speech] bubbles, like going back and forth... There’s constant talking.” Instructors were encouraging
+of and intentionally made space for side conversations, even if it removed learners’ attention from
+the main curriculum.
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+Cultivating Connectedness in Online Synchronous Learning
+339:9
+In order to support these learner-led interactions, instructors went so far as to reduce their own
+social presence by watching from a distance or turning off their cameras in order to give learners
+more space to connect. “I don’t bother them... Like I’ll come in, and I’m going to come in with my
+camera off, so they don’t see me like staring at them, like judging them. And I’ll tell them, you know,
+if you need my help, you can ask me, and I’ll unmute myself and talk, but I just want to see what
+you guys are doing. I’m not coming in to tell you what to do. I feel like that gives them a little bit
+more space, and that helps them build more community,” (I1, GirlTech). Leader-led environments
+are an essential prerequisite for positioning the learners as producers of knowledge, as opposed to
+consumers (characteristic #4). Practice leading helps to prepare learners to disrupt existing systems
+(characteristic #5).
+4.1.2
+Heavy facilitation of tone, norms, and peer connections. While learner-led interactions were
+preferable, instructors reported challenges in cultivating a good sense of internal learner-led
+community. Instructors spoke to how it was much harder to meet people online for the first time
+and establish connections and friendships in a virtual environment due to lack of social cues, shared
+physical space, including physical touch and connection, and inability to engage in some familiar
+social or cultural norms virtually. I8, the second author, described how “some communities are very
+expressive and [physically] touchy, so maybe it hinders how people engage in community without that
+kind of contact.” In the CRC camp we ran, we explicitly encouraged learners to connect with one
+another in a number of activities, but we were not as successful in facilitating learners’ initiating
+social interactions with one another, as shown in the vignette:
+V1. (Coding Task Breakout Room): Instructors encouraged the learners to engage in conver-
+sation with each other as they programmed their virtual robot and to discuss any questions
+they had about code with their peers first before asking the instructor. One learner asked a
+coding question. This was followed by silence, despite some learners being further along
+in the task. The instructor stepped in after no response. Instead of talking to peers, some
+learners asked questions or privately chatted to the instructors in direct messages.
+Instructors therefore emphasized the importance of starting the experience by setting a program’s
+tone, framing a transformative purpose, and modeling community-building behavior to support a
+good sense of internal community among learners online. For instance, across programs, instructors
+described wanting their program to have a non-competitive and collaborative tone. This involved
+cultivating an environment safe for learners to make mistakes and engage in risky conversations in
+order to connect with peers over ideas, opinions, identity, and culture. I7 (ScienceGirls) described
+wanting to make camps into “a space where there’s trust and the willingness to open up and say
+the wrong thing or do the wrong thing... a safe space to fail forward.” In particular, it was further
+emphasized that setting norms and a tone that was celebrative of risk-taking and learning from
+mistakes was especially important for emboldening underrepresented learners in computing and
+STEM. “BIPOC women are scared to fail... It seems like in a White male dominated world. You are
+judged based on your failure versus your learning from failure. And then you’re also being judged as the
+representative of your community, especially in these realms that are entirely White male dominated.
+So giving students... the opportunity to fail in safe spaces helps them lean on each other. And that is
+really important, I think, especially because cybersecurity is such a competitive world,” (I2, GirlTech).
+Instructors emphasized normalizing non-dominant culture in technology (characteristic #2).
+Approaches to modeling internal-community-building behavior online included acknowledging
+when learners spoke, sometimes reading students’ chat responses out loud, and practicing self-
+disclosure about their own identities first, increasing their social presence [17, 61], before asking it
+of learners. These are common practices for in-person programs, but instructors felt that online,
+they had to be more intentional and put more energy into modeling these behaviors to establish
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+339:10
+Jaemarie Solyst, et al.
+positive social norms. As a result, some instructors felt more worn out by facilitating their programs
+online compared to in-person. "Why I get so exhausted on zoom is because... I act like a game show
+host mixed with a kids YouTuber," (I6, ScienceGirls). Although sometimes particularly effortful online,
+instructors overall aimed to model behavior and create opportunities for student participation and
+opinions (characteristic #1).
+4.1.3
+Creating opportunities for peer connections and collaboration. In order to help transition away
+from initial heavy instructor facilitation towards their eventual learner-led goal, two instructors
+mentioned how they explicitly invited the learners to be a part of defining and setting their own
+community expectations (e.g., Would their mics be muted when not speaking? What would courage
+and respect look like?).
+Instructors also initiated conversations that would lead to learners disclosing information about
+themselves, such as round-robin icebreaker questions. Doing so early in the program allowed
+learners to later find common points of interest amongst themselves.The instructor had to step in
+more heavily at times to find connections between learners, e.g., by having individual conversations
+to understand a learner’s interests and then connecting them to a peer. “I help facilitate those
+connections... They’re more willing to [talk] to me [when] they’re not totally empowered to go to the
+whole group... So I will find two people or three people who have those similar interests, and then I’ll
+group them up in the next activity we do together,” (I6, ScienceGirls).
+After instructors got to know their learners, alongside pairing learners with similar interests,
+they constructed heterogeneous groups such that more outgoing learners (i.e., those with more
+salient social presence) could specifically engage with shier learners. “You have those proactive girls
+that bring out the shine with someone who’s very shy... I pair them up with girls who like turning the
+camera off, you know, because hopefully, maybe they’ll say, ‘Hey, can you turn your camera on?’,” (I3,
+GirlTech). They noted general success with this pairing method. Instructors sometimes also assigned
+roles in groups to aid collaboration. Instructors who already used similar methods in person found
+them particularly important to employ online due to additional online barriers to learners getting to
+know and interact with peers, while the other instructors specifically adopted new techniques when
+they shifted to facilitating virtual programs. Connectedness is evidenced through the instructors’
+continued valuing of the student voice (characteristic #1). In fact, instructors in our own camp used
+the strategy of role delegation to enhance connectedness. We did observe that this strategy was
+successful in eliciting smoother learner-led collaboration in our own camp data, as evidenced by
+the following vignette:
+V2. (Robot Identity Breakout Room): In an activity where learners were instructed to
+collaboratively discuss and decide on aspects of a fictitious social companion robot’s
+identity (e.g., name, gender, likes and dislikes, etc.), one learner was designated by the
+instructor to share their screen and type out the group’s ideas on a virtual whiteboard.
+This learner subsequently chose to read aloud the robot identity prompts for peers and
+help pace the group through the list of the identity aspects for the duration of the activity.
+Instructors commented on how this sense of internal community does not happen instantly and
+has a trajectory. I6 (ScienceGirls) described how the dynamics change within a one-week-long
+camp, “[At first], they want so badly to talk to us because we’re a new adult in their life, but at the end
+of the week when they have gotten accustomed to seeing the same girls or the same friends,... [I am]
+no longer the ‘cool’ adult... they care more about talking to each other than they care about talking
+to me.” Instructors hoped that the connections and relationships built would carry beyond the
+program itself. They noted how good community between learners manifested in them initiating
+sharing contact info with one another, such as social media handles, emails, and phone numbers, or
+parents’ info (depending on age), in order to be able to contact each other outside of the program.
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+Cultivating Connectedness in Online Synchronous Learning
+339:11
+Supporting learners in networking with one another in the context of a CRC educational experience
+can help equip them to disrupt technological inequities together (e.g. racism, sexism, classism)
+(characteristic #5).
+Further, instructors created opportunities for learners to collaborate on projects that required an
+engagement with each other and their external communities. In GirlTech, instructors spoke to a
+final project where the girls were grouped together and created a public service announcement
+(PSA) video for their communities on an important science or technology topic of their choosing.
+Through curriculum development, instructors can facilitate connectedness in the projects they
+layout. The PSA project that the instructors created allowed learners to bond with one another, as
+they practiced critiquing sociocultural norms (characteristic #3), producing knowledge and content
+for external communities (characteristic #4), as well as potentially disrupt an oppressive system
+with their projects via spreading ideas and actionables (characteristic #5).
+4.2
+Complexities to achieving equity
+4.2.1
+Access to supplies and technology. Instructors viewed equity as core to building internal
+community and inequity as a barrier. Instructors, specifically of the ScienceGirls camps where a
+number of tactile project activities are offered, missed the ability to have everyone in a common
+environment with access to the shared supplies. In an in-person environment, everyone has access
+to the same materials, but online, instructors noted how it was important not to make assumptions
+about learners’ resources. I4 commented that a lack of equity “illustrates the haves and the have
+nots. If somebody is left out... it can build resentment... [They] are conscious of what they’re missing
+out [on], and it’s stressful for them.” ScienceGirls tried to create an even footing for certain activities
+by sending out packages with supplies for tactile STEM projects to all participants in advance.
+Differing computing devices were also a source of inequity. Some learners had access to more
+elaborate computer setups, while others may have had access only to tablets or phones. Instructors
+noted the importance of making activities accessible to a number of learners, since some “don’t
+have enough real estate on [their] computers to see faces and also code... don’t have two monitors...
+It’s just this idea that there were a lot of assumptions that went into play about what abilities students
+were able to utilize,” (I8, second author). By reflecting on their own assumptions that initially went
+into creating online experiences that sometimes did not achieve goals of equitable experiences, the
+instructors themselves reflected deeply on socio-cultural factors in technology pertaining to learners
+accessing their programs, although they did not share these reflections with learners (characteristic
+#3). Despite testing our programming platform that we developed on multiple devices, being fully
+inclusive to learners who used different devices to participate in the camp we ran was a challenge:
+V3. (Coding Task Breakout Room): One learner attended the camp on a tablet device.
+During robot coding activities, the tablet’s smaller screen did not display the programming
+interface in entirety, and the button to run code was not visible. When the learner wrote
+code, they could not execute their program to make their virtual robot carry out actions.
+Although instructors faced barriers to creating fully equitable experiences in terms of materi-
+als and resources, there was considerable thought to create an environment and model a space
+where there was less resource and technological inequity (characteristic #5). Instructors suggested
+that activities be designed with consideration to different levels of access to technology, such as
+chat-based activities. Additionally, differences in experience with using and communicating via
+computers (e.g., typing, reading) was an obstacle for some learners. “Communication is a barrier,
+especially with girls who don’t know how to use the chat or don’t know how to type. The older girls are
+definitely a lot more involved with the chat.” (I6, ScienceGirls).
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+339:12
+Jaemarie Solyst, et al.
+4.2.2
+Virtual educational experiences were more accessible due to lower geographic barriers. Some
+learners were able to more easily join the culturally responsive STEM and computing experiences
+due to lowered geographical barriers. Instructors commented on how more learners were joining
+their programs from further away, and this led to a more diverse and wider-reaching sense of
+internal community. “We have built a community across the state versus just in our own home
+communities. And that’s important... I think other students need to see that there are like-minded
+girls... especially if they feel isolated in their own home community, right? ‘I’m the only girl that’s
+interested in cybersecurity.’ Well, not when you look at the state—you can see a lot of different girls there,
+and that’s important” (I2, GirlTech). With a more diverse learner population, since some learners
+who had been previously excluded from these programs due to distance, lack of transportation,
+or cost, instructors saw that this helped with understanding different cultural differences and
+backgrounds (characteristic #2).
+4.2.3
+Philosophies vs. preferences for camera use. Instructors had conflicting views on learners’
+use of cameras. Instructors generally preferred cameras to be on for common reasons documented
+in prior work relating to more social information and cues [12]. They often viewed cameras being
+off as a barrier to getting to know who their learners were. However, all instructors also found
+that to provide an equitable environment, they could not require cameras to be on for a number of
+reasons related to learners’ privacy, learner boundaries and not being ready to share their spaces
+(e.g., revealing of vulnerable information like socioeconomic status), other background commotion,
+and effects on attention. I5 (YouthComp) described requiring cameras to be on as “not something
+that was realistic, and it also wasn’t something that was helpful in building that kind of sense of
+community. It was a little more like awkward pressure to feel like the camera was on... students
+are uncomfortable showing what’s going on in their home.” Given that learners have different
+backgrounds and boundaries, instructors aimed to normalize these differences by allowing for
+flexibility with camera usage (characteristic #2), even if it was not their preference for learners to
+have their cameras off. They aimed to design programs that accommodated a range of different
+types of engagement with technology.
+An approach that addressed the camera off or on tension was in GirlTech’s use of Gather.town,
+which helps to establish learner representations (via virtual customizable avatars, even if cameras
+are off) and provides a common virtual world and some visual feedback for instructors. I2 (GirlTech)
+described: “When you turn off your camera, that might be a lack of engagement, but because the
+avatars are moving, I know that they are still with me.” In other programs that primarily used
+conferencing software without a virtual space, it became clear that activities had to be flexible for
+users who did not have cameras on, and some activities that were translated almost directly from
+in-person to online were less effective. The following vignette illustrates our attempt to facilitate
+previously successful in-person activities to an online environment, but they did not encourage the
+same kind of participation or social engagement that we had hoped for.
+V4. (Group-wide Icebreaker): Learners were asked to introduce themselves with their name,
+a fun fact, and a physical action. Other learners and the instructors repeated their name
+and action. Those with their cameras and microphones off used the chat to introduce
+themselves. There were sometimes periods of silence, as the group waited for the typed
+introductions. The instructors read out the descriptions in third person and made up actions
+for them. Learners with their cameras off could not be seen repeating others’ actions.
+Although not all activities were effective for learners who preferred only to type, some instructors
+noted how the option to type instead of talk on camera was better for some to participate and share
+their opinions (characteristic #1). “Chat options with girls who usually don’t say a lot, even in person,
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+Cultivating Connectedness in Online Synchronous Learning
+339:13
+they just kinda keep to themselves,... maybe behind a keyboard, they feel a little bit more empowered
+to jump into the conversation.” (I6, ScienceGirls).
+4.3
+The home environment’s unique support of external community
+Our last theme is strongly supported by instructors’ distinct emphasis on the home environment
+across interviews. Although some learners were concerned about their backgrounds and privacy,
+instructors found that for those who had their cameras on, the ability to see personal artifacts in the
+learners’ backgrounds was a benefit to encourage information disclosure and help peers connect
+with one another. This gave the unique ability for learners to talk about important objects in their
+home environment, ultimately sparking conversation about their identities and values. This type of
+disclosure and interaction around artifacts may be harder to achieve in-person, since learners are
+not immediately in their home environment, and the interaction may be less authentic. “When we
+introduce ourselves, I always like showing an object, so that they connect based off these objects that
+they’ve been sharing” (I3, GirlTech). This helped teachers in understanding their students outside of
+the controlled space of a classroom—in online learning, learners may be more affected by influences
+in their home.
+In the same vein, there was unique potential for parents and other family members to have a
+presence in the program. Family members who reside in the same home may show up in learners’
+backgrounds or interact with the learners and subsequently the other program participants. While a
+busy background may be viewed as negative in some cases (e.g., if too distracting for other learners
+or the learner is not wanting others to see their family members), this also allows an opportunity for
+learners to introduce close people in their lives if they so choose. The home environment allowed
+the ability to center other pieces of identity and culture, acknowledging and celebrating learners’
+unique differences (characteristic #2). By centering sometimes overlooked facets of identity and
+creating opportunities to make projects from these facets, learners are emboldened to produce new
+knowledge from their perspective (characteristic #4).
+V5. (Group-wide Activity Transitions): One learner received tech support help from a
+parent multiple times throughout the camp. As the parent made appearances via the
+learner’s camera, short on- and off-topic conversations took place between the instructors
+and the parent on a few occasions as they aided the learner in setting up their computer
+and logging into the coding platform.
+A tension emerges between leveraging the background and philosophies on camera use. If a
+learner does not have their camera on at any point or rarely, instructors and peers may not get to
+connect with them as well as with learners who have their cameras on. There is a need to structure
+activities to accommodate learners with their cameras off, so other modalities, e.g., just typing can
+be equally effective.
+Relating to lowered geographic barriers mentioned in the theme above, holding online programs
+also offered a valuable affordance of having guest speakers, professional networking opportunities
+from further away, and live tours. For example, in ScienceGirls and GirlTech, learners were able to
+engage in live virtual tours with universities and network with STEM professionals. Although taking
+a virtual tour is possible even when learners themselves are gathered in person for educational
+experiences, this option may have become more salient to instructors as the shift to online learning
+caused many professionals to“live” online themselves. While we did not hear any evidence that
+engagements with professionals continued beyond the initial visit, continued experiences like these
+could present a starting point for CRC coalition building with newly forged external networks.
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+339:14
+Jaemarie Solyst, et al.
+5
+DISCUSSION
+In this work, we interviewed eight instructors and report on our own multi-day camp to build an
+understanding of instructor beliefs, experiences, and approaches to building connectedness within
+online K-12 culturally responsive curricula. We found that instructors were used to facilitating
+culturally responsive experiences in-person which felt more natural given their focus on community,
+and found the online format to introduce a number of challenges. In line with past work, instructors
+described how internal community is a trajectory [14], but they found that they needed to be more
+intentional in online learning about creating opportunities for connections. Instructors characterized
+their intended approach as a learner-centered one, but extended other uses of the term that focus
+primarily on content [9] to include how learners formed social bonds and engaged in non-content
+related interactions as ways to encourage student voice and advocacy. However, because of the
+increased challenge in forming connections online, instructors were often heavily involved early
+on in the camps to scaffold and model community-building behaviors. This involvement was in
+contrast with their stated preference for positioning the learners as the knowledge producers, and
+led to heightened “performances” that made instructors feel fatigued within the initial program
+delivery.
+In the cases where instructor modeling behaviors were not sufficient to induce preferred interac-
+tions, instructors found mechanisms for more outgoing peers to do the modeling themselves. Peers
+were able to be more direct in their requests, such as asking their partners to turn their cameras on.
+In this way, peers themselves led the normalization of home environment and cultural differences.
+As camps progressed, this enabled the instructors to reduce their own social presence to prioritize
+the learner-learner connections being made. Instructors viewed these strengthened connections as
+a prime instigator of learners’ subsequent exchange of contact information and stated intention to
+continue interacting outside the bounds of the programs. Such formation of long-term coalitions is
+one of the main objectives of CRC [59].
+Online learning also provided new opportunities for external connectedness as a focus. Echoed
+by vignettes from our camp, new opportunities were found in centering learners’ communities and
+identities outside of the program. For instance, connecting from their home environments enabled
+a more facile expression of self-disclosure. Learners were able to share about everyday items that
+held value for them, even introduce family members or pets, in ways that revealed hidden facets of
+their identity and further normalized cultural differences. As self-disclosure can often be at the
+surface level [3], this window into learners’ lives and home environment let them disclose more
+deeply, while helping to shape how instructors themselves viewed and addressed their learners’
+identities. This critical aspect of culturally responsive pedagogy is uniquely enabled by the online
+setting [59].
+Finally, a main tension that our work surfaced was of connection modality, which arose in
+all themes. Instructors preferred that learners had their cameras on, since they could get visual
+feedback on learners’ engagement (in line with prior work [12]). Additionally, as noted above,
+cameras were a prime mechanism for providing unique opportunities for external community to
+come into focus, given the novel ability to gain entrance to learners’ home environments. While
+these features served external connectedness goals impossible to achieve for in-person camps,
+not all learners were comfortable or able to have a camera on. Instructors thus described a deep
+conflict felt with goals of equity, noting the importance within the online environment of designing
+activities that were inclusive for different modalities of engagement, particularly given inequities
+in access to technology. While core tenets of CRC include the critique by learners of socio-cultural
+factors in technology education and the equipping of learners to disrupt technological inequities,
+no instructors described the very fact of this tension or their own camps’ inequities as a potential
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+Cultivating Connectedness in Online Synchronous Learning
+339:15
+starting point for such discussions. They may have viewed this as too sensitive or close to the
+students’ own situations to be appropriate for synchronous conversation; and yet, this is a space
+potentially ripe for exploration.
+To mitigate inequities related to participation in different modalities, instructors did describe
+several approaches to establish common ground, a main pillar of community-building [48]. The
+technologically-supported approach used by instructors of the GirlTech program - holding the
+camp in a virtual world - resulted in instructors gaining additional signals of learner engagement
+(e.g., avatars moving around), even without camera usage, allowing learners with their cameras off
+to have heightened social presence. ScienceGirls followed a non-technological approach, ensuring
+that all learners had the same resources via mailing supplies.
+Together, these findings lead to understanding the experiences, beliefs, and approaches to
+supporting the cultivation of connectedness online. Instructors viewed connectedness as learner-
+led but were challenged with supporting this in an online environment. We saw that instructors
+experienced barriers to connecting learners and achieving equity, as well as benefits related to
+celebrating diversity and external connectedness. Instructors were creative, using a number of
+approaches to overcome barriers to cultivating connectedness, such as employing a virtual world
+or playing a heavier part in connecting learners to one another. We believe that some of the main
+challenges instructors faced in cultivating connectedness may be addressed with technological
+interventions, such as allowing instructors to have more variation in social presence.
+5.1
+Design Opportunities
+Based on our findings, we explored a set of design opportunities for the development of future tech-
+nologies that could support instructors of culturally responsive STEM and computing experiences.
+Specifically, we focus on three main themes; supporting learner differences and non-dominant, ex-
+ternal connections (within learners’ home environment and after the session is over), and supporting
+co-creation and customization in ways that position girls as technology producers.
+With a need to support learner differences and non-dominant norms, virtual worlds, like the
+Gather.town example used by the GirlTech instructors, are worth further exploration with an
+opportunity to build on existing and add new features. We saw that virtual worlds offered instructors
+and learners a shared context, social cues (e.g., speech bubbles), as well as some ability for instructors
+to change their social presence as needed (e.g., fade in and out of a learners’ interaction by walking
+closer and further from the learners’ avatars). In particular, the instructors communicated a unique
+need to be able to dynamically adjust their own social presence to encourage student voice and
+position the learners as knowledge producers. The ability to decrease social presence is especially
+interesting, since focusing on increasing social presence is usually a focus of online collaborative
+settings. Developing new types of virtual worlds that provide a full dynamic range of no or minimal
+to full social presence could enable instructors’ goals more effectively.
+As another example of a technological adaptation that could further support diverse learners,
+chat bubbles as a minimal form of social presence were also helpful for instructors to understand
+what students were doing from afar. Adding more avatar emotes could contribute to instructors’
+awareness of if and how learners are engaging in the program and with one another. Additionally,
+in child-friendly virtual worlds, learners may be able to present a stronger sense of identity and
+expression (in line with characteristic #2) in their social presence with greater ability to customize
+their avatars, perhaps even allowing them to create artifacts in the virtual worlds to represent
+objects, clothes, or other customizations.
+Second, to better support external connections within the learner’s environment and others in
+the educational program, a new design opportunity relates to the tension that instructors felt with
+utilizing video streams to learn more about the participants versus allowing them to have their
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+339:16
+Jaemarie Solyst, et al.
+cameras off. Developing systems that provide a greater ability to support selective environment
+sharing, such that the learner has more control over what to share in their immediate home
+environment, could help strike a balance between gaining the benefits of the home’s unique support
+of the external connectedness and honoring learners’ boundaries around what they are comfortable
+with sharing. This could manifest by learners having the ability to show just a section of their
+background, to spotlight a certain object or being able to easily take a picture of something in their
+environment with a phone and broadcast it online.
+The third design opportunity is using technology to support building coalitions, better facilitating
+a sense of external community beyond the immediate educational experience. Although social media
+is becoming more popular with younger audiences, a dedicated platform could support learners in
+a specific geographic area to connect, share content relevant to the surrounding communities (e.g.,
+their PSA videos), and keep in contact with nearby sources (e.g., the university contacts). Further,
+since instructors put in great effort to understand learners’ particular interests, an online world or
+platform could also incorporate the ability for learners to publicly (within the program) display
+their interests and see others’ interests as an initial point of mutual connection for a coalition
+(something instructors’ currently have to do, which can take quite a bit of time and may not be as
+effective in shorter programs).
+Lastly, one might consider the intersection of multiple of these themes in their application to
+technology. For instance, since instructors felt a need to heavily facilitate norms, model behavior,
+and scaffold learner-learner conversation, chatbots or other virtual agents may be used to assist as
+a design opportunity. Chatbots in the past have been used to help support social interactions and
+self-disclosure [36], normalizing differences between learners. In this context, a virtual agent in an
+online world or learning platform could prompt the learners to chat with one another or model
+social interaction with others (or alternatively ask the learners to model behavior which will teach
+the agent the cultural norms and interactions they create for the setting). This approach could build
+on the work done in the space of virtual peers, utilizing the ‘protege effect’ which has been found
+to support learning while enabling ego protection around sensitive topics [11], as well as support
+positioning learners as tech creators in their co-creation of the chatbot technology.
+Throughout the development of new CSCW technologies that support connectedness in culturally-
+responsive environments, it is important to keep in mind the varying levels of access available to
+learners, as equity is key to cultivating a sense of connectedness. In general, technology interven-
+tions should therefore remain lightweight in terms of apps and devices that are needed.
+5.2
+Limitations
+A main limitation of this work is our lower number of interviewees, due to the modest amount
+of culturally responsive STEM programs and instructors we were able to reach in the COVID-19
+pandemic. However, themes were consistent across four unique programs, suggesting our main
+themes are robust. Additionally, due to the COVID-19 pandemic, the shift to online learning was
+sudden, and some instructors felt unprepared initially. With more time to plan and develop online
+materials, some challenges mentioned may be mitigated.
+6
+CONCLUSION
+Culturally responsive pedagogies illuminate social inequities with problem-posing curricula that
+foster development of students’ critical consciousness. A switch to online learning has forced
+instructors to become creative in supporting the community building and connectedness that
+form the essential components of CRC. This work lends insight into how instructors perceive and
+actively address supporting connectedness in online synchronous culturally responsive STEM and
+computing programs with diverse learners. Instructors sometimes found methods that support
+Proc. ACM Hum.-Comput. Interact., Vol. 6, No. CSCW2, Article 339. Publication date: November 2022.
+Cultivating Connectedness in Online Synchronous Learning
+339:17
+connectedness in ways that were not previously considered, marking how exploration of online
+practices can help create solutions that carry back into in-person environments. Furthermore, since
+it is likely that more online synchronous culturally responsive STEM and computing programs
+will gain popularity, these findings and the design opportunities they inspired will help inform
+implementation of programs with similar goals and may also provide a blueprint for other online
+STEM programs to center and empower learners.
+7
+ACKNOWLEDGMENTS
+We thank the instructors who participated in these interviews. We also thank Professor Kimberly
+Scott from Arizona State University for her support. This work is funded by NSF DRL-1811086 and
+DRL-1935801.

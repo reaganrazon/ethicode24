@@ -1,0 +1,838 @@
+The fuTure  
+of educaTion  
+and skills
+Education 2030
+This work is published under the responsibility of the Secretary-General of the OECD. The opinions expressed and 
+arguments employed herein do not necessarily reflect the official views of OECD member countries. 
+This document, as well as any data and map included herein, are without prejudice to the status of or sovereignty over 
+any territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or area. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cover photo Credits: Hurst Photo/Shutterstock.com, igorstevanovic/Shutterstock.com and 
+wavebreakmedia/Shutterstock.com  
+_______________________________________________________________________________________________________________________ 
+You can copy, download or print OECD content for your own use, and you can include excerpts from OECD publications, databases and multimedia 
+products in your own documents, presentations, blogs, websites and teaching materials, provided that suitable acknowledgement of OECD as source 
+and copyright owner is given. All requests for public or commercial use and translation rights should be submitted to rights@oecd.org. Requests for 
+permission to photocopy portions of this material for public or commercial use shall be addressed directly to the Copyright Clearance Center (CCC) at 
+info@copyright.com or the Centre français d’exploitation du droit de copie (CFC) at contact@cfcopies.com. 
+_______________________________________________________________________________________________________________________ 
+© OECD 2018 
+ 
+2 
+ 
+Foreword 
+ 
+We are facing unprecedented challenges – social, economic and environmental – driven by accelerating globalisation 
+and a faster rate of technological developments. At the same time, those forces are providing us with myriad new 
+opportunities for human advancement. The future is uncertain and we cannot predict it; but we need to be open and 
+ready for it. The children entering education in 2018 will be young adults in 2030. Schools can prepare them for jobs 
+that have not yet been created, for technologies that have not yet been invented, to solve problems that have not yet 
+been anticipated. It will be a shared responsibility to seize opportunities and find solutions. 
+To navigate through such uncertainty, students will need to develop curiosity, imagination, resilience and self-
+regulation; they will need to respect and appreciate the ideas, perspectives and values of others; and they will need to 
+cope with failure and rejection, and to move forward in the face of adversity. Their motivation will be more than getting 
+a good job and a high income; they will also need to care about the well-being of their friends and families, their 
+communities and the planet. 
+Education can equip learners with agency and a sense of purpose, and the competencies they need, to shape their own 
+lives and contribute to the lives of others. To find out how best to do so, the Organisation for Economic Co-operation 
+and Development (OECD) has launched The Future of Education and Skills 2030 project. The aim of the project is to 
+help countries find answers to two far-reaching questions: 
+● 
+What knowledge, skills, attitudes and values will today's students need to thrive and shape their world?  
+● 
+How can instructional systems develop these knowledge, skills, attitudes and values effectively?    
+This position paper describes the first results from this work. The initial framework was reviewed, tested and validated 
+in an iterative process involving a range of stakeholders from around the world. They ensured that the framework is 
+relevant across the globe, consistent with wider policies and can be implemented. We will finalise the framework by the 
+end of 2018. In 2019, we will change gears and begin to explore the translation of the framework into pedagogy, 
+assessment and the design of an instructional system. 
+Working with policy makers, academic experts, school networks, teachers, education leaders, students and social partners, 
+the framework provides a space in which to exchange ideas, compare proven and promising practices, discover cutting-
+edge research and contribute to a new ecosystem of learning. If you’d like to join us, please get in touch.   
+Andreas Schleicher  
+Director for Education and Skills  
+OECD 
+ 
+ 
+ 
+ 
+ 
+ 
+© OECD 2018 
+ 
+3 
+OECD Learning Framework 2030  
+This OECD Learning Framework 2030 offers a vision and some underpinning principles for the future of education 
+systems. It is about orientation, not prescription. The learning framework has been co-created for the OECD Education 
+2030 project by government representatives and a growing community of partners, including thought leaders, experts, 
+school networks, school leaders, teachers, students and youth groups, parents, universities, local organisations and 
+social partners. This is work in progress and we invite you to join us in developing future-ready education for all.  
+Education 2030:  A Shared Vision 
+We are committed to helping every learner develop as a whole person, fulfil his or her potential and help shape a shared 
+future built on the well-being of individuals, communities and the planet.   
+Children entering school in 2018 will need to abandon the notion that resources are limitless and are there to be 
+exploited; they will need to value common prosperity, sustainability and well-being. They will need to be responsible 
+and empowered, placing collaboration above division, and sustainability above short-term gain.  
+In the face of an increasingly volatile, uncertain, complex and ambiguous world, education can make the difference as 
+to whether people embrace the challenges they are confronted with or whether they are defeated by them. And in an era 
+characterised by a new explosion of scientific knowledge and a growing array of complex societal problems, it is 
+appropriate that curricula should continue to evolve, perhaps in radical ways. 
+Need for new solutions in a rapidly changing world 
+Societies are changing rapidly and profoundly.  
+A first challenge is environmental: e.g. 
+• 
+Climate change and the depletion of natural resources require urgent action and adaptation.   
+A second challenge is economic: e.g. 
+• 
+Scientific knowledge is creating new opportunities and solutions that can enrich our lives, while at the same 
+time fuelling disruptive waves of change in every sector. Unprecedented innovation in science and technology, 
+especially in bio-technology and artificial intelligence, is raising fundamental questions about what it is to be 
+human. It is time to create new economic, social and institutional models that pursue better lives for all.  
+• 
+Financial interdependence at local, national and regional levels has created global value chains and a shared 
+economy, but also pervasive uncertainty and exposure to economic risk and crises. Data is being created, used 
+and shared on a vast scale, holding out the promise of expansion, growth and improved efficiency while posing 
+new problems of cyber security and privacy protection.   
+A third challenge is social: e.g. 
+• 
+As the global population continues to grow, migration, urbanisation and increasing social and cultural diversity 
+are reshaping countries and communities.  
+• 
+In large parts of the world, inequalities in living standards and life chances are widening, while conflict, 
+instability and inertia, often intertwined with populist politics, are eroding trust and confidence in government 
+itself. At the same time, the threats of war and terrorism are escalating.   
+These global trends are already affecting individual lives, and may do so for decades to come. They have triggered a 
+global debate that matters to every country, and call for global and local solutions. The OECD Education 2030 
+contributes to the UN 2030 Global Goals for Sustainable Development (SDGs), aiming to ensure the sustainability of 
+people, profit, planet and peace, through partnership. 
+Need for broader education goals:  Individual and collective well-being 
+Unless steered with a purpose, the rapid advance of science and technology may widen inequities, exacerbate social 
+fragmentation and accelerate resource depletion.  
+In the 21st century, that purpose has been increasingly defined in terms of well-being. But well-being involves more 
+than access to material resources, such as income and wealth, jobs and earnings, and housing. It is also related to the 
+© OECD 2018 
+ 
+4 
+quality of life, including health, civic engagement, social connections, education, security, life satisfaction and the 
+environment. Equitable access to all of these underpins the concept of inclusive growth.  
+Education has a vital role to play in developing the knowledge, skills, attitudes and values that enable people to 
+contribute to and benefit from an inclusive and sustainable future. Learning to form clear and purposeful goals, work 
+with others with different perspectives, find untapped opportunities and identify multiple solutions to big problems will 
+be essential in the coming years. Education needs to aim to do more than prepare young people for the world of work; it 
+needs to equip students with the skills they need to become active, responsible and engaged citizens.  
+Learner agency:  Navigating through a complex and uncertain world 
+Future-ready students need to exercise agency, in their own education and throughout life. Agency implies a sense of 
+responsibility to participate in the world and, in so doing, to influence people, events and circumstances for the better. 
+Agency requires the ability to frame a guiding purpose and identify actions to achieve a goal.   
+To help enable agency, educators must not only recognise learners’ individuality, but also acknowledge the wider set of 
+relationships – with their teachers, peers, families and communities – that influence their learning. A concept underlying 
+the learning framework is “co-agency” – the interactive, mutually supportive relationships that help learners to progress 
+towards their valued goals. In this context, everyone should be considered a learner, not only students but also teachers, 
+school managers, parents and communities.  
+Two factors, in particular, help learners enable agency. The first is a personalised learning environment that supports 
+and motivates each student to nurture his or her passions, make connections between different learning experiences and 
+opportunities, and design their own learning projects and processes in collaboration with others. The second is building 
+a solid foundation: literacy and numeracy remain crucial. In the era of digital transformation and with the advent of big 
+data, digital literacy and data literacy are becoming increasingly essential, as are physical health and mental well-being.  
+OECD Education 2030 stakeholders have co-developed a “learning compass” that shows how young people can 
+navigate their lives and their world (Figure 1). 
+ 
+Figure 1. The OECD Learning Framework 2030: Work-in-progress 
+ 
+Need for a broad set of knowledge, skills, attitudes and values in action 
+Students who are best prepared for the future are change agents. They can have a positive impact on their surroundings, 
+influence the future, understand others' intentions, actions and feelings, and anticipate the short and long-term 
+consequences of what they do.    
+© OECD 2018 
+ 
+5 
+The concept of competency implies more than just the acquisition of knowledge and skills; it involves the mobilisation 
+of knowledge, skills, attitudes and values to meet complex demands. Future-ready students will need both broad and 
+specialised knowledge. Disciplinary knowledge will continue to be important, as the raw material from which new 
+knowledge is developed, together with the capacity to think across the boundaries of disciplines and “connect the 
+dots”.  Epistemic knowledge, or knowledge about the disciplines, such as knowing how to think like a mathematician, 
+historian or scientist, will also be significant, enabling students to extend their disciplinary knowledge. Procedural 
+knowledge is acquired by understanding how something is done or made – the series of steps or actions taken to 
+accomplish a goal. Some procedural knowledge is domain-specific, some transferable across domains. It typically 
+develops through practical problem-solving, such as through design thinking and systems thinking.  
+Students will need to apply their knowledge in unknown and evolving circumstances. For this, they will need a broad 
+range of skills, including cognitive and meta-cognitive skills (e.g. critical thinking, creative thinking, learning to learn 
+and self-regulation); social and emotional skills (e.g. empathy, self-efficacy and collaboration); and practical and 
+physical skills (e.g. using new information and communication technology devices). 
+The use of this broader range of knowledge and skills will be mediated by attitudes and values (e.g. motivation, trust, 
+respect for diversity and virtue). The attitudes and values can be observed at personal, local, societal and global levels. 
+While human life is enriched by the diversity of values and attitudes arising from different cultural perspectives and 
+personality traits, there are some human values (e.g. respect for life and human dignity, and respect for the environment, 
+to name two) that cannot be compromised.   
+Competencies to transform our society and shape our future 
+If students are to play an active part in all dimensions of life, they will need to navigate through uncertainty, across a 
+wide variety of contexts: in time (past, present, future), in social space (family, community, region, nation and world) 
+and in digital space. They will also need to engage with the natural world, to appreciate its fragility, complexity and 
+value.   
+Building on the OECD Key Competencies (the DeSeCo project: Definition and Selection of Competencies), the OECD 
+Education 2030 project has identified three further categories of competencies, the "Transformative Competencies", that 
+together address the growing need for young people to be innovative, responsible and aware: 
+● 
+Creating new value  
+• 
+Reconciling tensions and dilemmas 
+• 
+Taking responsibility 
+Creating new value 
+New sources of growth are urgently needed to achieve stronger, more inclusive and more sustainable development. 
+Innovation can offer vital solutions, at affordable cost, to economic, social and cultural dilemmas. Innovative economies 
+are more productive, more resilient, more adaptable and better able to support higher living standards.  
+To prepare for 2030, people should be able to think creatively, develop new products and services, new jobs, new 
+processes and methods, new ways of thinking and living, new enterprises, new sectors, new business models and new 
+social models. Increasingly, innovation springs not from individuals thinking and working alone, but through co-
+operation and collaboration with others to draw on existing knowledge to create new knowledge. The constructs that 
+underpin the competency include adaptability, creativity, curiosity and open-mindedness.   
+Reconciling tensions and dilemmas 
+In a world characterised by inequities, the imperative to reconcile diverse perspectives and interests, in local settings 
+with sometimes global implications, will require young people to become adept at handling tensions, dilemmas and 
+trade-offs, for example, balancing equity and freedom, autonomy and community, innovation and continuity, and 
+efficiency and the democratic process. Striking a balance between competing demands will rarely lead to an either/or 
+choice or even a single solution. Individuals will need to think in a more integrated way that avoids premature 
+conclusions and recognises interconnections. In a world of interdependency and conflict, people will successfully 
+secure their own well-being and that of their families and their communities only by developing the capacity to 
+understand the needs and desires of others. 
+To be prepared for the future, individuals have to learn to think and act in a more integrated way, taking into account 
+the interconnections and inter-relations between contradictory or incompatible ideas, logics and positions, from both 
+short- and long-term perspectives. In other words, they have to learn to be systems thinkers.  
+© OECD 2018 
+ 
+6 
+Taking responsibility 
+The third transformative competency is a prerequisite of the other two. Dealing with novelty, change, diversity and 
+ambiguity assumes that individuals can think for themselves and work with others. Equally, creativity and problem-
+solving require the capacity to consider the future consequences of one’s actions, to evaluate risk and reward, and to 
+accept accountability for the products of one’s work. This suggests a sense of responsibility, and moral and intellectual 
+maturity, with which a person can reflect upon and evaluate his or her actions in light of his or her experiences, and 
+personal and societal goals, what they have been taught and told, and what is right or wrong. Acting ethically implies 
+asking questions related to norms, values, meanings and limits, such as: What should I do? Was I right to do that? 
+Where are the limits? Knowing the consequences of what I did, should I have done it? Central to this competency is the 
+concept of self-regulation, which involves self-control, self-efficacy, responsibility, problem solving and adaptability. 
+Advances in developmental neuroscience show that a second burst of brain plasticity takes place during adolescence, 
+and that the brain regions and systems that are especially plastic are those implicated in the development of self-
+regulation. Adolescence can now be seen as a time not just of vulnerability but of opportunity for developing a sense of 
+responsibility. 
+Design principles for moving toward an eco-systemic change 
+These transformative competencies are complex; each competency is intricately inter-related with the others. They are 
+developmental in nature, and thus learnable.  
+The ability to develop competencies is itself something to be learned using a sequenced process of reflection, 
+anticipation and action. Reflective practice is the ability to take a critical stance when deciding, choosing and acting, by 
+stepping back from what is known or assumed and looking at a situation from other, different perspectives. Anticipation 
+mobilises cognitive skills, such as analytical or critical thinking, to foresee what may be needed in the future or how 
+actions taken today might have consequences for the future. Both reflection and anticipation are precursors to 
+responsible actions.      
+The OECD Learning Framework 2030 therefore encapsulates a complex concept: the mobilisation of knowledge, skills, 
+attitudes and values through a process of reflection, anticipation and action, in order to develop the inter-related 
+competencies needed to engage with the world.   
+To ensure that the new learning framework is actionable, the OECD Education 2030 stakeholders have worked together 
+to translate the transformative competencies and other key concepts into a set of specific constructs (e.g. creativity, 
+critical thinking, responsibility, resilience, collaboration) so that teachers and school leaders can better incorporate them 
+into curricula. The constructs are currently under review (Annex 2). 
+They have also built a knowledge base for curriculum redesign. Curriculum change assumes that education is an 
+ecosystem with many stakeholders. Students, teachers, school leaders, parents, national and local policy makers, 
+academic experts, unions, and social and business partners have worked as one to develop this project. In its work 
+across different countries, OECD Education 2030 has identified five common challenges. 
+1. Confronted with the needs and requests of parents, universities and employers, schools are dealing with 
+curriculum overload. As a result, students often lack sufficient time to master key disciplinary concepts or, in 
+the interests of a balanced life, to nurture friendships, to sleep and to exercise. It is time to shift the focus of our 
+students from "more hours for learning" to "quality learning time". 
+2. Curricula reforms suffer from time lags between recognition, decision making, implementation and impact.  
+The gap between the intent of the curriculum and learning outcome is generally too wide.  
+3. Content must be of high quality if students are to engage in learning and acquire deeper understanding.   
+4. Curricula should ensure equity while innovating; all students, not just a select few, must benefit from social, 
+economic and technological changes.   
+5. Careful planning and alignment is critically important for effective implementation of reforms.  
+In response to these challenges, working group members and partners are co-creating "design principles" for changes in 
+curricula and education systems that will be relevant in different countries over time.  
+Concept, content and topic design: 
+• 
+Student agency. The curriculum should be designed around students to motivate them and recognise their 
+prior knowledge, skills, attitudes and values.  
+• 
+Rigour. Topics should be challenging and enable deep thinking and reflection.  
+• 
+Focus. A relatively small number of topics should be introduced in each grade to ensure the depth and 
+quality of students’ learning. Topics may overlap in order to reinforce key concepts. 
+© OECD 2018 
+ 
+7 
+• 
+Coherence. Topics should be sequenced to reflect the logic of the academic discipline or disciplines on 
+which they draw, enabling progression from basic to more advanced concepts through stages and age 
+levels.   
+• 
+Alignment. The curriculum should be well-aligned with teaching and assessment practices. While the 
+technologies to assess many of the desired outcomes do not yet exist, different assessment practices might 
+be needed for different purposes. New assessment methods should be developed that value student 
+outcomes and actions that cannot always be measured.  
+• 
+Transferability. Higher priority should be given to knowledge, skills, attitudes and values that can be 
+learned in one context and transferred to others.  
+• 
+Choice.  Students should be offered a diverse range of topic and project options, and the opportunity to 
+suggest their own topics and projects, with the support to make well-informed choices.   
+Process design: 
+• 
+Teacher agency. Teachers should be empowered to use their professional knowledge, skills and expertise 
+to deliver the curriculum effectively.   
+• 
+Authenticity. Learners should be able to link their learning experiences to the real world and have a sense 
+of purpose in their learning. This requires interdisciplinary and collaborative learning alongside mastery of 
+discipline-based knowledge.  
+• 
+Inter-relation. Learners should be given opportunities to discover how a topic or concept can link and 
+connect to other topics or concepts within and across disciplines, and with real life outside of school. 
+• 
+Flexibility. The concept of "curriculum" should be developed from "predetermined and static" to 
+"adaptable and dynamic". Schools and teachers should be able to update and align the curriculum to reflect 
+evolving societal requirements as well as individual learning needs.  
+• 
+Engagement. Teachers, students and other relevant stakeholders should be involved early in the 
+development of the curriculum, to ensure their ownership for implementation.    
+Next steps 
+This paper summarises a global effort for education change. You are invited to add your voice and your support to its 
+visions and ideas by joining the Working Group of the OECD Education 2030 project.  
+The group is collecting ideas and examples of good practice for making the learning framework actionable. They call 
+on: 
+• 
+National, regional and local governments to share their policy design and curriculum design experiences 
+related to the learning framework  
+• 
+Students, teachers, school leaders, and parents to share practices and experiences as concrete examples of 
+using the OECD Learning Compass 2030 
+• 
+Experts and researchers to help strengthen the links between evidence-based policy and practice, especially on 
+the constructs of the framework  
+• 
+Local communities, professional associations and industries, including representatives of teachers' unions and 
+the business sector, to share practices of supporting student learning and creating appropriate learning 
+environments 
+• 
+International communities and organisations to contribute to the OECD Education 2030 dialogue in support of 
+the UN Sustainable Development Goal 4.7 and other relevant initiatives. 
+ 
+ 
+© OECD 2018 
+ 
+8 
+Annex 1: Contributors 
+ 
+Chair of Education 2030 
+Jørn Skovsgaard (Senior Adviser, Ministry of Education, Denmark)  
+ 
+Advisory group 
+João Costa (Secretary of State for Education, Portugal) 
+Suzanne Dillon (Assistant Chief Inspector, Department of Education and Skills, Ireland) 
+Moonhee Kim (Minister, Permanent Delegation of the Republic of Korea to the OECD, Korea) 
+Kan Hiroshi Suzuki (Special Advisor to the Minister of Education, Sports, Culture, Science and Technology, Japan)  
+ 
+Education 2030 National Coordinators and Contact Persons for Policy Questionnaire on Curriculum Redesign 
+Australia: Hilary Dixon (ACARA) and Robert Randall (ACARA) 
+Argentina: Mercedes Miguel (Ministerio de Educatión Nacional) 
+Canada, Ontario: Shirley Kendrick (Ontario Ministry of Education) and Cathy Montreuil (Ontario Ministry of 
+Education) 
+Chile: Alejandra Arratia Martínez (Ministry of Education) and Ana Labra Welden (Ministry of Education) 
+China: Yan Wang (National Institute of Education Sciences) 
+Costa Rica: Rosa Carranza (Ministerio de Educación Pública) and Alicia Vargas (Ministerio de Educación Pública) 
+Czech Republic: Hana Novotna (Czech School Inspectorate) 
+Denmark: Christian Rasmussen (Ministry of Education) and Pernille Skou Bronner Andersen (Ministry of Education) 
+Estonia: Pille Liblik (Ministry of Education and Research) 
+Finland: Aki Tornberg (Ministry of Education and Culture) and Erja Vitikka (Finnish National Agency for Education) 
+Hong Kong, China: Joe NG (The Government of the Hong Kong Special Administrative Region Education Bureau) 
+Ireland: Linda Neary (Department of Education and Skills) 
+Japan: Takanori Bando (MEXT), Saori Oda (National Institute for Educational Policy Research) and Shun Shirai 
+(MEXT) 
+Kazakhstan: Azhar Kabdulinova (Nazarbayev Intellectual Schools AEO) and Dina Shaikhina (Nazarbayev Intellectual 
+Schools AEO) 
+Korea: Mee-Kyeong Lee (Korea Institute for Curriculum and Evaluation) and Eun Young Kim (Korean Educational 
+Development Institute) 
+Mexico: Elisa Bonilla Rius (Secretaría de Educación Pública) 
+Netherlands: Jeanne van Loon (Dutch Ministry of Education, Culture and Science) 
+New Zealand: Pauline Cleaver (Ministry of Education) and Gracielli Ghizzi-Hall (Ministry of Education) 
+Norway: Elisabeth Buk-Berge (Ministry of Education and Research) and Bente Heian (Norwegian Directorate for 
+Education and Training) 
+Poland: Danuta Pusek (Ministry of National Education) 
+Portugal: Eulália Alexandre (Ministry of Education) 
+Russia: Maria Dobryakova (National Research University Higher School of Economics), Tatiana Meshkova (National 
+Research University Higher School of Economics) and Elena Sabelnikova (National Research University Higher School 
+of Economics) 
+Singapore: Low Ee Ling (National Institute of Education, Nanyang Technological University) 
+South Africa: Suren Govender (Department of Basic Education) and Hleki Mabunda (Department of Basic Education) 
+Sweden: Johan Börjesson (Swedish National Agency for Education) 
+© OECD 2018 
+ 
+9 
+Turkey: Alpaslan Durmus (Head of Board of Education, MoNE), Mustafa Hilmi Çolakoglu (Deputy Undersecretary, 
+MoNE), Hasan Kavgaci (Member of Board of Education, MoNE), Toper Akbaba (Head of Curriculum Department 
+Board of Education, MoNE), Özlem Kalkan (Teacher-Expert, MoNE), Şadiye İnci (Teacher-Expert, MoNE) and Ayhan 
+İncirci (Teacher-Expert, MoNE) 
+United Kingdom, Scotland: Jonathan Wright (Education Analysis)  
+United Kingdom, Wales: Rhiannon Davies (Education and Public Services Group) 
+Vietnam: Luong Viet Thai (Vietnam Institute of Education Sciences) 
+ 
+Education 2030 Curriculum Experts 
+Hungary: Valeria Csepe (Eszterházy Károly University) and Nora Katona (Eszterházy Károly University) 
+India: Monal Jayaram Poduval (Piramal Foundation for Education Leadership), Lopa Gandhi (Gandhi Fellowship), 
+Shrestha Ganguly (Piramal Foundation for Education Leadership) and Shobhana Panikar (Kaivalya Education 
+Foundation) 
+United Kingdom, Northern Ireland: Carmel Gallagher (International Bureau for Education) 
+United States: William Schmidt (Michigan State University) 
+ 
+Contributors from OECD countries and jurisdictions 
+Australia: Danielle Cavanagh (ACARA), Patrick Donaldson (Permanent Delegation of Australia to the OECD), Hilary 
+Dixon (ACARA), Mark McAndrew (ACARA) and Robert Randall (ACARA) 
+Belgium: Dominique Denis (Ministère de la Fédération Wallonie-Bruxelles) and Marie-Anne Persoons (Flemish 
+Department of Education and Training) 
+Canada: Council of Ministers of Education Canada - CMEC: Marie Macauley; Ontario: Richard Franz (Ontario 
+Ministry of Education), Angela Hinton (Ontario Ministry of Education), Cathy Montreuil (Ontario Ministry of 
+Education), Safa Zaki (Ontario Ministry of Education), Lori Stryker (Ontario Ministry of Education) and Cresencia 
+Fong (Ontario Ministry of Education); Quebec: Julie-Madeleine Roy (Ministère de l’Éducation et de l’Enseignement 
+supérieur); Manitoba: Carolee Buckler (Manitoba Education and Advanced Learning) and Dallas Morrow (Manitoba 
+Department of Education and Training).  
+Chile: Eliana Chamizo Álvarez (Ministry of Education) and Ana Labra Welden (Ministry of Education) 
+Denmark: Rasmus Biering-Sorensen (Danish Ministry of Education), Jens Rasmussen (Aarhus University) and Pernille 
+Skou Bronner Andersen (Danish Ministry of Education) 
+Estonia: Heli Aru-Chabilan (Ministry of Education and Research), Eve Kikas (Tallinn University), Maie Kitsing 
+(Ministry of Education and Research), Pille Liblik (Ministry of Education and Research) and Katrin Rein (Permanent 
+Representation of Estonia to the OECD and UNESCO) 
+Finland: Aleksi Kalenius (Permanent Delegation of Finland to the OECD) and Anneli Rautiainen (Finnish National 
+Agency for Education) 
+France: Claudio Cimelli (Ministère de l'Education Nationale), Mireille Lamouroux (Ministère de l'Education 
+Nationale), Pascale Montrol-Amouroux (Ministère de l'Education Nationale) and Daniel Schlosser (Permanent 
+Delegation of France to the OECD) 
+Germany: Jutta Illichmann (Bundesministerium für Bildung und Forschung) and Elfriede Ohrnberger (Bayerisches 
+Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst)  
+Hungary: Andras Hlacs (Permanent Delegation of Hungary to the OECD), László Limbacher (Ministry of Human 
+Capacities) and Emese Pupek (Ministry of Human Capacities) 
+Iceland: Ásgerdur Kjartansdóttir (Ministry of Education, Science and Culture) and Ásta Magnusdottir (Ministry of 
+Education, Science and Culture) 
+Ireland: Suzanne Dillon (Department of Education and Skills), Breda Naughton (Department of Education and Skills) 
+and Linda Neary (Department of Education and Skills) 
+Israel: Sivan Kfir Katz (Permanent Delegation of Israel to the OECD) 
+Italy: Donatella Solda Kutzmann (Ministry of Education) 
+Japan: Kazuo Akiyama (MEXT), Hajime Furusaka (MEXT), Masafumi Ishikawa (MEXT), Takashi Kiryu (Permanent 
+Delegation of Japan to the OECD), Yamaguchi Masakazu (MEXT), Hideaki Matsugi (MEXT), Takashi Murao 
+© OECD 2018 
+ 
+10 
+(Permanent Delegation of Japan to the OECD), Hajime Shirouzu (The University of Tokyo), Kan Hiroshi Suzuki 
+(MEXT), Hiroki Toyooka (MEXT), Taijiro Tsuruoka (MEXT), Aya Saito (MEXT) and Shun Shirai (MEXT)  
+Korea: Moonhee Kim (Permanent Delegation of the Republic of Korea to the OECD), Mee-Kyeong Lee (Korea 
+Institute for Curriculum and Evaluation), Keun Ho Lee (Korea Institute for Curriculum and Evaluation), Kee-Joon 
+Yoon (Korea Institute for Curriculum and Evaluation), Hee-Hyun Byun (Korea Institute for Curriculum and 
+Evaluation), Eun Young Kim (Korean Educational Development Institute) and Su-Jin Choi (Korean Educational 
+Development Institute) 
+Luxembourg: Michel Lanners (Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse) 
+Mexico: Carla Musi (Permanent Delegation of Mexico to the OECD) and Carlos Tena (Permanent Delegation of 
+Mexico to the OECD) 
+Netherlands: Marjolijn de Boer (Ministry of Education Culture and Science), Willem Rosier (SLO) and Jeanne van 
+Loon (Dutch Ministry of Education, Culture and Science) 
+New Zealand: Pauline Cleaver (Ministry of Education) 
+Norway: Elisabeth Buk-Berge (Ministry of Education and Research) and Bente Heian (Norwegian Directorate for 
+Education and Training) 
+Poland: Rafal Lew-Starowicz (Ministry of National Education) and Danuta Pusek (Ministry of National Education) 
+Portugal: Eulália Alexandre (Ministry of Education), João Costa (Ministry of Education) and Luisa Ucha-Silva 
+(Ministry of Education) 
+Spain: Carmen Tovar Sanchez (Ministry of Education, Culture and Sport), Jaime Vaquero (Ministry of Education, 
+Culture and Sport) and María Saladich (Délégations Permanentes de l'Espagne auprès de l'OCDE, l'UNESCO et le 
+Conseil de l'Europe) 
+Sweden: Johan Börjesson (Swedish National Agency for Education) and Ann-Christin Hartman (Swedish National 
+Agency for Education) 
+Turkey: Mustafa Hilmi Colakoglu (Deputy Undersecretary, MONE), Toper Akbaba (Head of Curriculum Department 
+Board of Education, MONE),  Banu Özdemir (Teacher-Expert, MONE), Özlem Kalkan (Teacher-Expert, MONE) and 
+Şadiye Inci (Teacher-Expert, MONE) 
+United Kingdom, Scotland: Joan Mackay (Education Scotland), Judith Tracey (Scottish Government), Kit Wyeth 
+(Scottish Government) and Jonathan Wright (Scottish Government); Wales: Steve Davies (Education and Public 
+Service Group) and Kevin Mark Palmer (Education Achievement Service for South East Wales) 
+United States: Mary Coleman (U.S. Department of Education) 
+ 
+Contributors from partner countries and economies 
+Argentina: Inés Cruzalegui (Ministerio de Educatión Nacional) and Mercedes Miguel (Ministerio de Educatión 
+Nacional) 
+China: Yangnan Wang (National Center for Education Development Research) and Haixia Xu (National Center for 
+Education Development Research) 
+Costa Rica: Alicia Vargas (Ministerio de Educación Pública) 
+Hong Kong, China: Chi-kong Chau (The Government of the Hong Kong Special Administrative Region Education 
+Bureau), Joe NG (The Government of the Hong Kong Special Administrative Region Education Bureau), Ashley Pak-
+wai Leung (The Government of the Hong Kong Special Administrative Region Education Bureau) and Vincent Siu-
+chuen Chan (The Government of the Hong Kong Special Administrative Region Education Bureau)  
+Indonesia: Taufik Hanafi (Ministry of Education and Culture 
+Kazakhstan: Zhanar Abdildina (Nazarbayev Intellectual Schools AEO), Yeldos Nurlanov (JSC Information-Analytical 
+Center) and Aizhan Ramazanova (Nazarbayev Intellectual Schools AEO) 
+Latvia: Guntars Ctalaks (National Education Centre), Jelena Muhina (Ministry of Education and Science) and Zane 
+Olina (Competency Based Curriculum Project, National Centre for Education) 
+Lebanon: Rana Abdallah (CERD) 
+Lithuania: Šarūnė Nagrockaitė (Vilnius University) and Irena Raudiene (Ministry of Education and Science) 
+© OECD 2018 
+ 
+11 
+Russia: Kirill Bykov (Ambassade de Russie en France), Maria Dobryakova (National Research University Higher 
+School of Economics), Isak Froumin (National Research University Higher School of Economics), Anastasia Sviridova 
+(Far Eastern Federal University) and Shivleta Tagirova (Ministry of Education and Science - MEC) 
+Saudi Arabia: Nayyaf Aljabri (Ministry of Education) 
+Singapore: Oon Seng Tan (National Institute of Education, Nanyang Technological University)  
+Slovenia: Ksenija Bregar-Golobic (Ministry of Education, Science and Sport)  
+United Arab Emirates: Tareq Mana S. Al Otaiba (Abu Dhabi Crown Prince Court) 
+Viet Nam: Tran Cong Phong (Vietnam Institute of Educational Sciences - VNIES), Do Duc Lan (Vietnam Institute of 
+Educational Sciences - VNIES), Anh Nguyen Ngoc (Vietnam Institute of Educational Sciences - VNIES) and Luong 
+Viet Thai (Vietnam Institute of Educational Sciences - VNIES) 
+ 
+Observers 
+European Union: Francesca Crippa and Ivana Vrhovski  
+UNESCO ESD: Alexander Leicht  
+UNESCO IBE: Carmel Gallagher and Mmantsetsa Marope 
+ 
+Group leaders of the thematic working groups 
+Future we want: Yuhyun Park (DQ Institute, Singapore) 
+Learner Agency: Luisa Ucha (Ministry of Education, Portugal), Angga Dwi Martha (Indonesia) and Suzanne Dillon 
+(Department of Education and Skills, Ireland) 
+Construct Analysis: Kimberly Schonert-Reichl (University of British Columbia, Canada), Darla Deardorff (Duke 
+University, United States), Katariina Salmela-Aro (University of Helsinki, Finland) and Raphaela Schlicht-Schmälzle 
+(Michigan State University, United States) 
+Transformative Competencies & Action-Anticipation-Reflection Cycle: Polly Akhurst (Sky School, United 
+Kingdom) and Richard Franz (Ontario Ministry of Education, Canada)  
+Foundational skills & Literacies for 2030: Maria Dobryakova (National Research University Higher School of 
+Economics National Research, Russia) and Isak Frumin (National Research University Higher School of Economics, 
+Russia) 
+Knowledge and Skills for 2030: Roderick Allen (School District 79 - Cowichan Valley, Canada) and Mary-Elizabeth 
+Wilson (GEMS Education, United States) 
+Attitudes and Values for 2030: Connie Chung (United States) 
+Visuals/Communication: Juan-Carlos López Tavera (Knotion, Mexico) 
+Glossary: Raphaela Schlicht-Schmälzle (Michigan State University, United States) 
+ 
+(Co-)Authors of papers contributing to the Education 2030 project 
+Tadahiko Abiko (Kanagawa University, Japan) 
+Alejandro Adler (University of Pennsylvania, United States) 
+Guillermo José Aguirre-Esponda (Grupo Aguirre – Innovalia, Mexico)  
+Rod Allen (School District 79 - Cowichan Valley, Canada) 
+Kazuto Ataka (Yahoo Japan Corporation, Japan) 
+Julia Atkin (Learning by Design, Australia) 
+Richard Bailey (Richard Bailey Education and Sport Ltd, United Kingdom) 
+Anja Balanskat (European Schoolnet, Belgium) 
+Tom Bentley (RMIT University, Australia) 
+Thor Berger (Lund University, Sweden) 
+Stephen Billett (Griffith University, Australia) 
+© OECD 2018 
+ 
+12 
+Peter Bishop (Teach the Future, United States) 
+Marjolijn de Boer (Ministry of Education Culture and Science, Netherlands)  
+M. Anne Britt (Northern Illinois University, United States) 
+Jeroen Bron (Institute for Curriculum Development, Netherlands) 
+Kathryn Bullard (Harvard University, United States) 
+Marius R. Busemeyer (University of Konstanz, Germany) 
+Connie Chung (United States) 
+Anita Collins (University of Canberra, Australia) 
+Joao Costa (Ministry of Education, Portugal) 
+John Dunn (Kings College, United Kingdom) 
+Charles Fadel (Centre of Curriculum Redesign, United States) 
+Lianghuo Fan (University of Southampton, United Kingdom) 
+Franziska Felder (University of Birmingham, United Kingdom)   
+Andra Fernate (Latvian Academy of Sport Education, Latvia) 
+Carl Benedikt Frey (University of Oxford, United Kingdom) 
+Emma Garcia (Economic Policy Institute and Georgetown University, United States) 
+A.C. Grayling (New College of the Humanities, United Kingdom) 
+Jen Groff (MIT Media Lab, United States) 
+Irmeli Halinen (Metodix Oy, Finland)  
+  
+Ross Hall (Ashoka, United Kingdom) 
+Valerie Hannon (Innovation Unit, United Kingdom) 
+Helen Haste (Harvard Graduate School of Education, United States) 
+Kit-Tai Hau (Chinese University of Hong Kong, Hong Kong, China) 
+Martin Henry (Education International – EI, Belgium) 
+Hideyuki Horii (Innovative Schools Network/University of Tokyo, Japan) 
+Muir Houstan (University of Glasgow, United Kingdom) 
+Rachael Jacobs (Western Sydney University, Australia) 
+Hyung-Mi Joo (Korea Institute for Curriculum and Evaluation, Korea) 
+Aleksi Kalenius (Ministry of Education and Culture, Finland) 
+Kévin Kok Heang (Ingénieur Arts et Métiers, France) 
+Daniel Kunin (Stanford University, United States) 
+Phil Lambert (Phil Lambert Consulting, Australia) 
+Charles Leadbeater (United Kingdom) 
+Anke Li (The Pennsylvania State University, United States) 
+Laura Lippman (United States) 
+Zbigniew Marciniak (Ministry of Science and Higher Education, Poland) 
+Peeter Mehisto (United Kingdom) 
+Chiara Monticone (OECD, France) 
+Martin Mulder (Wageningen University, Netherlands) 
+Johan Muller (University of Cape Town, South Africa) 
+Takashi Murao (Permanent Delegation of Japan to OECD, Japan) 
+© OECD 2018 
+ 
+13 
+Kaoru Nasuno (The University of Tokyo, Japan) 
+Nienke Nieveen (Technische Universiteit Eindhoven, Netherlands) 
+Tim Oates (Cambridge Assessment, United Kingdom) 
+Karine Oganisjana (Riga Technical University, Latvia) 
+Renato Opertti (UNESCO IBE) 
+Karmijn van de Oudewetering (University of Amsterdam, Netherlands) 
+Yuhyun Park (DQ Institute, Singapore) 
+Medjy Pierre-Louis (Harvard University, United States) 
+Saemah Rahman (Universiti Kebangsaan Malaysia, Malaysia) 
+Katherine Ross (Chilean Civil Service, Chile) 
+Jean-François Rouet (Université de Portiers, France)  
+Calin Rus (Intercultural Institute, Romania) 
+Dominique S. Rychen (Former Project Director of DeSeCo, Switzerland) 
+Katariina Salmela-Aro (University of Helsinki, Finland) 
+Raphaela Schlicht-Schmalzle (Michigan State University, United States) 
+William Schmidt (Michigan State University, United States) 
+Kimberly A. Schonert-Reichl (University of British Columbia, Canada) 
+Martin Seligman (University of Pennsylvania, United States) 
+Henk Sligte (Kohnstamm Instituut, Netherlands) 
+Julie Soderman (Michigan State University, United States) 
+Laurence Steinberg (Temple University, United States) 
+Namji Steinemann (East-West Center, United States) 
+Kan Hiroshi Suzuki (MEXT, Japan) 
+Vishal Talreja (Dream a Dream, India) 
+Philip Tomporowki (The University of Georgia, United States)  
+Joke Voogt (University of Amsterdam, Netherlands)  
+Nancy Walt (British Columbia Ministry of Education, Canada) 
+Conrad Wolfram (computerbasedmath, United Kingdom) 
+Michael Young (UCL Institute of Education, United Kingdom) 
+ 
+Further contributors 
+Kiyomi Akita (Innovative Schools Network/The University of Tokyo, Japan) 
+Ilayda Bilgin (Innovative Schools Network/MEF High School Istanbul, Turkey) 
+Veronica Boix Mansilla (Project Zero, Harvard Graduate School of Education, United States) 
+Alexander Browman (Boston College, United States) 
+Darryl Buchanan (Association of Independent Schools of NSW, Australia) 
+Jeppe Bundsgaard (Aarhus University, Denmark) 
+Nick Chambers (Education and Employers, United Kingdom) 
+Sharon Cheers (Association of Independent Schools of NSW, Australia) 
+Bei Cheng (National Institute of Education Sciences, China) 
+Aldo M. Costa (Universidade da Beira Interior, Portugal) 
+Claudia Costin (CEIPE - Fundação Getulio Vargas, Brazil) 
+© OECD 2018 
+ 
+14 
+Allan Michel Jales Coutinho (CEIPE - Fundação Getulio Vargas, Brazil) 
+Proserpina Dhlamini-Fisher (UWC International, United Kingdom) 
+Graham Donaldson (University of Glasgow, United Kingdom) 
+Jane Drake (International Baccalaureate Organization, Netherlands) 
+Celina Faerch (Student, UWC Robert Bosch College, Germany) 
+Michael Fullan (New Pedagogies for Deep Learning, Canada) 
+Eduardo Garcia (Knotion, Mexico) 
+Howard Earl Gardner (Harvard Graduate School of Education, United States) 
+Denise Gallucci (GEMS Americas, United States) 
+Fiona Gatty (University of Oxford, United Kingdom) 
+Jenny Gillett (International Baccalaureate Organization, Netherlands) 
+Ger Graus (KidZania, United Kingdom) 
+Tomasz Greczyło (Institute of Experimental Physics, Poland) 
+Randa Grob (Porticus, Switzerland) 
+Anna Gromada (Kalecki Foundation, Poland) 
+Gábor Halász (Eötvös Loránd University, Hungary) 
+Robert Harrison (International Baccalaureate Organization, Netherlands)  
+Kristy Howells (Canterbury Christ Church University, United Kingdom) 
+Archana Iyer (Teach for all, India) 
+Tony Jackson (Asia Society, United States) 
+Yumi Jeung (Future Class Network, Korea) 
+Chanpil Jung (Future Class Network, Korea) 
+Lord Jim Knight (Tes, United Kingdom) 
+Ulrich Kober (Bertelsmann Foundation, Germany) 
+Børge Frank Koch (UC SYD, Denmark) 
+Wendy Kopp (Teach for All, United States) 
+Petyr Koubek (National Institute for Education, Czech Republic) 
+Linda Lam (Student, Hong Kong, China) 
+Clive Ka-lun Lee (Yidan Prize Foundation, Hong Kong, China) 
+King Hei Lee (Rotaract of Chu Hai College, Hong Kong, China) 
+Jonathan Lee (Student, UWC Maastricht, Netherlands) 
+Marianne Lindheim (The Norwegian Association of Local and Regional Authorities, Norway) 
+Ou Lydia Liu (Educational Testing Service, United States) 
+Fangli Liu (National Institute of Education Sciences, China) 
+Janet Looney (European Institute of Education and Social Policy, France) 
+Daniel Lovelock (UWC International, United Kingdom) 
+George Lueddeke (One Health Commission, United States) 
+Anthony Mackay (Centre for Strategic Education, Australia) 
+Alexandra Marques (Aga Khan Foundation Portugal) 
+David Miele (Boston College, United States) 
+Astrid Mogstad Hoivik (Nettverk Nordmøre, Norway) 
+© OECD 2018 
+ 
+15 
+Alan Ricardo Salceda Monge (Student, Unilider, Mexico) 
+ 
+David Montemurro (University of Toronto, Canada) 
+Ralph Müller-Eiselt (Bertelsmann Stiftung, Germany) 
+Armanzhan Muratbayev (Student, Kazakhstan) 
+Christine Niewöhner (Siemens Stiftung, Germany) 
+Essie North (Big Change, United Kingdom) 
+Marion Nouvellon (Student, UWC Maastricht, Netherlands) 
+Yorihisa Ohneda (Saitama Prefecture, Japan) 
+Ryan S. Olson (Institute for Advanced Studies in Culture, United States) 
+Pascal Paulus (Aga Khan Foundation Portugal) 
+Cathy Rubin (CMRubinWorld, United States) 
+Kevin Ruth (ECIS, United Kingdom) 
+Ingrid Schoon (University College London, United Kingdom) 
+Nobert Seel (University of Freiburg, Germany) 
+Sean Slade (ASCD, United States) 
+Keisha Siriboe (The University of Hong Kong, Hong Kong, China) 
+Luana Sores (Student, UWC Maastricht, Netherlands) 
+Nenad Stamatovic (UWC Robert Bosch College, Germany) 
+Tanya Surawski (UWC Maastricht, Netherlands) 
+Deborah Sutch (International Baccalaureate Organization, Netherlands) 
+Noel Trainor Padilla (Knotion, Mexico) 
+Kentaro Tsukamoto (Tokyo Gakugei University, Japan) 
+ 
+Hannah Tümpel (UWC International, United Kingdom) 
+Noemí Valencia de Trainor (Knotion, Mexico) 
+Tao Wang (Institute of Curriculum and Instruction, East China Normal University, China) 
+Ilknur West (Innovative Schools Network /MEF High School Istanbul, Turkey) 
+Will Williams (Will Williams Meditation, United Kingdom)  
+ 
+ 
+David Ka Yu Wong (Chen Yidan Foundation, Hong Kong, China) 
+Stanton Wortham (Boston College, United States) 
+Gökhan Yücel (The Istanbul Center for Digital Affairs, Turkey) 
+Annika Zettl (Student, UWC Robert Bosch College, Germany) 
+Tracy Zilm (ACARA, Australia) 
+Kara Zumbrink (Education Y, Germany)  
+ 
+OECD Secretariat 
+Andreas Schleicher, Director for Education and Skills 
+Yuri Belfali, Head of Division 
+Miho Taguma, Project Manager, Senior Analyst 
+Lars Barteit, Analyst 
+Esther Carvalhaes, Analyst 
+Eva Feron, Analyst 
+Florence Gabriel, Analyst 
+© OECD 2018 
+ 
+16 
+Kevin Gillespie, Assistant 
+Tanya Ghosh, Intern 
+Yubai Wu, Intern 
+ 
+OECD Experts 
+Michael Stevenson (Senior Adviser PISA, United Kingdom) 
+Meow Hwee Lim (Consultant, Singapore) 
+ 
+OECD Former Secretariat members 
+Masafumi Ishikawa (Analyst), Shun Shirai (Analyst), Katja Anger (Research & Project Coordinator), Michaela 
+Horvathova (Consultant), Funda Gorur (Assistant), Laura-Louise Fairley (Assistant), Parissa Nahani (Assistant), 
+Sandrine Meireles (Assistant), Marco Centurioni (Intern), Yeasong Kim (Intern), Kana Moriwaki (Intern), Sila Yildirim 
+(Intern) and Yiran Zhao (Intern) 
+ 
+ 
+ 
+ 
+© OECD 2018 
+ 
+17 
+Annex 2: List of constructs currently reviewed  
+The following constructs are currently under review based on the following guiding principles: 
+• 
+Clear definition: Does the construct have a commonly used and understood definition?  
+• 
+Relevant for 2030: Does the construct, alone or in combination with others, equip people for future 
+challenges? 
+• 
+Interdependent: Can we say how the construct develops in conjunction with others?  
+• 
+Impactful: Is the construct proven to have a bearing on future life outcomes?  
+• 
+Malleable: Can the construct be developed through the processes of learning?  
+• 
+Measurable: Can the construct be given a comparative numerical value on a scale, or a non-numerical 
+account?  
+The list is not exhaustive but constructs are selected that are closely related to the key concepts underpinning the 
+framework. 
+‒ 
+Adaptability/ Flexibility/ Adjustment/ Agility 
+‒ 
+Compassion 
+‒ 
+Conflict resolution 
+‒ 
+Creativity/ Creative thinking/ Inventive thinking 
+‒ 
+Critical-thinking skills 
+‒ 
+Curiosity 
+‒ 
+Empathy 
+‒ 
+Engagement/Communication skills/Collaboration skills 
+‒ 
+Equality/ Equity 
+‒ 
+Global mind-set 
+‒ 
+Goal orientation and completion (e.g. grit, persistence) 
+‒ 
+Gratitude 
+‒ 
+Growth mind-set 
+‒ 
+Hope 
+‒ 
+Human dignity 
+‒ 
+Identity/Spiritual identity 
+‒ 
+Integrity 
+‒ 
+Justice 
+‒ 
+Manual skills for information and communication technology (related to learning strategies) 
+‒ 
+Manual skills related to the arts and crafts, music, physical education skills needed for the future 
+‒ 
+Meta-learning skills (including learning to learn skills) 
+‒ 
+Mindfulness 
+‒ 
+Motivation (e.g. to learn, to contribute to society) 
+‒ 
+Open mind-set (to others, new ideas, new experiences) 
+‒ 
+Perspective-taking and cognitive flexibility 
+‒ 
+Pro-activeness 
+‒ 
+Problem solving skills 
+‒ 
+Purposefulness 
+‒ 
+Reflective thinking/Evaluating/Monitoring 
+‒ 
+Resilience/Stress resistance 
+‒ 
+Respect (for self, others, including cultural diversity) 
+‒ 
+Responsibility (including locus of control) 
+‒ 
+Risk management 
+‒ 
+Self-awareness/Self-regulation/Self-control 
+‒ 
+Self-efficacy/Positive self-orientation  
+‒ 
+Trust (in self, others, institutions) 
+ 
+ 
+© OECD 2018 
+ 
+18 
+Annex 3: 

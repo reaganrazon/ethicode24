@@ -1,0 +1,349 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ INTEGRATING ETHICS INTO A COMPUTER SCIENCE CURRICULUM 
+FOCUSING ON DATA SCIENCE ISSUES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      A Project 
+ 
+ 
+ 
+Presented to the faculty of the Department of Computer Science 
+California State University, Sacramento 
+ 
+ 
+ 
+Submitted in partial satisfaction of 
+the requirements for the degree of 
+ 
+ 
+ 
+MASTER OF SCIENCE 
+ 
+ 
+in 
+ 
+ 
+Computer Science 
+ 
+ 
+by 
+ 
+Sai Sri Meghana Dharmapuri 
+ 
+FALL 
+2020
+ 
+ 
+ii 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2020 
+ 
+Sai Sri Meghana Dharmapuri 
+ALL RIGHTS RESERVED 
+ 
+ 
+ 
+iii 
+ 
+ 
+INTEGRATING ETHICS INTO A COMPUTER SCIENCE CURRICULUM 
+FOCUSING ON DATA SCIENCE ISSUES 
+ 
+ 
+ 
+ 
+A Project 
+ 
+ 
+by 
+ 
+ 
+Sai Sri Meghana Dharmapuri 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Approved by: 
+ 
+__________________________________, Committee Chair 
+Dr. Anna Baynes 
+ 
+ 
+__________________________________, Second Reader 
+Dr. Xuyu Wang 
+ 
+ 
+ 
+ 
+_______________________ 
+Date 
+ 
+ 
+ 
+ 
+iv 
+ 
+ 
+Student:  Sai Sri Meghana Dharmapuri 
+          
+ 
+I certify that this student has met the requirements for format contained in the University 
+format manual, and this project is suitable for electronic submission to the library and 
+credit is to be awarded for the project. 
+ 
+ 
+ 
+ 
+__________________________, Graduate Coordinator ______________________ 
+Dr. Jinsong Ouyang  
+ 
+ 
+ 
+         Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of Computer Science 
+ 
+ 
+ 
+ 
+v 
+ 
+ 
+ 
+Abstract 
+ 
+of 
+ 
+INTEGRATING ETHICS INTO A COMPUTER SCIENCE CURRICULUM 
+FOCUSING ON DATA SCIENCE ISSUES 
+ 
+by 
+ 
+Sai Sri Meghana Dharmapuri 
+ 
+ 
+ 
+ 
+  
+Computer science has rapidly evolved over the years particularly in the field of 
+machine learning (ML) and artificial intelligence (AI). Yet, there seems to be noticeable 
+gap in the field of ethics related to data science for K-12 students. This project aims to 
+introduce K-12 students to the concepts of data science ethics and educate them at an early 
+stage to ensure a path towards ethical data science practices. With this goal to educate K-
+12 students on data science ethics, a tailored instructional plan to support K-12 students 
+and academic advisors was identified.  
+Like every field, computer science has a set of morals to be followed. It is essential 
+for students to understand the basic social, ethical and legal issues that can arise when 
+solving real world data problems. Without proper ethical paradigms, technology can have 
+serious negative impacts on the society and efforts should be made to educate students on 
+ethics to ensure a future with reliable technology. While the internet has a plethora of 
+information related to data science ethics, there is a need for platforms that are tailored 
+ 
+ 
+vi 
+ 
+ 
+towards educating K-12 students and create awareness, interest and a sense of motivation 
+among them. 
+To solve this problem, I designed a visually interactive instruction tool, using a 
+story telling chat box, quizzes and a case study, intended to introduce data science ethics 
+focused on the areas of explainable AI, privacy, informed consent and ownership of data. 
+The aim of this project is to motivate students to pursue a path towards practicing ethical 
+data science. The tool intends to reduce the risk of biased and unethical problem solving to 
+protect human morals when technology is involved.  
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________, Committee Chair 
+Dr. Anna Baynes 
+ 
+ 
+______________________ 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vii 
+ 
+ 
+DEDICATION 
+ 
+ 
+This project is dedicated to my beloved family members who are my strength and 
+support and to my friends who been my source of joy and happiness. Most importantly, to 
+Almighty God. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+viii 
+ 
+ 
+ACKNOWLEDGEMENTS 
+ 
+ 
+I would like to express my sincere gratitude to Dr. Anna Baynes, my project 
+advisor, for all the guidance and mentorship she has provided throughout the tenure of the 
+project. She has been a great source of inspiration in motivating me to work towards the 
+successful completion of my project. 
+She has provided comprehensive advice on my research and has directed me to 
+resourceful research papers to help accomplish my project.  
+I would also like to extend my heartfelt thanks to Dr. Xuyu Wang for dedicating 
+his valuable time and providing inputs as a second reader.  
+I am thankful to my parents Murty and Srilakshmi for being my strength and 
+support. I would also like to thank my sister Manaswini and brother in law Surya for 
+supporting me 
+Last but not the least, I would like to wholeheartedly extend my sincere thanks to 
+the Department of Computer Science, Dr. Jinsong Ouyang and Dr. Nikrouz Faroughi for 
+providing me this amazing opportunity to learn, grow and shine. 
+ 
+ 
+ 
+ 
+ix 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 
+ 
+Dedication ................................................................................................................... vii 
+Acknowledgments...................................................................................................... viii 
+List of Figures .............................................................................................................. xi 
+Chapter 
+1.   INTRODUCTION ...................................................................................................1 
+2.   BACKGROUND AND RELATED WORK ...........................................................4 
+2.1 The Impact CS Project .......................................................................................4 
+2.2 Exploring Computer Science (ECS) ..................................................................5 
+2.3 Literature Review...............................................................................................6 
+2.4 Related Research ................................................................................................6                              
+3.  TECHNOLOGIES USED .........................................................................................8 
+3.1 About the Application ........................................................................................8 
+3.2 Brackets..............................................................................................................8 
+3.3 Xampp ................................................................................................................8 
+3.4 Jupyter Notebook ...............................................................................................9 
+3.5 Canvas.js ............................................................................................................9 
+4.   DESIGN OVERVIEW...........................................................................................10 
+4.1 System Requirement Analysis .........................................................................10 
+ 
+4.2 System Design .................................................................................................10 
+ 
+ 
+x 
+ 
+ 
+5. IMPLEMENTATION AND DEVELOPMENT .....................................................12 
+5.1 Web Application ..............................................................................................12 
+5.2 Admin Panel.....................................................................................................20 
+6. TOOL WALKTHROUGH ......................................................................................28 
+6.1 K-12 Student User Experience.........................................................................28 
+6.2 Admin or Teacher User experience .................................................................37 
+7. CASE STUDY AND ETHICAL ANALYSIS ........................................................40 
+7.1 Data Collection ................................................................................................41 
+7.2 Data Cleaning...................................................................................................42 
+7.3 Exploratory Data Analysis and Visualization ..................................................43 
+7.4 Data Preprocessing and Running Machine Learning Models..........................45 
+8. CONCLUSION AND FUTURE WORK ................................................................48 
+8.1 Conclusion ......................................................................................................48 
+8.2 Future Work ....................................................................................................49 
+ 

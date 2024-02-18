@@ -1,0 +1,216 @@
+CSCL: Unit 1 Grade 5
+Lesson 1.6: Pioneers and Problems Solved by
+Computers
+Objectives
+In this lesson, students will:
+❖ Be Introduced to Computer Science
+pioneers
+❖ Learn to reflect on and consider
+problems in our lives that could be
+solved by computers
+❖ Research contributions by a Computer
+Scientists
+❖ Practice presenting their ideas to
+others
+Preparation
+❏ Print student activity worksheet, one
+per team.
+Agenda
+1. Computing Pioneers and
+their Contributions
+2. Student Activity: Role of
+Computers in our World,
+Exercise 1 or Exercise 2
+3. Class Discussion and Wrap
+Up
+10 mins
+25 mins
+15 mins
+Resources & Links
+❏ Grace Hopper video:
+https://tinyurl.com/hnvfywo
+❏ Addendum: Computer Science
+Pioneers (at the end of the lesson
+plan). Can optionally be
+incorporated into the lesson or
+just used as reference material.
+© Code for fun
+Released under the Creative Commons By Attribution license
+1
+CSCL: Unit 1 Grade 5
+1. Computing Pioneers and Their Contributions
+The art of Computer Science often starts with a problem that needs to be solved. Throughout
+history, humans are always in search of finding solutions to problems and to make things more
+efficient, less dangerous and easier.
+In the last 100 years or so, computers have played a big
+role in solving problems around us and have a big impact on everything we do in life.
+In the history of computing there have been many pioneers that have made big contributions to
+the advancement of computing systems, often by trying to solve a problem they were faced
+with.
+One of the many computing pioneers was Grace Hopper. Here is a short video about
+her:
+https://tinyurl.com/hnvfywo
+Class Discussion
+Discussion Points:
+●
+Who was Grace Hopper?
+●
+What did she study?
+●
+What did she create?
+●
+What is she known for?
+2. Student Activity: Role of Computers in our World
+There are 2 exercises in this activity. Choose one for your class or optionally allow
+students to choose the one they would like to work on. One of them could also be
+used as a homework assignment.
+Students are grouped into teams of 2-4.
+Explain the exercise to students and relate the examples given below.
+Exercise 1 Instructions:
+© Code for fun
+Released under the Creative Commons By Attribution license
+2
+CSCL: Unit 1 Grade 5
+Explain the activity from the worksheet. Additionally, give the following example as a problem
+that could be solved with the help of a computer.
+Example of a problem that could be solved by a computing system:
+A street light in Allan’s neighborhood has been out for 3 weeks. The street is very dark and it is
+scary to walk there in the evening. The city has not fixed the light. Maybe they don’t know it is
+broken? One way to solve the problem could be to install a sensor that detects the light does
+not come on at night; it then sends a signal to a computer in the city office letting them know
+the light needs to be fixed. That way it can be repaired as soon as it is broken.
+Exercise 2 Instructions:
+Explain the activity from the worksheet. Additionally, give the following example for Grace
+Hopper of how they can answer the guiding questions for their research of another Computer
+Science pioneer.
+1. What did the person invent or build?
+Grace Hopper created a compiler to translate source code into computer language
+2. Where did they live and what did they study?
+She lived in New York and studied Math and Physics
+3. What problem did the person try to solve with a computer or computing system?
+She believed computer languages should look like english. She created a compiler that
+translates source code (programming language code we can read) into computer code.
+4. What challenges did they have or overcome ?
+She re-applied to Vassar college even though she was rejected the first time
+5. What contribution did the person make to our history or what is the person known for?
+She is known for the term “debugging”, she created a compiler and worked on the
+COBOL language committee
+After students complete the activity, each team shares their research and ideas as a team.
+3. Class Discussion
+Each team shares a few items from their research and team brainstorming exercise.
+© Code for fun
+Released under the Creative Commons By Attribution license
+3
+CSCL: Unit 1 Grade 5
+Student Activity: Role of Computers in our World
+Exercise I: Solving Problems with Computers
+What to do:
+1.
+On your team, come up with some problems you see in your school, on the
+street, in your city or in the world.
+2. Somebody on the team should write down all your ideas and solutions. You
+can take turns being the notetaker.
+3. Pick 1 of the problems and discuss ideas of how computers could solve this
+problem. If you finish early, pick another problem and come up with ideas of
+how to solve it.
+4. Be prepared to share your ideas as a team.
+© Code for fun
+Released under the Creative Commons By Attribution license
+4
+CSCL: Unit 1 Grade 5
+Exercise II: Computing Pioneers
+Here is a list of people who have made contributions to the advancement of
+computers.
+Alan Turing
+Charles Babbage
+Erna Schneider Hoover
+Ida Rhodes
+Ada Lovelace
+Nakamatsu Yoshiro
+Tim Berners-Lee
+What to do:
+1.
+Pick a name from the list and conduct some online research on the person.
+2. Focus your research on the person’s impact and contribution to Computer
+Science. Try to answer the list of questions below about the person you
+picked.
+It is not necessary to answer every question, but as many as you can.
+Be
+prepared to share your research with the class.
+3. Questions:
+a. What did the person invent or create?
+b. Where did they live and what did they study?
+c. What problem did the person try to solve with a computer?
+d. What challenges did they have or overcome?
+e. What contribution did the person make to our history or what is the
+person known for?
+Be prepared to share.
+© Code for fun
+Released under the Creative Commons By Attribution license
+5
+CSCL: Unit 1 Grade 5
+Addendum: Computer Science Pioneers
+Do you know when the first computer was invented?
+The answer depends somewhat on what we mean by computer. The first programmable
+computer, the Z1 was created by German Konrad Zuse in his parents' living room between 1936
+and 1938. It is considered to be the first electro mechanical binary programmable computer,
+and the first really functional modern computer.
+However, many years before that, in 1822, British mathematician and inventor Charles Babbage
+invented the first mechanical computer. Mathematical tables were
+important in Babbage’s era for use in navigation, science and
+engineering. They were calculated by hand and then compiled into
+tables. Errors were sometimes made either in the calculation or in
+the compiling of the tables.
+It is with this background that Babbage decided to design a
+mechanical device that could perform calculations. Such a machine
+would always be accurate and would save time and money.
+During the mid-1830s Babbage developed plans for the Analytical
+Engine, the forerunner of the modern digital computer. In that
+device he envisioned the capability of performing any arithmetical
+operation on the basis of instructions from punched cards, a memory unit in which to store
+numbers, sequential control, and most of the other basic elements of the present-day
+computer. His machines were considered as one of the very first mechanical computers ever to
+be invented. The fact that they were not actually built was not due to a design flaw but rather, it
+was due to lack of funding.
+At a young age Ada Lovelace met Charles Babbage. They became
+friends, and the much older Babbage served as a mentor to Ada.
+Ada, a writer and also a mathematician, was fascinated by
+Babbage's ideas and machines. Ada was later asked to translate an
+article on Babbage's analytical engine. She not only translated the
+original French text into English, but also added her own thoughts
+and ideas on the machine. Her notes ended up being three times
+longer than the original article.
+© Code for fun
+Released under the Creative Commons By Attribution license
+6
+CSCL: Unit 1 Grade 5
+In her notes, Ada described how codes could be created for the device to handle letters and
+symbols along with numbers. She also theorized a method for the engine to repeat a series of
+instructions, a process known as looping that programs use today, as we know. Ada also
+offered up other forward-thinking concepts in the article. For her work, Ada is often considered
+to be the first computer programmer. Ada Lovelace's contributions to the field of computer
+science were not discovered until the 1950s. Her notes were reintroduced to the world by B.V.
+Bowden.
+Another pioneer whose work and invention had a significant impact on humanity is
+Alan Turing, often called the father of modern computing. He was a brilliant mathematician and
+logician. He was the first person to think of using a computer to do things that were too hard for
+a person to do. He developed the idea of the modern computer and artificial intelligence.
+At the outbreak of World War Two, Alan
+joined the Government Codes and
+Cypher School at Bletchley Park. He
+worked on breaking the code for the
+German Enigma machine, a device for
+sending coded messages to units of the
+German forces. Alan developed a
+machine (the Bombe) which helped
+break the code. He also went on to break
+the Naval Enigma, an even more
+complicated machine. His wartime
+services helped to win the war, but his
+work was so secret that very few people
+were aware of the importance of what he had done at Bletchley Park.
+It has been estimated that his work shortened the war in Europe by more than two years and
+saved over 14 million lives.
+© Code for fun
+Released under the Creative Commons By Attribution license
+7

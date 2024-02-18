@@ -1,0 +1,1232 @@
+ORIGINAL RESEARCH
+published: 21 January 2020
+doi: 10.3389/feduc.2019.00162
+Frontiers in Education | www.frontiersin.org
+1
+January 2020 | Volume 4 | Article 162
+Edited by:
+Jukka Husu,
+University of Turku, Finland
+Reviewed by:
+Khalil Gholami,
+University of Kurdistan, Iran
+Tracy X. P. Zou,
+The University of Hong Kong,
+Hong Kong
+*Correspondence:
+Joanna Goode
+goodej@uoregon.edu
+Specialty section:
+This article was submitted to
+Teacher Education,
+a section of the journal
+Frontiers in Education
+Received: 29 August 2019
+Accepted: 24 December 2019
+Published: 21 January 2020
+Citation:
+Goode J, Skorodinsky M, Hubbard J
+and Hook J (2020) Computer Science
+for Equity: Teacher Education, Agency,
+and Statewide Reform.
+Front. Educ. 4:162.
+doi: 10.3389/feduc.2019.00162
+Computer Science for Equity:
+Teacher Education, Agency, and
+Statewide Reform
+Joanna Goode 1*, Max Skorodinsky 1, Jill Hubbard 2 and James Hook 3
+1 Department of Education Studies, University of Oregon, Eugene, OR, United States, 2 Department of Computer Science,
+Oregon State University-Cascades, Bend, OR, United States, 3 Department of Computer Science, Portland State University,
+Portland, OR, United States
+This paper reports on a statewide “Computer Science for All” initiative in Oregon
+that aims to democratize high school computer science and broaden participation
+in an academic subject that is one of the most segregated disciplines nationwide,
+in terms of both race and gender. With no statewide policies to support computing
+instruction, Oregon’s legacy of computer science education has been marked by both
+low participation and by rates of underrepresented students falling well-below the
+already dismal national rates. The study outlined in this paper focuses on how teacher
+education can support educators in developing knowledge and agency, and impacting
+policies and practices that broaden participation in computing. In particular, this research
+seeks to understand two questions. First, how do teachers experience equity-focused
+professional development in preparation for teaching an introductory course in computer
+science? Second, this study queries, how do teachers understand their own agency
+in inﬂuencing policies and practices that broaden participation in their speciﬁc schools
+and classrooms? To answer these questions, this inquiry employed a mixed method
+approach, drawing from surveys, observations, and interview data of two cohorts of
+teachers who participated in the Exploring Computer Science professional development
+program. To show the variety of school contexts and situate computer science education
+in local and place-based policies and practices, three teacher case studies are presented
+that illustrate how individual teachers, in diverse geographic and demographic settings,
+are building inclusive computer science opportunities in their schools. The ﬁndings reveal
+that centering equity-focused teacher professional development supports teachers in
+formulating the conﬁdence, knowledge and skills that lead to inclusive computer science
+instruction, computer science content, and equity-centered pedagogy. The ﬁndings
+also highlight how school reform in computer science requires not only technical and
+pedagogical supports and structures, but also a systemic rethinking and reworking of
+normative and political forces that are part of the fabric of schools. Based on these
+ﬁndings of teacher knowledge and agency, the paper concludes with a presentation
+of particular statewide policies and practices that are generative in broadening belief
+systems and expanding political capacity of computer science education to reach
+all students.
+Keywords: computer science education, teacher education, education policy, case studies, equity
+Goode et al.
+Computer Science for Equity
+INTRODUCTION
+In early 2016, President Obama endorsed a decade of federal
+investment in broadening participation in secondary computer
+science education and lit a ﬁrestorm of new eﬀorts aimed at
+providing computer science instruction for all students. Despite
+the federal directive for funding to contribute to this “Computer
+Science for All” initiative, the constitutional mandate in the
+United States gives authority to the states to set education policies
+and practices. While the recent wave of federal support to bring
+computing knowledge to all students is unprecedented, it is
+evident that reforming computer science education must be
+attended to at the state level.
+The urgency of expanding computer science education in the
+United States has been endorsed and supported by a variety of
+organizations and interest groups. Industry leaders, concerned
+about the future health of the work-force pipeline and personal
+economic prosperity, suggest that public investment to support
+computer science in schools is necessary for the nation’s (and
+individuals’) economic health. Cybersecurity experts point to
+the need for a well-educated citizenry to ensure both personal
+privacy, and to ﬁll public sector jobs in security which cannot
+be outsourced abroad. Academic groups highlight the beneﬁts
+of a “computer science + X” approach—education about how
+computer science can inform scientiﬁc and humanistic endeavors
+across and within other scholarly disciplines. Additionally, K-
+12 educators and teachers note that the ethos of creativity and
+collaboration that can be fostered through computer science
+instruction has a reinvigorating and empowering impact on
+teaching and learning in classrooms.
+Inequitable Opportunities to Learn
+Computer Science
+Despite the widespread enthusiasm for computer science
+education for all, it is signiﬁcant and troubling that computer
+science suﬀers from the lowest participation of girls and students
+of color than any other STEM-related area. These participation
+patterns continue, and often increase, in higher education
+and in technology-related professions (U.S. Equal Employment
+Opportunity Commission, 2016; Zweban and Bizot, 2018). Given
+the high-status nature of computer science (Apple, 1978), and
+the tremendous levels of power and inﬂuence that lie with those
+who have stature in this ﬁeld, computer science education reform
+must prioritize to address the complex ways that racial and
+gender inequities operate and are reproduced in this discipline.
+Prior research in equity and computer science has illuminated
+how structural and belief systems collide to create obstacles
+for many students to learn computing in schools. For instance,
+an ethnographic study focused on computer science education,
+across three high schools varying in demographic composition,
+revealed how learning opportunities, such as course oﬀerings
+and qualiﬁed teachers, diﬀered dramatically both between and
+within schools (Goode, 2008; Margolis et al., 2017). Additionally,
+educator beliefs and practices, at the school and classroom level,
+profoundly impacted students’ opportunities to learn computer
+science through student tracking and enacted pedagogy in the
+classroom. This collision of structural and belief system biases
+in computing education result in signiﬁcant and persistent
+participation gaps in computer science courses by students of
+color and girls (Ashcraft et al., 2017; Scott et al., 2019).
+Further, for students of color and low-income students,
+existing discrepancies in opportunities to learn computer science
+in school settings are accompanied and compounded by other
+long-standing educational inequities. Studies have documented
+how across subject-areas, secondary students in the United States
+experience staggering disparities in access to high-quality
+teachers (Darling-Hammond and Berry, 2006), high-quality
+academic curricular experiences (Lee et al., 1997), and culturally
+relevant pedagogy (Ladson-Billings, 1995).
+The Role of Teachers in Computer Science
+for All
+There has been an ongoing and signiﬁcant investment in
+expanding and scaling computer science education as part
+of the “Computer Science for All” initiative across the
+United States. Although teacher professional development is
+frequently considered integral to these eﬀorts, there is scarce
+research about the speciﬁc role of teachers in serving as change
+agents in broadening participation in computing at their school
+sites. Little is known about how teachers can support rigorous
+and inclusive computer science course oﬀerings. Such knowledge
+is especially necessary in order to best support eﬀorts to diversify
+high school computer science classrooms in a state with a
+decentralized, “local control” education system. This study seeks
+to study how teachers develop and enact agency in terms of
+equity in computer science education. In particular, this research
+seeks to understand how teachers experience the equity-focus
+of professional development in preparation for teaching a high
+school introductory course in computer science, and how these
+teachers understand their own capacity in bringing computer
+science to their speciﬁc schools and classrooms and to diverse
+groups of students. A key part of our investigation is studying
+how belief systems of educators and policymakers shift as
+computer science education discourse collectively shifts from
+“for some” to “for all.”
+Studying teacher agency in the context of educational reform
+involves an examination of the actions of individual educators
+within particular social contexts marked by a set of resources
+that are culturally, socially, and historically developed (Lasky,
+2005). This sociocultural model of teacher agency is mediated
+by the interaction between the individual and the structures
+impacting teachers’ capability to exercise power, particularly
+in reform contexts that bring new normative professional
+tools and expectations. Further, an ecological theory of teacher
+agency suggests that while teachers as actors have some sort of
+capacities, their ability to achieve agency relies on the interaction
+between these capacities and the ecological contingencies of
+the environment (Biesta and Tedder, 2007). One study of
+teacher-enacted curriculum reform that examined teacher agency
+from an ecological perspective found that teacher agency is
+largely about “repertoires for maneuverer,” or the possibilities for
+diﬀerent forms of action available for teachers in their particular
+temporal, material, and social context (Priestley et al., 2012).
+Frontiers in Education | www.frontiersin.org
+2
+January 2020 | Volume 4 | Article 162
+Goode et al.
+Computer Science for Equity
+This study discovered that the beliefs, values, and attributes that
+individual teachers mobilize in particular settings are important
+characteristics of teacher agency. The recommendations from
+this research emphasized that educational curricular reforms
+should focus on designing policies that proactively consider
+teachers’ preemptive and anticipated engagement with new
+educational designs.
+Computer Science for Oregon
+The study outlined in this paper is part of a larger initiative
+that supports cohorts of teachers in bringing computer science
+education to Oregon, a state with a decentralized school system.
+Through support from the National Science Foundation and
+collaborations with multiple state policymakers and educators,
+the “Computer Science for Oregon” initiative is expanding access
+to inclusive learning experiences, beginning with high school
+classrooms. At the core of the theory of change for this equity-
+focused project is teacher education. Teachers not only have
+the unique and central position to bring active and inclusive
+pedagogy to introductory courses for all students, but they also
+hold the capacity, expertise, and agency to illuminate how local
+and statewide policies and practices can support and sustain
+social justice approaches to computing education.
+To situate the equity context of schools in this study, this
+paper ﬁrst provides an historical examination of the legacy of
+computer science education in Oregon and how these eﬀorts,
+in the past, have reached only a narrow segment of the student
+population. Next, we engage in a theoretical discussion of the
+multiple components of school reform that must be attended to
+in order to center race and gender equity at the core of computer
+science school reform. Then, we describe the “Computer Science
+for Oregon” initiative and the role of teacher education in
+supporting the statewide goal to democratize computer science
+education. To examine the eﬃcacy of these reform eﬀorts, we
+present three case studies to illustrate how teachers, in diverse
+geographic and demographic settings, are building inclusive
+computer science opportunities at their schools. Each of these
+case studies features the teacher’s school site context, their
+particular problems of practice in teaching computer science to
+a wide diversity of students, and how they have experienced
+powerful moments of teaching and learning that support the
+inclusive spirit of “Computer Science for All.” After presenting
+these particular cases, we will discuss how our ﬁndings can
+inform an applied theory of action for “Computer Science for
+All” statewide eﬀorts focused on a cohesive model of social
+justice-focused educational reform.
+BACKGROUND OF COMPUTER SCIENCE
+EDUCATION IN OREGON
+To provide a comprehensive understanding of the current
+context of Oregon’s computer science education opportunities,
+policies, and practices, we present an historical inquiry of
+how computing has been integrated in Oregon schools. Using
+public education datasets, College Board data, and archival state
+documents, we examined patterns of course participation by
+racial and gender demographics. We also investigated available
+historical plans and policies. We observe how key events,
+organizations, and enrollment data have set the stage for the
+“Computer Science for Oregon” shift toward a focus on a more
+widespread adoption of computer science education oﬀerings, as
+well as, on the inclusion and engagement of a diverse student
+body in the computing ﬁeld.
+Teacher Role and Course Availability
+Oregon has a long history teaching computer science in formal
+(in-school) and informal (out-of-school-time) settings. By 1962,
+Oregon high school teachers were teaching programming. In
+1978 Mr. Robert Jaquiss, a computer teacher at North Salem
+High School, developed a proposal to achieve “computer literacy
+for all” (Bennett et al., 1980). That proposal shows problem
+solving and simulation integrated into the study of social science,
+chemistry, physics, business, biology, mathematics, and music,
+and identiﬁed separate courses of study for programming,
+computer science, and computer operations. The Oregon
+Computer Science Teachers Association (OCSTA) formed in
+1987. It has thrived as a partnership between educators and
+industry to support computer science content in formal and
+informal settings. Despite this long-standing niche of proponents
+for computer science education, no district in the state has
+yet designated computer science as a graduation requirement.
+Because computer science has historically been on the periphery
+of the school curriculum, Oregon, like many states, does not
+have a certiﬁcation available in the discipline for teachers.
+In order to teach computer science at the secondary level,
+teachers who are already certiﬁed and hold endorsements in
+other subjects, often are asked or choose to obtain professional
+learning in the subject in short-term workshops (often only
+available during summer break months). Additionally, many
+computing teachers are former technology professionals who
+have entered the teaching profession as part of a Career-
+Technical Education program, circumventing traditional teacher
+education preparation programs that include teaching methods
+courses. This uneven pipeline of computing teacher preparation
+has resulted in a dearth of educators prepared to oﬀer computer
+science in Oregon high schools. Additionally, there is wide
+variability of the types of computer science courses that are
+available across the state. Of the 325 Oregon high schools
+reporting data to the Oregon Department of Education for
+the academic year ending 2015, 232 listed some computing
+or technology course, 66 listed a regular oﬀering coded
+as programming, and 14 oﬀered Advanced Placement or
+International Baccalaureate computer science classes.
+Course-Taking
+With respect to course-taking, the state has suﬀered from years of
+low participation in computer science from almost all students,
+though students of color and girls are notably absent from most
+of these legacy “for some” courses. Student enrollment data
+from historic courses, as well as the new Advanced Placement
+Computer Science Principles course, highlights both the overall,
+drastically low participation, as well as the homogenous
+participation in terms of student demographic groups (College
+Frontiers in Education | www.frontiersin.org
+3
+January 2020 | Volume 4 | Article 162
+Goode et al.
+Computer Science for Equity
+Board, 2018). In 2017–2018, while students participated in
+taking over 137,000 exams nationwide, only 762 Oregon students
+participated in one of the two Advanced Placement Computer
+Science course exams. Of these Oregon students, only 10% of
+exam-takers were students of color, and just 23% identiﬁed as
+female. Statewide, only one Native American girl, one Black girl,
+two Native Hawaiian or Paciﬁc Islander girls, and 12 Latina girls
+participated in one of the two Advanced Placement exams.
+Attending to the Participation Gap
+It is clear that the computer science education eﬀorts and
+course oﬀerings in Oregon to date have not been productive in
+broadening participation in computing in the state. With over 50
+years of experimentation, signiﬁcant demand from parents and
+persistent appeal for more computer science educated graduates
+from Oregon’s technology industry, educators might wonder
+why the state failed to implement Jaquiss’ vision from 1978
+of “Computer Literacy for All.” In part, the evidence shows
+that because the inclusion of computer science has historically
+been viewed predominantly as an opt-in oﬀering for suburban
+schools, its enrichment program status has prevented the subject
+from becoming part of the generally available comprehensive
+school curriculum (Margolis et al., 2017). Further, Oregon is
+the only state in the United States that does not have any
+statewide policies that support K-12 statewide computer science
+education, such as continued funding, teacher certiﬁcation,
+a state plan, state standards, allowing computer science to
+count for graduation requirements, or a state director that
+oversees computer science instruction and learning in schools
+(Code.org, CSTA and ECEP, 2019).
+As a state, Oregon is uniquely situated for a “Computer
+Science for All” movement focused on implementing and
+sustaining computer science courses in high schools. There is a
+longstanding legacy of past computer science state investments
+and active teacher involvement in computer science education.
+Yet, the pressing equity gaps in computer science education
+in Oregon show extreme disparities in participation amongst
+Oregon’s students that suggest a new approach for expanding
+computer science education is needed. For Oregon, this includes
+addressing not only gender, racial, and social class disparities,
+but also diﬀerences in opportunities to learn along the urban-
+suburban-rural divide.
+Broadening Participation in Computer
+Science in Oregon
+Computer Science for every student, thus, requires a more
+disruptive implementation approach than simply providing more
+opportunities for computing education as opt-in enrichment.
+This necessitates a shift from the historic viewing of computer
+science as appropriate in some schools, for a handful of students,
+toward a normative view of computer science as a subject for
+every student across the state. The thesis of this theory is that
+such a disruption in the implementation of computer science
+education is ultimately more sustainable in reaching equitable
+learning opportunities for students.
+The “Computer Science for Oregon” program began in 2017
+with goals of diversifying and expanding computer science
+learning opportunities for students in urban, suburban, and rural
+areas across the state. With support from the “Computer Science
+for All” program at the National Science Foundation, a major
+part of this initiative focuses on supporting high school teachers
+in developing the capacity to teach the introductory year-long
+Exploring Computer Science course at their schools.
+The Exploring Computer Science program, with over a
+decade of research documenting its eﬀectiveness in engaging
+diverse groups of students in learning about computing,
+provides a comprehensive and inquiry-based approach to
+introducing high school students to computer science. Along
+with instructional lesson plans for teachers to use, that include a
+comprehensive approach to computing, the Exploring Computer
+Science program oﬀers an intensive, long-term professional
+development program. Teachers participating in the professional
+development program of Exploring Computer Science ﬁrst
+attend a week-long summer Institute, then participate in
+quarterly learning sessions taken while teaching the course
+during the ﬁrst year, and then participate in a second week-
+long summer Institute. The second summer professional learning
+experience allows for teachers to reﬂect on their ﬁrst year of
+teaching and continue to grow their knowledge around eﬀective
+instructional practices.
+The core features of the Exploring Computer Science
+professional development program include introducing teachers
+to key lessons in the curriculum, incorporating a rehearsal-
+based approach to learning computing concepts and pedagogy,
+and centering discussions about racial inequities in computer
+science education (Goode et al., 2014). Further, this professional
+development has been shown to foster a vibrant professional
+learning community of teachers (Ryoo et al., 2015).
+To participate in the professional development program, a
+school’s principal signs an agreement to oﬀer the Exploring
+Computer Science course in the school curriculum and agrees
+to a school-wide commitment to recruit a wide diversity of
+students to the course. So far, two cohorts, and a total of
+40 teachers, have begun or completed the 2-years Exploring
+Computer Science professional development program focused
+on learning introductory computer science concepts, inquiry-
+based teaching methodologies, and strategies for teaching
+for equity and inclusion. In Oregon, the summer Exploring
+Computer Science professional development workshop takes
+place annually in a residential college setting in central Oregon.
+Subsequent quarterly professional developments are conducted
+during the school year, in an online setting. This is to ensure
+ease of participation as teachers in the program come from
+geographically disparate locations.
+THEORETICAL PERSPECTIVES OF
+SCHOOL REFORM TO ADDRESS EQUITY
+This study draws from school reform literature to help
+examine how teachers can be central to eﬀorts for broadening
+participation in computing, in the context of a statewide
+initiative. Given that “Computer Science for All” is part of
+the ubiquitous democratic “for all” movement in education,
+Frontiers in Education | www.frontiersin.org
+4
+January 2020 | Volume 4 | Article 162
+Goode et al.
+Computer Science for Equity
+it is useful to examine the scholarship from similar “for all”
+detracking eﬀorts that have aspired to democratize access to
+school knowledge.
+In his scholarship on education policies and the rhetoric
+of standards for all in England, Gillborn (2005) argues that
+by placing race equity at the margins of reform, educational
+policies retain, and extend race injustice that ﬁrmly remains at
+the center of the reform. Gillborn points out that systematic
+advantages for White students are based in a form of tacit
+intentionality of power-holders. He argues that white supremacy
+is often maintained and reproduced through the taken-for-
+granted privileging of white interests that often goes unexamined
+when creating educational policies. Thus, for eﬀorts “for all”
+to be eﬀective in reaching goals of inclusion and social justice,
+race equity must be considered at the center of reform strategies
+and goals.
+Because expanding opportunities for computing education
+beyond enrichment and toward for all students is complex
+and involves changing the distribution of resources as well
+as changing the hearts and minds of educators, we employ
+Oakes’ (1992) framework for understanding and changing
+school dynamics to promote racial, socioeconomic, and gender
+equity in course-taking. Oakes proposes attending to three
+dimensions of change that inﬂuence the social organization
+of schools: the technical, normative, and political elements of
+school reform. Further, given the empirical base highlighting the
+inﬂuence of teacher quality on students’ opportunities to learn
+(Darling-Hammond, 2008), we extend Oakes’ theoretical frame
+to highlight the empirical data suggesting the importance of a
+fourth dimension: pedagogy (Goode et al., 2018).
+Technical
+By technical, Oakes refers to the structure of curriculum
+diﬀerentiation—including
+the
+curriculum,
+systems
+of
+diﬀerentiation to determine tracks of students, and the existence
+of college preparation and non-college preparatory tracks at a
+school site. As documented in Stuck in the Shallow End (Margolis
+et al., 2017), course demographics are closely correlated with the
+relative rigor and prestige of computing courses—low-income
+students and students of color are often relegated to low-level
+computer literacy courses, while middle-class students, typically
+boys, represent the majority of Advanced Placement Computer
+Science A course-takers. This is reﬂected in Advanced Placement
+Computer Science A and Computer Science Principles exam
+statistics in Oregon and nationwide, which reveal that computer
+science has the lowest rates of female and marginalized minority
+participation out of all Advanced Placement STEM-related
+courses (Martin et al., 2015; College Board, 2018).
+Normative
+Addressing the normative dimension of computer science
+education reform includes attending to the web of cultural
+assumptions about what is true and “normal” and what
+constitutes appropriate action given these belief systems.
+Computer science is one of the ﬁelds most deﬁned by
+stereotypes and belief systems that undercut the participation
+of African Americans, Latinx, Native Americans, females, and
+other marginalized groups. An important normative perspective
+in computing education is the concept of “preparatory privilege,”
+a phenomenon in which childhood enrichment experiences and
+familial social capital are mistaken by educators for “innate”
+ability and suitability for studying more computing (Margolis
+et al., 2017). Students without such experiences, including low-
+income students, students of color, and girls, are then labeled
+as not being able or suitable for even introductory computer
+science courses (Goode et al., 2006). Since educators, including
+counselors and administrators, uphold these normative belief
+systems at school, district, and state levels, these belief systems
+both inﬂuence and are inﬂuenced by policy and practice within a
+particular state or regional context (Hu et al., 2016).
+Political
+The political dimension includes how labels, status diﬀerences,
+and the signiﬁcance of these systems are codiﬁed in schooling
+policies in ways that inﬂuence opportunities for academic
+and occupational attainment. Oakes (1992) notes the political
+dimension captures the ongoing struggle for individuals and
+groups to raise their own relative advantage in the distribution
+of school resources and opportunities through the development
+of policies that determine who receives ﬁscal and human
+resources that sustain quality eﬀective teaching and learning.
+Considering the political dimension of computer science
+education also involves tracking which teachers are permitted
+to teach secondary computer science education and relatedly,
+how computer science counts—if it counts toward graduation
+or college admissions, or as a course on a Career-Technical
+Education pathway, and for which students (Lang et al., 2013;
+Kaczmarczyk et al., 2014).
+Inclusive Pedagogy
+Yet, equity is not frequently at the core of professional learning
+programs for teachers in computer science. A recent study
+of computer science teachers noted that only 16% of teachers
+consider themselves very well-prepared to incorporate students’
+cultural backgrounds into computer science instruction (Gordon
+and Heck, 2019). Building the professional capacity of teachers
+is essential so that all students have teachers who are able to
+incorporate the essential ingredients of an engaging and inclusive
+pedagogy in computer science courses. Darling-Hammond
+(2008) has indicated that teacher quality and preparation is
+the most important school-level inﬂuence on student learning,
+and that highly qualiﬁed teachers in core subject areas were
+inequitably distributed amongst schools. Research on computer
+science teacher preparation has demonstrated the importance of
+building the conceptual knowledge, inquiry-based pedagogy, and
+equitable teaching practices of computing teachers for improving
+learning experiences for students (Margolis et al., 2014). Further,
+long-term professional development programs foster the growth
+of dynamic professional learning communities of teachers
+instructing the same course, allowing for shared knowledge
+and in-depth discussion of teaching strategies, student work,
+and assessment (Ryoo et al., 2015). Peer-coaching programs
+have shown to be eﬀective in its on-site model of professional
+support to novice computing teachers as they work toward
+Frontiers in Education | www.frontiersin.org
+5
+January 2020 | Volume 4 | Article 162
+Goode et al.
+Computer Science for Equity
+developing engaging and inclusive pedagogy for all students
+(Margolis et al., 2015).
+MATERIALS AND METHODS
+The mixed method study outlined in this paper focuses on
+how teachers, with the support of an in-service professional
+development program and a “for all” attentive curriculum,
+can inﬂuence and drive regional and statewide computer
+science reform.
+Research Questions
+This study probes the professional learning experiences of
+teachers as they begin teaching a high school introductory course
+in computer science, and how these teachers understand their
+own agency and capacity in bringing computer science to their
+speciﬁc schools and classrooms and to diverse groups of students.
+Speciﬁcally, we asked:
+1. How do teachers experience a residential computer science
+professional development program that infuses equity into the
+core teacher learning curriculum?
+2. How do teachers understand their own agency in
+inﬂuencing computer science education policies and enacting
+educational practices that broaden participation in computing?
+Participants
+To address these questions, we involved 29 teacher participants
+attending summer Exploring Computer Science professional
+development in the research study examining their knowledge
+and agency around improving access and equity in computer
+science education. About half of these teachers were ﬁrst-year
+Exploring Computer Science teachers who were preparing to
+teach the course for the ﬁrst time the following school year, the
+remainder of teachers were part of the ﬁrst cohort of teachers
+who were participating in the professional development for their
+second year after teaching the course for the ﬁrst time at their
+schools. All except for one of the teacher participants noted
+that they had approached their school administration to seek
+permission to teach Exploring Computer Science and participate
+in professional development as part of the “Computer Science for
+Oregon” initiative.
+Data Sources
+We collected 25 pre-professional development surveys and
+29 post-professional development surveys from participating
+teachers. Four of the teacher participants did not ﬁll out a pre-
+survey, but did complete the post-survey. There was no attrition
+of participants during the week of professional development.
+The reliability and validity of these survey instruments has
+been established with consistent and theoretically meaningful
+outcomes across multiple uses of these survey items with
+participants over the course of many years (Goode et al., 2014;
+Ryoo et al., 2015). Face validity has been strengthened through
+the central involvement of educational researchers and experts in
+computer science education further reviewing these survey items.
+To center the ﬁrst research question in this study about
+teacher’s professional learning experiences, we report only on the
+items that measured teachers’ growth and dispositions toward
+equity and inclusion that emerged through their participation
+in this professional learning workshop. To this end, we focus
+on a few individual survey items that query teachers’ conﬁdence
+and knowledge around equity and inclusion. Further, open-
+ended observations during the course of the week of professional
+development provided another source of data to triangulate
+research ﬁndings around teacher learning, teacher agency, and
+broadening participation in computing.
+Over the course of the prior school year and during summer
+professional development, we also collected a series of interview
+data with eight ﬁrst-year Exploring Computer Science teachers,
+both before and after they initially taught Exploring Computer
+Science. In all, the second-year Exploring Computer Science
+teachers noted they had taught 640 students in Exploring
+Computer Science during the 2018–19 school year. All but one of
+these teachers returned for a second year of Exploring Computer
+Science professional development. Our data collection focused
+on capturing teachers’ experiences, beliefs, and attitudes about
+increasing access to computer science instruction in high schools.
+These interviews were semi-structured and lasted for 30–60 min
+each. For second-year Exploring Computer Science teachers,
+we were particularly interested in teachers’ implementation of
+an equity-oriented course within the particular community and
+school context that teachers work in to capture the diversity of
+strategies, policies, and practices that these educators perceived
+to support all students in Oregon. We analyzed these interviews
+using thematic codes that emerged from examining the technical,
+political, normative, and pedagogical categories of teaching
+computer science in schools.
+Case Study Analysis
+To examine in detail the second research question that
+queries how teachers advocate for equity-based policies and
+enact equitable teaching practices to support computer science
+education at their schools, we compiled case studies of three of
+these educators. Case studies are used to present the school-site
+experiences of teachers as this method allows for “an empirical
+inquiry that investigates a contemporary phenomenon within its
+real-life context; when the boundaries between phenomenon and
+context are not clearly evident; and in which multiple sources of
+evidence are used” (Yin, 1984, p. 23). That is, school reform is
+inherently context-dependent, and understanding the interaction
+between structures, policies, and individual teacher and student
+experiences requires an examination of policies and practices as
+enacted in particular sociocultural communities. The data for the
+three case studies presented in this paper is drawn from multiple
+sources, including a series of interviews and surveys over the
+course of 13 months.
+In creating case studies, we focused on more in-depth
+examinations of individual teachers’ experiences, using data
+collected from three of the participants who had recently
+completed their ﬁrst year of teaching the Exploring Computer
+Science course with professional development support. All of
+these teachers were part of the ﬁrst cohort of “Computer
+Science for Oregon” teachers. These three teachers were
+selected as focal case studies based on their own personal
+Frontiers in Education | www.frontiersin.org
+6
+January 2020 | Volume 4 | Article 162
+Goode et al.
+Computer Science for Equity
+and professional backgrounds and the range of geography and
+student demographics in the communities in which they work.
+We also were purposeful in our sampling to highlight areas
+typically overlooked in computer science education scholarship.
+For instance, as rural schools are often underrepresented in
+education policy, we include two diﬀerent rural areas as
+cases to shed additional light on the particular needs and
+opportunities that might take place outside of urban and
+suburban schools.
+RESULTS
+Professional Learning Community Fosters
+Equitable Teaching Disposition
+Our investigation into the ﬁrst research question, how teachers
+experienced professional learning in Exploring Computer
+Science
+professional
+development,
+revealed
+that
+teachers
+found value in this space, speciﬁcally in terms of increasing
+their knowledge of content, pedagogical skills, and equitable
+approaches to recruiting and retaining diverse students in
+their introductory computer science classes. Overall, in our
+analysis of surveys, we found that teachers highly regarded
+the
+residential
+setting
+and
+community-focused
+approach
+to the professional development, with teachers noting that
+“collaborating with peers” was extremely valuable, and as one
+teacher stated, an “important activity for my learning during this
+week was time spent outside the classroom with other teachers,
+especially conversations with second-year Exploring Computer
+Science teachers.”
+In fact, though teacher isolation is often reported by
+the nation’s computer science teachers, after a week of
+residential professional development, 96% of teachers reported
+feeling connected to the computing education community in
+Oregon and the Exploring Computer Science teacher group.
+Further, this collegial approach to teacher learning deepened
+teachers’ own understandings of how equity, inquiry-based
+teaching methodologies, and computer science concepts can
+be interwoven. One teacher, in reporting about how she had
+previously struggled with the design of a lesson, reported that she
+had learned from a peer group of teachers about new strategies
+for the lesson that would support equity and student engagement,
+noting, “The method that this group used was really helpful to
+me. Actually, several lessons worked out that way this year. I got
+new perspectives and multiple ways to present lessons. I loved
+having the opportunity to work with my old cohort and the new.
+It was great energy and a fantastic group dynamic.”
+In describing their own learning and perspective around
+equity that emerged during the professional development
+workshop, teachers suggested that they already had varying
+degrees of familiarity with the equity issues in computer science,
+they grew in their thinking and skills. Upon reﬂection, teachers
+noted the following technical, normative, and pedagogical ways
+that their understandings of equity shifted as a result of
+participating in this professional development. None of the
+teachers addressed political dimensions in their comments
+about their growth in thinking about computing and equity,
+instead, they focused on technical, normative, and pedagogical
+considerations when talking about their growth. They noted:
+Technical Dimensions Such as Course Availability
+• Equity in computer science is a huge issue, especially at the
+college and professional level. I now have a more holistic view
+of the barriers preventing certain groups from entering the ﬁeld
+and staying in the ﬁeld. Exploring Computer Science is the class
+that opens the door for a lot of students that would previously
+be shut out. We need more comprehensive representation in
+computer science if the solutions for today’s problems are
+going to be solved in a way that helps everyone and doesn’t
+unintentionally exclude others.
+• Creating supports to allow anyone to experience computer
+science as a potential pathway.
+• Computer science at least as an introductory class must be
+taught to all students.
+Normative Dimension Such as Misperceptions and
+Bias
+• I believe teachers have to be more active and promote this class
+as one for ALL students. Many students will miss out if they feel
+they are not qualiﬁed. Too many opportunities are missed by
+students to take computer science due to a misunderstanding of
+the curriculum and preconceived racial/gender biases.
+• I feel more strongly than ever that computer science needs to
+change and become more diverse. This professional development
+reinforces my commitment.
+Pedagogical Dimension
+• This training provided some great insight on improving my
+practice with equity and inquiry.
+• I now know that it is possible to create a curriculum that is
+taught through exposing kids to culture.
+• I have a better understanding of what equity looks like as far as
+classroom instruction and student participation
+• It is something that needs to be monitored and thought about
+each lesson.
+Importantly, several teachers noted that while their perspectives
+haven’t shifted because “they were already there” in terms of
+their consideration of equity, a few noted that they came up with
+“new ways to buck the trend” and collected new tools to back
+up their equity thinking and practices. One teacher, as part of
+the ﬁrst cohort who was experiencing their second summer in
+Exploring Computer Science professional development, reﬂected
+that the ﬁrst professional development had the most impact,
+stating, “Not much change in thinking this year, but I had a huge
+shift in perspective last year.” Yet, most second-year teachers
+reported how their knowledge and agency around addressing
+equity issues in their own professional practice had deepened,
+including their repertoire of inclusive recruitment strategies and
+pedagogical practices.
+Descriptive quantitative measures also demonstrate overall
+increases in how participating teachers reported their own
+conﬁdence
+in
+their
+pedagogical
+knowledge,
+curricular
+knowledge, and equitable practices for teaching the course
+as a result of participating in Exploring Computer Science
+Frontiers in Education | www.frontiersin.org
+7
+January 2020 | Volume 4 | Article 162
+Goode et al.
+Computer Science for Equity
+TABLE 1 | Teachers’ conﬁdence as reported in pre- and post-professional
+development surveys.
+Conﬁdence
+Using
+inquiry-
+based
+strategies
+Teaching
+computer
+science
+concepts
+Using equitable
+practices to
+support student
+learning
+Pre-professional
+development conﬁdent
+or very conﬁdent
+79%
+55%
+66%
+Post-professional
+development conﬁdent
+or very conﬁdent
+90%
+76%
+79%
+professional
+development.
+Table 1
+compares
+the
+rates
+of participants who noted they felt “conﬁdent” or “very
+conﬁdent” in using inquiry-based teaching strategies, teaching
+computing concepts, and using equitable practices to support
+student learning. As Table 1 demonstrates, post-professional
+development reports showed dramatically higher rates of
+conﬁdence across these three focal areas. Of course, these results
+might be expected after an intensive learning experience, though
+when interpreted alongside observations and interview data,
+these survey results reinforce that teachers reported growth in all
+three areas of focus, including equity.
+Case Studies
+To study the second research question about teacher agency and
+enactment of equitable policies and practices, we oﬀer three cases
+studies of teachers situated in their own school contexts. In each
+of these cases, we detail how teachers understand their own
+agency in inﬂuencing computer science education policies and
+inclusive educational practices that impact their own classrooms,
+especially in terms of broadening participation in computing.
+Riverway High School
+Carol has been a teacher at Riverway for 10 years. She
+holds endorsements in science, general science, biology and
+intermediate mathematics. Last year, she taught one section
+of Exploring Computer Science, three sections of science, and
+one section of a college-preparatory advising course, AVID.
+Riverway, a high school of under a thousand students, is the
+most diverse school in the state of Oregon, and an AVID Site of
+Distinction. Carol explains that most of the students at Riverway
+“are coming from poverty, they would be ﬁrst-generation post-
+secondary students, especially graduating from post-secondary,
+most parents have low levels of education.” Sixty-nine percent
+of the school’s students are from minoritized groups, 45 percent
+are students of color. Many students are recent immigrants or
+are children of immigrants. The student body represents over
+one hundred nationalities, whose ﬂags are proudly on display in
+the school cafeteria. The school supports a signiﬁcant number
+of English Language Learners. Carol describes her teaching style
+as student-centered. To her it is more important to focus on
+how she will teach, rather than what she will teach. She focuses
+on high engagement best practices, collaboration, hands-on,
+movement, games—loading “creative fun.” She spends a lot of
+time establishing relationships with students.
+Carol is a steadfast advocate for the students at Riverview,
+especially urging the need and importance of introductory
+computer science courses. She explains: “... as a teacher in a
+diverse school, I have this [...] understanding of the opportunities
+for the careers that are available for kids. And right now, the
+computer industry is expanding at a rate that is unbelievable.
+And there are jobs, really good, high paying jobs ...if they can
+build the skills in order to attain them.” She further states, “I want
+people to know that they [the students at Riverview] are all really
+excited about learning and they are all really excited about their
+future. ... so, our kids, they have dreams and they have goals,
+and they want to get there, they just, a lot of them, they don’t
+have that knowledge, and their family know how.” She adds, “we
+need to make sure that we are providing real opportunities to
+learn computer science, especially in underfunded schools and
+[...] our kids are ready and they are worth it and they deserve
+the opportunity.” Carol devotes a great deal of her time to
+encouraging and supporting individual students, ensuring that
+they succeed in her Exploring Computer Science class.
+In the 2018–19 academic year, Riverway introduced Exploring
+Computer Science as an alternative to a required physical
+science course. The course fulﬁlled a science requirement
+option for freshman. This came as a mandate from the school
+district’s upper administration. As the school’s Science faculty
+was not given an opportunity to weigh in, the rollout of
+Exploring Computer Science as a physical science alternative
+was contentious. Because it fulﬁlled a school requirement,
+three sections of the course were oﬀered. It saw participation
+from demographics closely resembling that of the school.
+Carol reports that the equity-focused pedagogical strategies for
+teaching computer science she was introduced to during the
+Exploring Computer Science professional development kept
+students highly engaged and they enjoyed the class. She was
+able to see that with an appropriate curriculum and intentional
+pedagogy all students could be successful in an introductory
+computer science course.
+Despite having a high level of student engagement and
+being a good ﬁt for the high school district’s commitment to
+equity, Exploring Computer Science has been reclassiﬁed as one
+option for receiving science credit, though not required, for
+the following academic year. Carol reports that due to it being
+an elective, the class was poorly advertised and drew smaller
+enrollment numbers. Although the school saw an increase in
+Advanced Placement computer science enrollment, which Carol
+attributes to a successful launch of Exploring Computer Science,
+the course oﬀerings have been reduced to two smaller sections,
+diminishing the “for all” momentum built during the prior year.
+Riverway is an example of political barriers to implementing
+“Computer Science for All.” Even though the school district’s
+administration embraced the “for all” tenet for computer science
+education, there was a lack of buy-in from the science department
+faculty, who were impacted by the top-down mandate to count
+Exploring Computer Science as a science credit alternative. As
+identiﬁed in Priestley et al. (2012), this teacher’s eﬀorts were
+constrained by the “temporal, material, and social context”
+Frontiers in Education | www.frontiersin.org
+8
+January 2020 | Volume 4 | Article 162
+Goode et al.
+Computer Science for Equity
+created by administrative decisions. When teachers are not
+empowered to collaborate on situating computer science in
+a school, the sustainability of well-meaning eﬀorts and hard-
+earned successes are jeopardized.
+Villa High School
+Maye has been teaching computer science for over a decade.
+She immigrated to the United States from the Middle East,
+where she had earned a Master’s degree in computer science.
+After immigrating, she considered working in the technology
+industry, but decided to instead focus on raising her children.
+She entered the teaching profession once her children were older
+and began her career as a Math teacher. Villa High School,
+where Maye teaches, is located in a town of 55,000 residents.
+The school serves about 2,300 students: 30% Latinx, 1% Black,
+60% qualify for free and reduced lunch, and many students are
+English Learners. Maye took over computer science classes at
+Villa from another teacher and immediately fell in love. The
+classes which she inherited exclusively focused on programming
+and game development.
+Maye quickly noticed that the students who enrolled in her
+computer science classes were mostly white boys. She decided
+to focus on shifting the demographics. To this end, she started
+introducing computer science to middle school students during
+Villa’s Summer STEM camps, intended to introduce students
+to high school oﬀerings. She targeted a camp that focused on
+girls and another that focused on children of migrant workers.
+Maye developed a 1-day computer science introduction which
+she states was meant to address misconceptions about the subject
+being just game programming. She also searched out and adapted
+an introduction to computer science curriculum. She chose
+Exploring Computer Science because of its equity and inclusive
+pedagogy focus. She saw a shift in demographics of students
+taking the introduction to computer science course but there was
+also high attrition. She is currently working on a multiple-day
+introduction that will do 1 day of art, 1 day of storytelling and
+animation, and 2 days of programming games. Maye is passionate
+about the need to oﬀer computer science to all students. She
+states: “because it’s problem-solving skills, it’s literacy, it’s reading
+and writing and attention to detail [...] computer science is not
+just programming, it is in every aspect of life.”
+Over the past several years Maye has developed a computer
+science Career-Technical Education pathway at Villa which
+covers introduction to computer science (Exploring Computer
+Science), programming in Visual Basic, advanced programming
+in C++, dual-enrollment computer programming courses
+(students are able to earn high school and Community College
+credit at the same time), and Advanced Placement Computer
+Science Principles. Maye reports that students can take computer
+science even if they are not in the pathway, but most don’t. The
+computer science classes count toward the school’s certiﬁcate of
+Career-Technical Education pathway completion or can count
+as electives. Maye is deeply involved in the leadership of state’s
+Computer Science Teachers Association. She works tirelessly on
+changing the misconception about computer science. She feels
+that many students don’t really understand what they are going to
+learn when they sign up for the introduction to computer science
+class. They think they will just be making video games. They
+are surprised that there is math, problem-solving, collaboration,
+writing, doing things with pen and paper and not necessarily on a
+computer. She has been speaking with other teachers, counselors
+and administrators to address their misconceptions about the
+course so that they are able to prepare students for what they will
+be experiencing in the class.
+Maye strongly believes that all students can succeed in a
+computer science course if they have a clear understanding
+of the nature of the course and are well-supported. However,
+she is the only teacher at Villa who teaches computer science.
+Students who are considering the computer science Career-
+Technical Education are choosing between ﬁfteen Career-
+Technical Education pathway oﬀerings. Although Maye supports
+the computer science for all eﬀort, at Villa, only a small number
+of students have the opportunity to take computer science. This
+is an example of the technical and normative dimension of
+computer science education. As pointed to in Lasky (2005), here,
+teacher agency is constrained by structural policies of the school.
+Because at Villa computer science is relegated to a career track,
+it is predominantly available to students who either self-select
+the track or are recruited based on beliefs about who can and
+should do computer science. Rather than providing computer
+science education for all, Villa remains a school that maintains
+the normative view that computer science is for some.
+Cornerstone High School
+Luis began his teaching career in Mexico City, Mexico. He came
+to teach by invitation from a friend. He was studying for a
+bachelor’s degree in architecture, when a friend who was teaching
+at a private school in Mexico City asked if he would like to teach.
+Luis replied that he didn’t have any teaching experience, but
+the friend told him that the school would support him, and he
+started teaching in a middle school. His ﬁrst class was computers.
+He later graduated with a bachelor’s degree in Architectural
+Engineering and a minor in teaching. In the US, his degree from
+Mexico transferred and he has been teaching math and science.
+In Mexico, before coming to the US, he was teaching at a high
+school. He taught in the occupational track, classes focused on
+architectural engineering and construction. He also taught art
+classes at the university. During the 2018–19 academic year, Luis
+and another teacher at Cornerstone each taught a section of
+Exploring Computer Science for the ﬁrst time. The course will be
+oﬀered again next year and both teachers are excited to continue
+teaching computer science at the school.
+Cornerstone High School, where Luis teaches Math, Science,
+AVID and Exploring Computer Science, is a Spanish-English
+bilingual public charter school. It is located in a rural town,
+with about 11,000 residents. The school has a history with the
+local Latinx community and has a large population of Latinx
+students. It is a K-12 school and most students have been at
+the school from an early age. Luis reports that the students at this
+school have been working at becoming bilingual since elementary
+school. “Part of the motivation of our principal is to create a
+culture ... a bilingual culture.” There are 64 students in the high
+school. According to Luis, it is important for students to learn
+computer science because it is everywhere. In his case, he thinks
+Frontiers in Education | www.frontiersin.org
+9
+January 2020 | Volume 4 | Article 162
+Goode et al.
+Computer Science for Equity
+that learning computer science opened doors for him and has
+helped him not only in his career but also in his daily life. Luis sees
+it as a subject that can open doors for students as it did for him.
+He states, “[i]f we are trying to help our students to overcome
+from that economic situation that they are living with, it could
+open some doors for them ... they could be ready for college.”
+Additionally, he is aware that there are people out there who
+would enjoy knowing the behind the scenes of computers, how
+they work, who would not normally have the opportunity to, and
+“since that’s what our school is all about ... we got a lot of girls,
+high Latinx population, and these are traditionally underserved
+in the computer industry, why not introduce them and see if this
+is a thing they would love.”
+Cornerstone is an example of a sustainable computer science
+for all approach. Both Luis and his colleague individually
+approached the school principal and advocated for the need to
+have an introductory computer science course at the school.
+His colleague had previously done Hour of Code activities at
+the high school but they both believed that they needed a
+more sustained course. Luis also felt that the school needed an
+engaging and supportive introductory course. Their principal
+contacted the Oregon Department of Education about available
+curriculum and was told about the Exploring Computer
+Science Professional Development program, which focused on
+supporting Oregon teachers. Luis and the colleague attended the
+professional development and report that the equity and inclusive
+strategies they learned helped them provide an introductory
+experience that resulted in a high level of engagement
+and success.
+The Exploring Computer Science class at Cornerstone is
+required for all students. Even though some students struggled
+or took some time to get engaged, Luis reports that they had to
+keep trying, and were incentivized to complete assignments in
+order to earn credit and fulﬁll the requirement. Because there is
+buy-in about “Computer Science for All” from administration
+and teachers, both Exploring Computer Science teachers at
+Cornerstone could focus on using inclusive pedagogy strategies
+to support their students and shift the normative beliefs of who
+can do computer science. In this case, teacher agency is best
+contextualized as in Biesta and Tedder (2007), an alignment
+between teachers’ intentions/actions, school environment, and
+administration. The momentum at the school is strong enough
+that Luis’s colleague has started looking into adding Advanced
+Placement Computer Science Principles course as the follow-up
+course to Exploring Computer Science.
+DISCUSSION
+These case studies elucidate the key problems of practice and
+opportunities for critical hope that teachers hold as they teach
+“Computer Science for All.” Though their contexts vary in terms
+of geography, identity, and student demographics, these teachers
+collectively shed light on the lived practices of democratizing
+computer science education. With the curricular, pedagogical,
+and policy support of the “Computer Science for Oregon”
+initiative, the teacher professional learning results, alongside the
+TABLE 2 | Developing equity-focused practices for computer science school
+reform.
+Dimensions of
+school reform
+for equity
+Supportive policies and practices that supports equity
+and teacher agency in statewide computer science
+Technical
+• Adoption
+of
+introductory
+computer
+science
+course
+incorporated into school schedule
+• A common curriculum supports teacher collaboration and
+can assess inclusive student learning
+• Culturally responsive curricular material supports student
+learning, especially for historically underrepresented groups
+• Course coded to be available to students across
+academic “tracks”
+Pedagogical
+• Professional development that supports inquiry- and
+equity-oriented instruction
+• Collaboration with other teachers teaching the same course
+at the same school
+• Collaboration with other teachers outside of school,
+including other “Computer Science for All” teachers,
+educators part of Computer Science Teachers Association
+state network
+Political
+• Computer science courses counts toward a graduation
+requirement
+• Teacher support for offering introductory and inclusive
+computer science courses
+• School-level counselor and teacher faculty support from
+other disciplines/programs
+• Top-down
+support
+from
+school
+leadership,
+including
+principals
+• Top-down support from school district leadership,
+including superintendents and school boards
+Normative
+• Educator beliefs about suitability of computer science
+course for all students
+• Opportunity to study computer science designed to be
+available and equitable for all students as part of general
+education track
+• Sufﬁcient number of teachers assigned by school to
+support computer science courses for all students at
+high school
+case studies, detail the multiple factors that must be considered
+and attended to in eﬀorts to democratize computer science.
+Drawing from these ﬁndings and connecting the narratives
+of teachers with the theoretical framework on equity-oriented
+school reform, we have compiled the following set of practices
+that support a social justice approach to broadening participation
+in secondary computer science (Table 2). To supplement and
+apply a racially- and gender-conscious approach to broadening
+participation in computing, we categorize these ﬁndings in
+terms of the technical, normative, political, and pedagogical
+dimensions that have been found to support computer science
+for all students.
+The descriptions of teacher agency, in terms of possibilities
+and constraints, also indicate that policy and teacher education
+eﬀorts, when connected in meaningful ways, can help sustain
+the availability of computer science courses and necessary
+educational resources. With an equity-focused professional
+development program, we witnessed how teachers can enact
+agency within their particular educational environment to
+inﬂuence regional and statewide reform eﬀorts to broaden
+Frontiers in Education | www.frontiersin.org
+10
+January 2020 | Volume 4 | Article 162
+Goode et al.
+Computer Science for Equity
+participation in computing education. The results from this study
+also highlight that equity must remain at the core of state-wide
+reform eﬀort, or else eﬀorts will likely raise opportunities for the
+same overrepresented groups.
+The interplay between structures and individual beliefs also
+suggest that to ensure that computer science education will
+take hold, and be sustainable, for all students, schools must
+simultaneously attend to the technical, pedagogical, political,
+and normative dimensions of “Computer Science for All”
+eﬀorts. While professional development sessions and statewide
+initiatives can support the introduction of inclusive and
+evidence-based curriculum and support professional learning for
+teachers, attending to the political climate and normative notions
+of who belongs in computer science is a key strategy for nurturing
+school-level buy-in for computer science being placed in the
+core curriculum. These ﬁndings underscore that before scaling
+statewide reform eﬀorts in computing, we must attend to the
+policies, practices, and belief systems in schools to ensure reform
+eﬀorts do not just increase the numbers of students enrolling
+in computing classes, but actually broaden the engagement and
+participation rates of historically minoritized students.
+Finally, we cannot overstate the importance of teachers as
+social change agents in expanding normative notions about
+who belongs in computer science classes in twenty-ﬁrst century
+high schools. Overwhelmingly, the case studies showcase the
+tremendous advocacy eﬀorts of computer science teachers in
+serving as change agents diversifying and democratizing Oregon
+high school computer science education. The teachers in this
+study exempliﬁed how broadening participation in computing
+requires a committed network of educators who enact social
+justice principles both within their schools and classrooms, and
+as part of the large computer science teacher community.
+CONCLUSION
+The research presented in this paper documents how a
+statewide initiative aiming to provide more equitable access
+and participation in high school computer science courses
+supported teacher learning and was generative for school-level
+reform. Though the professional learning for teachers showed
+a positive impact in preparing teachers to teach computer
+science and address local policy with equity principles, we
+discovered key barriers and opportunities at school, district,
+regional, and state levels impeded and propelled initial eﬀorts
+for enacting teacher agency at reaching “Computer Science for
+All” in schools. Still, incremental progress has increased learning
+opportunities for hundreds of Oregon students. The knowledge
+gained from this study of state computer science implementation
+can inform the eﬀorts of other states seeking to identify whole-
+school support strategies to broaden participation in high
+school computing.
+DATA AVAILABILITY STATEMENT
+The datasets generated for this study will not be made publicly
+available due to conﬁdentiality concerns for participants.
+ETHICS STATEMENT
+This study involved human participants was reviewed and
+approved by the University of Oregon Research Compliance
+Services. The participants provided informed consent to
+participate in this study.
+AUTHOR CONTRIBUTIONS
+JG and MS led eﬀorts in data collection and analysis. JHu and
+JHo contributed to the program design and implementation. All
+authors were involved in the writing of this paper.
+FUNDING
+This material was based upon work supported by the National
+Science Foundation under Grant No. CNS-1738883. Any
+opinions,
+ﬁndings,
+and
+conclusions
+or
+recommendations
+expressed in this material are those of the authors and do not
+necessarily reﬂect the views of the National Science Foundation.
